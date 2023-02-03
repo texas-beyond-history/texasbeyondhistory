@@ -1,0 +1,61 @@
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 34px}
+
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold; text-align: center; color: #FFFFFF; vertical-align: middle}
+
+h2 a:link { text-decoration: none}
+h2 a:active { text-decoration: underline}
+h2 a:visited { text-decoration: none}
+h2 a:hover { text-decoration: underline}
+
+.ask {background-color: #CC3300}
+.fun {background-color: #009900}
+.mystery {background-color: #0033CC}
+.facts {background-color: #FF6600}
+.words {background-color: #FFCC00}
+.links {background-color: #9900CC}
+
+h3 {  font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; margin-right: 5px; margin-left: 5px}
+h3 a:link { color: #CC3300}
+h3 a:active { color: #CC3300}
+h3 a:visited { color: #993300}
+h3 a:hover { color: #CC3300}
+
+h4 { font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold; color: #993300; text-align: center; background-color: #FFCC99 }
+
+.caption {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: italic; color: #993300; text-align: center}
+
+p {  margin-right: 5px; margin-left: 5px}
+
+.text {  font-family: Arial, Helvetica, sans-serif; font-size: 20px}
+
+a.text:link { font-size: 20px; font-weight: bold; color: #CC3300}
+a.text:active {font-size: 20px; font-weight: bold; color: #CC3300}
+a.text:visited {font-size: 20px; font-weight: bold;  color: #993300}
+a.text:hover {font-size: 20px ;font-weight: bold; color: #993300}
+
+.foot { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #993300 }
+
+a.foot:link { color: #CC3300; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: none }
+a.foot:active {color: #CC3300; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: underline}
+a.foot:visited {color: #CC3300; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: none}
+a.foot:hover {color: #CC3300; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: underline}
+
+.red {  color: #CC3300}
+.q {  font-family: Arial, Helvetica, sans-serif; font-size: 34px; color: #FFFFFF; background-color: #009900; text-align: center; font-weight: bold}
+.green {  color: #009900}
+.a {  font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: bold; color: #FFFFFF; background-color: #9900CC; text-align: center}
+.purple {  color: #9900CC}
+.thumbimg {  border: 2px #CC3300 solid; margin:5px }
+hr {  color: #CC3300; width: 780px}
+.blue {  color: #0066CC}
+.orange {  color: #FF9900}
+.brown {  color: #993300}
+
+.margintext {  font-family: Arial, Helvetica, sans-serif; padding:10px; font-size: 20px; color: #CC3300; background-color: #FFCC99; border: 4px #cc3300 double}
+
+a.margintext:link {color: #CC3300; border: none; text-decoration: none }
+a.margintext:active { color: #CC3300; border: none; text-decoration: underline }
+a.margintext:visited { color: #993300; border: none; text-decoration: none }
+a.margintext:hover { color: #993300; border: none; text-decoration: underline }
+
+

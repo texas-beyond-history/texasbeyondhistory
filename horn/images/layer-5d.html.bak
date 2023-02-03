@@ -1,0 +1,125 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>Horn: Stratum 5</title>
+<script type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css"> 
+<!--
+.style4 {color: #FF0000}
+-->
+</style>
+<style type="text/css"> 
+<!--
+.style7 {font-family: Arial, Helvetica, sans-serif}
+-->
+</style>
+<style type="text/css"> 
+<!--
+.style8 {color: #993300}
+-->
+</style>
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg','camera-button-ro-sm.jpg')">
+<table width="780" border="0">
+  <tr>
+  <td width="200" valign="top"><table width="210" border="0">
+          <tr valign="bottom">
+            <td width="204" height="254" valign="top"
+			><a href="layers-strat5d-redder-297.html" target="_blank"><img src="layers-strat5d-redder-297-sm.jpg" width="200" height="286" border="0" class="thumbimg"></a>
+            <div class="caption">Chipped-stone tools and animal bone from Sub-Stratum 5D, a Paleoindian occupation. Enlarge to see additional specimens. Photo By Albert Redder. <a href="layers-strat5d-redder-297.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="camera-button-sm.jpg" name="Image36" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="381"><a href="layers-strat5d-redder-298.html" target="_blank"><img src="layers-strat5d-redder-298-sm.jpg" width="200" height="254" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Worked bone and other artifacts. Top: red ocher; middle: cut bone fragments; bottom: bone fragments and bone needles; yellow ocher. </em> <a href="layers-strat5d-redder-298.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  </td>
+    <td width="480" valign="top"><h3>Sub-Stratum 5D: Lower  member&mdash;ash lens drag down</h3>
+      
+      <p>Separated from 5C with approximately 6  inches of clean deposit, Sub-Stratum 5D marks the division between the upper and lower cave  deposits. It was also capped with a red clay layer, but  differs from 5B and 5C in  its extent and amount of occupational debris. The occupation stratum is dark  and results from a short but intense period of living.&nbsp; It is up to 5 inches thick in a few places,  but is mostly 2 inches or less. </p>
+      <p>Almost all of the sediment from this stratum has been washed  on a window screen.&nbsp; A variety of  material was recovered including flint scrapers, gravers, a large bifacial knife, worked  bone fragments, several fragments of bone needles, and pieces of modified ocher. Animal remains  include bison, deer, and an enormous number of small animal bones, including  rabbit, mice, rats, turtle, fish, snakes, birds, and others. Many of these were  charred.</p>
+      <p>Fire hearths in this level were typical of hearths  throughout the Paleoindian period represented at Horn Shelter.&nbsp; A fire was built directly upon the surface with no rock lining, resulting in lenses of ash from &frac14; to 3 inches thick. One  interesting aspect about these hearths was a kind of drag-out area to one  side.&nbsp; This varied in size and thickness.  This would invariably be full of mixed ashes and charcoal flecks, along with  animal bones, all mixed together with the cave deposit. It would seem that  something was being dragged out of the fire, creating the accumulation of  debris. The ash and debris areas were always washed separately from other  material.</p>
+      <p>Although this layer has produced much in the way of  cultural debris, no dart points or fragments were found. However, remains of now-extinct bison were recovered. Based on  that finding, as well as diagnostic indicators recovered from strata below and above it, Sub-Stratum 5D is  Paleoindian in age. Below it (in Sub-Stratum 5a), two Folsom bases and a Suwannee-like point were found; two layers above, Brazos Fishtails (ie., San Patrice) were recovered. Technological analysis of the tools from Stratum 5D may  help provide a cultural identitiy for this early deposit. </p></td>
+    <td width="200" valign="top"><table width="210" border="0">
+          <tr valign="bottom">
+            <td width="204" height="299"
+			><a href="layers-strat5d-redder-869.html" target="_blank"><img src="layers-strat5d-redder-869-sm.jpg" width="200" height="273" border="0" class="thumbimg"></a>
+            <div class="caption"><em>Close-up of large bison rib head. Photo by Albert Redder. </em><a href="layers-strat5d-redder-869.html" target="_blank" onMouseOver="MM_swapImage('Image36','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="camera-button-sm.jpg" name="Image36" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+	<table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="432"><a href="layers-strat5d-redder-828.html" target="_blank"><img src="layers-strat5d-redder-828-sm.jpg" width="200" height="256" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Bone and chert. Top: chert flakes; deer-sized bone, some burned; </em> bottom: bird bones; rabbit teeth. Enlarge to see more specimens. Photo by Albert Redder. <a href="layers-strat5d-redder-828.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+	</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+ 
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><a href=""><img src="../../images/close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+ 
+<script language="javascript"> 
+ 
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+ 
+ 
+<script language="javascript" type="text/javascript"> 
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+

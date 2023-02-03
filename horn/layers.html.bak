@@ -1,0 +1,179 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/horn.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Horn Shelter</title>
+<style type="text/css">
+<!--
+#Layer1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 6px;
+	top: 258px;
+}
+
+-->
+</style>
+<style type="text/css">
+<!--
+.style1 {color: #F0F0F0}
+-->
+</style>
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+-->
+</style>
+<style type="text/css">
+<!--
+.style3 {color: #660099}
+-->
+</style>
+<style type="text/css">
+<!--
+.style4 {color: #CC3300}
+-->
+</style>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body>
+<div id="wrapper">
+  <div id="wordmark"> <a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a> </div>
+  <h6 id="tbh">Texas Beyond History</h6>
+  <div id="tbhnav"> <a href="../index.html">TBH Home</a>
+    <form action="/search.html" method="get" name="search" id="search">
+      <div>
+        <label for="searchbox">
+        <input type="text" size="13" name="words" value="Search" id="searchbox">
+        </label>
+      </div>
+      <div>
+        <label for="searchbut">
+        <input type="submit" value="Go" name="submit" id="searchbut">
+        </label>
+      </div>
+      <div>
+        <input type="hidden" name="config" value="tbh">
+      </div>
+      <div>
+        <input type="hidden" name="restrict" value="">
+      </div>
+      <div>
+        <input type="hidden" name="exclude" value="">
+      </div>
+    </form>
+  </div>
+  <div id="nav">
+    <div id="tt">
+      <h1>Horn Shelter </h1>
+    </div>
+    <h2> <a href="index.html">Horn Shelter Main</a> <a href="investigations.html">Investigations</a> <a href="layers.html">Reading the Layers </a> <a href="manufacturing.html">Archaic Fishhook Manufacturing</a><br> <a href="burials.html">A Paleoindian Grave</a> <a href="world.html">Horn Shelter and Beyond</a> <a href="credits.html">Credits & Sources</a></h2>
+  </div>
+  <div id="content"><!-- #BeginEditable "body" -->
+  
+  <h2>Reading the Layers</h2> <div class="caption">
+    <div align="right" class="style2 style3 style4"><strong> Click on the profile layers or buttons to explore any topic or  stratum </strong></div>
+  </div>
+  
+<table width="800" border="0">
+  <tr>
+    <td><span class="style1"></span>
+	
+	
+	<table width="800" border="0">
+  <tr>
+    <td align="right" valign="top"><div align="center"><img src="images/layers-bottom-buttons.jpg" border="0" usemap="#Map3Map"><br>
+        
+      <map name="Map3Map">
+        <area shape="rect" coords="466,6,663,43" href="images/layers-radio-carbon.html" target="_blank">
+        <area shape="rect" coords="196,7,459,43" href="images/layers-artifacts-features.html" target="_blank">
+        <area shape="rect" coords="10,6,188,44" href="images/layers-overview.html" target="_blank">
+      </map>
+      <br>
+      <img src="images/layers-main-profile.jpg" width="700" height="353" border="0" usemap="#Map">
+      
+      <map name="Map">
+        <area shape="rect" coords="415,476,478,498" href="images/layer-1.html" target="_parent" alt="Open stratum 1 details">
+            <area shape="poly" coords="155,76,101,63,104,55,155,69" href="images/layer-9.html" target="_blank" alt="Open stratum 9 details">
+            <area shape="rect" coords="411,358,473,379" href="images/layer-3.html" target="_blank" alt="Open stratum 3 details">
+            <area shape="rect" coords="582,228,640,254" href="images/layer-7.html" target="_blank" alt="Open stratum 7 details">
+            <area shape="poly" coords="157,335" href="#">
+        <area shape="rect" coords="418,137,480,155" href="images/layer-8.html" target="_blank" alt="Open stratum 8 details">
+            <area shape="poly" coords="95,110,98,66,117,70,143,78,207,90,204,101,250,121,247,142" href="images/layer-8.html" target="_blank" alt="Open stratum 8 details">
+            <area shape="rect" coords="21,122,84,138" href="images/layer-8.html" target="_blank" alt="Open stratum 8 details">
+            <area shape="rect" coords="576,369,635,388" href="images/layer-2.html" target="_blank" alt="Open stratum 2 details">
+        <area shape="poly" coords="163,180,171,169,208,182,255,203,289,217,314,219,330,223,352,232,352,239,349,245,328,244,312,245,291,244,247,229,213,218" href="images/layer-5.html" target="_blank" alt="Open stratum 5 details">
+            <area shape="poly" coords="585,85,583,98,639,109,689,113,689,95" href="images/layer-12-13-14.html" target="_blank" alt="">
+            <area shape="poly" coords="148,203,163,192,199,234,182,247" href="images/layer-4.html" target="_blank" alt="Open stratum 4 details">
+            <area shape="rect" coords="436,157,496,175" href="images/layer-6.html" target="_blank" alt="Open stratum 6 details">
+            <area shape="poly" coords="583,85,518,88,482,75,482,63,588,61" href="images/layer-12-13-14.html" target="_blank" alt="Open strata 12, 13 &amp; 14 details">
+            <area shape="rect" coords="329,93,435,110" href="images/layer-10.html">
+            <area shape="poly" coords="443,177,415,204,368,215,376,239,406,247,433,253,474,221,498,199,500,185" href="images/layer-5.html" target="_blank" alt="Open strata 5 details">
+            <area shape="poly" coords="494,98,566,99,567,115,494,113" href="images/layer-11.html" target="_blank" alt="Open stratum 11 details">
+            <area shape="rect" coords="426,414,491,433" href="images/layer-1.html" target="_blank" alt="Open stratum 1 details">
+      <area shape="rect" coords="413,269,477,288" href="images/layer-3.html" target="_blank" alt="Open stratum 3 details">
+      <area shape="rect" coords="574,279,641,300" href="images/layer-2.html" target="_blank" alt="Open stratum 2 details">
+      <area shape="rect" coords="415,323,480,343" href="images/layer-1.html" target="_blank" alt="Open stratum 1 details">
+      </map>
+    </div></td>
+    <td valign="bottom">
+      <img src="images/layers-column.jpg" width="100" height="383" border="0" usemap="#Map2">
+<map name="Map2">
+  <area shape="rect" coords="1,483,98,508" href="images/layer-1.html" target="_blank" alt="Open stratum 1 details">
+<area shape="rect" coords="2,451,100,475" href="images/layer-2.html" target="_blank" alt="Open stratum 2 details">
+<area shape="rect" coords="2,420,100,443" href="images/layer-3.html" target="_blank" alt="Open stratum 3 details">
+<area shape="rect" coords="2,387,118,411" href="images/layer-4.html" target="_blank" alt="Open stratum 4 details">
+<area shape="rect" coords="2,356,102,380" href="images/layer-1.html" target="_blank" alt="Open stratum 1 details">
+<area shape="rect" coords="1,324,117,347" href="images/layer-2.html" target="_blank" alt="Open stratum 2 details">
+<area shape="rect" coords="2,261,103,284" href="images/layer-4.html" target="_blank" alt="Open stratum 4 details">
+<area shape="rect" coords="4,291,97,315" href="images/layer-3.html" target="_blank" alt="Open stratum 3 details">
+<area shape="rect" coords="4,229,96,251" href="images/layer-5.html" target="_blank" alt="Open stratum 5 details">
+<area shape="rect" coords="1,163,98,187" href="images/layer-7.html" target="_blank" alt="Open stratum 7 details">
+<area shape="rect" coords="4,196,100,219" href="images/layer-6.html" target="_blank" alt="Open stratum 6 details">
+<area shape="rect" coords="1,128,99,157" href="images/layer-8.html" target="_blank" alt="Open stratum 8 details">
+<area shape="rect" coords="2,97,104,124" href="images/layer-9.html" target="_blank" alt="Open stratum 9 details">
+<area shape="rect" coords="2,67,98,91" href="images/layer-10.html" target="_blank" alt="Open stratum 10 details">
+<area shape="rect" coords="1,34,102,59" href="images/layer-11.html" target="_blank" alt="Open stratum 11 details">
+<area shape="rect" coords="2,3,103,27" href="images/layer-12-13-14.html" target="_blank" alt="Open strata 12, 13 &amp; 14 details">
+</map></td>
+  </tr>
+  <tr align="right" valign="top">
+    <td height="2" colspan="2"><map name="Map3">
+  <area shape="rect" coords="522,-440,640,-406" href="images/layers-overview.html" target="_blank">
+</map></td>
+  </tr>
+</table>
+<table width="800" border="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>	</td>
+  </tr>
+</table>
+  
+   <!-- #EndEditable --></div>
+  <div id="foot">
+    <p class="links"><a href="index.html">Horn Shelter Main</a> <a href="investigations.html">Investigations</a> <a href="layers.html">Reading the Layers </a> <a href="manufacturing.html">Archaic Fishhook Manufacturing</a> <br><a href="burials.html">A Paleoindian Grave</a> <a href="world.html">Horn Shelter and Beyond</a> <a href="credits.html">Credits & Sources</a></p>
+    <p> <a href="http://utopia.utexas.edu" target="_blank"></a> <a href="../index.html">Texas Beyond History</a><br>
+      <a href="../sitemap.html">Site Map</a><br>
+      <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" -->December 2010 <!-- InstanceEndEditable --></p>
+  </div>
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script>
+<script type="text/javascript" src="/js/global.js"></script>
+<meta charset="UTF-8">
+<title>Ransom Williams Kids</title>
+
+<script src="http://code.createjs.com/easeljs-0.6.0.min.js"></script>
+<script src="http://code.createjs.com/tweenjs-0.4.0.min.js"></script>
+<script src="http://code.createjs.com/movieclip-0.6.0.min.js"></script>
+<script src="http://code.createjs.com/preloadjs-0.3.0.min.js"></script>
+<script src="kids-whatsthestory5.js"></script>
+
+<script>
+var canvas, stage, exportRoot;
+
+function init() {
+	canvas = document.getElementById("canvas");
+	images = images||{};
+
+	var manifest = [
+		{src:"images/_3dplanview.png", id:"_3dplanview"},
+		{src:"images/archaeobackground.png", id:"archaeobackground"},
+		{src:"images/archaeodirt.png", id:"archaeodirt"},
+		{src:"images/archaeotext1.png", id:"archaeotext1"},
+		{src:"images/archaeotext2.png", id:"archaeotext2"},
+		{src:"images/bookbutton.png", id:"bookbutton"},
+		{src:"images/bookbuttonback.png", id:"bookbuttonback"},
+		{src:"images/bookbuttonnext.png", id:"bookbuttonnext"},
+		{src:"images/buddyarrow.png", id:"buddyarrow"},
+		{src:"images/buddyname.png", id:"buddyname"},
+		{src:"images/cabinsketch.png", id:"cabinsketch"},
+		{src:"images/cabinwallsword.png", id:"cabinwallsword"},
+		{src:"images/cellarword.png", id:"cellarword"},
+		{src:"images/chimneyword.png", id:"chimneyword"},
+		{src:"images/crewmember.png", id:"crewmember"},
+		{src:"images/ddr2.png", id:"ddr2"},
+		{src:"images/ddr2alt.png", id:"ddr2alt"},
+		{src:"images/ddr2bubble.png", id:"ddr2bubble"},
+		{src:"images/ddr2bubblealt.png", id:"ddr2bubblealt"},
+		{src:"images/ddrfinal.png", id:"ddrfinal"},
+		{src:"images/ddrfinalwagonback.png", id:"ddrfinalwagonback"},
+		{src:"images/ddrgrid.png", id:"ddrgrid"},
+		{src:"images/descendents.png", id:"descendents"},
+		{src:"images/dipix2.jpg", id:"dipix2"},
+		{src:"images/drfranlkinname.png", id:"drfranlkinname"},
+		{src:"images/emancipationtext.jpg", id:"emancipationtext"},
+		{src:"images/experiencedtext.jpg", id:"experiencedtext"},
+		{src:"images/farmmap.jpg", id:"farmmap"},
+		{src:"images/farmmap_1.jpg", id:"farmmap_1"},
+		{src:"images/farmmaptext.png", id:"farmmaptext"},
+		{src:"images/farmpainting.jpg", id:"farmpainting"},
+		{src:"images/finalddr.jpg", id:"finalddr"},
+		{src:"images/finaltext.png", id:"finaltext"},
+		{src:"images/hearthword.png", id:"hearthword"},
+		{src:"images/historian1.png", id:"historian1"},
+		{src:"images/historian1text.jpg", id:"historian1text"},
+		{src:"images/howcabinlookedtext.png", id:"howcabinlookedtext"},
+		{src:"images/indirttextnew1.png", id:"indirttextnew1"},
+		{src:"images/indirttextnew2.png", id:"indirttextnew2"},
+		{src:"images/indirttextnew3.png", id:"indirttextnew3"},
+		{src:"images/intro2drbubble.png", id:"intro2drbubble"},
+		{src:"images/intro2drdirttruck.png", id:"intro2drdirttruck"},
+		{src:"images/kidsbutton2.png", id:"kidsbutton2"},
+		{src:"images/kidsbutton2_1.png", id:"kidsbutton2_1"},
+		{src:"images/kidschicken.png", id:"kidschicken"},
+		{src:"images/kidsdoll.png", id:"kidsdoll"},
+		{src:"images/leftbushcopy.png", id:"leftbushcopy"},
+		{src:"images/lefthorse.png", id:"lefthorse"},
+		{src:"images/mapnohighway.jpg", id:"mapnohighway"},
+		{src:"images/ransomcameo.png", id:"ransomcameo"},
+		{src:"images/rightbush.png", id:"rightbush"},
+		{src:"images/righthorse.png", id:"righthorse"},
+		{src:"images/roadbackground1.jpg", id:"roadbackground1"},
+		{src:"images/rootcellarword.png", id:"rootcellarword"},
+		{src:"images/sarahcameo.png", id:"sarahcameo"},
+		{src:"images/sceneicwall.jpg", id:"sceneicwall"},
+		{src:"images/sitebackground.jpg", id:"sitebackground"},
+		{src:"images/thenweusedtext.png", id:"thenweusedtext"},
+		{src:"images/title1.png", id:"title1"},
+		{src:"images/titleblack.png", id:"titleblack"},
+		{src:"images/titlecollege.jpg", id:"titlecollege"},
+		{src:"images/titletext.png", id:"titletext"},
+		{src:"images/titlewheretext.png", id:"titlewheretext"},
+		{src:"images/unitarrows.png", id:"unitarrows"},
+		{src:"images/unitslabel.png", id:"unitslabel"},
+		{src:"images/wholefarmtext.png", id:"wholefarmtext"},
+		{src:"images/wordbone.png", id:"wordbone"},
+		{src:"images/wordbuttons.png", id:"wordbuttons"},
+		{src:"images/worddishes.png", id:"worddishes"},
+		{src:"images/wordharmonica.png", id:"wordharmonica"},
+		{src:"images/wordtoygun.png", id:"wordtoygun"}
+	];
+
+	var loader = new createjs.LoadQueue(false);
+	loader.addEventListener("fileload", handleFileLoad);
+	loader.addEventListener("complete", handleComplete);
+	loader.loadManifest(manifest);
+}
+
+function handleFileLoad(evt) {
+	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
+}
+
+function handleComplete() {
+	exportRoot = new lib.kidswhatsthestory5();
+
+	stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);
+	stage.update();
+	stage.enableMouseOver();
+
+	createjs.Ticker.setFPS(24);
+	createjs.Ticker.addEventListener("tick", stage);
+}
+</script>
+<script type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../style-fl.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="../../../print.css" type="text/css" media="print"/>
+<style type="text/css" media="screen">
+		html, body { height:100%; background-color: #ffffff;}
+		body { margin:0; padding:0; overflow:scroll; }
+		
+		</style>
+
+</head>
+
+<body onload="init();" style="background-color:#FFFFFF">
+<table width="780" border="0">
+  <tr><td><h2>What's the Story? </h2></td></tr>
+</table>
+<table width="780" border="0">
+  
+  <tr>
+    <td>
+	<canvas id="canvas" width="780" height="600" style="background-color:#ffffff"></canvas>
+     </td>
+    </tr>
+  
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><p class="links2"><a href="../../kids-discover.html">Back to Kids:Discover the Farmstead </a> 
+  <a href="../../index.html">Back to Ransom Williams Main </a>
+  <a href="../../../kids/index.html">Back to Kids Main </a>
+	<a href="../../../index.html">TBH Home </a>
+	</p></td>
+  </tr>
+</table>
+
+</div>
+  <div id="foot">
+    </p>
+    <p>  <a href="../../../index.html">Texas Beyond History</a><br>
+      <a href="../../../sitemap.html">Site Map</a><br>
+      <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+      <em>November 2014</em> </p>
+  </div>
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>

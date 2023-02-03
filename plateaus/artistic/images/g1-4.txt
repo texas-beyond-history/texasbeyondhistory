@@ -1,0 +1,27 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 4 (Kirkland Plate 88)</p><br>
+
+<p><strong>Pecos River. Copied July 10, 1938. Scale: Site 1, 1/4 in. to 1 ft.; Site 2, 3/16 in. to 1 ft.</strong></p><br>
+
+<p>Forrest Kirkland wrote:</p><br>
+
+</font>
+
+<font size="10">
+
+<p><strong>Site 1.</strong></p>
+
+<p>This site is an overhanging bluff on the west side of the Pecos River. The pictures are about half way up the cliff just above a small sloping ledge on which the artist could stand while painting the pictures. They get the full force of the morning sun, and are wet by blowing rains from the east: yet they are still quite clear except the hand prints on the left which probably were never very clear. The rock is flaking badly and had affected the pictures in several places. There was no sign of Indian camping near the cliff. </p><br>
+
+<p><strong>Site 2.</strong></p>
+
+<p>See Plate 5 for description.</p><br>
+
+</font>
+
+
+
+</BODY></HTML>

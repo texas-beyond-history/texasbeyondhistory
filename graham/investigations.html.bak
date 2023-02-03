@@ -1,0 +1,503 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/graham.dwt" --><!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" --> 
+<title>The Graham-Applegate Rancheria-Site Investigations</title>
+<meta name="keywords" content="Graham-Applegate, Graham, Applegate, rancheria, Prehistoric houses, huts, burned rock, midden, Texas archeology, Llano Uplift Archeological Society ">
+<meta name="description" content="Buried remains of a thousand-year-old houses uncovered in Texas Hill Country by archeologists and volunteers.">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('images/camera-button-ro-sm.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	<div id="pt">
+	 <a href="../plateaus/index.html">Plateaus and Canyonlands Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Graham-Applegate Rancheria</h1>
+        </div>
+
+
+    <h2><a href="index.html">Graham-Applegate Main</a>
+			  <a href="austin.html">Austin Phase</a>
+			  <a href="houses.html">Ancient Houses</a>
+			  <a href="cooking.html">Cooking with Granite</a>
+			  <a href="arrow.html">Dart to Arrow</a>
+			  <a href="glass.html">Exotic Volcanic Glass</a>
+			  <a href="investigations.html">Site Investigations</a>
+              <a href="new-interpretations.html">New Interpretations</a>
+			  <a href="artifacts.html">Artifacts</a>
+			  <a href="behind.html">Behind the Scenes</a>
+			  <a href="luas.html">Get Involved</a>
+			  <a href="teach.html">Teaching about the Rancheria</a>
+			  <a href="credits.html">Credits &amp; Sources</a>
+			  </h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" -->
+      <table width="780" border="0" cellpadding="0">
+        <tr> 
+          <td colspan="3"> 
+            <h2>Site Investigations</h2>
+          </td>
+        </tr>
+        <tr> 
+          <td width="206" valign="top" height="3555"> 
+            <table width="206" border="0" cellpadding="0" height="4412">
+              <tr> 
+                <td class="margintext"> 
+                  <p>In this section:</p>
+                  <ul>
+                    <li><a href="#midden" class="margintext">Hidden Midden Exposed</a></li>
+                    <li><a href="#houses" class="margintext">Probing for &quot;Houses&quot; 
+                      2 and 3</a></li>
+                    <li><a href="#hearth" class="margintext">The Hearth that Disappeared</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr> 
+                <td height="418" valign="middle"><a href="images/LL419-CH4.html" target="_blank"><img src="images/LL419-CH4-sm.jpg" width="200" height="132" alt="Arroyos, or wet-weather erosional draws, have cut through the sandy slopes near the site area. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Arroyos, or wet-weather erosional draws, 
+                    have cut through the gravelly slopes near the site area. Photo 
+                    by Chuck Hixson. <a href="images/LL419-CH4.html" target="_blank" onMouseOver="MM_swapImage('Image27','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image27" width="19" height="20" id="Image27" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="371" valign="middle"><a href="images/LL419-GS3.html" target="_blank"><img src="images/LL419-GS3-sm.jpg" width="200" height="108" alt="Volunteers from the Llano Uplift Archeological Society at work at the site. Photo by Gene Schaffner." class="thumbimg"></a> 
+                  <div class="caption">Volunteers from the Llano Uplift Archeological 
+                    Society at work at the site. Photo by Gene Schaffner. <a href="images/LL419-GS3.html" target="_blank" onMouseOver="MM_swapImage('Image29','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image29" width="19" height="20" id="Image29" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="454" valign="bottom"><a href="images/LL419-CH23.html" target="_blank"><img src="images/LL419-CH23-sm.jpg" width="200" height="133" alt="House 1, mostly exposed. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Possible House 1, mostly exposed. Photo by Chuck 
+                    Hixson. <a href="images/LL419-CH23.html" target="_blank" onMouseOver="MM_swapImage('Image31','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image31" width="19" height="20" id="Image31" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="318" valign="middle"><a href="images/LL419-CH14.html" target="_blank"><img src="images/LL419-CH14-sm.jpg" width="200" height="108" alt="Close-up view of midden surface as it was exposed during excavation. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Close-up view of midden surface as it was 
+                    exposed during excavation. Photo by Chuck Hixson. <a href="images/LL419-CH14.html" target="_blank" onMouseOver="MM_swapImage('Image32','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image32" width="19" height="20" id="Image32" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="285" valign="middle"><a href="images/LL419-CH12.html" target="_blank"><img src="images/LL419-CH12-sm.jpg" width="200" height="134" alt="Midden during excavation; tennis balls top the stakes at corners of excavation units." class="thumbimg"></a> 
+                  <div class="caption">Midden during excavation; tennis balls 
+                    top the stakes at corners of excavation units. <a href="images/LL419-CH12.html" target="_blank" onMouseOver="MM_swapImage('Image35','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image35" width="19" height="20" id="Image35" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="358"> <a href="images/LL419-CH11.html" target="_blank"><img src="images/LL419-CH11-sm.jpg" width="200" height="131" alt="Close-up view of trench dug through midden area. Photo by Gene Schaffner." class="thumbimg"></a> 
+                  <div class="caption">Close-up view of trench dug through midden 
+                    area. Photo by Gene Schaffner. <a href="images/LL419-CH11.html" target="_blank" onMouseOver="MM_swapImage('Image36','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image36" width="19" height="20" id="Image36" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="282"> <a href="images/LL419-CH27.html" target="_blank"><img src="images/LL419-CH27-sm.jpg" width="200" height="133" alt="House 2 after excavation. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Possible House 2 after excavation. Photo by Chuck 
+                    Hixson. <a href="images/LL419-CH27.html" target="_blank" onMouseOver="MM_swapImage('Image38','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image38" width="19" height="20" id="Image38" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="540"><a href="images/LL419-CH48.html" target="_blank"><img src="images/LL419-CH48-sm.jpg" width="200" height="132" alt="House 5. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Possible House 5. Photo by Chuck Hixson. <a href="images/LL419-CH48.html" target="_blank" onMouseOver="MM_swapImage('Image40','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image40" width="19" height="20" id="Image40" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="678"> <a href="images/LL419-CH47.html" target="_blank"><img src="images/LL419-CH47-sm.jpg" width="200" height="132" alt="Close-up view of quartz feature next to House 4. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Close-up view of quartz feature next to 
+                    Possible House 4. Photo by Chuck Hixson. <a href="images/LL419-CH47.html" target="_blank" onMouseOver="MM_swapImage('Image43','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image43" width="19" height="20" id="Image43" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr>
+                <td height="428" valign="bottom"><a href="images/LL419-CH22.html" target="_blank"><img src="images/LL419-CH22-sm.jpg" width="200" height="132" alt="Hearth used by latest Austin phase peoples, as exposed in excavation unit. It later disappeared from the site. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Hearth used by latest Austin phase peoples, 
+                    as exposed in excavation unit. It later disappeared from the 
+                    site. Photo by Chuck Hixson. <a href="images/LL419-CH22.html" target="_blank" onMouseOver="MM_swapImage('Image46','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image46" width="19" height="20" id="Image46" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr>
+                <td height="662" valign="bottom"><a href="images/LL419-CH30.html" target="_blank"><img src="images/LL419-CH30-sm.jpg" width="200" height="275" alt="Dr. Wulf Gose drilling core samples from stones in hearth for archeomagnetic analysis. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Dr. Wulf Gose drilling core samples from 
+                    stones in hearth for archeomagnetic analysis. Photo by Chuck 
+                    Hixson. <a href="images/LL419-CH30.html" target="_blank" onMouseOver="MM_swapImage('Image48','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image48" width="19" height="20" id="Image48" align="absmiddle"></a></div>
+				  <br></td>
+              </tr>
+            </table>
+          </td>
+          <td width="372" valign="top" height="3555"> 
+            <p class="text">Before excavations began at the Graham-Applegate site 
+              in the summer of 1998, there was little evidence that the remains 
+              of a prehistoric encampment were buried only a few inches beneath 
+              the ground surface. A year earlier, the Llano Uplift Archeological 
+              Society had conducted a survey of the area at the request of the 
+              landowner, Charlotte Graham, and found only a few flint flakes. 
+              Since the soils at the site are shallow, it was felt at the time 
+              that if anything of archeological significance existed there, more 
+              artifacts or features would be visible on the surface. Reinforcing 
+              the idea that little would be found there was the fact that no permanent 
+              water flows in the immediate area today. The closest reliable source 
+              of water is the Llano River, a half-mile to the west over rough 
+              terrain. </p>
+            <p class="text">Early in 1998, the chance discovery by Ms. Graham 
+              of a half-dozen flint arrow points protruding from the backdirt 
+              piles of gopher holes provided the first real hints that something 
+              archeologically important might be buried there. All the arrow points 
+              were of the same type or &quot;style&quot; suggesting that only 
+              a single cultural group may have camped there. If so, it seemed 
+              the site could well be a time capsule containing information about 
+              life in central Texas at a particular period in the prehistoric 
+              past. In this case, the style of point was known to have been used 
+              between A.D. 700 and A.D. 1350, during what archeologists call the 
+              Austin Phase. </p>
+            <p class="text">Recognizing the site's potential importance, the Llano 
+              Uplift Archeological Society (LUAS) made the decision to undertake 
+              investigations at the site. Initially, the research plan was to 
+              excavate large areas where the arrow points were found and where 
+              it seemed the most intensive activity took place in prehistoric 
+              times. Our hope was that living surfaces would be exposed, perhaps 
+              even the remains of shelters or areas where specific activities, 
+              stone-tool making for example, took place. The shallow soils were 
+              ideal for a broad horizontal excavation (opening up large areas) 
+              since the hoped-for living surface could be reached quickly. At 
+              sites with deep archeological deposits, such as those on river terraces, 
+              excavated areas often are small due to the large volume of soil 
+              that must be removed. At the beginning of the investigations, we 
+              also hoped to recover a discrete (unmixed) assemblage of the kinds 
+              of stone tools used by people during the Austin phase. Few open 
+              campsites of this period have been investigated that do not also 
+              contain artifacts from earlier and later aboriginal cultures, mixed 
+              in with those of the Austin phase.</p>
+            <p class="text"> A 4-x-6-meter (16.7-x-20-foot) area was initially 
+              excavated down to a depth of 25 centimeters (10 inches), revealing 
+              two small hearths to one side of an extensive refuse scatter of 
+              burned rock, mussel shells, and stone tools. Large numbers of flint 
+              flakes, along with cores and unfinished bifaces indicated that stone-tool 
+              making took place there. Three obsidian flakes also were found in 
+              this &quot;lithic workshop&quot; area. In the fall of 1998, LUAS 
+              obtained permission to do test excavations of the adjacent Applegate 
+              property that lies immediately to the north of where we were working. 
+              It was assumed at the time that the remains of the Austin phase 
+              occupation continued onto this property, although almost no artifacts 
+              were noticed in the gopher mounds that also dotted the surface of 
+              the Applegate land.</p>
+			<h3><a name="midden"></a>Hidden Midden Exposed</h3>
+            <p class="text">At this point, we wanted to know not only how far 
+              the site extended to the north, but also the nature of the aboriginal 
+              occupation there: Would we still find the same kinds of artifacts 
+              and features? Would they date to the Austin phase or was this area 
+              occupied by earlier or later cultures? A series of 1-x-2-meter ( 
+              3.3-x-6.7-foot) test pits was excavated at widely spaced intervals 
+              to the north and then to the east and west on the Applegate property 
+              in an attempt to answer these questions. These excavations showed 
+              that the Austin phase occupation continued at least 50 meters (167 
+              feet) to the north with scattered hearths and stone tools although 
+              the amount of flint chipping debris decreased considerably. One 
+              of the test pits near the edge of a deeply cut arroyo that borders 
+              the west side of the site revealed what was at first thought to 
+              be an unusually large and elongated stone hearth. To better record 
+              this feature, adjacent units were excavated, and to our surprise, 
+              other stone features began to emerge. Only after an 2-x-5-meter 
+              (6.7-x-13.4-foot) area was opened up, however, did it become apparent 
+              that these rock features were related. Collectively they appeared to form 
+              the walls and central hearth of a large circular structure that 
+              was eventually designated &quot;House 1.&quot; The finding of an apparent house 
+              was big news&#151;it had been several decades since the last house 
+              remains had been found in central Texas. Archeologists from the 
+              Lower Colorado River Authority, TARL, and the Texas Historical Commission 
+              visited the site and offered opinions and encouragement.</p>
+            <p class="text">With the discovery and excavation of the first &quot;house,&quot; 
+              our research plan was changed to actively seek out additional house-like features at the site. Since there were no clues on the surface to lead us 
+              to them, the only sure way of finding similar features was to cover as 
+              much of the site as possible with test units. This strategy initially 
+              failed to find additional &quot;houses&quot; but did lead to the discovery of 
+              a burned rock midden. Typically, burned rock middens are conspicuous 
+              features littered with fire-cracked rocks and often forming an obvious 
+              mound. But we only became aware of the one at Graham/Applegate through 
+              a randomly placed test pit which revealed an area of tightly packed, 
+              burned granite rocks with dark, charcoal-stained soil only inches 
+              below the surface. The midden had been all but invisible since it 
+              blended with the natural contours of the land and was hidden by 
+              dense brush and leaf litter near the edge of the arroyo only 15 
+              m (50 ft) south of House 1. </p>
+            <p class="text">Over the next several months, the thin layer of soil 
+              and fallen leaves was carefully stripped away to expose the surface 
+              of the midden. It consisted of a low circular mound of burned granite 
+              rocks with a center of dark, charcoal-stained soil, presumably where 
+              the earth oven or ovens were located. The soils in the site area 
+              are a light tan color with little organic material, and the dark 
+              staining in the midden stands out very clearly (see <a href="images/LL419-GS8.html" class="text">photo 
+              of soil samples</a>). A meter-wide trench was hand excavated down 
+              the middle of the midden to get a cross-section of the central oven 
+              and to locate the oven feature. Unfortunately, the trench missed 
+              the oven, which probably lies just to the west where large boulders 
+              are protruding from the surface. As one might expect for an area 
+              devoted to cooking, few stone tools or flakes were recovered from 
+              the midden excavations, but many food items were, including mussel 
+              shells, bone, and charred plant material. </p>
+            <h3><a name="houses"></a>Probing for  &quot;Houses 2 and 3&quot; </h3>
+            <p><strong><em>Note:</em></strong><em> Since this exhibit was written, a more recent interpretation indicates the features first thought to be the remains of houses were more likely burned rock middens (see the New Interpretation section).</em> </p>
+            <p class="text">After the midden excavations, it was realized that 
+              it would take far too much time to adequately cover the site with 
+              test pits in order to find additional &quot;houses.&quot; We then began systematically 
+              probing the ground with thin metal rods to locate subsurface stone 
+              features. This was possible only after a rain had softened the ground, 
+              otherwise the sun-baked earth was much too hard for this technique. 
+              This approach was very successful and directly led to the discovery 
+              of possible Houses 2 and 3, both of which were missed by earlier test pits 
+              nearby. &quot;House 4&quot; also was discovered by probing, although before 
+              excavation it was initially thought to be a small cooking hearth. 
+              Bedrock near the surface along the north side of the site hampered 
+              the probing, and &quot;House 5&quot; was discovered more or less accidentally 
+              while excavating the area immediately to the north of &quot;House 4.&quot; </p>
+            <p class="text"> &quot;Houses 3, 4, and 5&quot; all lay within the same 
+              excavation block and exhibited similar construction details&#151; 
+              what appeared to be triangular hearths, for example&#151;and were probably built at 
+              the same time. Of interest here is a long, narrow, pile of quartz 
+              cobbles that connects &quot;Houses 3 and 4,&quot; put there by the prehistoric 
+              inhabitants for some unknown reason. During the excavation of the 
+              block, evidence of a more-recent occupation was identified above, 
+              or on top of, the floor surfaces of the three presumed houses. One small 
+              cooking hearth and a small, rock-lined pit were apparently built 
+              on and in the shallow soils that developed over the &quot;house&quot; foundations 
+              after the site had been abandoned by the earlier people. A radiocarbon 
+              date from the small hearth places this later occupation some time 
+              between about A.D. 1000 to 1200.</p>
+            <p class="text"> The Llano Uplift Archeological Society enjoyed what 
+              few professional archeologists today have, the luxury of time. While 
+              most government-mandated digs are done under intense time pressures 
+              in advance of bulldozers and development, excavations at Graham-Applegate 
+              were carried out over a three-year period (and still counting). 
+              As a result, few sites in central Texas have been as extensively 
+              excavated as Graham-Applegate. Even so, much still needs to be done 
+              to understand fully what was going on there centuries ago. With 
+              this site, we can learn how prehistoric encampments were organized 
+              and document the kinds of activities that took place there.  Much will be learned, too, during the analysis phase 
+              of the project when the artifacts are scrutinized and other special 
+              technical studies carried out. We already know we are dealing with 
+              at least three different periods of occupations of the site, all 
+              by people of the Austin phase culture. The earliest known stay happened 
+              around A.D. 1000 when the rancheria was built. A second visit occurred 
+              probably less than a century later, and includes the hearth and 
+              rock-lined pit above &quot;House 3.&quot; A final visit happened sometime in 
+              the 1300s, as revealed by a radiocarbon date from the &quot;hearth 
+              that disappeared.&quot;</p>
+           <h3><a name="hearth"></a>The Hearth that Disappeared</h3>
+            <p class="text">Although the location of the Graham/Applegate site 
+              is not a well-kept secret, we have been very fortunate that little 
+              vandalism has occurred in the three years of excavations. A few 
+              pieces of equipment were stolen early on, the most valuable being 
+              a large ladder. For some reason, a long metal bar used for measuring 
+              was also taken, even though it would be of little use to anyone. 
+              By far the most unusual thing that disappeared was a stone hearth 
+              that had been uncovered on the eastern edge of the site. The hearth 
+              was discovered during excavation of a test unit along a fence on 
+              the eastern border of the site. Long before the level of the top 
+              of the hearth was reached, a distinct circular area of carbon staining 
+              was encountered. Eventually, a small but well-constructed stone 
+              hearth was uncovered. Several charcoal samples were taken from between 
+              and beneath the hearth stones. Radiocarbon assays on one of the 
+              samples established an age range of between A.D. 1285 and 1405 for 
+              the charred wood, a time which postdates by several centuries that 
+              of the rancheria. Nonetheless, the arrow points around this hearth 
+              were of the Scallorn type. It appears that this hearth represents 
+              a very late occupation by Austin phase people. </p>
+            <p class="text">Because the hearth was so well preserved, we carefully 
+              reburied it for later archeomagnetic studies which would help us 
+              understand how it was used. Several months later, we reexcavated 
+              the unit only to find that the hearth was gone&#151;no trace of 
+              it could be seen. We can only presume that someone dug it up thinking 
+              something valuable was buried beneath it; when nothing was found, 
+              the rocks must have been tossed away and the pit reburied to hide 
+              the vandalism.</p>
+            <p class="text"> Because the hearth had vanished, we were forced to 
+              select another hearth feature for archeomagnetic studies. We chose 
+              another small hearth already uncovered near House 1. Small cores 
+              were removed from the rocks and taken to the Geology Department 
+              at the University of Texas in Austin for testing of the magnetic 
+              properties of the samples. </p>
+            <p class="text">Archeomagnetic tests can estimate the temperature 
+              at which the rocks were heated and if the rocks were moved after 
+              they cooled. The stones in this hearth had been heated to around 
+              300 degrees C (600 degrees F.), a typical temperature for these 
+              kinds of features, and they had lain undisturbed during the many 
+              centuries since it had been used. </p>
+		<br>
+		</td>
+		
+          <td width="206" valign="top" height="3555"> 
+            <table width="206" border="0" cellpadding="0" height="4525">
+              <tr> 
+                <td height="376" valign="middle"><a href="images/LL419-CH28.html" target="_blank"><img src="images/LL419-CH28-sm.jpg" width="200" height="129" alt="View of site prior to excavation. Little evidence of prehistoric remains was visible on the surface. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">
+                    View of site prior to excavation. Little 
+                      evidence of prehistoric remains was visible on the surface. 
+                      Photo by Chuck Hixson. <a href="images/LL419-CH28.html" target="_blank" onMouseOver="MM_swapImage('Image26','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image26" width="19" height="20" id="Image26" align="absmiddle"></a>
+<p><strong>Click images to enlarge </strong>&nbsp;</p>
+                  </div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="380" valign="middle"><a href="images/LL419-MB8.html" target="_blank"><img src="images/LL419-MB8-sm.jpg" width="200" height="158" alt="Scallorn points-the diagnostic point type of the Austin phase, and the type of arrow point used by the rancheria folk. Photo by Milton Bell." class="thumbimg"></a> 
+                  <div class="caption">Scallorn points&#151;the diagnostic point 
+                    type of the Austin phase, and the type of arrow point used 
+                    by the rancheria folk. Photo by Milton Bell. <a href="images/LL419-MB8.html" target="_blank" onMouseOver="MM_swapImage('Image28','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image28" width="19" height="20" id="Image28" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="457" valign="middle"> <a href="images/LL419-CH2.html" target="_blank"><img src="images/LL419-CH2-sm.jpg" width="200" height="141" alt="Excavation in progress. Metal grid on right side of unit was used to facilitate mapping of the excavated surfaces. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Excavation in progress. Metal grid on right 
+                    side of unit was used to facilitate mapping of the excavated 
+                    surfaces. Photo by Chuck Hixson. <a href="images/LL419-CH2.html" target="_blank" onMouseOver="MM_swapImage('Image30','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image30" width="19" height="20" id="Image30" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="409" valign="middle"><a href="images/G-A 2-01-3.html" target="_blank"><img src="images/G-A%202-01-3.sm.jpg" width="200" height="159" alt="Midden area after brush cleared off surface and trench dug through center. Photo by Steve Black." class="thumbimg"></a> 
+                  <div class="caption">Midden area after brush was cleared off 
+                    surface and trench dug through center. Photo by Steve Black. <a href="images/G-A 2-01-3.html" target="_blank" onMouseOver="MM_swapImage('Image33','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image33" width="19" height="20" id="Image33" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="382" valign="middle"><a href="images/LL419-CH15.html" target="_blank"><img src="images/LL419-CH15-sm.jpg" width="200" height="118" alt="Excavator digging through rocks of the midden. Tarps (to the side) cover other units. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Excavator digging through rocks of the 
+                    midden. Tarps (to the side) cover other units. Photo by Chuck 
+                    Hixson. <a href="images/LL419-CH15.html" target="_blank" onMouseOver="MM_swapImage('Image34','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image34" width="19" height="20" id="Image34" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="422" valign="middle"> <a href="images/Midden trench-cropped.html" target="_blank"><img src="images/Midden%20trench-cropped-sm.jpg" alt="A meter-wide trench was dug by excavators using trowels through the center of the midden, in search for a central oven. Photo by Steve Black." width="200" height="150" class="thumbimg" border="0"></a> 
+                  <div class="caption">A meter-wide trench was dug by excavators 
+                    using trowels through the center of the midden, in search 
+                    for a central oven. Photo by Steve Black. <a href="images/Midden trench-cropped.html" target="_blank" onMouseOver="MM_swapImage('Image37','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image37" width="19" height="20" id="Image37" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="315"> <a href="images/LL419-GS4.html" target="_blank"><img src="images/LL419-GS4-sm.jpg" width="200" height="128" alt="Area of House 2 before excavation. Photo by Gene Schaffner." class="thumbimg"></a> 
+                  <div class="caption">Area of Possible House 2 before excavation. Photo 
+                    by Gene Schaffner. <a href="images/LL419-GS4.html" target="_blank" onMouseOver="MM_swapImage('Image39','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image39" width="19" height="20" id="Image39" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="262"> <a href="images/LL419-CH52.html" target="_blank"><img src="images/LL419-CH52-sm.jpg" width="200" height="132" alt="ouse 4 showing wall support in foreground. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Possible House 4 showing wall support in foreground. 
+                    Photo by Chuck Hixson. <a href="images/LL419-CH52.html" target="_blank" onMouseOver="MM_swapImage('Image41','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image41" width="19" height="20" id="Image41" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="305"><a href="images/LL419-CH51.html" target="_blank"><img src="images/LL419-CH51-sm.jpg" width="200" height="132" alt="House 4 with quartz accumulation on right. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Possible House 4 with quartz accumulation on right. 
+                    Photo by Chuck Hixson. <a href="images/LL419-CH51.html" target="_blank" onMouseOver="MM_swapImage('Image42','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" width="19" height="20" id="Image42" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr> 
+                <td height="445"> <a href="images/LL419-Site Plan Map.html" target="_blank"><img src="images/LL419-Site%20Plan%20Map-sm.jpg" width="200" height="262" alt="Plan map of site with contour intervals marked, showing houses, features, and excavated units. Map by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Plan map of site, with contour intervals 
+                    marked, showing houses, features, and excavated units. Map 
+                    by Chuck Hixson. <a href="images/LL419-Site Plan Map.html" target="_blank" onMouseOver="MM_swapImage('Image44','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image44" width="19" height="20" id="Image44" align="absmiddle"></a></div>
+                </td>
+              </tr>
+              <tr>
+                <td height="357" valign="middle"> <a href="images/LL419-CH7.html" target="_blank"><img src="images/LL419-CH7-sm.jpg" width="200" height="132" alt="Charcoal stain noticed in sediments overlying the hearth during excavations. Photo by Chuck Hixson." class="thumbimg"></a> 
+                  <div class="caption">Charcoal stain noticed in sediments overlying the hearth during 
+                excavations. Photo by Chuck Hixson. <a href="images/LL419-CH7.html" target="_blank" onMouseOver="MM_swapImage('Image45','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image45" width="19" height="20" id="Image45" align="absmiddle"></a></div></td>
+              </tr>
+              <tr>
+                <td height="351" valign="bottom"><a href="images/LL419-CH10.html" target="_blank"><img src="images/LL419-CH10-sm.jpg" width="200" height="131" alt="Hearth stones with holes after cores removed for archeomagnetic tests." class="thumbimg"></a> 
+                  <div class="caption">Hearth stones with holes after cores removed 
+                    for archeomagnetic tests. <a href="images/LL419-CH10.html" target="_blank" onMouseOver="MM_swapImage('Image47','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image47" width="19" height="20" id="Image47" align="absmiddle"></a></div>
+					<br>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> 
+ </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Graham-Applegate Main</a>
+	<a href="austin.html">Austin Phase</a>
+	<a href="houses.html">Ancient Houses</a>
+	<a href="cooking.html">Cooking with Granite</a>
+	<a href="arrow.html">Dart to Arrow</a>
+	<a href="glass.html">Exotic Volcanic Glass</a>
+	<a href="investigations.html">Site Investigations</a>
+    <a href="new-interpretations.html">New Interpretations</a>
+	<a href="artifacts.html">Artifacts</a>
+	<a href="behind.html">Behind the Scenes</a>
+	<a href="luas.html">Get Involved</a>
+	<a href="teach.html">Teaching about the Rancheria</a>
+	<a href="credits.html">Credits &amp; Sources</a></p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- #BeginEditable "date" -->1 October 2001 <!-- #EndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- #EndTemplate --></html>

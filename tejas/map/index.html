@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<script language ="javascript">
+ IE4 = (document.all) ? 1 : 0;       // initialize browser..
+ NS4 = (document.layers) ? 1 : 0;    // identification and...
+ ver4 = (IE4 || NS4) ? 1 : 0;        // DHTML variables
+ function m1(on) {
+    if (IE4) {                      // check for MSIE4
+        Elm1 = document.all.elm1.style         // and assign MSIE alias
+    }
+    else {                                              // or...
+        Elm1 = document.elMenu.document.elMenuOver   // assign Netscape alias
+    };
+        if (on) { Elm1.visibility = "visible" }
+           else { Elm1.visibility = "hidden" }
+ }
+ function m2(on) {
+    if (IE4) {                      // check for MSIE4
+        Elm2 = document.all.elm2.style         // and assign MSIE alias
+    }
+    else {                                              // or...
+        Elm2 = document.elMenu.document.elMenuOver   // assign Netscape alias
+    };
+        if (on) { Elm2.visibility = "visible" }
+           else { Elm2.visibility = "hidden" }
+ }
+ function m3(on) {
+    if (IE4) {                      // check for MSIE4
+        Elm3 = document.all.elm3.style         // and assign MSIE alias
+    }
+    else {                                              // or...
+        Elm3 = document.elMenu.document.elMenuOver   // assign Netscape alias
+    };
+        if (on) { Elm3.visibility = "visible" }
+           else { Elm3.visibility = "hidden" }
+ }
+ function m4(on) {
+    if (IE4) {                      // check for MSIE4
+        Elm4 = document.all.elm4.style         // and assign MSIE alias
+    }
+    else {                                              // or...
+        Elm4 = document.elMenu.document.elMenuOver   // assign Netscape alias
+    };
+        if (on) { Elm4.visibility = "visible" }
+           else { Elm4.visibility = "hidden" }
+ }
+
+</script>
+
+<html lang="en-US">
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script>
+<script type="text/javascript" src="/js/global.js"></script>
+<title>The Caddo Map Tool, Homeland Base </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="tejasstyle.css" rel="stylesheet" type="text/css">
+<STYLE TYPE="text/css">
+#elm1 {position: absolute; left: 47; top: 30; visibility: hidden }
+#elm2 {position: absolute; left: 47; top: 150; visibility: hidden }
+#elm3 {position: absolute; left: 47; top: 300; visibility: hidden }
+#elm4 {position: absolute; left: 47; top: 460; visibility: hidden }
+</STYLE>
+</head>
+<body>
+<DIV ID="elMapUp">
+  <DIV ID="elMenuUp"> 
+    <img src="graphics/map_tool_FRAME1.jpg" alt="Map tool" width="767" height="582" border=0 usemap="#mpMenu">
+    <map name="mpMenu">
+      <area alt="The Caddo Homeland Base Map" shape="rect" coords="10,14,38,147" href="index.html" onMouseOver="m1(true)" onMouseOut="m1(false)">
+      <area alt="The Caddo Homeland Vegetation Map" shape="rect" coords="10,155,38,289" href="flora.html" onMouseOver="m2(true)" onMouseOut="m2(false)">
+      <area alt="The Caddo Homeland Environmental Resources Map" shape="rect" coords="10,290,37,430" href="env.html" onMouseOver="m3(true)" onMouseOut="m3(false)">
+      <area alt="The Caddo Homeland Archaeological Sites Map" shape="rect" coords="10,433,37,574" href="arch.html" onMouseOver="m4(true)" onMouseOut="m4(false)">
+    </map>
+</DIV>
+    <DIV ID="elDefault">
+      <IMG SRC="graphics/transparent.gif" width="1" height="1">
+    </DIV> 
+    <DIV ID="elm1">
+      <IMG SRC="graphics/clicklayer.gif">
+    </DIV> 
+    <DIV ID="elm2">
+      <IMG SRC="graphics/clicklayer.gif">
+    </DIV> 
+    <DIV ID="elm3">
+      <IMG SRC="graphics/clicklayer.gif">
+    </DIV> 
+    <DIV ID="elm4">
+      <IMG SRC="graphics/clicklayer.gif">
+    </DIV> 
+</DIV>
+
+<div align="center" class="text">Click on a Tab to explore the Caddo Homeland</div>
+<hr>
+	  
+<div align="center"> <a href="../index.html" class="foot"><img src="../images/caddo-house.jpg" width="50" height="50" align="absmiddle" alt="Tejas Main" border="0"> Tejas 
+  Main</a> </div>
+
+</body>
+</html>

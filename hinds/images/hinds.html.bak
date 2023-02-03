@@ -1,0 +1,93 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+
+<link href="../../popup.css" rel="stylesheet" type="text/css">
+<title>TBH Lesson Plan Download Page</title>
+</head>
+
+<body>
+<div id="wrapper">
+ 
+  <table id="coll">
+  <tr>
+    <td colspan="2"> <h1 class="bg">TBH Lesson Plan Download Page </h1></td>
+    </tr>
+  <tr>
+    <td class="lbg"><p>Lesson Name</p></td>
+    <td><p> Comparing Two Cultures &ndash; Hinds Cave and Yours</p></td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td>
+    <td>
+	<p><img src="../../images/arrow.gif" width="15" height="12" align="absmiddle" class="no"> <a href="hindslesson.html">View Lesson Plan Webpage</a><br/>
+	  <img src="../../images/arrow.gif" width="15" height="12" align="absmiddle" class="no"> <a href="hindslesson.pdf">Download
+        Lesson Plan PDF* Now</a></p>
+	  </td>
+  </tr>
+  <tr>
+    <td class="lbg"><p>Subject Area</p></td>
+    <td><p>Texas history &amp; geography</p></td>
+  </tr>
+  <tr>
+    <td class="lbg"><p>Grade Range</p></td>
+    <td><p>7th</p></td>
+  </tr>
+  <tr>
+    <td class="lbg"><p>TEKS</p></td>
+    <td valign="top">
+	<p>Social Studies, 7th Grade</p>
+	<ul>
+	  <li>Social Studies113.23 (1A), identify the
+	        major eras in Texas history and describe their defining characteristics</li>
+	  <li>Social
+	          Studies113.23 (9B), compare places and regions of Texas in terms
+	    of physical and human characteristics</li>
+	  <li>Social Studies113.23 (20A), compare types
+	          and uses of technology, past and present</li>
+	  <li>Social Studies113.23 (21B),
+	          analyze information by comparing and contrasting</li>
+	  <li>Social Studies113.23
+	          (21C), organize and interpret information from charts and maps</li>
+	  <li>Social
+	          Studies113.23 (22A), use social studies terminology correctly</li>
+	  <li>Social
+	          Studies113.23 (22B), use standard grammar, spelling, sentence structure,
+	      and punctuation</li>
+	  <li>Social Studies113.23 (22D), create written presentations
+	            of social studies information</li>
+	  </ul>	<p>
+	
+	    English Language Arts, 7th Grade</p>
+	  <ul>
+	    <li>English Language Arts and Reading 110.23
+	          (14B), determine distinctive and common characteristics of cultures</li>
+	    <li>English
+	          Language Arts and Reading 110.23 (14C), articulate and discuss
+	      themes and connections that cross cultures</li>
+	    <li>English Language Arts and Reading 110.23
+	          (15C), write to inform</li>
+	    <li>English Language Arts and Reading 110.23 (15H),
+	          produce cohesive and coherent written texts by organizing ideas</li>
+	    <li>English
+	            Language Arts and Reading 110.23 (18A), generate ideas and plans
+	      for writing by using prewriting strategies such as graphic organizers</li>
+	    </ul>	  <ul>
+	</td>
+  </tr>
+</table>
+
+  <p>*You
+    will need Adobe Acrobat Reader to view this file. Download a free copy from
+    the <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe
+  website</a>.</p>
+	  <a href=""><img src="../../images/close.gif" name="close" width="109" height="35" onClick="self.close();"></a>
+ 
+</div>
+</body>
+</html>

@@ -1,0 +1,261 @@
+html,body, #overview{
+  color: #bf5700;
+}
+
+.text {
+    padding-top: 15px;
+}
+
+.title {
+    height: 25px;
+}
+
+.container {
+    max-width: 780px;
+}
+/*button overview styles*/
+#overview {
+    float: left;
+    cursor: pointer;
+}
+
+#namefade {
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #FFFF00;
+}
+
+.aspect-ratio-30pct {
+    position: relative;
+    padding-bottom: 30%;
+}
+
+#ship {
+    position: absolute;
+    margin-left: 2%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#ship.overview > div {
+    opacity: 1;
+}
+
+/*ship colored images*/
+#ship.overview #ship-aft {
+    background-image: url(../ship/aftcolor.png);
+}
+
+#ship.overview #ship-main {
+    background-image: url(../ship/maincolor.png);
+}
+
+#ship.overview #ship-bow {
+    background-image: url(../ship/bowcolor.png);
+}
+
+/*ship images*/
+#ship .section {
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    opacity: 0.4;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /*ship captions*/
+    font-weight: bold;
+    text-align: center;
+    padding-top: 29%;
+}
+
+
+/*changes ship image opacity*/
+#ship.ship-aft #ship-aft,
+#ship.ship-main #ship-main,
+#ship.ship-bow #ship-bow {
+    opacity: 1;
+}
+
+
+/*ship black and white images*/
+#ship-aft {
+    background-image: url(../ship/aft.png);
+}
+
+#ship-main {
+    background-image: url(../ship/main.png);
+}
+
+#ship-bow {
+    background-image: url(../ship/bow.png);
+}
+
+/*red squares*/
+#overlay {
+    display: none;
+    position: absolute;
+    border: 2px solid red;
+    background-color: rgba(200,0,0,.5);
+}
+
+.slideshow {
+    background-color: black;
+}
+
+/*ship main slide overlays*/
+.ship-main #overlay.slide-2 {
+    display: block;
+    top: 38%;
+    left: 40%;
+    height: 14%;
+    width: 4%;
+}
+
+.ship-main #overlay.slide-3 {
+    display: block;
+    top: 66%;
+    left: 35%;
+    height: 10%;
+    width: 12%;
+}
+
+.ship-main #overlay.slide-4 {
+    display: block;
+    top: 73%;
+    left: 47%;
+    height: 10%;
+    width: 4%;
+}
+
+.ship-main #overlay.slide-5 {
+    display: block;
+    top: 15%;
+    left: 49%;
+    height: 10%;
+    width: 7%;
+}
+
+.ship-main #overlay.slide-6 {
+    display: block;
+    top: 13%;
+    left: 42%;
+    height: 10%;
+    width: 8%;
+}
+
+/*------aft---------*/
+.ship-aft #overlay.slide-2 {
+    display: block;
+    top: 53%;
+    left: 20%;
+    height: 25%;
+    width: 4%;
+}
+
+.ship-aft #overlay.slide-3 {
+    display: block;
+    top: 53%;
+    left: 20%;
+    height: 25%;
+    width: 4%;
+}
+
+.ship-aft #overlay.slide-4 {
+    display: block;
+    top: 53%;
+    left: 20%;
+    height: 25%;
+    width: 4%;
+}
+
+.ship-aft #overlay.slide-5 {
+    display: block;
+    top: 44%;
+    left: 26%;
+    height: 22%;
+    width: 4%;
+}
+
+.ship-aft #overlay.slide-6 {
+    display: block;
+    top: 38%;
+    left: 15%;
+    height: 13%;
+    width: 2%;
+}
+
+.ship-aft #overlay.slide-7 {
+    display: block;
+    top: 28%;
+    left: 12%;
+    height: 6%;
+    width: 3%;
+}
+
+/*-------bow----------*/
+.ship-bow #overlay.slide-2 {
+    display: block;
+    top: 52%;
+    left: 67%;
+    height: 15%;
+    width: 5%;
+}
+
+.ship-bow #overlay.slide-3 {
+    display: block;
+    top: 63%;
+    left: 68%;
+    height: 9%;
+    width: 3%;
+}
+
+.ship-bow #overlay.slide-4 {
+    display: block;
+    top: 84%;
+    left: 75%;
+    height: 11%;
+    width: 4%;
+}
+
+.ship-bow #overlay.slide-5 {
+    display: block;
+    top: 34%;
+    left: 77%;
+    height: 16%;
+    width: 5%;
+}
+
+#content {
+    margin-top: 20px;
+}
+
+#content > div {
+    display: none;
+}
+
+#content.overview #content-overview,
+#content.ship-aft #content-aft,
+#content.ship-main #content-main,
+#content.ship-bow #content-bow {
+    display: block;
+}
+
+.carousel-inner>.item>img {
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0px;
+    right: 0px;
+    padding-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10%
+}

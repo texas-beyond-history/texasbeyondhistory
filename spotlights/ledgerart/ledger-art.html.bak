@@ -1,0 +1,325 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/spotlight.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Ledger Art</title>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../camera-button-ro-sm.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../../index.html">TBH Home</a>  
+	<form action="/search.php" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>  
+	<div id="nav">
+		<div id="tt"><h1>Spotlight</h1></div>
+	
+	</div>
+
+<div id="content"><!-- InstanceBeginEditable name="body" -->
+ <table width="780" border="0">
+  <tr>
+    <td>
+ <h2> The Schild Ledger Book: Drawing a Culture in Transition</h2></td>
+  </tr>
+</table>
+  <table width="780" border="0">
+  <tr>
+    <td><img name="icon" src="images/tmm-1988-22a-icon.jpg" width="778" height="486" alt="">
+    <div class="caption">In this enigmatic scene, a mounted warrior wearing a long feather headdress with horns and carrying a feathered shield and spear rides alongside a wounded warrior apparently falling from his horse. An additional shield and trade era Leman rifle are drawn in the top right corner, and hoofprints mark the path of the two riders. It is unclear whether the wounded man is a comrade being rescued or a victim. The note at top in German reads, &quot;Wounded Indian falls from horse;&quot; the bottom note reads, &quot;Black snake, Cheyenne.&quot; The  drawing is from the Schild Ledger Book, comprising nearly 60 Plains  Indian drawings  by one or more artists. Based on a variety of clues, the drawings are thought to have been created sometime between 1875 and 1895. TARL Archives. </div></td>
+  </tr>
+</table>
+
+ <table width="780" border="0">
+  <tr>
+    <td width="480" height="1779" valign="top"><p>(Editor's Note: Since this Spotlight feature was published, TARL donated the Schild Ledger  Book to UT's Blanton Museum of Art.)</p>
+      <p>One of the most  unusual collections at the Texas Archeological Research Laboratory is a set of  58 Plains Indian ledger drawings of unknown authorship and mysterious  provenance.&nbsp; Some are brilliant in color  and detail, others are simple pencil sketches, never completed.&nbsp; Known as ledger drawings because of the paper  on which they were drawn&mdash;typically ruled pages from account books acquired as a  gift or through theft or trade&mdash;ledger art is a Plains Indian style created largely in  the last third of the 19th century.&nbsp;  As a genre, it is a continuation of traditional pictorial art originally painted on  buffalo hide robes and tipi covers recording battles, heroic deeds, ceremonies,  and everyday customs of Plains Indians as their way of life passed into  history. In contrast to the traditional hide paintings, however, much of the  ledger art was executed by artists held on reservations or in prison, using the  tools and materials of a foreign culture&mdash;crayons, pencils, and paper. </p>
+      <p>
+      
+        Originally bound in  a hard-cover account book, the Schild Ledger drawings were acquired in 1964 by  the Texas Memorial Museum (TMM) at The University of Texas at Austin from Mrs.  Lily Tips of Frankfurt, Germany.&nbsp; Her late  husband, Carlos Tips, was an artist who had spent many years studying ledger  art and attempting to identify the characters and scenes depicted in this book.  Handwritten labels in German appear on a number of the drawings, and a note  testifying to the purported identity of the book&rsquo;s artist and subsequent chain  of ownership is affixed to the ledger cover. Unfortunately, most of what is  inscribed on and written about the drawings is now disputed or known to be  incorrect. </p>
+      <p>
+        According to Tips&rsquo;  family records, the book was purchased by Dr. E. H. Tips, in Fredericksburg,  Texas, in 1895, from the estate of family friend, Herman Schild, reportedly a  U.S. Indian Commissioner. (The names, Herman Schild,&nbsp; Oak, Arkansas, as well as Schild,  Fredericksburg Texas, are inscribed on an inside cover.)&nbsp; Dr. Tips brought the book to  Germany, and it eventually was passed on to his son, Carlos.&nbsp; It is likely that Dr. Tips wrote most of the  notes on the drawings, although one or two are in English rather than German. </p>
+      <h3>
+        <strong>Questions and Clues </strong><br>
+      </h3>
+      <p>Much of what is  known about the Schild Ledger Book raises questions&mdash;from the identity and  tribal affiliation of the artist or artists who created the drawings to the  circumstances of the book's coming into the possession of the Tips family.&nbsp; In a handwritten note in German attached to  the cover of the book, the drawings are attributed to a Comanche Indian woman  named &quot;Ollie Johnson, wife of a Chief Bigfoot of North Dakota,&quot; between 1840 and  1850.&nbsp; This identification and the time  period given are highly unlikely, however. There has been no record found of  such an Ollie Johnson nor a Comanche by the name of Bigfoot who lived in the  Dakotas. No Comanche groups were relocated to the Dakotas, but rather were  confined on reservations in Oklahoma and Texas.&nbsp; There are few known Comanche ledger artists,  and fewer still&mdash;if any&mdash;who are female.&nbsp;  The great majority of Plains ledger art was created after the 1860s by  other Plains Indians&mdash;Kiowa, Cheyenne, and Sioux. </p>
+         <p>
+          Tracing the  identity of Herman Schild also has been challenging. Although he is identified  in the note as an Indian Commissioner, no record has been found of his service.  However, the 1880 U.S. Census for Fredericksburg, Gillespie County, Texas,  lists a Herman Schild, 17, working as a farmer. There is also an 1894 U.S.  Immigration and Naturalization Record for a Herman Schild, of Arkansas.&nbsp; In both instances, the date and circumstances  make it unlikely for this Herman Schild to have been the Indian agent in  question.</p>
+         <p>
+          The identities of  figures identified by name in the drawings are similarly elusive.&nbsp; In one of the scenes, a wounded U.S. officer  on horseback is identified in a handwritten label in English as &ldquo;Jack White,  Commander of Camp Supply.&rdquo; &nbsp;Researchers have been unable to find  evidence of an officer by that name serving at Camp Supply, a U.S. Army post  established in 1868 in Indian Territory (present Oklahoma). It was from this  outpost that George Armstrong Custer led the 7th U.S. Cavalry to the  Washita River to destroy the village of Cheyenne chief Black Kettle, a  confrontation later known as the Battle of the Washita. Camp Supply later  served to guard the Arapaho and Cheyenne reservation. In 1878, Camp Supply was  renamed Fort Supply, after it served a key role during the Red River War of  1874-1875. </p>
+         <p>
+          Perhaps the most  substantive clues to location, date, and identity of the groups depicted in the  book comes from a complex drawing showing a battle between U.S. soldiers and Indian  warriors (see below). Based on the unusual defensive position of the soldiers, Texas  Historical Commission archeologist Brett Cruse believes this drawing depicts  the Buffalo Wallow battle, one of the engagements between U.S. Army forces and  Indians during the Red River War.&nbsp;  According to Cruse, there are few, if any, reported battles during the  Indian Wars in which soldiers fired from within a pit. Further, the number of  soldiers depicted in the drawing matched the number of soldiers actually at the  battle. Kiowa were the dominate group of Indians involved in the Buffalo Wallow  battle. This lends credence to the argument that this and many other drawings  in the Schild book were created by a Kiowa artist. </p>
+        </td>
+	<td width="300" valign="top">
+    <table width="300" border="0">
+  <tr>
+    <td height="70">&nbsp;</td>
+  </tr>
+</table>
+
+	<table width="300" border="0">
+  <tr>
+    <td height="191" class="margintext"> <em>Ledger art is a continuation of traditional pictorial art originally painted on  buffalo hide robes and tipi covers. Plains Indian artists recorded battles, heroic deeds, ceremonies,  and everyday customs  as their way of life passed into  history.</em></td>
+  </tr>
+</table>
+
+    
+	
+	 <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="643"><a href="images/tmm-1988-1a-1.html" title="photo of the cover of Schild Ledger Book" target="_blank"><img src="images/ledger-tmm-1988-1a-1-sm.jpg" alt="" name="image" width="299" height="417" class="thumbimg" border="0"></a>      <div class="caption">Cover of Schild Ledger Book with note  written in German by its then owner, Dr. E. H. Tips of Fredericksburg, Texas. Much of the information he provides about the drawings, including the time period, subject matter, and artist, is believed to be erroneous. Enlarge to read translation. <a href="images/tmm-1988-1a-1.html" target="_blank" onMouseOver="MM_swapImage('Image25','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image25" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="768"><a href="images/tmm-1988-29b.html" target="_blank"><img src="images/ledger-29b-sm.jpg" alt="Ledger drawing of elaborately dressed figure, a man clad in beaded leggings and moccasins, short skirt over long loin cloth, vest, hairpipe necklace, face paint, and a feather and scalp headdress" name="image" width="300" height="483" class="thumbimg"></a>
+    <div class="caption">  The handwritten label on this drawing reads, &ldquo;Ollie,&rdquo; who according to the book's owner, Dr.  E. H. Tips, was a Comanche woman who created the ledger drawings. However, based on the loincloth and other masculine attire, this elaborately dressed figure is a man. He   wears beaded leggings  and moccasins, a short skirt over the long loin cloth, vest (possibly altered from a U.S. military uniform jacket), hairpipe necklace, face  paint, and a feather and scalp headdress. He also&nbsp;  carries a feather fan. The costume has been identified as dating to the reservation era, circa 1880. TARL Archives. <a href="images/tmm-1988-29b.html" target="_blank" onMouseOver="MM_swapImage('Image26','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image26" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+
+	
+	</td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-21b.html" target="_blank"><img src="images/tmm-1988-21a.jpg" width="780" height="475" class="thumbimg"></a>      <div class="caption">Indian attack on U.S. soldiers, who are barricaded within  a hole or   depression in the ground.&nbsp;In  this richly detailed, panoramic scene,   four soldiers and six Indian men are  depicted. The Indians are armed   with feathered lances and rifles, and two of the  warriors wear long,   feathered war bonnets. The label at  bottom right reads,  &ldquo;A heavy   battle in which more white than Indians killed. Soldiers in hole&rdquo; and   &ldquo;Fight  where half Indians killed.&rdquo; Based on the position of the   soldiers as well as  their uniforms, Texas Historical Commission archeologist Brett Cruse  believes this scene may depict the Buffalo   Wallow battle in 1874,  one of several clashes between Southern Plains   Indians and the U.S. Army during  the <a href="http://www.texasbeyondhistory.net/redriver/index.html" target="_blank">Red River War</a>.   There are few  reported accounts of battles where soldiers have fought    from a defensive  position dug in within a hole. An unusual element in   this drawing is the suggestion of a  wooded landscape in the top left   corner. Trees, plants, and&nbsp; geographic features are rarely included in    ledger art. TARL Archives. <a href="images/tmm-1988-21b.html" target="_blank" onMouseOver="MM_swapImage('Image27','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image27" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td width="480">
+    <h3>
+           
+          <strong>Following the Trail</strong></h3>
+         <p>
+          There are, however,  numerous other clues in the drawings&mdash;elements of Indian dress, weaponry, and  ornamentation of horses, as well as details of customs depicted.&nbsp; Some of these apparently connect them to  Kiowa and others, although fewer, to the Cheyenne.&nbsp; Prominently featured in almost every drawing  are horses, a critical element in the development of Plains Indian culture,  enabling tribes to hunt buffalo with greater ease, travel farther, carry  heavier loads, and conduct warfare from a mobile base of operations.&nbsp; Many of the horses are drawn with elaborate  bridles and other ornamentation, as well as body paint, signifying their  importance to the tribe. Some bear brands indicating they may have been obtained through raids on white settlements or Army posts. Stylistic details may hold clues to the artist(s) or to the evolving nature of the art form: while most horses in the Schild book are drawn with a  diminutive head in relation to the elongated body, a few are shown with more realistic proportions. Variations in the way  horses are depicted in motion&#8212;most are in &quot;rocking-horse&quot; style with back legs extended, but a few are drawn with a rear leg thrust forward&#8212;suggest the hands of multiple artists. </p>
+         <p>
+          Great attention is paid to details of dress, both of the Indians as well as the U.S. soldiers and settlers, and these details may help in dating the drawings. Cartridge belts and uniform jacket style suggest the post-Civil War  period, not the 1840s, as stated in the notes attributed to the Tips family. Some soldiers wear the post-Civil War <em>kepi </em>style forage cap, while others wear  brimmed hats.  Native equipment&#8212;shields, headdresses, lances, and other personal gear&#8212;was drawn in sufficient detail to identify the Indian subjects  to their cohorts at the time.<strong> </strong></p>
+         <p>As in other ledger artwork, some of the Schild battle drawings include the symbolic use of hoofprints and dashed lines to represent directionality and movement, and spiral lines with dots to represent bullets in flight. Like earlier, traditional hide paintings, most Schild  ledger scenes convey a sense of narrative by drawing action from right to left, or with horses and figures largely drawn in left profile. Landscape details are not included, with the rare exception of the panoramic battle scene in which what appears to be a motte of trees or woods in the top left corner.         </p>
+         <p>
+          The most  comprehensive research on the Schild ledger drawings was conducted by  University of Texas Fine Arts student Barbara Ellen Loeb LaMont. Her 1975  unpublished Master&rsquo;s thesis compiles interpretations of tribal iconography and  regalia derived from correspondence with Plains Indian scholars, art  historians, and ledger art experts across the country. These include Father  Peter Powell, author and spiritual director of the St. Augustine Center for the  American Indian and a member of the Chief&rsquo;s Society for the Northern Cheyenne  People;&nbsp; Kiowa artist James Auchiah, one  of the famed &ldquo;Kiowa Five&rdquo; at the University of Oklahoma&rsquo;s School of Art in the  1920s; Smithsonian Institution anthropologist and author John Ewers; traditional Indian costume maker Mildred Cleghorn; and&nbsp; UT Anthropology Professor  William Newcomb, the latter of whom was instrumental in acquiring the drawings  for the TMM.  LaMont also examined collections of ledger drawings at other  institutions, including those of the Smithsonian National Anthropological  Archives, comparing the Schild drawings with those of known Kiowa and Cheyenne  artists.&nbsp; Given the authoritative sources  she consulted, LaMont&rsquo;s thesis is a fascinating trove of information. Excerpts  from her findings and those of other researchers are included with this  selection of  examples from the Schild Ledger book.</p>
+         <h3>
+        <strong><em>Enlarge each drawing below for detail</em></strong>:</h3>
+        <p>&nbsp;</p>
+    </td>
+    <td>
+    <table width="300" border="0">
+  <tr>
+    <td width="300" height="414"><a href="images/tmm-1988-21a.html" target="_blank"><img src="images/tmm-1988-21b-sm.jpg" alt="Unfinished ledger drawingof a U.S. soldier is apparently falling from his horse" name="image" width="300" height="264" class="thumbimg"></a>
+    <div class="caption">  In this unfinished drawing, a U.S. soldier is apparently  falling from his horse. The near-vertical position of the horse is seen in  other drawings and  indicates the animal has been wounded or killed. The drawing  bears the inscription in English, &ldquo;Commander from Camp Supply, Jack White&rdquo;  along with the German word&nbsp; for  &ldquo;dead.&rdquo;&nbsp; It is unclear whether the knife  shown in the drawing relates to the soldier. Enlarge for more detail. TARL Archives. <a href="images/tmm-1988-21a.html" target="_blank" onMouseOver="MM_swapImage('Image28','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image28" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td height="555" valign="bottom"><a href="images/tmm-1988-26a.html" target="_blank"><img src="images/tmm-1988-26a-sm.jpg" alt="Ledger drawing of a horse decorated white man's saddle and two blankets in front of a tipi" name="image" width="300" height="274" class="thumbimg"></a>
+    <div class="caption">Befitting their important role in Plains culture, horses are prominently featured in almost every drawing, such as this one shown with a decorated white man's saddle and two blankets in front of a tipi. According to Father Peter Powell, the horse's ears are clipped like those of a race horse. What appears to be a tooth hanging from the horse's neck may be from an antelope, considered protective medicine for race horses. Note the diminutive scale of the horse's head, a stylistic convention seen throughout the ledger drawings. TARL Archives. <a href="images/tmm-1988-26a.html" target="_blank" onMouseOver="MM_swapImage('Image29','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image29" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-29f.html" target="_blank"><img src="images/ledger-29f-sm.jpg" alt="" name="thumb" width="390" height="273" class="thumbimg"></a>      <div class="caption"></div></td>
+    <td><a href="images/tmm-1988-17a.html" target="_blank"><img src="images/tmm-1988-17F-sm.jpg" alt="" name="thumb" width="390" height="275" class="thumbimg"></a>      <div class="caption"></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-11a.html" target="_blank"><img src="images/tmm-1988-11a-sm.jpg" alt="" name="thumb" width="390" height="370" class="thumbimg"></a>      <div class="caption"></div></td>
+    <td><a href="images/tmm-1988-24a.html" target="_blank"><img src="images/tmm-1988-24a-sm.jpg" alt="" name="thumb" width="390" height="351" class="thumbimg"></a>      <div class="caption"></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-27a.html" target="_blank"><img src="images/tmm-1988-27a-sm.jpg" alt="" name="thumb" width="390" height="304" class="thumbimg"></a>      <div class="caption"></div></td>
+    <td><a href="images/tmm-1988-15b-1.html" target="_blank"><img src="images/tmm-1988-15b-1-sm.jpg" alt="" name="thumb" width="390" height="300" class="thumbimg"></a>      <div class="caption"></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-3a.html" target="_blank"><img src="images/tmm-1988-3a-sm.jpg" alt="" name="thumb" width="388" height="309" class="thumbimg"></a>      <div class="caption"></div></td>
+    <td><a href="images/tmm-1988-9a.html" target="_blank"><img src="images/tmm-1988-9a-sm.jpg" alt="" name="thumb" width="390" height="308" class="thumbimg"></a>      <div class="caption"></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-22b-1.html" target="_blank"><img src="images/ledger-22b-1-sm.jpg" alt="" name="thumb" width="390" height="262" class="thumbimg"></a>      <div class="caption"></div></td>
+    <td><a href="images/tmm-1988-23a.html" target="_blank"><img src="images/tmm-1988-23a-sm.jpg" alt="" name="thumb" width="390" height="273" class="thumbimg"></a>      <div class="caption"></div></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><a href="images/tmm-1988-7-lg.html" target="_blank"><img src="images/TMM-1988-7.jpg" width="777" height="377" class="thumbimg"></a>
+      <div class="caption"> This detailed drawing, interpreted as &ldquo;bringing  boughs to the Sun   Dance Lodge,&rdquo; holds promise as identifying a specific tribe or culture. A mounted Indian man rides behind a&nbsp;group of people under   umbrellas who appear to be  pulling felled trees. The lodge is framed by upright   poles or forked tree trunks and is  adorned with feathers and bundles of   goods (possible offerings). The long black object atop the lodge is thought to represent a stuffed buffalo skin which many tribes placed above the center pole. Although identified in the German label as   &ldquo;Indian  burial&rdquo;, the structure and boughs are thought to identify it   as a Sun Dance  Lodge. Father Peter Powell identified the scene as Kiowa   because   women of that tribe, unlike Cheyenne, assisted in bringing boughs to   the lodge. However, the center pole appears to have a red stripe of paint, which some scholars believe was not a Kiowa tradition; most Kiowa lodge center poles were not painted. TARL Archives.
+        <p>&nbsp;</p>
+      </div></td>
+  </tr>
+</table>
+
+ <table width="780" border="0">
+  <tr>
+    <td width="480" valign="top"><p>&nbsp;</p>
+      <h3><strong>Ledger Art in Historical Context</strong></h3>
+      <p>
+        Unlike calendar  art, or winter counts, executed by Kiowa and Lakota men using simplified  symbols to mark key events within the tribe over the course of a year, many  ledger drawings are personal narratives heralding individual deeds and honors.  The warrior-artists recorded their heroic past and the tumult and  transformation of their life in the present. Ledger drawings memorialize the  &ldquo;glory days&rdquo; of warriors and hunters, when bison were still abundant on the  Plains, while other scenes capture moments of individual bravery during battles  with the U.S. Army before the tribes were moved onto reservations. </p>
+      <p>According to  Candace Greene, author and North American Indian ethnologist at the Smithsonian  Institution&rsquo;s National Museum of Natural History, the Kiowa considered these heroic actions, or coups, to be the &ldquo;property&rdquo; of the man who executed them. The right  to tell the story or portray it in drawing was closely held by the individual.  In some detailed drawings, Greene has found that specific individuals can be identified,  based on details of their dress and weapons such as the symbols on their  shields. Other ledger drawings record tribal customs, such as courting, dances, and spiritual  ceremonies. For the artists, the drawings were important representations  reflecting a chief or warriors&rsquo; wealth and status, signified by the quantity of  possessions and the ornamentation of regalia and weaponry. Representing the  continuation of an artistic tradition originally executed on buffalo hide robes  and tipi covers, the drawings are a colorful and poignant reflection of Plains  Indian life.&nbsp; </p>
+      <p>
+        Greene examined  copies of the Schild ledger drawings and, in a 1984 letter to a TMM staff  member, wrote that in her opinion &ldquo;the drawings represent the work of several artists and are  definitely not by any Cheyenne artist whose work I have examined. Their style  is not typical of the Cheyenne, especially the extensive use of square front  and back views&hellip; .&rdquo;&nbsp; She notes further  that the style is more typical of the work of various artists located around Ft.  Sill, the most well known of which are Kiowa. The representation of costume by  the artists also suggests Southern Plains. Although she notes there was much  intertribal sharing of costume styles during the late 19th century,  her interpretation as a whole contradicts the handwritten notes in the Schild  book which seem to connect the drawings to a location in North Dakota.</p>
+      <p>
+        Much of known  Plains ledger art was created during a time of tremendous cultural upheaval  during the 1860s-1880s when contact with white soldiers and settlers led to  violent conflict and ultimately removal of tribes to reservations. As a result  of the Medicine Lodge Treaty of 1868, and the Red River War of 1874-1875, the  Kiowa and Comanche were concentrated together on a reservation in western  Indian Territory, now southwestern Oklahoma. Cheyenne and Arapaho were confined  on a different reservation in the same general area. The latter tribes drew  their annuities (supplies furnished annually by the U.S. government) from Camp  Supply, and later from Fort Reno. Kiowa and Comanche drew their annuities at  Fort Sill.&nbsp; Members of all four tribes  participated in the battles comprising the Red River War, which occurred in the  wake of the attack on white buffalo hunters at a compound known as Adobe Walls,  in the Texas Panhandle.&nbsp; The battle of  Buffalo Wallow, believed to be depicted in one of the ledger drawings, was  fought on September 12, 1874, in southeastern Hemphill County, Texas.</p>
+      <p>
+        Of all the ledger  art known to have been created by members of the various Plains tribes, some of  the most vivid scenes are attributed to Kiowa men held prisoner at Fort Marion  in St. Augustine, Florida.&nbsp; At the end of  the <strong>Red River War</strong> in Texas and  Oklahoma in 1875, more than 70 Kiowa, Comanche, Cheyenne, and Caddo men were  transported to the prison without trial and placed under the command of a man  named Richard Pratt.&nbsp; While the intent of  the imprisonment was to strip the Indians of their culture and force  assimilation into American life, it was Pratt&mdash;with his philosophy of &lsquo;kill the  Indian and save the man&rdquo;&mdash;who encouraged the prisoners to create works of art as  a trade.&nbsp; Many of the drawings were sold  commercially to an eager tourist market. Denied their traditional way of life,  the artists preserved their past through drawings. </p>
+      <h3>
+        <strong>An Enduring Mystery</strong></h3>
+      <p>
+        The Schild Ledger  Book was passed down through at least three families before it came to the  University of Texas. Memories and interpretations, whether orally transmitted  or written, are subject to alterations with each retelling or reiteration.&nbsp; Because the Comanche loomed large in the  history of Fredericksburg, Texas, where Herman Schild and the Tips family lived  at one time, it is possible that the art was attributed to that tribe simply  because of that aspect of regional history.  The notes accompanying the drawings are puzzling, and questions about  the artists and people and places depicted in the drawings may never be  definitively answered.&nbsp; Later analyses of  the Schild book were conducted long  before museum collections and government records were digitized and made  available through the Internet. There  now is considerable opportunity for researchers to learn more about the remarkable Schild  drawings by comparing them with other collections available online and for  questions surrounding their provenance to be re-investigated. </p>
+      <h3>Correlated Lesson Plan for Teaching about Plains Ledger Art </h3>
+      <p>A new lesson correlated to the Schild Ledger Collection examines how ledger art was, and still is, an important medium of expression for Native Americans. Created by TBH Education Advisor Carol Schlenk, the lesson is oriented to 7th-grade students and meets a number of the state-mandated curriculum objectives for Social Studies and Middle School Art (Texas Essential Knowledge                 and Skills, or TEKS). Detail on this lesson and a link to the TEKS and pdf copy of the lesson is below:</p>
+      <p><span class="text"><strong><a href="../../teach/images/drawingourlives-lesson.html" target="_blank">Drawing Our Lives: Plains Indian Ledger Art Revisited </a></strong><br>
+        In this lesson, students view examples of Plains Indian ledger art from different eras and read a speech made by Kiowa chief Satanta when his tribe was forced onto a U.S. government reservation in the late 1800s. They will then create an example of ledger art that documents some aspect of their own culture and write a paragraph explaining their choice of subject. Suggested for 7th grade, but easily adapted for 4th.<a href="http://www.texasbeyondhistory.net/teach/images/drawingourlives-dwld.html" target="_blank"> View 
+          TEKS and download page</a></span>      </p>
+      <h3><strong>Credits and  Sources</strong></h3>
+      <p>
+        This Spotlight  entry was written by TBH Editor Susan Dial, based on information in the following sources as  well as research on additional ledger drawings and correspondence in TARL Records. TBH Associate Editor Heather Smith  programmed the page for the web. Scans of the images were made by TARL volunteer Marianna Grenadier.  The Schild  Ledger Book is owned by The University of Texas and curated at TARL.</p>
+         <p>
+      <strong>Ewers, John </strong><br>1939<em> Plains Indian Painting: A Description of an Aboriginal American Art. </em>Stanford University Press. <br>
+      </p>
+      <p>
+        <strong>Greene, Candace S.</strong><br>
+        2005 Winter Counts  and Coup Counts: Plains Pictorial Art as Native History.&nbsp; Smithsonian Museum of Natural History <em>AnthroNotes</em> 26(2):1-6.</p>
+      <p>
+        <strong>LaMont, Barbara Ellen Loeb</strong><br>
+        1975 The Schild  Ledger Book: Plains Indian Drawings. Unpublished Master&rsquo;s thesis, The  University of Texas at Austin.      </p>
+      <p>
+        <strong>Mooney, James</strong> (Transcribed and edited by Father Peter Powell)<br>
+        2013 <em>In Sun&rsquo;s Likeness and Power: Cheyenne  Accounts of Shield and Tipi Heraldry</em>. University of Nebraska Press, Lincoln.       
+      <p><strong>Utley, Robert M.</strong><br>
+1984 <em>The Indian Frontier of the American West 1846-1890.</em> University of New Mexico Press, Albuquerque.
+      <h3>
+        <strong>Links</strong></h3>
+      <p>
+        To learn more about  the Kiowa and view additional examples of ledger art, see  the <strong>Kiowa</strong> section of the <strong><em>Peoples of the Plateaus and Canyonlands in Historic Times </em></strong>on TBH:</p>
+      <p><a href="http://www.texasbeyondhistory.net/plateaus/peoples/kiowa.html" target="_blank">http://www.texasbeyondhistory.net/plateaus/peoples/kiowa.html</a> <br>
+      </p>
+      <p>Learn more about  the last days of the Plains Indians in Texas in<strong><em> The Passing of the Indian Era</em></strong> in the Frontier Forts exhibits on TBH:</p>
+      <p><a href="http://www.texasbeyondhistory.net/forts/indians.html" target="_blank">http://www.texasbeyondhistory.net/forts/indians.html</a> </p>
+      <p>
+        Learn more about  the <strong><em>Battles of the</em></strong> <em><strong>Red River Wa</strong></em><strong>r</strong>, the 1874 U.S. Army  campaign to remove tribes from the Southern Plains:</p>
+      <p><a href="http://www.texasbeyondhistory.net/redriver/index.html" target="_blank">http://www.texasbeyondhistory.net/redriver/index.html</a>. </p>
+      <p>Other ledger art collections can be viewed at the Smithsonian National Museum of Natural History galleries of works by <strong>Fort Marion artists:</strong></p>
+      <p><a href="http://anthropology.si.edu/naa/exhibits/kiowa/ft_marion.htm" target="_blank">http://anthropology.si.edu/naa/exhibits/kiowa/ft_marion.htm</a></p>
+      <h3>&nbsp;</h3>
+<p>&nbsp;</p></td>
+	<td width="300"valign="top">
+	
+	 <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="316"><a href="images/tmm-1988-18a.html" target="_blank"><img src="images/tmm-1988-18a-sm.jpg" alt="" name="image" width="300" height="209" class="thumbimg"></a>
+    <div class="caption">A soldier pursues two Indians on horseback. Note the Indians&rsquo; shield and lance. The horse has been painted with red handprints, and what  appears to be a scalp hangs from the bridle. Symbols for bullets and hoof  prints also are drawn into the scene, indicating battle. TARL Archives. <a href="images/tmm-1988-18a.html" target="_blank" onMouseOver="MM_swapImage('Image30','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image30" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td height="571"><a href="images/tmm-1988-20a.html" target="_blank"><img src="images/tmm-1988-20a-sm.jpg" alt="Ledger drawing scene depicting an attack on five armed white men in a building" name="image" width="300" height="326" class="thumbimg"></a>      <div class="caption">This scene depicts an attack on five armed white men in a building.  Another man with an arrow in his chest lies on the ground next to another  building. Someone has written the word, &ldquo;soldiers,&rdquo; next to the men, but they  are dressed in non-military attire; it is unclear whether they are settlers,  members of a militia, or other unit. The numerous symbols for bullets,  hoofprints, and footprints drawn around the scene indicate a heavy battle took  place. Although no Indian foes are shown, a wounded horse bearing Indian  ornamentation is drawn at left. TARL Archives. <a href="images/tmm-1988-20a.html" target="_blank" onMouseOver="MM_swapImage('Image31','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image31" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="433"><a href="images/map-ind-terr-1866-1890-utley1984.html" target="_blank"><img src="images/map-ind-terr-1866-1890-utley1984-sm.jpg" alt="Map of Indian Territory in Oklahoma showing locations of the Kiowa and Comanche with Fort Sill and the Cheyenne and Arapaho reservations" name="image" width="300" height="352" class="thumbimg"></a>      <div class="caption">Map of Indian Territory in Oklahoma, 1866-1890, showing locations of the Kiowa and Comanche reservation, Fort Sill, and the Cheyenne and Arapaho reservations. Note locations of Fort Supply and Fort Reno, which were supply points for the military and later, for the reservations. Graphic adapted from Utley 1984. <a href="images/map-ind-terr-1866-1890-utley1984.html" target="_blank" onMouseOver="MM_swapImage('Image32','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image32" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<blockquote>&nbsp;</blockquote>
+ <table width="300" border="0">
+   <tr valign="bottom">
+     <td height="623"><a href="images/tmm-1988-2b.html" target="_blank"><img src="images/tmm-1988-2b-sm.jpg" alt="The signature page of the ledger book shows the name &ldquo;Herman Schild, Oak, Arkansas&rdquo;, in black, and three additional names below: &ldquo;Schild, Fredericksburg, Texas&rdquo;; &ldquo;K. Flemons&rdquo;, and &ldquo;Sandy&rdquo;, in purple pencil" name="image" width="299" height="507" class="thumbimg"></a>
+       <div class="caption"> The signature page of the ledger book shows the name &ldquo;Herman  Schild, Oak, Arkansas&rdquo;, in black, and three additional names below: &ldquo;Schild,  Fredericksburg, Texas&rdquo;, &ldquo;K. Flemons&rdquo;, and &ldquo;Sandy&rdquo;,  in purple pencil. The fact that the first page of the book was inscribed in this fashion, and not used for a drawing, may indicate that it belonged to Schild from the beginning of its use. <a href="images/tmm-1988-2b.html" target="_blank" onMouseOver="MM_swapImage('Image33','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image33" align="absmiddle"></a></div></td>
+     </tr>
+</table>
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="402"><a href="images/tmm-1988-1b.html" target="_blank"><img src="images/tmm-1988-1b-sm.jpg" alt="Ledger drawing of a painted tipi and a decorated shield hanging beside the tipi door." name="image" width="300" height="258" class="thumbimg"></a>
+    <div class="caption">Painted tipi and a decorated shield hanging beside the tipi door, attributed to Bigfoot and Ollie, respectively. This scene was drawn on the other inside cover of the book.  Questions about the purported artist, Ollie, and the people and places depicted in the Schild ledger book may never be answered. TARL Archives. <a href="images/tmm-1988-1b.html" target="_blank" onMouseOver="MM_swapImage('Image34','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image34" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="495"><a href="images/lesson-modern-corcoran.html" target="_blank"><img src="images/lesson-modern-ledger-sm.jpg" alt="modern ledger drawing with trucks." name="image" width="300" height="259" class="thumbimg"></a>
+    <div class="caption">This contemporary drawing entitled <em>&quot;The Road to  Indian Market is Filled with Potholes</em>&rdquo; by Dolores Purdy Corcoran (2012), is part of a<a href="../../teach/images/ledger-lessonplan.pdf" target="_blank"> new TBH lesson plan</a> that examines how ledger art was, and  still is, an important medium of expression for Native Americans. The lesson, &quot;Drawing our Lives: Plains Ledger Art Revisited,&quot; is correlated to the Schild Ledger Book. Oriented to 7th-grade students, the lesson contatins a variety of primary documents to aid students in understanding Plains Indian history. Image courtesy of the artist. Enlarge to see full drawing. <a href="images/lesson-modern-corcoran.html" target="_blank" onMouseOver="MM_swapImage('Image34','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image34" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+	
+	</td>
+  </tr>
+</table>
+<!-- InstanceEndEditable -->  </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="../../spotlight.html">Return to Spotlight Main</a>    </p>
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../../index.html">Texas Beyond History</a><br>
+     <a href="../../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" --> <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,192 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>Horn: Radiocarbon Assays</title>
+<script type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<style type="text/css">
+<!--
+.style9 {font-size: 12px}
+.style11 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style12 {color: #0000FF}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg','camera-button-ro-sm.jpg')">
+<table width="780" border="0">
+  <tr>
+    <td height="42"> <h3>Radio Carbon Assays from Horn Shelter
+      
+    </h3></td>
+  </tr>
+</table>
+
+<table width="780" border="0" class="margintext">
+  <tr class="timelinetext">
+    <td>Age</td>
+    <td>Calendric Age</td>
+    <td>Material </td>
+    <td>Lab#</td>
+    <td>Stratum</td>
+  </tr>
+  <tr>
+    <td height="41" valign="top"><span class="style9">(14C- yrs BP )</span></td>
+    <td valign="top"><span class="style9">(Calibrated yrs BP)</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30"><span class="style12">10,600+/-180 </span></td>
+    <td><span class="style12">12,438+/-260</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(CAMS-395)</span></td>
+    <td><span class="style12">7</span></td>
+  </tr>
+  <tr>
+    <td height="28">10,310 ± 150</td>
+    <td>12,121+/-331</td>
+    <td>shell</td>
+    <td>(Tx –1997)</td>
+    <td>5G</td>
+  </tr>
+  <tr>
+    <td height="28">10,150 ± 120</td>
+    <td>11,778+/-275</td>
+    <td>bone</td>
+    <td>(Tx –2189) </td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td height="27">10,030 ± 130</td>
+    <td>11,621+/-259</td>
+    <td>shell</td>
+    <td>(Tx –1998)</td>
+    <td>5G</td>
+  </tr>
+  <tr>
+    <td height="27"><span class="style12">9,980 ±  370</span></td>
+    <td><span class="style12">11, 591+/-606</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(Tx –1722)</span></td>
+    <td><span class="style12">5G</span></td>
+  </tr>
+  <tr>
+    <td height="28"><span class="style12">9,500 ±  200</span></td>
+    <td><span class="style12">10,810+/-277</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(Tx –1830)</span></td>
+    <td><span class="style12">5G</span></td>
+  </tr>
+  <tr>
+    <td height="28">8400 ± 110</td>
+    <td>9368+/-120</td>
+    <td>shell </td>
+    <td>(Tx –1996)</td>
+    <td>8B</td>
+  </tr>
+  <tr>
+    <td height="28">4145 ± 190</td>
+    <td>4670+/-251</td>
+    <td>shell</td>
+    <td>(Tx –1995) </td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td height="28"><span class="style12">3855 ± 205</span></td>
+    <td><span class="style12">4278+/-284</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(Tx –1720)</span></td>
+    <td><span class="style12">10</span></td>
+  </tr>
+  <tr>
+    <td height="27">2635 ± 185</td>
+    <td>2723+/-241</td>
+    <td>shell </td>
+    <td>(Tx –2000)</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td height="29"><span class="style12">2405 ± 175</span></td>
+    <td><span class="style12">2460+/-223</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(Tx –1999)</span></td>
+    <td><span class="style12">10</span></td>
+  </tr>
+  <tr>
+    <td height="27"><span class="style12">610 ± 135</span></td>
+    <td><span class="style12">1239+/-136</span></td>
+    <td><span class="style12">charcoal</span></td>
+    <td><span class="style12">(Tx –1723)</span></td>
+    <td><span class="style12">19</span></td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><p class="style11">Note that charcoal samples (shown highlighted above)  are more reliable.&nbsp; Shell typically yields older  dates than true age; bone typically yields dates younger than true age. </p></td>
+  </tr>
+</table>
+
+
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><a href=""><img src="../../images/close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+ 
+<script language="javascript"> 
+ 
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+ 
+ 
+<script language="javascript" type="text/javascript"> 
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+

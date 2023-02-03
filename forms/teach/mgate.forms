@@ -1,0 +1,63 @@
+#
+# Format is
+#	form FORMNAME address ADDRESS[,ADDRESS2,...,ADDRESSN]
+#	form FORMNAME forward body|formdata
+#	form FORMNAME forward formfields [FIELD1,FIELD2,...,FIELDN] 
+#	form FORMNAME response URL
+#	form FORMNAME require FIELD[,FIELD2,FIELD3]
+#
+#
+# Where
+#	FORMNAME is the name of the form as used in the author/form
+#		portion of the form's ACTION tag
+#
+#	ADDRESS is an RFC822 address, fed to sendmail in the To: line.
+#		Separate multiple addresses by commas.
+#
+#	The ``forward'' keyword selects what is forwarded to the author:
+#	    BODY
+#		send the the field with the name ``body''.  Intended for
+#		mail-in comment forms.
+#	    FORMFIELDS
+#		send a list of decoded form fields to the specified address
+#	    FORMDATA
+#		send the URL encoded forms data provided by the form as
+#		a MIME message.
+#
+#	URL	is a URL for a response document that the server will send
+#		back in response to the forms submission.
+#	
+# Example:
+#	
+#
+#NOTE: Below, insert your E-mail address, the address that the form data in 
+#      comments.html will be sent to.
+#
+form comments address tbhstaff@www.texasbeyondhistory.net
+#	              ^^^^^^^^^^^^^^^^^^^^^ 
+#
+#NOTE: Below, list field names that you require a user to complete in 
+#      comments.html.  To avoid empty or anonymous mail, you should
+#      require the fields from, subject, body.
+#      Also, the from field is a special name.  The from field is automatically
+#      put the in from field of the mail message.
+#WARNING: Do not put blank spaces after commas.  This will cause errors.
+#
+form comments require name,from
+#	              ^^^^^^^^^^^^^^^^^
+
+#NOTE: Below, list field names that you want forwarded in the mail message
+#      you receive.  You need not forward the subject, as it will appear in
+#      the subject field of the message, and you need not forward from, as
+#      it will appear in the from field.  In the example, only body is
+#      forwarded.  If you create other fields, add them below on one line,
+#      which may run beyond the end of a normal 80-character line in your
+#      editor.
+#WARNING: If you list other fields below, separate them with commas and do not
+#         put blank spaces after commas.  This will cause errors.
+#
+form comments forward formfields name,from,city,school,grade,lessonsused1,lessonsused2,lessonsused3,interesting1,interesting2,interesting3,problems,othercontent,othercomments
+#NOTE: Below, type the URL to the response.html file.
+#
+form comments response http://www.texasbeyondhistory.net/teach/response.html
+#             		                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

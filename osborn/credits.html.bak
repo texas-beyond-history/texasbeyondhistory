@@ -1,0 +1,164 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/osborn.dwt" --><!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" --> 
+<title>Osborn Farm</title>
+<meta name="keywords" content="Jose Zapata, David G. Robinson, Mary S. Black, Haydee Rodriguez">
+<meta name="description" content="The Osborn Farm website was written by Jose Zapata, Park Manager of Casa Navarro State Historic Site in San Antonio, Texas.">
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/>  
+ <link rel="stylesheet" href="../print.css" type="text/css" media="print"/> 
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Osborn Farm</h1></div>
+
+
+    <h2><a href="index.html">Osborn Main</a>
+	<a href="world.html">World of the Tenant Farmer</a>
+	<a href="credits.html">Credits &amp; Sources</a>
+	<a href="curriculum.html">Curriculum&#151;&quot;Life on a Cotton Farm&quot;</a>
+	</h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" --> 
+      <h2>Credits &amp; Sources </h2>
+      <table width="780" border="0" cellpadding="0">
+        <tr> 
+          <td width="197"> <a href="images/jose.html" target="_blank"><img src="images/Jose-sm.jpg" width="200" height="285" alt="Jose Zapata" class="thumbimg"></a> 
+            <div class="caption">
+              Author Jos&eacute; Zapata, shown at the Casa 
+                Navarro in San Antonio, where he is now Park Manager.
+              
+            </div>
+          </td>
+          <td width="577" valign="top"> 
+            
+          <p class="text">The Osborn site exhibit was written by Jos&eacute; Zapata 
+            and TBH Co-Editor Susan Dial and adapted in part from <i>The T.C. 
+            Osborn Tenant Farm, 41BP314</i>, by the same author, and from <i>Historical 
+            Research at the George Washington Jones Farmstead, 41BP86,</i> by 
+            David G. Robinson. The Osborn Farm research was carried out by the Center for Archaeological Research (CAR) of the University of Texas at San Antonio (UTSA) under the sponsorship of the Texas Department of Transportation (TxDOT). Both organizations, <a href="../abouttbh/partners.html#car">CAR-UTSA</a> and <a href="../abouttbh/partners.html#txdot">TxDOT</a>, are TBH partners. </p>
+            <p class="text">Historical archeologist <strong>Jos&eacute; Zapata</strong> holds an undergraduate 
+              degree in Anthropology and graduate degrees in Bicultural-Bilingual 
+              Studies and Anthropology from UTSA, where he worked for the Center for Archaeological Research. Today Jos&eacute; is the Park Manager for Casa Navarro State Historic Site in downtown   San Antonio for the Texas Historical Commission. His research interests are the borderlands of south Texas and northern 
+              Mexico, historic preservation, vernacular architecture, oral history, 
+              critical historiography, and ethnogenesis. </p>
+            <p class="text">The curriculum, &quot;Living on a Cotton Farm,&quot; 
+              was developed for the Texas Department of Transportation by <strong>Dr. 
+              Mary S. Black</strong>, while an assistant professor of Social Studies Education at 
+              the University of Texas at Austin and education editor for <i>Texas 
+              Beyond History</i>. Spanish translations were provided by Dr. Hayde&eacute; 
+              Rodr&iacute;guez. </p>
+            <p class="text"> Photographs used in the exhibit, unless otherwise 
+              specified, were taken by photographers from the TxDOT or CAR.</p>
+          </td>
+        </tr>
+      </table>
+      <h3>Links</h3>
+      <p class="text"><a href="http://car.utsa.edu/index.html" target="_blank" class="text">http://car.utsa.edu/index.html</a><br>
+        Center for Archaeological Research at the University of Texas at San Antonio</p>
+      <p class="text"><a href="http://memory.loc.gov/" target="_blank" class="text">http://memory.loc.gov/</a><br>
+      American Memory: Historical Collections for the National 
+        Digital Library, Slave Narratives from the Federal Writers' Project 1936-1938.</p>
+      <p class="text"><a href="http://www.tshaonline.org/handbook/online" target="_blank" class="text">http://www.tshaonline.org/handbook/online</a><br>
+      <i>Handbook of Texas Online: </i>Bastrop<b>; </b>George 
+        Washington Jones 
+      <p class="text"><a href="http://www.rootsweb.com/" target="_blank" class="text">http://www.rootsweb.com</a><br>
+      A genealogy website for sharing and facilitating family 
+        history research. </p>
+      <p class="text"><a href="http://www.texancultures.utsa.edu/public/index.htm" target="_blank" class="text">http://www.texancultures.utsa.edu/public/index.htm</a><br>
+      Website for the Institute of Texan Cultures, The University 
+        of Texas at San Antonio</p>
+     
+      <h3>Sources</h3>
+      <p class="text"><b>Garc&iacute;a, J. R.</b><br>
+      1996 <i>Mexicans in the Midwest</i>, 1900-1932. University 
+        of Arizona Press, Tucson. </p>
+      <p class="text"><b>G&oacute;mez-Qui&ntilde;ones, Juan</b><br>
+        1994 <i>Mexican American Labor</i>, 1790-1990. University of New Mexico 
+        Press, Albuquerque.</p>
+      <p class="text"><b>Gore, Mary Belle Turner</b><br>
+        1979 <i>The Thomas Claiborne Osborn Hom</i>e. Annotated site and family 
+        history, Bastrop, Texas, May 24, 1979. Craig Pence Collection, Bastrop.</p>
+      <p class="text"><b>Montejano, David</b><br>
+        1987 <i>Anglos and Mexicans in the Making of Texas</i>, 1836-1986. University 
+        of Texas Press, Austin.</p>
+      <p class="text"><b>Robinson, David G.</b><br>
+        1989 <i> Historical Research at the George Washington Jones Homestead, 
+        41BP86, Bastrop County, Texas</i>. Texas Archeological Research Laboratory 
+        Technical Series 11, The University of Texas at Austin.</p>
+      <p class="text"><b>United States Senate (USS)</b><br>
+      1920 Hearing before the Committee on Immigration, United 
+        States Senate: Admission of Mexican Agricultural Laborers, Jan. 27, 1920.</p>
+      <p class="text"><b>Vargas, Z. (ed.)</b><br>
+      1999 Mexican Immigrants in the Midwest. In <i>Major Problems 
+        in Mexican American History</i> by Z. Vargas, pp. 254-265. Houghton Miflin, 
+        Boston.</p>
+      <p class="text"><b>Zamora, Emilio</b> <br>
+        1993 <i>The World of the Mexican Worker in Texas</i>. Texas A&amp;M University 
+        Press, College Station. </p>
+      <p class="text"><b>Zapata, Jos&eacute; E. </b><br>
+      2001 <i>The T. C. Osborn Tenant Farm, 41BP314: An Early 
+        Sharecropper Site in Bastrop County, Texas</i>. Center for Archaeological 
+        Research, The University of Texas at San Antonio Survey Report No. 309. 
+        Prepared for the Texas Department of Transportation Environmental Affairs 
+        Division Archeological Studies Program, Report No. 31. </p>
+      <h3><br>
+      </h3>
+      <!-- #EndEditable --> 
+  </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Osborn Main</a>
+	<a href="world.html">World of the Tenant Farmer</a>
+	<a href="credits.html">Credits &amp; Sources</a>
+	<a href="curriculum.html">Curriculum&#151;&quot;Life on a Cotton Farm&quot;</a>
+	</p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- #BeginEditable "date" -->20 September 2002<!-- #EndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- #EndTemplate --></html>

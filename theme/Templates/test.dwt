@@ -1,0 +1,55 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../styletest.css" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center" >
+  <tr class="menuhead"> 
+    <td width="378" height="35"> 
+      <div class="head"> <a href="../index.html"><img src="../images/tinytex.gif" width="35" height="29" border="0"></a>Texas 
+        Beyond History</div>
+    </td>
+    <td width="217" height="35" align="center"> 
+      <div class="menuhead1"> <a href="../index.html" class="menuhead">Home</a> 
+        | <a href="../index2.html" class="menuhead">Map Tool</a> | <a href="../glossary/index.html" class="menuhead">Glossary</a> 
+      </div>
+    </td>
+    <td width="185" height="35" align="right"> 
+      <div class="menuhead1">
+	  <form method="get" action="/search.php">
+	   <input type="text" size="10" name="words" value="">
+          <input type="submit" value="Search" name="submit">
+          <input type="hidden" name="config" value="tbh">
+          <input type="hidden" name="restrict" value="">
+          <input type="hidden" name="exclude" value="">
+        </form></div></td>
+  </tr>
+  <tr> 
+    <td colspan="3"> <!-- #BeginEditable "subhead" --><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td colspan="3"><!-- #BeginEditable "body" -->{body}<!-- #EndEditable --> 
+    </td>
+  </tr>
+  <tr> 
+    <td class="foot" colspan="3"><!-- #BeginEditable "foot" --><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td width="378"> 
+      <p class="foot">Texas Beyond History<br>
+        <a href="../sitemap.html" class="foot">Site Map</a><br>
+        <a href="mailto:sblack@mail.utexas.edu" class="foot">TBH WebTeam</a><br>
+        1 October 2001</p>
+    </td>
+    <td colspan="2"> 
+      <div align="right" class="foot"><a href="../index.html" class="foot">Home</a> 
+        | <a href="../index2.html" class="foot">Map Tool</a> | <a href="../glossary/index.html" class="foot">Glossary</a></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Graham-Applegate Rancheria</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.php" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	<div id="pt">
+	 <a href="../plateaus/index.html">Plateaus and Canyonlands Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Graham-Applegate Rancheria</h1>
+        </div>
+
+
+    <h2><a href="../graham/index.html">Graham-Applegate Main</a>
+			  <a href="../graham/austin.html">Austin Phase</a>
+			  <a href="../graham/houses.html">Ancient Houses</a>
+			  <a href="../graham/cooking.html">Cooking with Granite</a>
+			  <a href="../graham/arrow.html">Dart to Arrow</a>
+			  <a href="../graham/glass.html">Exotic Volcanic Glass</a>
+			  <a href="../graham/investigations.html">Site Investigations</a>
+			  <a href="../graham/artifacts.html">Artifacts</a>
+			  <a href="../graham/behind.html">Behind the Scenes</a>
+			  <a href="../graham/luas.html">Get Involved</a>
+			  <a href="../graham/teach.html">Teaching about the Rancheria</a>
+			  <a href="../graham/credits.html">Credits &amp; Sources</a>
+			  </h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" -->{body}<!-- #EndEditable --> 
+ </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="../graham/index.html">Graham-Applegate Main</a>
+	<a href="../graham/austin.html">Austin Phase</a>
+	<a href="../graham/houses.html">Ancient Houses</a>
+	<a href="../graham/cooking.html">Cooking with Granite</a>
+	<a href="../graham/arrow.html">Dart to Arrow</a>
+	<a href="../graham/glass.html">Exotic Volcanic Glass</a>
+	<a href="../graham/investigations.html">Site Investigations</a>
+	<a href="../graham/artifacts.html">Artifacts</a>
+	<a href="../graham/behind.html">Behind the Scenes</a>
+	<a href="../graham/luas.html">Get Involved</a>
+	<a href="../graham/teach.html">Teaching about the Rancheria</a>
+	<a href="../graham/credits.html">Credits &amp; Sources</a></p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- TemplateBeginEditable name="date" --><!-- TemplateEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>

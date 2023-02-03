@@ -1,0 +1,96 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/spotlight.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Stone Tools</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>  
+	<div id="nav">
+		<div id="tt"><h1>Spotlight</h1></div>
+	
+	</div>
+
+<div id="content"><!-- InstanceBeginEditable name="body" -->
+  <h2>Title</h2>
+  <table width="780" border="0">
+  <tr>
+    <td><img name="icon" src="" width="780" height="300" alt=""></td>
+  </tr>
+</table>
+
+ <table width="780" border="0">
+  <tr>
+    <td width="480" valign="top"><p>text</p></td>
+	<td width="300">
+	
+	 <table width="300" border="0">
+  <tr>
+    <td><img src="" alt="" name="image" width="300" height="300" class="thumbimg"><div class="caption">caption</div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td><img src="" alt="" name="image" width="300" height="300" class="thumbimg"><div class="caption">caption</div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td><img src="" alt="" name="image" width="300" height="300" class="thumbimg"><div class="caption">caption</div></td>
+  </tr>
+</table>
+
+	
+	</td>
+  </tr>
+</table>
+
+<!-- InstanceEndEditable -->  </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="../theme/tools/index.html">Return to Spotlight Main</a>    </p>
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" --> <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

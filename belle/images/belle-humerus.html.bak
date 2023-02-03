@@ -1,0 +1,106 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>The Belle</title>
+<meta name="keywords" content="The Belle, La Salle, Karankawa, Matagorda Bay, cofferdam, underwater archeology, Texas history, Texas archeology, Texas Historical Commission, Conservation Research Laboratory, Texas A&M">
+<meta name="description" content="The history of a French colonizing vessel and the methods used to excavate this unique shipwreck site off the Texas coast.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- <link rel="stylesheet" href="../../style-fl-coast.css" type="text/css" media="screen"/> --> 
+<!-- <link rel="stylesheet" href="../../print.css" type="text/css" media="print"/> -->
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 36px;
+	color: #990000;
+	font-family: arial, sans-serif;
+}
+.style4 {
+	color: #990000;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+}
+.style8 {
+	color: #990000;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg')">
+<table width="780" border="0">
+  <tr>
+    <td><img src="analysis-humerus1.jpg" width="355" height="179"></td>
+    <td><div align="center"><span class="style1">Humerus (Arm bone) 
+    </span></div></td>
+	
+	
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+ 
+    <td><p align="left" class="style4">The humerus is a long bone in the arm that runs from the shoulder to the elbow.  Like the other long bones, it has growth plates that expand as a child matures and fuse to the shaft of the bone once a person reaches adult years. </p>
+
+  <p align="left" class="style4">The humerus can also be used to predict height.  Various scientists have studied different populations of people to chart the relationship between bone length and height.  In the 1890’s, a study was made of French males linking the length of arm bones to height.  The information from this study helped scientists make a more accurate prediction of the height of the La Belle sailor because it is based on a group of people more like this individual than people living in the 21st century would be.  Similar information comes from studies of French soldiers in the 19th century and American prisoners of the War of 1812 being held in England.</p>   </td>
+    
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr><td height="35">
+
+    </td>
+  </tr>
+  <tr><td><span class="style8">What can the humorous of our sailor tell us?</span><br><img src="analysis-humerus.jpg" width="780" height="561" border="0" usemap="#Map"></td>
+  </tr>
+
+</table>
+
+
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><img src="analysis-humerus-dirt.jpg" alt="Dr. Dirt says &quot;For an old armadillo like me, I find all this talk of being short or tall very, very humerous!&quot;" width="316" height="214"> </div></td>
+  <td><p class="style4"><strong>Age and stature:</strong> Other clues from the humerus provided information about the sailor’s age and stature (height). The fused growth plates of the humerus from the skeleton support the other evidence that this person was an adult.   The length of the humerus from the La Belle skeleton suggests that the sailor stood about 5 feet  4 inches. To 21st century people, that may sound very short for a man, but it was actually the average height for European males two and three centuries ago.  The sailor would not have seemed small to his companions aboard the La Belle. </p>
+  </tr>
+</table>
+
+
+
+<table width="780" border="0">
+  <tr>
+    <td height="83"><div align="center"><a href=""><img src="close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+
+
+
+
+<script language="javascript">
+
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+
+<map name="Map">
+<area shape="poly" coords="17,357,392,381,409,100,34,76" href="analysis-humerus-barnacles.html" target="_blank" alt="photo of barnacles found on the sailor's right humorous">
+</map></body>
+</html>

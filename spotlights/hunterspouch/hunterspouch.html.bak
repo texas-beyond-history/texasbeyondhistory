@@ -1,0 +1,375 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/spotlight.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Mystery Pouch</title>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../camera-button-ro-sm.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>  
+	<div id="nav">
+		<div id="tt"><h1>Spotlight</h1></div>
+	
+	</div>
+
+<div id="content"><!-- InstanceBeginEditable name="body" -->
+    <h2>Mystery Cache from the Lower Pecos</h2>
+    <table width="780" border="0">
+  <tr align="center">
+    <td><img src="images/pouch-color-neely_final.jpg" width="587" height="800">      <div class="caption">The bag from Horseshoe Ranch Cave, with its fascinating contents shown in order of their removal by analysts at the University of Texas in 1936 . Radiocarbon dated to ca. 4200 cal. B.P., during the time that  the monumental Pecos River Style rock art began to flourish, the cache offers a rare--if enigmatic--glimpse into the traditions of Lower Pecos people. Reflecting both the mundane and sacred, the  bag has been described  as a hunter's pouch and a medicine bundle. Photo by James Neely, TARL Archives. </div></td></tr></table>
+  <table width="780" border="0">
+  <tr>
+        <td width="480"></td>
+    <td width="300" valign="top">
+          <p>&nbsp;</p>
+    
+    </td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td width="480" valign="top"><p>In 1936, archeologists&nbsp; from the University of Texas working in the  arid Lower Pecos Canyonlands of southwest Texas uncovered what they described  as &ldquo;a find of unusual interest&rdquo;: a twined-fiber bag, filled with multiple  objects, buried under layers of fiber matting and lying on a rabbit fur blanket  inside a high cave.&nbsp; Still securely  fastened after more than 4000 years in its dusty nest, the fragile bag and its protective  layers of mats, fur, and plant materials were brought back intact to Austin to  be carefully opened and examined in the UT Laboratory of Anthropology.</p>
+      <p>
+        The objects inside&mdash;numbering over 200&mdash;were  gingerly removed, piece by piece, to the increasing fascination of the analysts.  First came a small packet, or &ldquo;kit,&rdquo; crafted of woven plant strips and containing  a chipped stone biface, two balls of sinew bound with plant fibers, and piece  of pigment. This was followed by a buckskin thong nearly 18 inches long, &nbsp;3 deer antler tools, &nbsp;a small fragment of deer hide, &nbsp;a freshwater mussel shell,&nbsp; 2 chipped-stone bifaces, a crude dart point  preform, 10 stone flakes, and a small, heavily scratched, pebble or hammerstone.  Near the bottom of the bag lay perhaps the most intriguing items: 11 jackrabbit mandibles, a small turtle  carapace, nodules of red and yellow pigment, nearly 200 buckeye seeds, and 38  Mountain Laurel seeds. </p>
+    <p>
+Variously described as a hunter&rsquo;s kit, a medicine bundle, or perhaps something combining both purposes, the  cache&mdash;and the circumstances of its burial&mdash;have puzzled archeologists for  decades.&nbsp; Was it a largely utilitarian  tool bag, hidden away for the owner&rsquo;s return? Or was it a special item  carefully packed and buried in the cave for spiritual or symbolic reasons? </p>
+    <p>
+      UT archeologist A. M. Woolsey led  the investigations at the twin caves known as the Horseshoe Ranch Cave site in Val  Verde County (41VV171) and made note of the unusual manner in which the cache had  been placed in the cave. In his 1936 field records he describes the discovery: &ldquo;&hellip;today,  February 17, a find of unusual interest was made. This was struck on the end  nearest the entrance to the cave at 4:30.&nbsp;  Some matting was encountered and a little below this was found a fine  woven or knit bag or basket.&quot;</p>
+<ul>
+  <p><em>This  find was made at a place 48 inches from the left wall (looking out) and 36 feet  from the outside entrance to the  cave.&nbsp; It was 13 inches deep. The &ldquo;find&rdquo;  had two layers or sheets of coarsely woven matting and one layer of more finely  woven matting on top. Then came the bag, or basket, which was laced or sewed  together at the top and was not opened. &hellip; The bag was somewhat flattened, but  if it had been round, it probably would have been 8 inches in diameter. From  the bottom to the top of the bag it was 10 inches. The bag covered about  three-fifths of a bunch or pile of some sort of net apparently made of rabbit  fur.&nbsp; This bundle was 10 inches by 10  inches by 3 inches.&nbsp; Under the fur bundle  was a piece of coarsely woven matting, but its mesh and texture were different  from that of the pieces on top, Underneath this last piece of matting was a  rather large bundle of grass and twigs with leaves still on. On the left side  (nearest the wall) was some grass on which lay a large prickly pear leaf. </em></p>
+</ul>
+<em><ul>
+  <p>  The  entire bundle is 16 inches long, 14 inches wide and 7 inches thick.&nbsp; It was thought advisable not to tear into the  bag or furry bundle but to wrap up the entire bundle and let it be taken apart  and examined in Austin.
+  </p>
+</ul></em>
+<p>
+Over the ensuing decades, the bag  and its contents variously lay on display at the Texas Memorial Museum, at the Witte Museum in San Antonio, and in  the Laboratory of Anthropology on the University of Texas campus, prior to being  removed for permanent curation at the Texas Archeological Research Laboratory. In some instances,  it was damaged by poor exhibition methods (glue and paint splatters) and careless packing. The &ldquo;find&rdquo; has been examined by  numerous researchers but has been only sparsely published. </p>
+<p>
+There is no doubt that the bag is significant in several  respects. &nbsp;It was recovered intact, seemingly  just as it was left in the ancient past. As such it provides a rare insight  into the behavior and mindset of the person who cached it. The contents are a  perplexing mix of both utilitarian items (weapons, tools, and apparent  toolmaking gear) and what are presumably ritual items (jackrabbit mandibles,  seeds with hallucinogenic properties, paint stones, and a possible turtle shell rattle).</p>
+<p>Unfortunately, Horseshoe Ranch Cave was investigated during a time  when numerous institutions&mdash;the Witte Museum in San Antonio, the Smithsonian  Institution, and the University of Texas, among others--were seeking artifacts from  the culturally rich Lower Pecos region for their collections for study or  display. These 1930s excavations&mdash;or explorations&mdash;were conducted prior to the  refinement of field methods and analytical techniques commonly used today.  Records are sparse, and there is little note of stratigraphy, much less measured drawings or maps which might help in making  possible associations between features. Several items, including what was described by excavators as a very crude projectile point, have been lost from the collection. (Archeologists who viewed the dart point prior to its loss, or a photo of it, identified it as type Langtry or Val Verde, both in use during the Middle Archaic in the region.)</p>
+<p>
+  Nonetheless, new information has shed light on the age and use of some of these items, demonstrating the value of artifact and record curation in old collections. More than 80 years  after its discovery, we are featuring this very rare and little-known  collection on TBH to bring it to a broader audience and to spark discussion  among archeologists about its significance and meaning. We have undertaken tentative technical examination of some of the items  in the bag&mdash;microwear examination of several of the stone tools and low-power  microscopic examination of the bone artifacts&mdash;in hopes of learning more about their use. These findings are included along with  information derived from TARL records, a 1948 UT Master&rsquo;s thesis by Charles  Butler, Jr. (one of archeologist J. Charles Kelley's students), as well as previously unpublished color photos taken by former TARL Collections  Head Laura Nightengale and black-and-white photos attributed to pioneer Texas archeologist Alex Krieger. &nbsp;Plant identifications were  made at the time of original analysis by B. C. Tharp, Professor of Botany at  UT-Austin. </p>
+<h3>Explore the artifacts</h3></td>
+    <td width="300">
+    
+    <table width="300" border="0">
+  <tr valign="top">
+    <td height="464"><a href="images/Pouch-vv171-1.html" target="_blank"><img src="images/pouch-vv171-1-sm.jpg" width="300" height="300" class="thumbimg"></a>
+    <div class="caption">The twin caves at the Horseshoe Ranch Cave site (41VV171) are situated in a rugged limestone bluff overlooking Cow Creek near Comstock, Texas.  One of the caves had been badly disturbed by collectors prior to investigations  by UT Austin archeologists in 1936. The other cave contained several caches, burials, and a shallow midden deposit. TARL Archives. <a href="images/Pouch-vv171-1.html" target="_blank" onMouseOver="MM_swapImage('Image51','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image51" align="absmiddle"></a></div></td>
+  </tr>
+</table> 
+ <table width="300" border="0">
+  <tr>
+    <td height="700"><a href="images/Pouch-vv171-7.html" target="_blank"><img src="images/pouch-vv171-7-sm.jpg" width="300" height="434" class="thumbimg"></a>
+    <div class="caption">Described by archeologists as a "find of unusual interest," the bag is shown here as it was uncovered in the cave, still laced closed and in a somewhat flattened state. Three sections of fiber matting lay over it, and a prickly pear pad lay alongside it. The bag was lying on a rabbit fur blanket with a layer of grass and other plant material.  The arid climate of the Lower Pecos has preserved troves of perishable materials such as these, left behind by hunting and gathering peoples over thousands of years. TARL Archives. <a href="images/Pouch-vv171-7.html" target="_blank" onMouseOver="MM_swapImage('Image50','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image50" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="191" class="margintext">
+      <em>Was it a hunter's tool kit, hidden away until the owner's return? Or was it a medicine bundle for healing or ritual use, carefully packed and buried in the cave? </em></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td height="617"><a href="images/Pouch-vv171-24.html" target="_blank"><img src="images/pouch-vv174-24-sm..jpg" width="300" height="343" class="thumbimg" ></a>
+    <div class="caption">In this early UT laboratory photo, the bag is shown with contents still intact along with the covering of woven fiber matting. TARL Archives. <a href="images/Pouch-vv171-24.html" target="_blank" onMouseOver="MM_swapImage('Image49','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image49" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+    
+    </td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    
+    <td valign="top"><a href="images/pouch-basket.html" target="_blank"><img src="images/pouch-basket-sm3.jpg" width="260" height="304"></a>
+  <div class="caption">The finely woven bag, constructed of diagonally twined plant fiber, had been sewn or laced closed at the time it was placed in the cave. Although flattened from the weight of sediment covering it over the millennia, the bag originally would have been rounded, measuring about 8 inches in diameter and 10 inches in length. TARL Archives. <a href="images/pouch-basket.html" target="_blank" onMouseOver="MM_swapImage('Image31','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image31" align="absmiddle"></a></div>   </td>
+      <td width="277"><a href="images/pouch-rope-1.html" target="_blank"><img src="images/pouch-rope-sm.jpg" width="280" height="467"></a>
+  <div class="caption">Two sections of rope, or cordage, made of twisted strands of plant fibers, likely lechuguilla. These strands may be as long as 6 feet.      TARL Archives.<a href="images/pouch-rope-1.html" target="_blank" onMouseOver="MM_swapImage('Image34','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="../camera-button-sm.jpg" width="19" height="20" id="Image34" align="absmiddle"></a></div></td>
+  
+  <td width="260" valign="top"><a href="images/pouch-matting-1.html" target="_blank"><img src="images/pouch-matting-1-sm2.jpg" width="267" height="332"></a>  <div class="caption">Fragment of twilled matting that covered the bag. This complex weaving style employs plant fiber strips crossing over two parallel strips  and two under. TARL Archives. <a href="images/pouch-matting-1.html" target="_blank" onMouseOver="MM_swapImage('Image35','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image35" align="absmiddle"></a></div>
+    
+    
+    
+    </td>
+  </tr>
+    </table>
+<table width="780" border="0">
+  <tr>
+    <td width="259" valign="top"><a href="images/pouch-matting-2.html" target="_blank"><img src="images/pouch-matting-2-sm.jpg" width="259" height="392"></a>
+    <div class="caption">Fragment of &quot;checkerweave&quot; style matting   that covered the bag. The matting was constructed using leaf strips from the sotol plant. TARL Archives. <a href="images/pouch-matting-2.html" target="_blank" onMouseOver="MM_swapImage('Image36','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image36" align="absmiddle"></a></div></td><td width="258" valign="top"><a href="images/pouch-packet.html" target="_blank"><img src="images/pouch-packet-sm.jpg" width="258" height="236"></a>
+    <div class="caption">This small packet found within the larger bag contained four items: a chert biface, two bundles of animal sinew, and a nodule of paint pigment. Woven of sotol strips and sewn closed with a piece of the same leaf, this apparent special purpose kit is among the more unusual items from the cache. TARL Archives. <a href="images/pouch-packet.html" target="_blank" onMouseOver="MM_swapImage('Image37','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image37" align="absmiddle"></a></div></td>
+    
+    <td width="249" valign="top"><a href="images/pouch-sinew.html" target="_blank"><img src="images/pouch-sinew-sm.jpg" width="264" height="360"></a>      <div class="caption">Bundles of sinew. One was bound with a segment of split yucca leaf and is estimated to measure about 25 to 30 inches long; the other bundle  measures about 18 inches long and was bound with lechuguilla fibers.TARL Archives. <a href="images/pouch-sinew.html" target="_blank" onMouseOver="MM_swapImage('Image63','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image63" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+
+<table width="780" border="0">
+  <tr>
+  <td width="260">
+  <table width="259" border="0">
+  <tr>
+    <td height="239"><a href="images/pouch-leather.html" target="_blank"><img src="images/pouch-leather-sm..jpg" width="260"></a>      <div class="caption">A piece of poorly tanned deer hide with hair still remaining. Three holes or notches on one side indicate it was once sewn or stretched. TARL Archives. <a href="images/pouch-leather.html" target="_blank" onMouseOver="MM_swapImage('999','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image62" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+  <tr>
+    <td><a href="images/pouch-scratched-pebble.html" target="_blank"><img src="images/pouch-scratched-pebble.jpg-sm.jpg" width="260"></a>      <div class="caption">This limestone pebble hammerstone is worn on one side and has been scratched and pecked on both ends. It was used as a hammerstone and edge abrader during knapping of stone tools. TARL Archives. <a href="images/pouch-scratched-pebble.html" target="_blank" onMouseOver="MM_swapImage('Image41','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image41" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+</td>
+  
+  
+  <td><a href="images/pouch-antler-tines.html" target="_blank"><img src="images/pouch-antler-tines-sm.jpg" width="260"></a>
+  <div class="caption">Deer antler tools, likely used as punches and pressure flaker for making stone tools.  One  contained animal residue. Enlarge to see additional specimen.TARL Archives. <a href="images/pouch-antler-tines.html" target="_blank" onMouseOver="MM_swapImage('Image38','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image38" align="absmiddle"></a></div></td>
+  
+  
+  <td width="245" valign="top">
+  <table width="260" border="0">
+  <tr>
+    <td>
+  
+  <a href="images/pouch-bifaces-1.html" target="_blank"><img src="images/pouch-bifaces-1-sm.jpg" width="261" height="160"></a>      <div class="caption">Three  chipped-stone bifaces may have been &quot;blanks&quot; for projectile points. One was found inside the small woven packet. TARL Archives<strong>.</strong> <a href="images/pouch-bifaces-1.html" target="_blank" onMouseOver="MM_swapImage('Image39','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image39" align="absmiddle"></a></div></td>
+  </tr>
+  <tr>
+    
+    <td width="258" valign="top"><a href="images/pouch-scrapers-2.html" target="_blank"><img src="images/pouch-scrapers-3-sm.jpg" width="258" height="386"></a>      <div class="caption">Stone flakes, some with apparent residue and evidence of use in animal processing, also provided handy raw material  for projectile points.  Enlarge to see more specimens. TARL Archives. <a href="images/pouch-scrapers-2.html" target="_blank" onMouseOver="MM_swapImage('Image40','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image40" align="absmiddle"></a></div>
+   </td>
+  </tr>
+</table>
+    </td>
+ 
+    
+  </tr>
+</table>
+<table><tr>
+  <td><a href="images/pouch-robe-2-larger.html" target="_blank"><img src="images/pouch-robe-2-med.jpg" width="780" height="518"></a>
+    <div class="caption">Described by excavators as a &quot;fur bundle,&quot; this rabbit skin blanket, or robe, was found under the bag. It was made of strips of rabbit skin, with fur intact, twisted and woven amid segments of cordage made of agave lechuguilla fibers. When fully extended, it measures roughly 44 inches by 26 inches. Similar specimens have been found fairly commonly in the region. TARL Archives. <a href="images/pouch-robe-2-larger.html" target="_blank" onMouseOver="MM_swapImage('Image59','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image59" align="absmiddle"></a></div></td></tr></table>
+  <table width="780" border="0">
+  <tr>
+    <td width="259" valign="top"><a href="images/pouch-mandibles-2.html" target="_blank"><img src="images/pouch-mandibles-2.-sm.jpg" width="259" height="205"></a>      <div class="caption">Eleven jack rabbit mandibles were found in the bag. All but one were left sides of the jaw. Interestingly, the mandibles were described by the original analysts as &quot;clean and unused looking.&quot; Based on ethnographic accounts, rodent teeth were used as scarifiers&#8212;tools for bloodletting or tatooing. TARL Archives. <a href="images/pouch-mandibles-2.html" target="_blank" onMouseOver="MM_swapImage('Image43','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image43" align="absmiddle"></a></div></td>
+    <td width="148" valign="top"><a href="images/pouch-buckeye-seeds.html" target="_blank"><img src="images/pouch-buckeye-seeds-sm..jpg" width="250" height="240"></a>      <div class="caption">A  total of 187 buckeye seeds (Ungnadia speciosa) were found in the bag. These seeds contain the toxic alkaloid, saponin, which some indigineous peoples have used as fish poison. TARL Archives. <a href="images/pouch-buckeye-seeds.html" target="_blank" onMouseOver="MM_swapImage('Image44','','../camera-button-ro-sm.jpg',0)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image44" align="absmiddle"></a></div></td>
+    <td width="359"><a href="images/pouch-mountainlaurelseeds.html" target="_blank"><img name="MtnLaurelSeeds" src="images/pouch-mountainlaurelseeds-sm.jpg" width="250" height="231" alt=""></a>
+      <div class="caption">Texas mountain laurel seeds (Sophora secundi flora), or mescalbean, numbered 38. The seeds of both mountain laurel and buckeye (shown at left) contain poisonous narcotic alkaloids that can produce extreme physiological effects, including paralysis and unconsciousness.  TARL Archives. Enlarge to learn more. <a href="images/pouch-mountainlaurelseeds.html" target="_blank" onMouseOver="MM_swapImage('Image45','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image45" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="780" border="0">
+  <tr>
+    <td width="259"><a href="images/pouch-turtle.html" target="_blank"><img src="images/pouch-turtle-sm..jpg" width="259" height="276"></a>      <div class="caption">This small turtle carapace had two holes drilled in the posterior end, one on each side of the upper surface. Measuring only about 3 inches in length, it may have been used  as a rattle or an ornament. TARL Archives. <a href="images/pouch-turtle.html" target="_blank" onMouseOver="MM_swapImage('Image46','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image46" align="absmiddle"></a></div></td>
+    <td width="502" valign="top"><a href="images/pouch-paintstones.html" target="_blank"><img src="images/pouch-paintstones-sm.jpg" width="250" height="273"></a>      <div class="caption">Nodules of hematite, a naturally occurring stone likely intended for making paint. The minerals were ground into a powder with stone or wooden tools, then  binders such as animal fat and emulsifiers such as            soapy yucca root sap were added. TARL Archives. <a href="images/pouch-paintstones.html" target="_blank" onMouseOver="MM_swapImage('Image47','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image47" align="absmiddle"></a></div></td>
+    <td width="260" valign="top"><a href="images/pouch-shell-2.html" target="_blank"><img src="images/pouch-shell-2-sm.jpg" width="260" height="199"></a>      <div class="caption">The single freshwater mussel shell found in the bag appears to be unmodified. Shells  found in other sites contain traces of pigment, suggesting  use as a container for mixing paint. TARL Archives. <a href="images/pouch-shell-2.html" target="_blank" onMouseOver="MM_swapImage('Image48','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image48" align="absmiddle"></a></div></td>
+    
+    
+  </tr>
+</table>
+ <table width="780" border="0">
+  <tr>
+    <td width="780"><h3>New Research</h3>
+      <p>More recent studies  of the cache at TARL are helping to unlock some of its secrets.<strong> </strong>An AMS radiocarbon assay on one of the buckeye seeds yielded a date of  4200  +/- 40  cal. B.P.,&nbsp; an age that falls  within &nbsp;the latter part of the Middle  Archaic period known as the San Felipe interval in the Lower Pecos.&nbsp; Perhaps significantly, it was around this  time that the distinctive Pecos River style rock art began to flourish in the  region.&nbsp; Although the original UT  investigators made no mention of rock art at Horseshoe Ranch Cave, archeologist Mark Parsons, in a 1966 area pictograph survey  for the Texas Memorial Museum, noted traces of painting on the walls of the cave. The  pictographs were &ldquo;faint, almost to the point of invisibility&rdquo;, but he made out a rendering of what  appeared to be a large anthropomorphic figure possibly holding objects in both  hands.&nbsp;</p>
+<p>Notably, the Pecos River art style incorporates monumental  figures, some interpreted as shamans, and some holding pouches, atlatls and  darts. According to some interpreters, the paintings are thought to be visions  created under the influence of plants such as mescal, peyote, datura, or  other narcotic or hallucinogenic substances. Others, such as archeologist Harry Shafer, contend that the intricacy of art work at some of the sites  precludes the idea of  artists being  in a drug-induced state.</p>
+<p>Additional information about the bag comes from preliminary  technical analyses on the stone and bone tools. The unifaces were a particularly promising group to examine using more modern techniques  than were available at the time the cache was recovered. However, several specimens  had patches of dark or greenish coloration on their surfaces, suggestive of  organic residues, and it was determined that these should be preserved&#8212;without  washing&#8212;for future analysis.&nbsp; TARL microwear  analyst Marilyn Shoberg selected three of the other unifaces for examination. Although  &ldquo;rock-on-rock scratches&rdquo; and other apparent post-excavation damage to the  specimens presented substantial challenges, she was able to discern certain information  about how the tools were used. &nbsp;Based on  the patterns of microscarring and polish, all three had been used to cut soft  animal tissue.</p>
+ <p>On a large interior chert flake,  for example, Shoberg noted invasive soft animal tissue polish  well-developed along one edge, extending into the interior of the tool, and following  the irregular topography of the crystalline surface. As shown in the  accompanying photomicrograph, multidirectional single striations (denoted by arrows)  are oriented at oblique angles to the edge, and were created by grit particles  dragged across the surface during use.The  web of overlapping striations reflects multiple cutting strokes, a pattern of  wear traces consistent with moderate use cutting soft animal tissue. </p>
+      <p>Interestingly, the three unifacial tools evidenced only  light to moderate use, and there was no evidence of resharpening. According to  Shoberg, a heavily used tool would  have evidence of resharpening in the pattern of retouch flaking and variability  in polish development and abrasion on &quot;older&quot; versus  &quot;newer&quot; flake scars along the edge.</p>
+      <p>The bone and  antler specimens from the pouch were examined informally under low power  microscopy by TARL archeologist Ken Brown. &nbsp;Of the three  antler tools, two had been extensively whittled and polished.  Transverse cut marks from a flint flake also were visible. &nbsp;Based on the use damage, the two specimens  appear to have been used as pressure flakers for knapping stone tools. The  third antler tool had been much less modified, although a few cut marks were  present. Notable near the tip of this antler is an extensive patch of dark brown  organic residue containing animal hair.&nbsp;Whether the tool was used  during  processing of the animal or  was inadvertently contaminated  prehistorically is open to further consideration.</p>
+      <p>Like the unifacial tools, some of the  bone specimens showed signs of post-excavation damage. Of the 11 jackrabbit  mandibles, all but one have damage to the tip of the incisor which appears  relatively fresh. It is unusual, and perhaps significant, that all but one of the specimens were left sides of the jaw. Although the mandibles were defleshed prehistorically, Brown  suspects the soft tissue was removed by hand rather than with a flint tool,  based on the lack of evident cut marks. Several specimens still  contain patches of dried soft tissue adhering to the bone which could be suitable  for AMS dating. 
+      </p>
+      <h3>Bloodletting and Other Rituals</h3>
+      <p>Part  of our interest in examining the mandibles, however, was to identify  possible  traces of human blood residue which might suggest their use as <em>scarifiers</em>&mdash;instruments for bloodletting  or tattooing. &nbsp;In the neighboring desert regions of northern Mexico, and likely throughout much of the Lower and Trans Pecos, bloodletting  apparently was a part of the hunter-gatherer culture. Numerous examples of rodent mandibles, some still wrapped at the base with cording handles, have been found in the dry caves of the region. </p>
+      <p>At <strong><a href="http://www.texasbeyondhistory.net/pilote/" target="_blank">Cueva Pilote</a></strong> in  Coahuila, chilling evidence of this practice was uncovered, although at this site, scarification was accomplished with  sharp plant spikes rather than animal teeth. Dozens of  cactus spines,  some still stuck in their agave pad &ldquo;pincushion&rdquo;, were found along with a hollow gourd, possibly for containing the blood extracted during the ritual. As  site archeologists  Solveig Turpin and Herb Eling note, bloodletting was an integral part of the Mesoamerican  politico-religious system and can be traced through ethnographic accounts,  paintings and sculpture showing this practice.</p>
+      <p>Turpin describes three accounts of  a fascinating ritual performed in 1607 in the   vicinity of Mapim&iacute;, Coahuila to ward off the potential dire affects of a   comet.   &quot;Elders punctured themselves with spines, then gathered the   blood in a gourd, dipped the fresh-cut hair of a young woman in the   blood, and flailed it in the air in the cardinal directions while   "crying out horrifically."  Another account describes a ceremony in   which both men and women danced around a fire, consumed peyote,   and 'drew large quantities of blood by scratching themselves with the   beak of a fish.'&quot;</p>
+      <p>Other possible bloodletting devices were found at the <a href="http://www.texasbeyondhistory.net/mitchell/goods.html" target="_blank">Mitchell Ridge </a>cemetery on the northern Texas coast. Shark teeth and an object consisting of a small oblong mass of asphaltum into   which 13 sharpened hispid cotton rat incisors were set in a single row.    A similar artifact was described as a shaman-curer's bloodletting tool   in the historic account of Jean-Baptiste Talon, a French boy captured by   Karankawas at La Salle's Fort St Louis in 1687. </p>
+<p>Early Spanish explorer Cabeza de Vaca, who wandered as a captive throughout south Texas and Mexico with various Indian groups,  witnessed   the use of sharp animal teeth for punishing children. Archeologist and former TARL director Thomas Hester makes an interesting point regarding this oft-cited account, noting that although archeologists tend to associate scarifiers with shamans, such instruments may have had a broader use. &quot;Though Cabeza de Vaca describes the event as one of parents  punishing a crying infant, one could suspect that it is related to curing  rituals. If so, such scarification appears not to have been solely the domain  of a &quot;shaman,&quot;  but could be done by anyone.&quot;</p>
+<p>Regarding  the mandibles from the Horseshoe Ranch Cave cache, however, damage to the incisor tips precluded any judgment about their user as scarifiers. Brown saw no apparent traces of blood pooled up in the crevices of the mandibles or in the toothrow. </p>
+<p>The large number of mescalbeans and buckeye seeds present in the bag is also unusual and provocative. According to paleoethnobotanist Phil Dering, mescalbeans contain an abundance of poisonous  narcotic quinolizidine alkaloids. &quot;The many physiological effects of mescalbean intoxication include  muscle paralysis, nausea, evacuation of the bowels, seeing red,  unconsciousness, and death. These alkaloids are not,  however, hallucinogenic, rather, the mescalbean and its purgative effects,  along with many other sensory inputs, helped the vision-seeker reach a  culturally defined condition in which to receive visions.  Because of its extreme physiological effects, the mountain laurel tree, or at  least its seed, was likely viewed as a powerful plant worthy of trade and of  decorating ritual clothing<em>.&quot;</em></p>
+<p>The presence of these seeds in the bag attests to their importance in the ancient culture of the region, Dering notes. &quot;This kit has been described as a hunter's kit or a healer's kit, and given the interwoven nature of religion and subsistence in hunter-gatherer life, it probably served as both.&quot;</p>
+<p>Other artifacts in the bag may reveal additional information  as new analytical techniques become available. &nbsp;Of particular interest are the residues  adhering to many of the stone tools.&nbsp; It  is unfortunate that the items were collected long before archeologists knew the  proper techniques for recovering such items without contaminating them.&nbsp; At present, however, there is little  likelihood of identifying residues that could confidently be attributed to  ancient use or that would not be&quot; false positives&quot;.&nbsp; (For an example of  what can be learned from residue analysis on artifacts from the region, see Shafer's discussion of &ldquo;dirty tools&rdquo;   in the TBH <strong><a href="http://www.texasbeyondhistory.net/hinds/artifacts.html" target="_blank">Hinds Cave  Artifacts</a></strong>  section.)</p>
+<h3>An Enduring Mystery</h3>
+      <p>Recovered intact and in good condition, the twined bag from Horseshoe Ranch Cave offers a rare perspective into the world of Lower Pecos people nearly 5,000 years ago. The bag's fascinating contents include utilitarian tools as well as inexplicable items that can only be associated with ritual or sacred purpose.</p>
+      <p>Archeologist Harry Shafer holds that the bag belonged to a hunter, and as such, is a reflection of ancient hunting traditions. &quot;We see a kit with all the materials necessary for making and refurbishing weapons&#8212; spare sinew, rawhide strip, deer antler pressure flaking tools, hammerstone, bifaces for future projectile points, and uniface flake knives.&quot; He notes that although it is difficult to interpret the use of the rabbit mandibles and mountain laurel seeds, &quot;they may have been deemed essential to ward off evil or as offerings to animal spirits, or as hallucinogens and scarifiers during hunting rituals. Such items were as important to the hunter as his spear and would therefore be an essential part of the tool kit.&quot;</p>
+      <p>Archeologist Solveig Turpin places more importance on the  manner in which the bag was buried in the cave. Encased in protective layers  of fiber matting, it was originally thought by excavators to have been a  burial. Turpin uses the term &ldquo;medicine bundle&rdquo; to describe the pouch, in a nod  to the similarities between treatment of the pouch and numerous human bundle burials found throughout the region. <em>Bundling</em> is the practice of wrapping the body of the deceased in mats, with accompanying grave items such as clothing and tools, to form a bundle which is tied together with cording or rope.</p>
+      <p>Yet another possibility is that the bag belonged to or was associated with one of the individuals buried in Horseshoe Ranch Cave, and that it had been placed near the grave at the time of internment. Archeologists uncovered two burials and a fawnskin pouch containing the cremated remains of a child during investigations at the site; they also learned from the land owner that other human remains had been removed from the site in the past.</p>
+      <p>Two radiocarbon assays were obtained from materials in one of these burials, the elaborate grave of an infant (Burial AV1). Pieces of the fiber mat covering the burial yielded a date of 3480+/-40 cal. B.P., and a fragment of a reed pipe was dated to  3530+/-30 cal. B.P. As Turpin notes, the burial of this one-year-old child &quot;is not only the most ornate baby burial, it is the earliest example of the bundling technique, it has the earliest painted fiber artifacts, and it is the only well-dated interment from this period.&quot; (See photo at right for more information on this burial.) The Horseshoe Ranch Cave burials suggest the bundling technique may have begun during the Middle Archaic, 1000 years earlier than previously thought.</p>
+      <p>Radiocarbon dates on a prickly pear pad and piece of wood  from a third burial in the cave (Burial AV2) are considerably older. In fact, the dates&#8212;7470+/-50 cal. B.P. and 8010+/-50 cal. B.P.&#8212;indicate Burial AV2 is one of the earliest internments yet dated in  the region. Because the grave had been badly disturbed&#8212;only a few of the skeletal elements remained&#8212;it is impossible to know in what manner the body was interred. </p>
+      <p>The initial assumption that the twined bag, or mystery cache, from Horseshoe Cave may have been associated with a burial is a strong possibility. Regardless of whether it was part of a burial, however, the carefully buried cache may reflect a burgeoning cultural  tradition&#8212;&quot;bundling&quot;&#8212;during the San Felipe interval in the Lower Pecos region. That the bag itself was &quot;bundled&quot; is of particular interest. </p>
+      <p>Caches and burials provide a fascinating view back into time,  a personal connection to events steeped in tradition and cultural significance. Modern analysis of old collections  can offer new insights and help reshape our thinking about the past.  For example, recent reexamination and technical analysis of the cached material from the Paleoindian  grave  in <a href="http://www.texasbeyondhistory.net/horn/burials.html" target="_blank">Horn Shelter</a> near Waco, Texas, has led to new interpretations of this important feature. The ca. 11,000-year-old double burial of an adult male and  child  contained a mix of seemingly utilitarian and ritual items not unlike those in the Horseshoe Ranch Cave cache:   chipped-stone bifaces, antler tools, pigment stone,  and turtle shell. Archeologists at the Smithsonian Institution National Museum of Natural History now believe the apparent utilitarian items, originally thought to be knapping instruments, were more likely tools used in ritual activities, including paint processing and possible scarification. </p>
+      <p>Although puzzling to us today, the contents of the Horseshoe Ranch Cave cache, and the manner in which it was purposefully secured and buried, reflect the thought processes, traditions, and beliefs of an individual or  cultural group in the ancient past. The cave  was the repository for several burials and likely was the scene of numerous rituals and ceremonies held as a means to connect to the spirit world. In a future TBH Spotlight feature, we hope to highlight more of the findings and new research on materials from Horseshoe Ranch Cave.</p>
+<h3>Credits and Sources</h3>
+      <p>This Spotlight feature was written by TBH Editor Susan Dial, based on  sources listed below and additional new information. Web development was done by Associate Editor Heather Smith. Color photos of the artifacts were taken by Laura Nightengale and used in a Power Point presentation by Harry Shafer to the Texas Archeological Society in 2009.</p>
+      <p><strong>Boyd, Carolyn E. </strong><br>
+2003	&nbsp;<em>Rock Art of the Lower Pecos</em>.  Texas A&amp;M University Press.  College Station, Texas. </p>
+      <p><strong>Butler, Charles T., Jr. </strong><br>
+1948	&nbsp;<em>A West Texas Rock Shelter.</em> Unpublished M.A. Thesis.  University of Texas at Austin. Austin, Texas.      </p>
+      <p><strong>Hester, Thomas R.</strong><br>
+        1999 Artifacts, Archaeology, and Cabeza De Vaca in Southern Texas and Northeastern Mexico. 
+        <em>Bulletin of the Texas Archeological Society</em> 70:17-28. 
+      <p><strong>Merrill, William L. </strong><br>
+1977 &nbsp;<em>An Investigation of Ethnographic and Archaeological Specimens of Mescalbeans (Sophora secundiflora) in American Museums</em>. Museum of Anthropology, University of Michigan, Ann Arbor.      </p>
+      <p><strong>Parsons, Mark</strong><br>
+        1966 Daily Log, Texas Memorial Museum Pictograph Survey. Records on file, TARL.       
+      <p><strong>Shafer, Harry J.</strong><br>
+        2009<a href="images/shafer-2009.JPG" target="_blank"> New Radiocarbon Dates from Horseshoe Ranch Cave  (41VV171<em>)</em></a><em>. Newsletter of the Friends of  TARL</em>. December 2009: 9-10. </p>
+      <p> 1986 &nbsp;<em>Ancient Texans: Rock Art and Lifeways along the Lower Pecos.</em> Texas Monthly Press.</p>
+<p><strong>Turpin, Solveig A.</strong><br>
+2012 The Temporal Range of Bundled Burials in the Lower  Pecos Region of Southwest Texas. <em>Plains  Anthropologist </em>57(222): 109-124.</p>
+<h3>
+  <strong>Learn More</strong></h3>
+<p>
+  For further information about the archeology, environment  and cultures of the Lower Pecos region, see the following exhibits and features  on TBH:</p>
+<p><br>
+  <strong><a href="http://www.texasbeyondhistory.net/pecos/index.html" target="_blank">The Lower Pecos  Canyonlands</a></strong></p>
+  <p><strong><a href="http://www.texasbeyondhistory.net/plateaus/index.html" target="_blank">Plateaus and  Canyonlands exhibit set</a></strong></p>
+  <p><strong><a href="http://www.texasbeyondhistory.net/ethnobot/index.html" target="_blank">Lower Pecos Ethobotany</a></strong></p>
+  <p>&nbsp;</p>
+ </td>
+    <td width="300" valign="top">
+    <table width="300" border="0">
+  <tr>
+    <td height="201" class="margintext">
+      <p><em>The pictographs  in Horseshoe Ranch Cave were &quot;faint, almost to the point of invisability, &quot; but there appeared to be a large anthropomorphic figure possibly holding objects in both hands.</em></p>
+      <p>&#8212;Mark Parsons</p></td>
+  </tr>
+</table>
+ 
+
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="521"><a href="images/pouch-scraper-464.html" target="_blank"><img src="images/pouch-scraper-464-sm.jpg" alt="" name="empty" width="300" height="392" class="thumbimg"></a>
+    <div class="caption"><em>One of the three unifacial tools recently examined for traces  of polish or other microwear evidence.&nbsp; The thin   edge on the right is the utilized portion of the tool. </em>Based on the particular polish and striation patterns, all three unifaces were used to cut soft animal tissue. TARL Archives. <a href="images/pouch-scraper-464.html" target="_blank" onMouseOver="MM_swapImage('Image53','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image53" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="465"><a href="images/pouch-464-500x.html" target="_blank"><img src="images/pouch-464-500x-sm.jpg" alt="" name="empty" width="299" height="288" class="thumbimg"></a>      <div class="caption">
+      Photomicrograph (@500x) of an edge section of the unifacial tool (above)  showing well-developed soft animal tissue polish on the high and low microtopography  of the chert surface. According to analyst Marilyn Shoberg, the multidirectional  single striations (denoted by arrows) are from grit particles dragged across  the surface during use and reflect multiple cutting motions that originate at  the edge of the tool. Photo by Marilyn Shoberg. <a href="images/pouch-464-500x.html" target="_blank" onMouseOver="MM_swapImage('Image54','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image54" align="absmiddle"></a>
+    </div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="428"><a href="images/analysis-residue.html" target="_blank"><img src="images/analysis-residue-sm.jpg" alt="" name="empty" width="300" height="318" class="thumbimg"></a>
+    <div class="caption"> <em>Antler tool with patch  of dark brown organic residue containing animal hair near the tip. </em><em> TARL Archives.</em> <a href="images/mandible-analysis.html" target="_blank" onMouseOver="MM_swapImage('Image55','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image55" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="339"><a href="images/mandible-analysis.html" target="_blank"><img src="images/mandible-analysis-sm.jpg" alt="" name="empty" width="300" height="195" class="thumbimg"></a>
+    <div class="caption"><em>One of the 11 jackrabbit mandibles found in the cache, examined as a possible instrument for scarification, or bloodletting. </em><a href="images/analysis-residue.html" target="_blank" onMouseOver="MM_swapImage('Image56','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image56" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td height="567"><a href="images/mountainlaurel.html" target="_blank"><img src="images/mountain-laurel-pod-sm.jpg" alt="" name="empty" width="300" height="300" class="thumbimg"></a>
+      <div class="caption">A typical Mountain laurel pod, cut open to reveal the red seeds, also known as &quot;mescalbeans&quot;, inside. Native peoples ingested a concoction made from the poisonous beans to  achieve a trance-like state and also used the beans as beads, to adorn special clothing. The presence of these beans in the bag attests to their importance in the ancient culture of the region. Photo by Phil Dering. <a href="images/mountainlaurel.html" target="_blank" onMouseOver="MM_swapImage('Image59','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image3" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="222" class="margintext">
+      <p><em>This kit has been described as a hunter's kit or a healer's kit, and given the interwoven nature of religion and subsistence in hunter-gatherer life, it probably served as both.</em> </p>
+      <p>&#8212; Phil Dering</p></td>
+  </tr>
+</table>
+ <table width="300" border="0">
+  <tr>
+    <td height="666"><a href="images/Pouch-vv171-16.html" target="_blank"><img src="images/pouch-vv171-16-sm.jpg" alt="" name="empty" width="300" height="345" class="thumbimg"></a>
+      <div class="caption">Early lab photo of the small packet made of woven plant leaf strips, and its contents: a chipped-stone biface, balls of animal sinew, and a piece of pigment stone. TARL Archives. <a href="images/Pouch-vv171-16.html" target="_blank" onMouseOver="MM_swapImage('Image60','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image60" align="absmiddle"></a></div></td>
+  </tr>
+</table> 
+<table width="300" border="0">
+  <tr>
+    <td height="620"><a href="images/421vv171-17a.html" target="_blank"><img src="images/41vv171-17a-sm..jpg" alt="" name="empty" width="300" height="355" class="thumbimg"></a>
+      <div class="caption"> Burial container holding the remains of a ca. one-year-old child and numerous grave offerings from Horseshoe Ranch Cave. Although this &quot;bundled&quot; burial (AV1) is roughly 650 years younger than the mystery cache, both may reflect the same  cultural expression known as the San Felipe interval during the Middle Archaic  of the region. Enlarge to learn more. TARL Archives. <a href="images/421VV171-17a.html" target="_blank" onMouseOver="MM_swapImage('Image61','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" border="0" align="absmiddle" id="Image61"></a></div></td>
+  </tr>
+</table> 
+ <table width="300" border="0">
+  <tr>
+    <td height="620"><a href="images/vv171-burial-av1-pipes.html" target="_blank"><img src="images/vv171-burial-av1--pipes-sm.jpg" alt="" name="empty" width="300" height="362" class="thumbimg"></a>
+      <div class="caption"> Reed pipes from Burial AV1 at Horseshoe Ranch Cave, a fragment of which was radiocarbon dated to 3530+/-30 cal. B.P. Enlarge to learn more. TARL Archives. <a href="images/vv171-burial-av1-pipes.html" target="_blank" onMouseOver="MM_swapImage('Image62','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" width="19" height="20" id="Image62" align="absmiddle"></a></div></td>
+  </tr>
+</table> 
+
+   <table width="300" border="0">
+  <tr valign="bottom">
+    <td height="497"><img src="images/list-sm.jpg" alt="" name="empty" width="300" height="426" class="thumbimg">
+      <div class="caption"></div></td>
+  </tr>
+</table> 
+    </td>
+  </tr>
+</table>
+
+
+<!-- InstanceEndEditable -->  </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="../../spotlight.html">Return to Spotlight Main</a>    </p>
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../../index.html">Texas Beyond History</a><br>
+     <a href="../../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" --> <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

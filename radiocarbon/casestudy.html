@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Case Study: Lower Pecos, Radiocarbon Dating Understood</title>
+		<meta name="description" content="In this case study, radiocarbon data from the Lower Pecos Canyonlands (LPC) is used to demonstrate how a large radiocarbon dataset (473 radiocarbon assays to be exact) can be used to address regional research questions. Research topics include the timing of several Lower Pecos archeological phenomena: earth oven plant baking, fiber artifact manufacture using plants typically baked in earth ovens (such as agave and yucca), the intermittent presence of bison on the landscape, and changing human populations. Bayesian phase modeling and a summed probability distribution are used in concert with environmental data, yielding intriguing patterns spanning 12,000 years.">
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19572560-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-66879714-13');
+        </script>
+
+		<script type="text/javascript" src="/js/global.js"></script>
+		<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+		<link rel="stylesheet" href="/print.css" type="text/css" media="print"/>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="wordmark">
+				<a class="screen-reader-text" href="https://www.utexas.edu/" target="_blank"><img src="/images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0">University of Texas at Austin</a><a class="screen-reader-text" href="https://liberalarts.utexas.edu/" target="_blank"><img src="/images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0">College of Liberal Arts</a>
+			</div>
+
+			<h2 id="tbh">Texas Beyond History</h2>
+
+			<div id="tbhnav">
+				<a href="/index.html">TBH Home</a>  
+				<form action="/search.php" method="get" name="search" id="search">
+					<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+					<div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+					<div><input type="hidden" name="config" value="tbh"></div> 
+					<div><input type="hidden" name="restrict" value=""></div>
+					<div><input type="hidden" name="exclude" value=""></div>
+				</form>
+			</div>
+			<div id="nav">
+				<div id="tt">
+					<h1>Radiocarbon Dating Understood
+					</h1>
+				</div>
+                <!-- delete #pt unless this section has nested structure -->
+                <div id="pt">
+                    <a href=""></a>
+                </div> 
+				<p class="links">
+					<a href="./index.html">Main</a>
+					<a href="./dating101.html">Dating 101</a>
+					<a href="./environment.html">In the Environment</a>
+					<a href="./lab.html">In the Lab</a>
+					<a href="./libbystesttube.html">In Libby's Test Tube</a>
+					<a href="./selecting.html">&nbsp;Selecting Samples&nbsp;</a>
+					<a href="./reporting.html">Reporting Results</a>
+					<a href="./interpreting.html">Interpreting Dates</a>
+					<a href="./casestudy.html">Case Study: Lower Pecos</a>
+					<a href="./takeaways.html">Takeaways</a>
+					<a href="./credits.html">Credits & Sources</a>
+				</p>
+			</div> 
+			
+			<div id="content"> 
+				<h1><em>Case Study: Dating the Lower Pecos Canyonlands</em></h1>
+				<article class="gallery-article">
+					<figure class="gallery-img">
+						<img src="images/casestudy.jpg" alt="digital collage: a photograph of a desert canyon environment superimposed by the text "14-C" in center with a plant fiber sandal on the left and a projectile point with cordage around its stem on the right">
+					</figure>
+				<br>
+	<div class="table-of-contents toc-right" id="top">
+						<h3>On this page:</h3>
+					 <ul class="bulleted">
+						<li><a href="casestudy.html#the-lpc">Lower Pecos Canyonlands</a></li>
+						<li><a href="casestudy.html#assemble">Assembling the Data</a></li>
+						<li><a href="casestudy.html#research">Research Questions</a></li>
+						<li><a href="casestudy.html#crit">Critically Evaluating the Data</a></li>
+						<li><a href="casestudy.html#analyses">Analyses and Results</a></li>
+						<li><a href="casestudy.html#putting">Putting it Together</a></li>
+					</div>	
+					
+	<p>
+                    In this case study radiocarbon data from the Lower Pecos Canyonlands (Lower Pecos) are used to demonstrate how a large radiocarbon dataset can address regional research questions. The timing of several Lower Pecos archeological phenomena is explored: earth oven baking of agave, sotol and yucca, the intermittent presence of bison on the landscape, and fluctuating human populations. Bayesian phase modeling and a summed probability distribution were used to evaluate the timing of these phenomena in concert with environmental data, yielding intriguing patterns spanning over 12,000 years. 
+	</p>
+				
+				<figure class="gallery-img gallery-img-half-size img-left" id="anchor-LPC_river_ecoregions_IV">
+						<a href="images/LPC_river_ecoregions_IV.html">
+							<img src="images/LPC_river_ecoregions_IV.jpg" alt="map">
+						</a>
+						<figcaption>The dotted line defines the boundary of the Lower Pecos Canyonlands archeological region. The southern boundary of the region in Mexico is not well defined and no radiocarbon assays from the region south of the Rio Grande are known to have been published. This map also shows the locations of relevant Texas ecoregions and major rivers. Graphic by Emily McCuistion.</figcaption>
+	</figure>
+					
+			 <p>
+                    This study is adapted from author and narrator Emily McCuistion's 2019 master's thesis. For my thesis, I (Emily) made a database containing every reported Lower Pecos archaeological radiocarbon assay (with the exclusion of rock art assays). The radiocarbon data were critically vetted to identify irrelevant and potentially unreliable dates before being used to investigate the timing of earth oven plant baking of evergreen rosettes (<a target="_blank" href="../ethnobot/images/lechuguilla.html">agave lechuguilla</a>, <a target="_blank" href="../ethnobot/images/sotol.html">sotol</a>, and <a target="_blank" href="../ethnobot/images/yucca.html">yucca</a>), the timing of intermittent bison presence, and relative human population fluctuations. To do this I employed the statistical methods of Bayesian phase modeling and a summed probability distribution of radiocarbon dates. I synthesized the results of these analyses with environmental data, finding compelling patterns in the human history of the Lower Pecos Canyonlands.
+                	</p>
+					
+				
+				<br>
+				
+				<h2 id="the-lpc">The Lower Pecos Canyonlands</h2>
+				
+				<p>The <a href="../pecos/index.html"target="_blank">Lower Pecos Canyonlands</a> is a relatively small archaeological region in southwest Texas and northern Coahuila, Mexico. It is centered near the confluences of the Pecos, Devils, and Rio Grande rivers, at the crossroads of the southern Great Plains, Chihuahuan Desert, and scrublands of south Texas and northern Mexico. </p>
+					
+				<figure class="gallery-img gallery-img-third-size img-left" id="anchor-pecos">
+						<a href="images/pecos.html">
+							<img src="images/pecos.jpg" alt="landscape photograph">
+						</a>
+				  <figcaption>Amistad Reservoir has impeded the flow of the Pecos, Devils, and Rio Grande rivers for the last half century. Here, the reservoir backs into the lowest sections of the Pecos River, resulting in an unnatural stillness to the water. Photograph by Emily McCuistion.</figcaption>
+						</figure>
+					
+				<p>
+                The human history of the Lower Pecos began over 13,000 years ago, when cooler and wetter climactic conditions prevailed and megafauna, large Pleistocene animals such as mammoths, roamed piney forests and grasslands. By 10,000 years ago, the pine forests and megafauna had given way to an arid-adapted assemblage of plants and animals familiar in the region today—agave, cactus, grasses, shrubs and small trees, and a variety of small and medium sized mammals, reptiles, birds, and fish. Though <em>Bison antiquus</em> went extinct with the other megafauna, modern <em>Bison bison</em> continued to roam these far Southern Plains during cool, wet periods. In the nineteenth-century, ranching began to dramatically alter the Lower Pecos landscape, destabilizing the soil and impacting upland grassland, resulting in the eroded limestone scrubland we are familiar with today.
+                	</p>
+					
+			
+				<p>
+                   Archeologically, the Lower Pecos region is best known for the complex Pecos River style pictographic murals painted on the walls of rockshelters and beneath overhanging cliffs along the river canyons and their tributaries—evidence of a distinctive culture flourishing in the Lower Pecos for several thousand years. In addition to preserving extraordinary rockart, these dry rockshelters protect both durable and fragile perishable materials of everyday life—butchered animal bones, worn-out sandals, coprolites containing the remains of a seasonal and hyper-local cuisine, groundstone for pulverizing or crushing food, medicine and minerals, and thick accumulations of burned rock (cooking stones) from earth oven plant baking. This remarkable preservation makes the Lower Pecos Canyonlands one of the most interesting places to study the archaeology of hunter-gatherers in North America.
+                	</p>
+				
+				<br>
+				<figure class="gallery-img gallery-img-half-size img-right" id="anchor-eagle">
+						<a href="images/eagle.html">
+							<img src="images/eagle.jpg" alt="a large cave in a cliff">
+						</a>
+						<figcaption> Millennia of cultural accumulations spill from the entrance of Eagle Cave. Much of it is burned rock from earth oven plant baking of evergreen rosettes like agave, yucca, and sotol, pictured on the right. 1963 photograph from ANRA-NPS Archives at TARL.</figcaption>
+						</figure>
+				
+				<h2 id="assemble">Assembling the Data</h2>
+				
+				
+                <p>
+                    The first step in my thesis project was to create a database and populate it with every published archeological radiocarbon assay from the Lower Pecos. I choose a database template developed by the Canadian Archaeological Radiocarbon Database (CARD) because the CARD template is thorough and I planned to submit the data to CARD after the project was completed. I added several data fields to the CARD template, including site type (rockshelter, terrace, or upland), calibrated date range, and a comment field to enter notes pertaining to how the assays relate to the research questions.
+                	</p>
+				
+					
+				<figure class="gallery-img gallery-img-third-size img-left" id="anchor-labdocuments">
+						<a href="images/labdocuments.html">
+							<img src="images/labdocuments.png" alt="paper documents">
+						</a>
+						<figcaption> Archived lab documents for legacy radiocarbon assays made at the Smithsonian Institution (back) and the University of Texas (front).</figcaption>
+						</figure>
+				<br>
+                <p>
+                    I pulled most of the Lower Pecos radiocarbon data from archeological publications and the journal <a target="_blank" href="https://www.cambridge.org/core/journals/radiocarbon/all-issues">Radiocarbon</a>.
+                    <em>Radiocarbon</em> is a great resource when researching older assays (legacy assays). The journal began publishing date lists from all of the North American radiocarbon labs in 1959. In the early 1970s, the journal stopped reporting exhaustive date lists, no doubt because the number of assays being made had increased to the point that it was no longer practical.
+                	</p>
+					
+                <p>
+                    A difficulty I anticipated in assembling the database was poor reporting of legacy assays. Early publications, those from the 1950s-1970s, did not report data considered essential today. I filled some holes in reported data by perusing field records archived at the Texas Archeological Research Lab and original radiocarbon lab sheets from the now-defunct University of Texas Radiocarbon Laboratory, archived at the UT Vertebrate Paleontology Lab. Other radiocarbon labs were contacted in my attempts to fill the data gaps&#8212;sometimes these attempts were successful and other times not. In the end, I wrote a brief history for each radiocarbon lab represented in the database, which made it easier to understand how individual legacy assays were made and reported.
+                	</p>
+					
+				
+				<p>
+                    In total, I entered 473 assays in my Lower Pecos radiocarbon database, including 100 previously unpublished assays from Texas State University’s Ancient Southwest Texas Project. Fifty archeological sites across the region are represented by the database. To put that in perspective, the Lower Pecos has more than 2000 recorded prehistoric and historic archeological sites and less than 3% of them have been radiocarbon dated. Woefully, these numbers don't include a single site south of the Rio Grande! 
+                	</p>
+					
+				<h2 id="research">Research Questions</h2>
+                
+				<p>
+                    The goal of my thesis work was to investigate the timing of earth oven baking of evergreen rosette desert succulents. To better situate earth oven plant baking within a dynamic environmental, social, and economic setting, other complementary avenues of research were investigated using radiocarbon dates: the intermittent presence of bison in the region and human population fluctuations. These topics are discussed below.
+                	</p>
+					
+				<p><strong>Earth Oven Plant Baking</strong></p>
+				
+				<figure class="gallery-img align-center gallery-img-third-size img-right" id="anchor-oven">
+						<a href="images/oven.html">
+							<img src="images/oven.jpg" alt="earth oven">
+						</a>
+						<figcaption> The author places a sotol "heart" within an experimental earth oven. The food is placed on prickly pear pads, which provide moisture and prevent the food from charring. The hot rocks are below the prickly pear pads. After more packing material (prickly pear pads and the leaves of the sotol and lechuguilla) is placed on top of the food, a thick layer of dirt is added to cover the oven and seal in the heat in as it cooks for a day or two. Photograph courtesy of the Ancient Southwest Texas Project, Texas State University.</figcaption>
+						</figure>
+				
+				<p>
+                    Earth oven plant baking is a method of cooking with hot rocks. It entails burying heated rocks and food items together in layered arrangements and letting the foods slowly cook under an earthen cap. In the Lower Pecos, earth ovens were primarily used for baking desert succulents. These hardy and fibrous plants require long cooking times and moist heat to remove toxins and convert long-chain carbohydrates into edible sugars.
+                	</p>
+				
+
+                <p>
+                    The most visible archeological evidence of earth oven cooking in the Lower Pecos is oven heating elements, oven pits, and the often-enormous burned rock middens (accumulations of discarded cook stone and other debris). Heating elements (often termed "hearths") are typically recognized by archeologists as discreet clusters or arrangements of burned rocks, some of which may be cracked in place. Heating elements are often found within a pit, in strata containing ash, charcoal, and thermally altered sediments. Earth oven facilities are places that indigenous people repeatedly returned to, comprised of the oven pits and the surrounding accumulations of discarded fire cracked rock and other debris (the burned rock midden). Fire-cracked rock are simply natural stone (usually limestone) used to form a heating element. These cooking stones show the effects of being subjected to high temperatures, such as thermal fracturing and gray to red discoloration. Individual rocks were typically used in several earth oven cooking events before the rock fractured and the resulting fragments became too small to effectively retain heat and were discarded nearby. Burned rock middens contain mixed deposits of fire cracked rock, carbon-stained fine sediments, charred plant remains, and ash, which were re-deposited during earth oven clean-out.
+                	</p>
+				
+				<figure class="gallery-img align-center gallery-img-third-size img-left" id="anchor-eagleunit25">
+						<a href="images/eagleunit25.html">
+							<img src="images/eagleunit25.jpg" alt="eagleunit25">
+						</a>
+						<figcaption> Plan view of earth oven feature (heating element remnant) in Eagle Cave, excavated in 2015. Photograph courtesy of the Ancient Southwest Texas Project, Texas State University.</figcaption>
+						</figure>
+				
+                <p>
+					Because earth oven facilities are places people returned to&#8212;pits dug, filled, dug out again, reburied, and so forth&#8212;earth ovens and burned rock middens are a palimpsest, meaning they are the combined product of many earth oven events. This reuse results in mixed stratigraphic layers, which means that the archeologist usually cannot be certain which earth oven cooking event they are dating when they take radiocarbon samples from these features. However, most charcoal sampled from Lower Pecos earth oven facilities is likely associated with plant baking, and therefore radiocarbon assays from burned rock middens and oven pits are still useful for addressing the timing of earth oven plant baking. 
+					</p>
+					
+				<p>
+					For my thesis project, radiocarbon samples associated with plant baking were not limited to charcoal or charred plants from earth oven facilities. Other assayed materials which directly evidence the consumption of evergreen rosettes are <a href="../gallery/entry-003/index.html" target="_blank">coprolites</a> and chewed baked plant leaves known as <a href="../pecos/images/quids.html" target="_blank">quids</a>.
+                	</p>
+					
+				
+					
+				<p><strong>Bison</strong></p>
+				
+				 <p>
+					Bison were present intermittently in the Lower Pecos Canyonlands. Located at the southern limit of the Great Plains, the Lower Pecos was favorable to bison only when climactic conditions were relatively cool and moist. During these periods, grasslands expanded and lured Plains bison to the region. When conditions were hot and dry, bison retreated to more favorable locations, further north and east.</p>
+				
+				<figure class="gallery-img gallery-img-third-size img-right" id="anchor-bison">
+						<a href="images/bison.html">
+							<img src="images/bison.jpg" alt="excavated bison bones">
+						</a>
+						<figcaption> This almost complete skeleton of a yearling bison calf was found in the lower part of Bone Bed 3 in Bonfire Shelter. Apparently, it was buried beneath other fallen bison carcasses and was never butchered. Photograph by Dave Dibble. See <a href="../bonfire/" target="_blank">Bonfire Shelter</a> to learn more.</figcaption>
+						</figure>
+				
+				<p>
+					The presence of bison in the Lower Pecos is important to understanding earth oven plant baking for two reasons: first, bison have a high caloric return for the energy invested in their procurement. In other words, the payoff in calories from bison meat is much greater than the expenditure of energy it takes to harvest and process the bison. This contrasts with evergreen rosettes baked in earth ovens, which require a lot of energy expense on the part of the individuals gathering the rock, fuel wood, and foodstuff and assembling the oven; the caloric return from the baked plants is relatively meager in comparison.</p>	
+					
+				<p>
+					Because bison and baked desert succulents are so different in caloric gain, and because bison presence in the Lower Pecos was occasional, archeologists have hypothesized that the availability of bison may have affected the breadth of the diet of Lower Pecos peoples, which may be reflected as changes in the practice of earth oven plant baking. Simplistically put, when bison were available, earth oven cooking may have been less important. </p>
+					
+				<p>
+					Second, bison are believed to have been present only during periods when the climate was favorable to them (relatively cool and moist). Therefore, the timing of bison presence is also relevant to understanding past climactic conditions. At the time I wrote my thesis, radiocarbon assays on Lower Pecos bison remains or even associated with bison remains were relatively few in number.
+                	</p>
+					
+				
+					
+				<p><strong>Population</strong></p>
+				
+				<figure class="gallery-img gallery-img-third-size img-left" id="anchor-peel-7-lg">
+						<a href="images/peel-7-lg.html">
+							<img src="images/peel-7-lg.jpg" alt="painting">
+						</a>
+						<figcaption>Lower Pecos rockshelter scene as envisioned by artist Reeda Peel.</figcaption>
+						</figure>
+				
+				 <p>
+					Human population patterns—that is, estimated increases and decreases in the number of people living in the Lower Pecos—are interesting to consider in relationship to the other research topics. I wanted to estimate changes in population to consider how they might affect earth oven intensification, and how they might have changed in relationship to a changing climate, as shown through climate data and bison presence.
+                	</p>
+					
+				<br><br>
+				<h2 id="crit">Critically Evaluating the Data</h2>
+					
+				<p>
+					The fundamental importance of critically evaluating the quality of each radiocarbon assay was explained in <a target="_blank" href= "./interpreting.html">Interpreting Radiocarbon Results</a>. If you have only a few radiocarbon assays to evaluate, this isn't a big chore. However, when using large datasets the prospect of evaluating each radiocarbon assay can be, to say the least, daunting. To ease the burden, some researchers elect to score or rank the assays according to how well they satisfy whatever criteria the researcher has chosen. These criteria often include things like method of measurement (AMS or conventional), size of standard error, and material dated. Though a well-designed scoring system may be useful in some cases, I elected to evaluate each assay individually without the abstraction of a scoring system. Once buckled down to the task, it was not as difficult as I expected it to be. My criteria were:
+					</p>
+					
+				<figure class="gallery-img gallery-img-third-size img-right" id="anchor-fig17">
+						<a href="images/fig17.html">
+							<img src="images/fig17.jpg" alt="black and white photograph of a magnified plant specimen which appears and a lace-like white pattern on a black background.">
+						</a>
+						<figcaption>Photomicrograph of a transverse section of honey mesquite charcoal (Prosopis glandulosa) identified and photographed by Phil Dering. Adequate reporting of material type was an important criteria during the data vetting process.</figcaption>
+						</figure>
+				
+				<ol class="numeric">
+					<li> <strong>Were basic reporting standards met?</strong> A conventional age, be it reported by the laboratory or estimated by me using &delta;<sup>13</sup>C values for the given material type, was essential. This criterion excluded legacy assays where I could not determine whether the reported age was conventional or measured. Material type and context were also critical, though some exceptions were made for poorly provenienced but otherwise well-reported Lower Pecos assays. Such assays are useful for select analyses&#8212;in the case of this project, for the summed probability distribution (SPD) used to estimate population changes (more on that below).</li>
+					
+					<li> <strong>Bulk samples were excluded, unless their context was believed to be unusually secure. </strong> Prior to the use of AMS for radiocarbon dating, multiple pieces of charcoal were sometimes assayed together. These charcoal pieces were sometimes collected from an area many meters across, and therefore likely represented different events. In addition, some Lower Pecos legacy assays consisted of two different material types assayed together. </li>
+						
+					<li><strong>Samples with known or suspected contamination or laboratory problems were excluded.</strong> For example, whole bone assays were excluded, as were assays the original reporter believed were problematic for one reason or another.</li>
+					
+					<li><strong>Non-archaeological samples were excluded.</strong> This included sediment and modern materials, such as experimental modern snail shell assays.</li>
+					
+					<li><strong>Pictograph assays were excluded.</strong> While dating of pictographs is arguably the most-exciting development in radiocarbon dating occurring in the Lower Pecos today, pictograph assays were excluded from the database due to uncertainty of paint composition and difficulties in pretreatment.</li>
+					</ol>
+					
+			
+				
+				<p>
+					I chose to include most legacy assays in my analyses. Some analysts exclude them, while others argue for their inclusion. Legacy assays are not inherently unreliable, but they were often reported inadequately, by today's standards. Extra effort is often required to chase down all the pieces of information necessary to evaluate them. Radiocarbon scientists Hamilton and Krus believe that legacy assays should be evaluated on a case-by-case basis, and that if exclusion of a legacy assay is necessary, the reason for the exclusion should be made explicit by the analyst. My reasons for excluding assays for my thesis analyses are presented in the database.  
+					</p>
+				
+					
+				<figure class="gallery-img gallery-img-half-size img-right" id="anchor-database">
+						<a href="images/database.html">
+							<img src="images/database.jpg" alt="a screenshot of a Microsoft Access database">
+						</a>
+						<figcaption>An image of Emily's Lower Pecos radiocarbon database. The database file can be downloaded <a target="_blank" href="https://digital.library.txstate.edu/bitstream/handle/10877/9009/AppendixA_LPC_14C_Database.accdb?sequence=13&isAllowed=y">here</a>.</figcaption>
+						</figure>
+				
+				<p>
+					I included radiocarbon dates with large standard errors (the &#177; value). Some archeologists chose to exclude radiocarbon dates with large standard errors, considering them too imprecise to be useful. Other disagree. The exclusion of dates with large standard errors, Hamilton and Krus argue, is a hold-over from older methods of radiocarbon date analysis, including summed probability distributions (SPDs). However, even SPDs have been shown to be useful with the inclusion of dates with large standard errors, so long as the average standard error of the entire dataset is within an acceptable range. The average standard error of my vetted Lower Pecos dataset was 60 years. When all was said and done, I culled 68 radiocarbon assays from the dataset (about 14%), leaving me with a total of 405 assays to select from for the analyses.</p>
+					
+					
+				
+				<h2 id="analyses">Analyses and Results</h2>
+				
+					<figure class="gallery-img gallery-img-third-size img-left" id="anchor-landscape">
+						<a href="images/landscape.html">
+							<img src="images/landscape.jpg" alt="landscape photograph of rocky plateaus on a cloudy day">
+						</a>
+						<figcaption>A view of the Lower Pecos Canyonlands near the Devil's River. Despite the apparent bareness, sheltered and well-watered canyons contain a rich human legacy. Photograph by Emily McCuistion.</figcaption>
+						</figure>
+				
+				<p>
+					After culling problematic radiocarbon assays from the dataset, my next steps were to select data to address each research question and complete the statistical analyses. Data selection hinged on relevance to each research question and the requirements of the chosen statistical methods&#8212;Bayesian phase models and a summed probability distribution. 
+					</p>
+				
+				<p>
+					As with all radiocarbon models, the results below are interpretive estimates that should be reconsidered when new information becomes available or when modeled with other methods. Modeled dates are italicized to differentiate them from unmodeled dates, a standard practice when reporting modeled radiocarbon dates.</p>
+				
+				<br><br><br>
+				<p><strong>Bayesian Analysis of Earth Oven Plant Baking</strong></p>
+				
+				<p>
+					I used a Bayesian approach to model the start and end dates of earth oven plant baking. Bayesian modeling is a statistical method that has surged in popularity in the radiocarbon dating community in recent decades. Bayes' theorem was developed in the 1700s by an English mathematician and Presbyterian minister Thomas Bayes. In simple terms, Bayes' theorem expresses the likelihood of an event (the posterior belief), given prior probabilities (archeological inferences) and standardized likelihoods (the radiocarbon dates). In a simplified mathematical format, Bayesian statistics can be summarized as:
+					</p>
+				
+				
+				
+				<p class="align-center">
+					prior probabilities x standardized likelihoods = posterior beliefs
+				</p>
+				
+				<p>For radiocarbon dating, this may be rephrased:</p>
+				
+				<p class="align-center">
+					the archeology x the radiocarbon dates = a more precise chronology
+				</p>
+				
+				
+				<p>
+					In radiocarbon dating, <strong>prior probabilities</strong> are inferences or interpretations gleaned from the archaeology. For example, an archeologist who looks at the stratigraphic superposition to understand the probable chronological order of archaeological materials or geologic events is drawing conclusions based on prior probabilities. </p>
+				
+				<p>
+					<strong>Standardized likelihoods</strong> are chronometric information&#8212;for radiocarbon dating, these are the radiocarbon dates. A radiocarbon date is, after all, a statistical probability. Other types of chronometric information can also be incorporated into Bayesian models, such as a date on a coin, dendrochronological date, or other direct dating method such as an OSL (optically stimulated luminescence) or thermoluminescence date.</p>
+				
+				<figure class="gallery-img  gallery-img-third-size img-right" id="anchor-coprolite">
+						<a href="images/coprolite.html">
+							<img src="images/coprolite.jpg" alt="photograph of a coprolite under magnification being held by gloved fingers">
+						</a>
+						<figcaption>This coprolite from Eagle Cave visibly contains seeds and likely other plant remains that could be identified by an archeobotanist. Photograph courtesy of the Ancient Southwest Texas Project, Texas State University. </figcaption>
+						</figure>
+				<p>
+					The <strong>posterior belief</strong> is the outcome&#8212;the probability of an event or events, given as a date range. Thus, by combining radiocarbon dates with other available information, a more precise chronology can be created.</p>
+				
+				
+				<p>
+					The Bayesian approach, as it has been applied to archeological radiocarbon dating, commonly takes one of two forms. As described in the above example, it can be used to narrow the date ranges for a suite of radiocarbon dates from the same archaeological site. This creates an intra-site chronological model with much tighter precision than can be done by taking each date at face value. </p>
+				
+				
+				<p>
+					The second common method of Bayesian analysis uses a set of dates to investigate the timing of something, termed a phase, across many sites or a region. The phase may relate to typologies, seriation, the environment, or history. I used phase models to estimate the start and end of earth oven plant baking. But&#8212;one might ask&#8212;why not simply look at the earliest and latest dates from earth ovens to determine the time span of this technology? Well, given that radiocarbon dates have been obtained from only 3% of known sites, it is unlikely that Lower Pecos archeologists sampled the first or last time earth oven cooking occurred in the region. A Bayesian statistical program uses patterns in existing data to extrapolate when the phase of interest began and ended. Regional phase models such as this rely heavily on the archaeologist's understanding of the archaeological problem. As with most types of interpretation, a hazard of using Bayesian phase modeling is that the archaeologist's assumptions may result in a model designed to reinforce their preconceived notions.</p>
+				
+				<blockquote>
+				<p><strong>Bayesian Software: OxCal</strong></p>
+				
+					<p>
+					Several software programs were developed specifically for Bayesian analysis of radiocarbon dates, including OxCal and BCal. Other programs are often used for this purpose, such as the R Project for Statistical Computing. I elected to use OxCal in part because I was able to take a multi-day workshop on its use for Bayesian analyses.</p>
+					
+				<p>
+					Bayesian OxCal models use a Markov chain Monte Carlo (MCMC) random sampling technique. As a result, model results vary slightly each time the model is run. A model is a likeness, after all, not a perfect clone.</p>
+					
+				<p>
+					Each time a Bayesian model is run in OxCal, agreement indices and convergence integrals are calculated. OxCal developer Bronk Ramsey defines agreement indices as, "a measure of the agreement between the model (prior) and the observational data (likelihood)." A minimum value of 60% is desired for agreement indices. The convergence integral is a measure of the effectiveness of the MCMC algorithm and is given for each date as well as the phase start and end. A value above 95% is desired for the convergence interval. It is best practice to publish the OxCal Chronological Query Language (CQL) code for published models; the code for my Lower Pecos study is presented in an appendix of my thesis.</p>
+				</blockquote>
+				
+				
+				<p>
+					Radiocarbon assays selected to address earth oven plant baking included samples from coprolites containing agave, yucca, or sotol, and quids (chewed leaves), as both are direct evidence of the consumption of these plants. Assays on charred plants and charcoal from earth oven facilities were also used, as they have a high probability of being associated with plant baking. In many cases the context of the assays was not well reported, requiring educated guesses as to whether a given specimen was the product of plant baking or some other activity. Wanting to draft a high-confidence model of earth oven plant baking in the Lower Pecos, yet also wanting to include as many assays as possible, I decided to run my analyses twice. In the more conservative, rigorously vetted model, only assays on quids, coprolites containing evergreen rosette fossils, and charred botanicals from earth oven facilities were used, resulting in a total of 103 assays. In the second analysis, assays on evergreen rosette plants not clearly associated with plant baking, as well as charcoal assays of suspected but uncertain relationship to earth oven cooking, were incorporated, nearly doubling the dataset to 204 assays. The results of these analyses were similar. For brevity, the well-vetted model is presented here and the results of the lower-confidence model can be found in my thesis. </p>
+				
+				
+				<figure class="gallery-img " id="anchor-eophases">
+						<a href="images/eophases.html">
+							<img src="images/eophases.jpg" alt="black and white graphs">
+						</a>
+						<figcaption>Phase model of the estimated start and end of Lower Pecos earth oven plant baking, modeled with OxCal v4.4 and IntCal20.</figcaption>
+						</figure>
+				
+				<p>
+					The earth oven model, calibrated with IntCal20, estimates a beginning of earth oven plant baking between <em>10726-10268 cal BP</em> (95% probability) and likely between <em>10557-10317 cal BP</em> (68% probability). The end of earth oven plant baking is estimated at <em>257 cal BP</em> through present and into the future (<em>-147 cal BP, or AD 2097</em>) (95%), and likely between <em>214-4 cal BP</em> (68%). The agreement index is Amodel=82.8% and Aoverall=87.7%. The convergence interval of the phase is 95.8% (start) and 96.2% (end).</p>
+				
+				
+				
+				<p><strong>Population Estimation using a Summed Probability Distribution (SPD)</strong></p>
+				
+				<p>
+					To estimate population fluctuations in the Lower Pecos over the last 12,000 years, I graphed radiocarbon data using a summed probability distribution. An underlying assumption of SPD analyses for investigating population fluctuations is that the quantity of radiocarbon dates from a site or region reflects the relative number of people inhabiting that place. In other words, more people = more archaeological deposits = more radiocarbon assays. An SPD indicates relative changes (more than, less than) and does not estimate numbers of people. When graphed, an SPD appears as a line, or statistical curve, with calendar years on the x-axis and magnitude of the overlapping, summed calibrated date ranges on the y-axis. </p>
+				
+				<p>
+					There are several well-known biases in SPDs. Consider the difference between magnitude of occupation and archeological deposition. That is, different activity types will yield different types and quantities of deposits. For example, earth oven plant baking leaves an obvious archeological signature in the form of burnt rock and charcoal, both of which preserve well in the archeological record, while an activity like collecting and hauling river water to camp will leave little or no archeological signature. Another important bias to consider is the effect of radiocarbon sampling by archeologists. For example, if a certain time period has been a regional research focus for a long time, the region’s radiocarbon data is likely weighted more heavily towards that period. Finally, SPDs are affected by differences in preservation of archeological deposits. Preservation bias, or taphonomic bias, is the difference between preservation of archeological deposits of different ages. Typically, older archeological deposits have been subject to weathering, decomposition, and other manners of destruction for longer than more recent deposits and are therefore underrepresented archeologically in comparison.	</p>
+				
+				<figure class="gallery-img gallery-img-half-size img-right" id="anchor-spd">
+						<a href="images/spd.html">
+							<img src="images/spd.png" alt="graph of two lines">
+						</a>
+						<figcaption>Summed probability distribution of vetted Lower Pecos rockshelter dates (blue line) and 500-year moving average trendline (red line). Years are cal BC/AD. The SPD was generated with OxCal v4.4 and the IntCal20 calibration curve.</figcaption>
+						</figure>
+
+				<p>
+					Biases can be minimized by using a large data set representing numerous sites across a region and sampled by several different investigators. Additionally, statistical corrections may be applied to SPDs to reduce preservation biases. I minimized the problem of preservation bias in my Lower Pecos SPD by using only radiocarbon assays from rockshelters, where organic preservation is exceptional. Archeological materials in rockshelters also suffer from taphonomy, but the effects are far less than at open sites, where the chance of excavating fragile perishable materials like an ancient sandal, coprolite, or agave leaf is unlikely. By limiting my dataset to only rockshelter assays I decreased my sample size to 293 assays, less than the recommended minimum number of 500 assays. As the Lower Pecos radiocarbon dataset continues to grow, it is my hope that my SPD analysis will be revaluated, and its strengths and weaknesses identified.</p>
+				
+				<figure class="gallery-img gallery-img-half-size img-left" id="anchor-movingaverage">
+						<a href="images/movingaverage.html">
+							<img src="images/movingaverage.png" alt="graph with one red line">
+						</a>
+						<figcaption>Lower Pecos 500-year moving average trendline, with scale of y-axis decreased compared to the previous figure; the trendlines are the same.</figcaption>
+						</figure>
+					
+				<p>
+					These graphs chart relative human population fluctuations. They do not estimate the number of people living in the Lower Pecos at any given time. It is well-known that statistical troughs and plateaus in the calibration curve introduces biases into SPDs. To reduce the effects of troughs and plateaus, a 500-year moving average trendline is applied to the distribution. The duration of the moving average depends on the period of time spanned by the distribution—in this case, primarily the Holocene. If the event of interest to the analyst took place in the Pleistocene, for example, a different moving average would likely be more appropriate.</p>
+				
+
+				<p>
+					The Lower Pecos rockshelter SPD, adjusted with the 500-year moving average trendline, has several limitations for evaluating population fluctuations: the relatively small sample size, the fact that taphonomic processes affect dry rockshelter deposits (albeit greatly reduced compared to open sites), and the reality that radiocarbon SPDs are inherently problematic due to effects of the calibration curve which can be minimized but not eliminated altogether. Despite these limitations, intriguing patterns emerge when the population trendline is compared with climate proxy data, earth oven data, and bison data.</p>
+				
+
+				<p><strong>Bison</strong></p>
+				
+				<figure class="gallery-img gallery-img-third-size img-right" id="anchor-mural2-lg">
+						<a href="images/mural2-lg.html">
+							<img src="images/mural2-lg.jpg" alt="painting showing bison tumbling from a cliff and landing on rocks in a canyon bottom">
+						</a>
+						<figcaption>Bonfire Shelter Mural by Nola Montgomery, Texas Parks and Wildlife Department, original on display at Seminole Canyon State Park.</figcaption>
+						</figure>
+				
+				<p>
+					For addressing the timing of bison in the region, I considered assays made on bison remains preferable to other materials stratigraphically associated with bison (for example, assayed wood charcoal found in the same layer as bison bones). However, just two Lower Pecos assays on bison remains had been dated at the time of my thesis work that I did not consider problematic: an assay on bison hair from a private collection, assayed for my thesis, and an assay on charred <em>Bison bison</em> bone from Bonfire Shelter's Bone Bed 3.</p>
+				<p>
+					Because of the scarcity of directly dated bison remains, assays associated with bison were also considered. Several Lower Pecos assays associated with bison were excluded from the discussion, due to lack or contextual detail or due to problems with the material assayed (such as bone apatite or sediment). In total, 11 assays on bison were considered relevant to the discussion of bison presence in the region. Because of the small sample size, no statistical analysis was used to refine their date range.
+					</p>
+
+					
+				<h2 id="putting">Putting it Together</h2>
+				
+				<p>
+					After completing my analyses of earth oven plant baking and population fluctuations, and making a list of reliable bison assays, I compared these data to paleoclimate records for Texas, published by Wong et al. in 2015. While fluctuations in earth oven plant baking were not evaluated by my analysis, interesting patterns in population change were apparent and appear to be related to the changing environment and presence of bison.</p>
+				
+				<p>
+					Wong and colleagues compared climate proxies from across Texas, spanning 11,700 years ago until AD 1950. Their various proxy datasets did not agree with each other perfectly, but several broad patterns emerged: a period of warming and drying from the Pleistocene into the middle Holocene was evident. Proxy records conflict about the timing of the maximum dry period, with some data indicating the thermal maximum occurred between 7000-5000 years ago (which corresponds with a steady increase in the Lower Pecos population trendline) and other records indicating it was around 5000-3000 years ago (which corresponds with a plateau in the trendline). The climate proxies indicate a short period of cooler, wetter conditions in the late Holocene, somewhere between 3000-1000 years ago. Interestingly, this period is characterized by a decline in the population trendline until about 2300 cal BP, followed by a steep increase in the trendline. Proxy data indicate a dry period in the last two thousand years. Though the population trendline dips at around 1000 cal BP, overall, it increases until the historic period.
+					</p>
+				
+				<figure class="gallery-img" id="anchor-synthesis">
+						<a href="images/synthesis.html">
+							<img src="images/synthesis.gif" alt="moving graphic with graphed white line, colored background, and bison, agave, and text">
+						</a>
+						<figcaption>Watch this animated graphic to see the data come together. The moving average trendline derived from the SPD (white line) is overlaying generalized paleoenvironmental data (Wong et al. 2015); yellow indicates warming/drying, blue (3000-1000 cal BP) indicates cooler, wetter climate, and the dashed red boundary line indicates that a short dry period occurred sometime in range. Brackets with bison dates indicate bison presence occurring sometime within that range, not spanning the entire period (that we know of). The start of earth oven plant baking is given as modeled date range, with the start occuring sometime within that range.</figcaption>
+						</figure>
+						
+				<p>
+					Bison presence corresponds with the relatively cool, wet period at the end of the Pleistocene. Bison do not appear again in the radiocarbon record until around 3000-2000 cal BP (possibly as early as 3500 cal BP, based on a single poorly reported assay from Skyline Shelter). Interestingly, bison presence corresponds with a decrease in the population trendline around 3000-2000 cal BP, and also correlates with a period of cooler, wetter weather indicated by some of the proxy records. Bison are represented again in the radiocarbon record around 500-300 cal BP. For the most part, the climate proxies and bison data corroborate each other. 
+					</p>
+					
+				<p>
+					Though the SPD moving average trendline is considered preliminary, some features of the trendline (peaks, troughs, and plateaus) correlate with changes in the environmental data and warrant further investigation with a more robust data set and additional lines of inquiry. Additionally, investigations of the tempo of earth oven plant baking are needed, not just start and end dates, to better understand the proliferation of plant baking technology through the millennia.
+					</p>
+				
+				<p>
+					This Lower Pecos Canyonlands case study illustrates one way that radiocarbon data can be used to address research questions beyond the age-old question (pun intended), “how old is this thing?” The potential for regional studies such as this already exists for many well-studied archeological regions. This potential will only increase as more radiocarbon assays are made from newly excavated and curated materials, and as more archeologists see the value in making their radiocarbon data accessible through online publications and crowd-sourced radiocarbon databases. Inspired? See Emily’s thesis (linked in <a target="_blank" href="./credits.html">Credits & Sources</a>) for more details about this project and for additional references on the topics of SPDs and Bayesian modeling. </p>
+
+				
+				<div class="follow">
+						<a class="follow-link" href="./takeaways.html"><span class="follow-link-text">Next Section</span></a>
+					</div>
+					
+				</article>
+		    </div>
+			
+			<div id="foot">
+				<p class="links">
+                    <a href="./index.html">Main</a>
+					<a href="./dating101.html">Dating 101</a>
+					<a href="./environment.html">In the Environment</a>
+					<a href="./lab.html">In the Lab</a>
+					<a href="./libbystesttube.html">In Libby's Test Tube</a>
+					<a href="./selecting.html">&nbsp;Selecting Samples&nbsp;</a>
+					<a href="./reporting.html">Reporting Results</a>
+					<a href="./interpreting.html">Interpreting Dates</a>
+					<a href="./casestudy.html">Case Study: Lower Pecos</a>
+					<a href="./takeaways.html">Takeaways</a>
+					<a href="./credits.html">Credits & Sources</a>
+				</p>
+
+  				<p>
+					<a href="/index.html">Texas Beyond History</a><br>
+					<a href="/sitemap.html">Site Map</a><br>
+					May 2022
+				</p>
+			</div>
+	   </div>
+	</body>
+</html>

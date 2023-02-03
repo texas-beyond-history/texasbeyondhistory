@@ -1,0 +1,273 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/hinds.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Hinds Cave &gt; Credits &amp; Sources</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/> 
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	<div id="pt">
+	 <a href="../plateaus/index.html">Plateaus and Canyonlands Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Hinds Cave</h1>
+      </div>
+
+
+    <h2>
+				<a href="index.html">Hinds Main</a> 
+				<a href="natural.html">Natural Setting</a> 
+				<a href="climate.html">Paleoclimate</a> 
+              <a href="explore.html">Explore Hinds Archeology</a> 
+			  <a href="artifacts.html">Artifacts </a><br>
+			  <a href="life.html">Life at Hinds </a> 
+			 <a href="kids.html">Kids</a>
+			  <a href="teach.html">Teaching</a>
+			  <a href="credits.html">Credits & Sources</a> 
+	  </h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" -->
+  <table width="780">
+    <tr>
+      <td><h2>Credits &amp; Sources </h2></td>
+    </tr>
+    <tr>
+      <td><img src="images/credits-collage.jpg" width="780" height="206"></td>
+    </tr>
+    <tr>
+      <td><p>&nbsp;</p>
+        
+        <p>This exhibit was underwritten by grants from the<strong> National Endowment for the Humanities </strong>and the <strong>Texas Preservation Trust Fund</strong> ( Texas Historical Commission). Additional support was provided by the <strong>Summerfield G. Roberts Foundation, </strong> the<strong> Clements Foundation</strong>, and the <strong>College of Liberal Arts</strong> (UT Austin) as well as the <strong>Texas Archeological Society</strong> and the<strong> Council of Texas Archeologists. </strong></p>
+        <p>The creation of the Hinds Cave exhibit was truly a collaborative effort. <strong> Harry Shafer</strong>,  TBH editor <strong>Steve Black</strong>, and <strong>Vaughn Bryant</strong> are the primary authors. In addition, <strong>Glenna Dean, Phil Dering</strong>, <strong>Ken Lord, </strong>and <strong>Joe Saunders </strong>contributed to the creation of the exhibit by providing access to their published studies and unpublished notes as well as photographs, memories, and critical review. All four deserve credit as co-authors. The &ldquo;Natural Setting&rdquo; section borrowed heavily from Dean 1978, the excavation descriptions by Lord 1974 and Saunders 1986 are used in the &ldquo;Explore Hinds Archeology&rdquo; section, Dering&rsquo;s words appear in the &ldquo;Paleoclimate&rdquo; and &quot;Life at Hinds&quot; sections. </p>
+        <p>At Texas A&amp;M University, Curator of Anthropology<strong> Patricia Clabaugh</strong> helped out in many ways. She and her staff provided access to the Hinds archives and scanned many field records and field photographs that appear in this exhibit. Most importantly they took hundreds of digital photographs of the Hinds Cave materials. Under Clabaugh&rsquo;s supervision, assistant <strong>P. L. Wood</strong> did the artifact photography and was responsible for all of the photos with turquoise background. 
+        <p>At TARL, TBH editorial assistants <strong>Erin Tyson</strong> and <strong>Jeff Taff</strong> helped create the exhibit. Tyson was responsible for scanning photographs and documents and preparing these for web publication. Tyson and TBH web designer Meg Kemp are jointly responsible for the layout and appearance of the web exhibit. Jeff Taff compiled a database of all Hinds Cave radiocarbon dates and used this to create several of the graphics that appear in the exhibit.</p>
+        <p>The &quot;Detectives into the Past&quot; activity for kids is the brainchild of TBH co-editor<strong> Susan Dial</strong>. She and TBH education editor <strong>Carol Schlenk</strong> developed this activity. Carol also created the &quot;Comparing Two Cultures&quot; lesson plan for teachers. </p>
+        <p>Special thanks to the <strong>Witte Museum </strong>of San Antonio for allowing the use of many of the drawings and paintings by <strong>George Strickland </strong>that appear in the 1986 book <em>Ancient Texans: Rock Art and Lifeways along the Lower Pecos</em>, published by the Witte Museum and Texas Monthly Press. <strong>Rebecca Huffstutler </strong>at the Witte kindly scanned the original artwork. Visitors to the Witte can see several Hinds Cave artifacts on display as well as  related materials from the dry caves of the Lower Pecos.</p>
+        <p>Artist <strong>Peggy Maceo</strong> painted the &ldquo;Life in a Rockshelter&rdquo; scene based on evidene from Hinds Cave. </p><br>
+        
+        <h3><strong>Research Credits </strong></h3>
+        <p>The Hinds Cave investigations were carried out by the <strong>Department of Anthropology at Texas A&amp;M University</strong>, a partner in the <em>Texas Beyond History </em>website. The Hinds Cave expedition was planned as an interdisciplinary project that involved both archeology and botany. The archeologist that led the Hinds Cave expedition was <strong>Harry J. Shafer</strong> and the botanist was <strong>Vaughn M. Bryant, Jr</strong>.; both are anthropologists and professors of anthropology at Texas A&amp;M University.</p>
+         <div style="position:relative; float:left; width:200px; padding:10px"> 
+		<img src="images/shafer-stick-sm.jpg" alt="Photo of Harry Shafer" width="200" height="306">
+		<div class="caption">Harry Shafer holding a digging stick found at Hinds Cave.  Photo taken in 1974. TAMU Anthropology archives.</div>
+         </div>
+         <p><strong>Harry Shafer</strong> is a native Texan who received his B.A. and PhD degrees from The University of Texas at Austin. He worked for a decade doing reservoir salvage archeology at the Texas Archeological Salvage Project in Austin before becoming the first archeologist on the faculty at Texas A&amp;M University. He taught there for 30 years. His research has taken him over most of Texas, the American Southwest, Belize, and Jamaica. Harry is perhaps best known for his work at the Nan Ranch, a now famous site in the Mimbres Valley of New Mexico. Today he is retired from teaching and lives in San Antonio; Harry continues to be actively involved in research, writing, and training. </p>
+		 <div style="position:relative; float:right; width:200px; padding:10px"> 
+              <img src="images/bryant-sm.jpg" alt="Photo of Vaughn Bryant" width="200" height="307"> 
+              <div class="caption">Vaughn Bryant. 1976 photo, courtesy of Glena Dean. </div>
+          </div> 
+         <p><strong>Vaughn Bryant</strong> was born in Dallas, but grew up in South America and Alaska. After completing a BA in geography, he earned an MA in anthropology, followed by a doctorate degree in botany, all from the University of Texas at Austin. His dissertation focused on the use of fossil pollen and plant macrofossils to reconstruct the paleoenvironment of Texas during the past 30,000 years, as well as the prehistoric diets of Native Americans over the last 10,000 years.&nbsp; Vaughn was the first anthropologist at Texas A&amp;M University and spent two decades as department head, creating a doctoral-granting anthropology program.&nbsp; Currently, he is the director of the Texas A&amp;M Palynology Laboratory and spends most of his time teaching, working with graduate students, and pursuing pollen studies of archeological sites and working with law enforcement personnel in the emerging field of forensic palynology.</p>
+         <div style="position:relative; float:left; width:200px; padding:10px"> 
+		<img src="images/carrolhines-sm.jpg" alt="Photo of Carrol M. Hines" width="200" height="306"><div class="caption">Carrol M. Hinds. TAMU Anthropology archives.</div>
+         </div>
+		<p>The Hinds Cave project would not have happened had it not been for the assistance provided by <strong>Fred Speck </strong> and <strong>Alfred H. Walker</strong>. Fred, now a dermatologist in Kerrville, was a student at Texas A&amp;M University in 1973 and brought the site to the attention of Shafer. The late Mr. Walker and his wife Nell introduced Shafer and Bryant to <strong>Carrol M. Hinds</strong>, the ranch owner. The late Mr. Hinds deserves special thanks for opening his ranch to the Texas A&amp;M research team and enlightening us with many colorful stores about the ranching history in the area. </p>
+        <div style="position:relative; float:right; width:200px; padding:10px"> 
+              <img src="images/dean-notes-sm.jpg" alt="Photo of Vaughn Bryant" width="200" height="307"> 
+              <div class="caption">Glenna Williams-Dean, 1975.. TAMU Anthropology archives.</div>
+          </div> 
+		<p>Graduate field assistants and volunteers carried out much of the field work. <strong>Glenna Dean</strong> (then Williams-Dean) was a graduate field assistant for two seasons. Glenna supervised the excavations in Area B and used the coprolite data for her dissertation research. She is now the State Archeologist of New Mexico. <strong>J. Phil Dering</strong> was a graduate field assistant in Area A and used the data from that excavation for his M.A. thesis at Texas A&amp;M. Phil is now the archeologist for the Texas Forest Service and a consulting archeobotanist and archeologist in Comstock, Texas. <strong>Edward Baxter</strong> was a field assistant for two seasons and is currently a free-lance archeologist living in College Station. </p>
+        <div style="position:relative; float:left; width:200px; padding:10px"> 
+		<img src="images/dering-sm.jpg" alt="Photo of Phil Dering" width="200" height="242">
+		<div class="caption">Phil Dering, 1975.  TAMU Anthropology archives.</div>
+         </div>
+		<p>Among the many individuals who spent volunteer time working at Hinds Cave include <strong>Darrell Creel, John Ippolito, Karen Clary, Tom Sterns, </strong>and<strong> Karen Smith. </strong><strong>D. Bruce Dickson </strong>directed a summer archeological field school on the ranch in 1976. </p>
+          
+          <p>Funding for the Hinds Cave Project came from several sources. The first little grant was for $110 from the <strong>Winship Foundation</strong> of Corpus Christi.&nbsp; This provided funding for the first visit to the Cave by Harry, Vaughn, and Phil in 1974.&nbsp; Information provided by this&nbsp;exploratory trip was used to prepare a grant proposal to the <strong>National Geographic Society, </strong>who provided $5,000 that funded the entire 1975 field season.&nbsp; The very successful first season gave us the information we needed to go to the <strong>National Science Foundation</strong> for additional funding.&nbsp; The National Science Foundation award of $74,000 funded the 1976 season and one year of graduate student research and analysis. Additional funding was provided by the <strong>Department of Anthropology</strong> and <strong>College of Liberal Arts</strong> at Texas A&amp;M that helped cover salaries for faculty and staff. </p>
+          <p>&nbsp;</p>
+		  
+          <h3>Print Sources</h3>
+		  
+        <p><strong>Shafer, Harry J,</strong>, editor<br>
+			2013&nbsp;&nbsp; <em> Painters in Prehistory: Archaeology and Art of the Lower Pecos Canyonlands</em>. 
+        Trinity University Press, San Antonio. 
+        [Excellent, well-illustrated popular book updating 1986 <em>Ancient Texans</em>.]</p>
+         <p>For other printed references and links to the archeology and art of the area, see <a href="../pecos/credits.html">Lower Pecos Canyonlands Credits and Sources</a>. </p><br>
+		  
+        <h3><strong>Hinds Cave Bibligraphy </strong></h3>
+		  
+        <p>Below are all of the major Hinds Cave publications, theses, and dissertations, as well as some of the articles and book chapters that focus on data from Hinds Cave. </p>
+        <p><strong>Andrews, Rhonda L. and James M. Adovasio</strong><br>
+          1980&nbsp;&nbsp; <em>&nbsp;Perishable Industries from Hinds Cave, Val Verde County, Texas.</em> Ethnology Monographs No. 5. Pittsburgh: Department of Anthropology, University of Pittsburgh. </p>
+        <p>1986&nbsp; &nbsp;Minor League? A Reply to Glenna Williams-Dean. <em>North American Archaeologist</em> 7(4): 355-363.<br> [Reply to Williams-Dean 1986.]</p>
+        <p><strong>Bement, Leland C. and Solveig A. Turpin</strong><br>
+          1988 &nbsp;&nbsp;A Folsom Point from Hinds Cave, 41VV456, Val Verde County, Texas.<em> La Tierra</em> 15(1):5-7. <br>
+          [Describes  point purportedly dug up by a collector at Hinds Cave. Claim later discredited &ndash; see Collins 1998.]<br>
+  <br><strong>Bryant, Vaughn M., Jr.</strong><br>
+  1986 &nbsp;&nbsp;Prehistoric Diet: A Case for Coprolite Analysis, in <em>Ancient Texans: Rock Art and Lifeways along the Lower Pecos</em>, by H. J. Shafer, pp. 132-145. Texas Monthly Press, Austin.</p>
+        <p><strong>Collins, Michael B.</strong><br>
+          1998&nbsp; &nbsp;Folsom Point Reported from Hinds Cave Probably is not from Hinds Cave. <em> La Tierra</em> 25(4):18-20. [Reports 1949 photo of identical specimen said to have been found in 1934 or 1935 in Blanco County. The later claim the point was found at Hinds Cave is obviously mistaken. See Bement and Turpin 1988.] </p>
+		  <p><strong>Danielson, Dennis R. and Karl J. Reinhard</strong><br>
+          1998&nbsp; &nbsp;Human Dental Microwear Caused by Calcium Oxalate Phytoliths in Prehistoric Diet of the Lower Pecos Region, Texas.<em> American Journal of Physical Anthropology</em> 107:297-304. <br>
+          [Coprolites from Hinds Cave found to consist of up to 20%, by volume, of calcium oxalate phytoliths (plant crystals) mostly from agave and prickly pear.  These plant crystals are harder than dental enamel, hence likely a major cause of the severe dental wear characteristic of Archaic populations in the Lower Pecos.] </p>
+          <p><strong>Dean, Glenna</strong> (see also Williams-Dean)<br>
+          2006&nbsp; &nbsp;The Science of Coprolite Analysis: The View from Hinds Cave. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em>,&nbsp;<em>23(1</em>):<em> 67-79</em><em>. </em></p>
+          <p> <strong>Dering, J. Philip</strong><br>
+          1979&nbsp; &nbsp;<em>Pollen and Plant Macrofossil Vegetation Record Recovered from Hinds Cave, Val Verde County, Texas.</em> M.S. thesis, Texas A&amp;M University. Published by the Department of Anthropology in an unnamed report series, here termed <em>Hinds Cave Report 3</em>.</p>
+        <p> 1999&nbsp; &nbsp;Earth Oven Plant Processing in Archaic Period Economies: An Example from a Semi-Arid Savannah in South-Central North America. <em>American Antiquity</em> 64(4): 659-674. <br>[Theoretical and experimental study using data from Hinds Cave.] </p>
+        <p><em> </em><strong>Edwards, Sherrian K. </strong><br>
+          1990&nbsp;&nbsp; <em>Investigations of Late Archaic Coprolites: Pollen and Macrofossil remains from Hinds Cave (41 VV 456), Val Verde County, Texas.</em> Unpublished M.A. thesis on file at the Department of Anthropology, Texas A&amp;M University.</p>
+        <p> <strong>Lord, Kenneth J. </strong><br>
+          1984&nbsp; &nbsp; <em>The Zooarchaeology of Hinds Cave (41 VV 456). </em>Ph.D. dissertation, the University of Texas at Austin. Published by the Department of Anthropology at Texas A&amp;M in  an unnamed report series, here termed <em>Hinds Cave Report 5</em>.</p>
+        <p> <strong>Poinar, H., M. Kuch, K. Sobolik, I. Barnes, A Stankiewicz, T. Kuder, W. Spaulding, V. Bryant, A. Cooper, &amp; S. Paabo</strong><br>
+          2001&nbsp; &nbsp;A molecular analysis of dietary diversity for three archaic Native Americans. <em>Proceedings of the National Academy of Sciences </em> 98 (8):4317-4322.<br> [DNA study of 3 Hinds Cave Coprolites] </p>
+        <p> <strong>Reinhard, Karl J.</strong><br>
+          1988&nbsp; &nbsp;<em>Diet, Parasitism, and Anemia in the Prehistoric Southwest.</em> Unpublished Ph.D. dissertation, Department of Anthropology, Texas A&amp;M University.<br> 
+          [Study includes the analysis of 25 coprolites from Hinds Cave.] </p>
+        <p><strong>Karl J. Reinhard, Sergio M. Chaves, John G. Jones, and Alena M. I&ntilde;iguez</strong> <br>
+		2008&nbsp; &nbsp;Evaluating chloroplast DNA in prehistoric Texas coprolites: medicinal, dietary, or ambient ancient DNA? <em>Journal of Archaeological Science</em> 35(6):1748-1755 .	<br>
+		[Molecular analysis of coprolites from Hinds Cave showing presence of well-documented food plants,	ambient plant material, and three newly identified plants thought to represent medicinal or hallucinogenic plants.]</p>
+		<p><strong>Riley, Timothy E.</strong><br>
+		2008&nbsp;&nbsp;	Diet and Seasonality in the Lower Pecos:  Evaluating Coprolite Data Sets With Cluster Analysis.  <em>Journal of Archaeological Science</em> 35(10):2726-2741.<br><br> 
+		2010&nbsp;&nbsp;	<em>Assessing Diet and Seasonality in the Lower Pecos Canyonlands: An Evaluation of Coprolite Specimens as Records of Individual Dietary Decisions.</em> Ph.D. dissertation, Department of Anthropology, Texas A&M University, College Station.</p>
+
+        <p> <strong>Saunders, Joe W. <br></strong>    
+			1986&nbsp;&nbsp; <em>The Economy of Hinds Cave</em> . Unpublished Ph.D. dissertation, Department of Anthropology, Southern Methodist University, Dallas </p>
+        <p>1992&nbsp; &nbsp;Plant and Animal Procurement Sites in the Lower Pecos Region, Texas. <em>Journal of Field Archaeology</em> 19(3): 335-350. <br>[Based on Hinds-related dissertation research.] </p>
+        <p><strong>Shafer, Harry J.</strong><br>
+          1975&nbsp; &nbsp;Clay Figurines from the Lower Pecos Region, Texas. <em>American Antiquity</em> 40(2): 148-158.</p>
+        <p><strong>Shafer, Harry J. and Vaughn M. Bryant, Jr.</strong><br>
+          1975&nbsp; &nbsp;<em>A Preliminary Report of Hinds Cave, Val Verde County, Texas. </em> Texas A&amp;M Anthropology Laboratory Report Series 8.</p>
+        <p>1977&nbsp;&nbsp; <em>Archeological and Botanical Studies at Hinds Cave, Val Verde County, Texas.</em> Annual Report to the National Science Foundation, Texas A&amp;M University, Anthropological Laboratory, Special Series 1.<br> 
+        [Here termed <em>Hinds Cave Report 1</em>.]</p>
+        <p><strong>Shafer, Harry J. and Richard G. Holloway </strong><br>
+          1979&nbsp; &nbsp;Organic Residue Analysis in Determining Stone Tool Function. In <em>Lithic Use Wear Analysis</em>, edited by Brian Hayden, pp. 385-399. Academic Press. </p>
+        <p><strong>Shafer, Harry J. and Fred Speck, Jr.</strong><br>
+          1974&nbsp; &nbsp;A Clay Figurine Cache from the Lower Pecos Region, Texas. <em>Plains Anthropologist</em> 19-65: 228-231. </p>
+        <p><strong>Sobolik, Kristin D. </strong><br>
+        1996&nbsp; &nbsp;Lithic Organic Residue Analysis: An Example from the Southwestern Archaic.<em> Journal of Field Archaeology </em>23:461-469.<br> [Organic residue study of 55 stone tools from Hinds Cave.]</p>
+        <p><strong>Steelman, Karen L., Marvin W. Rowe, Solveig A. Turpin, Tom Guilderson, and Laura Nightengale<br>
+          </strong>2004&nbsp;&nbsp; Nondestructive Radiocarbon Dating: Naturally Mummified Infant Bundle from SW Texas. <em>American Antiquity</em> 69(4): 741-750.<br> [Dating of burial said to have been removed from Hinds Cave by a collector.] </p>
+        <p><strong>Stock, Janet. A. </strong><br>
+          1983&nbsp; &nbsp;<em>The Prehistoric Diet of Hinds Cave (41VV456), Val Verde County, Texas: The Coprolite Evidence.</em> M.A. thesis, Department of Anthropology, Texas A&amp;M University. Published by the department in an unnamed report series, here termed<em> Hinds Cave Report 4</em>.</p>
+		  <p><strong>Tito, Raul Y., Samuel L. Belknap III, Kristin D. Sobolik, Robert C. Ingraham, Lauren M. Cleeland, and Cecil M. Lewis<br></strong>
+			  2011&nbsp;&nbsp; Brief Communication: DNA from Early Holocene American Dog. <em>American Journal of Physical Anthropology</em> 145(4):653-657.<br> [Genetic identification of a domesticated dog based on bone fragment found in coprolite from Hinds Cave by Sam Belknap.  This is the earliest direct evidence for human consumption of dogs in the New World.] </p>
+        <p><strong>Williams-Dean, Glenna</strong> (see also  Dean)<br>
+          1978&nbsp; &nbsp;<em>Ethnobotany, and Cultural Ecology of Prehistoric Man in Southwest Texas.</em> Ph.D. dissertation, Department of Anthropology, Texas A&amp;M University. Published by the department in an unnamed report series,  here termed <em>Hinds Cave Report 2</em>.</p>
+        <p>1984&nbsp; &nbsp;Putting Dinner on the Table in the Texas Archaic. <em>Chihuahuan Desert Discovery </em>15:10-13.</p>
+        <p>1986&nbsp;&nbsp; Book Review of Andrews and Adovasio (1980).&nbsp; In <em>North American Archaeologist </em>7(2):176-182.&nbsp; <strong><br>
+        </strong> <br>
+        <strong>Woltz, Ben V., Jr. </strong><br>
+        1998&nbsp;&nbsp; <em>The Use of Agave, Sotol and Yucca at Hinds Cave, Val Verde County, Texas: Reconstructing Methods of Processing through the Formation of Behavioral Chains. </em>Unpublished M.A. thesis, Department of Anthropology, Texas A&amp;M University.</p>
+        </td>
+    </tr>
+  </table>
+<!-- #EndEditable --> 
+   </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Hinds Main</a> 
+				<a href="natural.html">Natural Setting</a> 
+				<a href="climate.html">Paleoclimate</a> 
+              <a href="explore.html">Explore Hinds Archeology</a> 
+			  <a href="artifacts.html">Artifacts </a><br>
+			  <a href="life.html">Life at Hinds </a> 
+			 <a href="kids.html">Kids</a>
+			  <a href="teach.html">Teaching</a>
+			  <a href="credits.html">Credits & Sources</a> </p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" -->30 July 2005 <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

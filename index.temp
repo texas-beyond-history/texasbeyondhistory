@@ -1,0 +1,135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head >
+    <link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-GHC8CS1RGZ');
+    </script>
+    <script type="text/javascript" src="/js/global.js"></script>
+    <title>Texas Beyond History</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+    <link rel="icon"       type="image/png"    href="tbhistory.ico">
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="wordmark">
+      <a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+    </div>
+    <h6 id="tbh">Texas Beyond History</h6>
+    <div id="tbhnav">
+      <a href="../index.html">TBH Home</a>
+      <form action="/search.php" method="get" name="search" id="search">
+        <div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+        <div><input type="hidden" name="config" value="tbh"></div>
+        <div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+      </form>
+    </div>
+
+    <div id="content" align="center"><!-- InstanceBeginEditable name="body" -->
+      <div id="main-title">
+        <h1>Texas Beyond History</h1>
+      </div>
+      <div class="wrapper">
+        <div class="box explorer-box">
+          <a href="/explorer.html">
+            <h3>Site Explorer</h3>
+            <h5>Discover 13,500 years of Texas History</h5>
+            <img class="" src="/images/texas-map-icon.jpg" alt="">
+          </a>
+        </div>
+
+        <div class="box alternate exhibits-box">
+          <a href="/theme.html">
+            <h3>Special Exhibits</h3>
+            <h5>Unique and Thematic Displays</h5>
+            <img class="" src="/images/tbh_graphics/exhibits.jpg" alt="">
+          </a>
+        </div>
+
+        <div class="box spotlight-box">
+          <a href="/spotlight.html">
+            <h3>Spotlight</h3>
+            <h5>Special Collections and Research</h5>
+            <img class="" src="/images/tbh_graphics/spotlight.jpg" alt="">
+          </a>
+        </div>
+
+        <div class="box alternate prehistoric">
+          <a href="/prehistoric/index.html">
+            <h3>Prehistoric Texas</h3>
+            <h5>Native Peoples in a Changing World</h5>
+            <img class="" src="/images/tbh_graphics/prehistoric.jpg" alt="">
+          </a>
+        </div>
+
+        <div class="box kids-box">
+          <a href="/kids/index.html">
+            <h3>Dr. Dirt's KIDS SECTION</h3>
+            <h5>Resources for Fun and Learning</h5>
+            <img class="dr-dirt" src="/images/tbh_graphics/dr-dirt-1.png" alt="">
+          </a>
+        </div>
+
+         <div class="box alternate teachers-box">
+          <a href="/teach/index.html">
+
+            <h3>Teachers</h3>
+            <h5>Lessons and resources to help you teach about Texas</h5>
+            <img src="/images/index_teachers_latest.png" alt="">
+            <ol id="image-titles">
+              <li class="art">Art</li>
+              <li class="math">Math & Science</li>
+              <li class="social">Social Studies</li>
+              <li class="language">Language Arts</li>
+            </ol>
+          </a>
+        </div>
+
+        <div class="box about-box">
+          <h3>About</h3>
+          <p><a href="/">Texas Beyond History (TBH)</a> is a public education service of the Texas Archeological Research Laboratory at the University of Texas at Austin, and in partnership with the Department of Anthropology at Texas State University and <a href="/abouttbh/partners.html">15 other organizations</a>. Begun in 2001, its purpose is to interpret and share the results of archeological  and historical research on the cultural heritage of Texas with the citizens of Texas and the world.</p>
+          <a class="more" href="/abouttbh/index.html">More</a>
+        </div>
+
+        <div class="box resources-box">
+            <h3>Resources</h3>
+            <h4><a href="/glossary/index.html">Illustrated glossary</a> and <a href="/faq/index.html">FAQs</a></h4>
+            <!--<a class="more" href="/about/index.html">More</a>-->
+        </div>
+      </div>
+
+    </div>
+
+    <div id="foot" align="center">
+
+      <div id="logos">
+          <img src="images/award01.png" alt="National Endowment for the Humanities Award" >
+          <img src="images/award02.png" alt="Society for American Archaeology Award">
+          <a href="http://edsitement.neh.gov/"><img src="images/award03.png" alt="Edsitement!  The best of the Humanities on the web Award."></a>
+      </div>
+
+      <p class="links">
+        <a href="copyright.html">Copyright</a>
+        <a href="web/guidelines/accessibility.html">Accessibility</a>
+      </p>
+
+      <div align="left">
+        <a href="../sitemap.html">Site Map</a><br>
+        <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+        <span class="style2">August 2018</span></p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

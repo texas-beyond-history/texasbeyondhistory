@@ -1,0 +1,11 @@
+# AddDefaultCharset utf-8
+php_flag engine off
+
+# Force HTTPS
+RewriteEngine On
+#RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} !on
+RewriteRule ^(.*)$ https://texasbeyondhistory.net/$1 [R,L]
+
+Header always set Access-Control-Allow-Origin "*"

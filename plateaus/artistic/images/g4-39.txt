@@ -1,0 +1,14 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 39 (Kirkland Plate 141)</p><br>
+
+<p><strong>Pecos River.  Cave 1.  Copied August 20, 1940.  Scale: 3/8 in. to 1 ft.  Cave 2.  Copied August 21, 1940.  Scale 1/4 in. to 1 ft.</strong></p><br>
+
+
+
+
+</font>
+
+</BODY></HTML>

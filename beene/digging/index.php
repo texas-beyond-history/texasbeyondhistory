@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="https://cdn.la.utexas.edu/canvasser/1.4/canvasser.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Digging through layers in Time</title>
+
+
+</head>
+<body onload='initCanvasser("activity"," https://laits.utexas.edu/canvasser/canvasser_content/digging-layers-time/frame1.json", "file");'>
+
+<div align="center">
+  <div align="center", id='canvasholder'></div>
+</div>
+<div align="center"><span><span><a href="/">TBH Home</a></span> | <a href="/kids/index.html">Kids Main</a> | <a href="/beene/kids.html"> Richard Beene Kids</a></span></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

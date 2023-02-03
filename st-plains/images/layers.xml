@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<region map="images/south-texas-plains.jpg" thumb="images/south-texas-plains_th.jpg" title="South Texas Plains">
+		<location>
+		<x>463.4</x>
+		<y>137.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw1.jpg</picture>
+		<caption>Bare branches of pecan, hackberry, and willow trees in early spring form a stark framework along the banks of Cibolo Creek in northern Karnes County. The clear creek flows southeast from its headwaters on the Edwards Plateau and across the upper South Texas Plains where it joins the San Antonio River. Such permanent bodies of water provide rich bottomland habitats and diverse natural resources. These bountiful strips were frequented by native peoples throughout prehistory. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>468.7</x>
+		<y>210.3</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw2.jpg</picture>
+		<caption>Grassy pasture lands, here dotted with enormous live oaks, hark back to Spanish Colonial times, when mission ranchos in south Texas supported thousands of head of cattle. Although the dominate grasses today are non-native species cultivated for hay, much of the South Texas Plains was originally a savanna with thick stands of native grasses punctuated by oak mottes. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>514.6</x>
+		<y>203</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw3.jpg</picture>
+		<caption>Oaks and pecans line tall grass fields in central Goliad County, near the historic pasturage of nearby Spanish Colonial mission sites. TARL archives. </caption>
+	</location>
+	<location>
+		<x>299.7</x>
+		<y>208.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw4.jpg</picture>
+		<caption>Typical brush country scene in winter, northwestern La Salle County. During this season, prickly pear cacti are devoid of fruits (tunas) and mesquite trees are barren. For native peoples, winter was a lean season when cactus pads, roots, and other marginal food sources sustained life. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>212.5</x>
+		<y>257.3</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw5.jpg</picture>
+		<caption>Lush vegetation is supported by springs flowing out from the base of the sandstone outcrop, benefiting plants, animals, and people. This location in northwestern Webb County was a favored stopping place for native peoples, just as it is today for ranchers and their cattle. Photo by Tom Hester. </caption>
+	</location>
+	<location>
+		<x>231.8</x>
+		<y>191.4</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw6.jpg</picture>
+		<caption>Thick bands of trees and brush line the Nueces River near Crystal City in Zavala County. Photo by Susan Dial. 
+		</caption>
+	</location>
+	<location>
+		<x>249.3</x>
+		<y>160.4</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw7.jpg</picture>
+		<caption>Dense woodlands in the Nueces River Valley in northern Zavala county. In this scene, green briar and mustang grape vines entwine live oaks, hackberries, and pecan trees. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>226.9</x>
+		<y>142.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw8.jpg</picture>
+		<caption>Vista across the brush country of northwestern Zavala County, with the Anacacho Mountains in the background. The fact that such low hills are known as “mountains” calls attention to the otherwise flat and slightly rolling topography of the northern South Texas Plains. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>227.9</x>
+		<y>177.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw9.jpg</picture>
+		<caption>Cloudy stretches are most welcome on a June day in uplands of the Nueces Strip in southwest Zavala County, but it is early in the day and no promising thunderclouds are yet visible. Photo by T.R. Hester. </caption>
+	</location>
+	<location>
+		<x>320.9</x>
+		<y>461.6</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw10.jpg</picture>
+		<caption>The Rio Grande River in southern Zapata County prior to the construction of Falcon Reservoir. The bluff is composed of layer after layer of fine sediment left behind during major flood episodes. The river was one of the few permanent sources of water in this area and a source for aquatic resources (such as fish, turtles, and clams) and rocks for cooking and tool-making. TARL archives. </caption>
+	</location>
+	<location>
+		<x>481.6</x>
+		<y>220.4</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw11.jpg</picture>
+		<caption>Thick riparian woods line the banks of Medio Creek in Bee County. Native peoples would have found a wealth of resources in this area. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>485.5</x>
+		<y>232.1</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw12.jpg</picture>
+		<caption>Spiked yucca and other thorny brush are typical of much of the South Texas Plains. In some areas, such southern Bee County where this photo was taken, historic records suggest that the overgrazing of cattle, horses, and other livestock resulted in severe erosion and the destruction of native grasses. Casual visitors to the region may not realize how much the landscape has been transformed over the last 200 years. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>226.1</x>
+		<y>119.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw13.jpg</picture>
+		<caption>Heavy rains along the Balcones Escarpment create major flood events on the Nueces River, washing sediment, logs, and gravels down the river and temporarily flattening the vegetation. This scene in southern Uvalde County was photographed the morning after a major rise and the river is actually on its way back down. TARL archives. </caption>
+	</location>
+	<location>
+		<x>272.5</x>
+		<y>139.1</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw14.jpg</picture>
+		<caption>The Frio River near its juncture with the Sabinal River in southeast Uvalde County is bounded by steep grass-covered banks. Most of the river’s water comes from aquifers that discharge along the Balcones Escarpment to the north. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>224.1</x>
+		<y>112</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw15.jpg</picture>
+		<caption>Chalk Bluff, a immense limestone wall over the Nueces River, lies just below (south of) the the Balcones Escarpment. Over geological time, the river has carried limestone and chert (flint) cobbles and gravels deep into the central South Texas Plains. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>171.8</x>
+		<y>119.8</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw16.jpg</picture>
+		<caption>Spring-fed Las Moras creek near Fort Clark in southeast Kinney County was an important water source for travelers, both in prehistoric and historic times, as well as soldiers posted to the fort. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>163.2</x>
+		<y>169.2</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw17.jpg</picture>
+		<caption>In land nearly barren after years of grazing, the Nueces Strip—stretching from the Rio Grande to the Nueces River—offers little in the way of cover except thorny brush: mesquite, cactus, agarita, and yucaa, along with the gray-leaved ceniza. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>287.9</x>
+		<y>363.9</y>
+		<name>Laredo Rio Grande</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap1.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>323.1</x>
+		<y>472.1</y>
+		<name>Falcon Arroyo</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap2.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>411.7</x>
+		<y>212.3</y>
+		<name>Choke Canyon</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../choke/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>234.3</x>
+		<y>129.1</y>
+		<name>Anthon</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap4.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>545.2</x>
+		<y>170.8</y>
+		<name>Berger Bluff</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap5.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>540.7</x>
+		<y>136.8</y>
+		<name>Guadalupe Terraces</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap6.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>502.4</x>
+		<y>211.5</y>
+		<name>Buckner Ranch</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap7.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>433.9</x>
+		<y>202.2</y>
+		<name>Loma Sandia</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap8.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>577.7</x>
+		<y>190.6</y>
+		<name>Buckeye Knoll</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap9.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>397</x>
+		<y>81</y>
+		<name>Olmos Dam</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap10.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>472.1</x>
+		<y>147.8</y>
+		<name>Silo</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap11.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>512.9</x>
+		<y>149.9</y>
+		<name>Smith Creek</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap12.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>362.9</x>
+		<y>106.3</y>
+		<name>Richard Beene</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../beene/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>223.3</x>
+		<y>175.5</y>
+		<name>Chaparrosa Ranch</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap3.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>567.5</x>
+		<y>172.5</y>
+		<name>Morhiss Mound</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../morhiss/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>449.9</x>
+		<y>296.4</y>
+		<name>Hinojosa</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../hinojosa/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>467</x>
+		<y>137.3</y>
+		<name>El Fuerte del Cibolo</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he1.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>391.3</x>
+		<y>216.3</y>
+		<name>MC296</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he3.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>411.5</x>
+		<y>123.3</y>
+		<name>Rancho de las Cabras</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he4.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>427</x>
+		<y>483.8</y>
+		<name>La Sal del Rey</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he5.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>365.4</x>
+		<y>106.3</y>
+		<name>Medina Crossings and Camps</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he6.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>163.6</x>
+		<y>216.5</y>
+		<name>Gateway Missions</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../gateway/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>308.5</x>
+		<y>85</y>
+		<name>Metal Projectiles</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he8.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>566</x>
+		<y>186.3</y>
+		<name>Linn Lake</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he9.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>169.3</x>
+		<y>115.6</y>
+		<name>Battle with Cacaxtle</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he10.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>310.8</x>
+		<y>226</y>
+		<name>Spanish Attack Coahuiltecans</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he11.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>232.4</x>
+		<y>194.5</y>
+		<name>Tortuga Flats</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he12.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>327.4</x>
+		<y>455.5</y>
+		<name>Early Ranching</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he14.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>404.5</x>
+		<y>100.3</y>
+		<name>San Antonio Missions</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he15.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>543.5</x>
+		<y>180.5</y>
+		<name>Mission Espiritu Santo</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../espiritu/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>331.4</x>
+		<y>481.5</y>
+		<name>Falcon</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../falcon/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+</region>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<region map="images/Trans-Pecos-BaseMap.jpg" thumb="" title="Trans Pecos">
+		<location>
+		<x>205</x>
+		<y>75</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw1.jpg</picture>
+		<caption> White salt deposits and gypsum dunes stretch toward the Guadalupe Mountains in northeastern Hudspeth County.  Known as the Salt Basin, or Salt Flats, the area was a natural lake and rich mineral deposit important both to prehistoric hunters and gatherers and historic settlers, who extracted the salt. The bolson still held water into the 1920s, but pumping for irrigation lowered aquifer levels, causing the lake to dry up. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>150</x>
+		<y>73</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw2.jpg</picture>
+		<caption>Antelopes race across a fenced grassy plain in Hudspeth County. The Cornudas Mountains, made ghostly by blowing dust from the Salt Flats, are dimly visible in the distance. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>145</x>
+		<y>130</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw3.jpg</picture>
+		<caption>With the Sierra Blanco mountains as a backdrop, a claret-cup cactus provides a vivid spot of color within a typical desert scrub thicket of mesquite, cenizo, and creosote. Native peoples gathered numerous desert plants for food and other resources, including mesquite beans, pollen, and flowers. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>130</x>
+		<y>265</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw4.jpg</picture>
+		<caption>The rugged Franklin Mountains extend from the New Mexico border to the Rio Grande, cutting through the city of El Paso. Here they rise in the distance beyond a desert garden at the El Paso Museum of Archaeology. More than 250 varieties of native plants, many of which were important to native peoples, grow along the museums nature trails. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>200</x>
+		<y>175</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw5.jpg</picture>
+		<caption>A late spring snow dusts pinon pines and sotol in the Eagle Mountains. Although the climate of the western Trans-Pecos is typically arid and warm, snow, high winds, and below-freezing temperatures are not uncommon during winter and spring in the desert. TARL Archives.</caption>
+	</location>
+	<location>
+		<x>50</x>
+		<y>260</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw6.jpg</picture>
+		<caption> Rio Grande at Canutilo, west of El Paso. The river runs shallowly and serenely through this small community bordering New Mexico. As it flows south, the river becomes  more vulnerable to run off and manufacturing pollution. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>240</x>
+		<y>170</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw7.jpg</picture>
+		<caption>Red sandstone boulders, many elaborately carved with enigmatic symbols, rise from Lobo Valley, a relict lake-bed in southern Culberson County. Native peoples and later travelers left their mark in the form of petroglyphs and inscriptions on stone outcrops throughout the valley. For thousands of years, sandstone not only served as a canvas for symbolic expression but also was used for making tools and hearths. Photo by El Paso Archaeological Society, courtesy THC.</caption>
+	</location>
+	<location>
+		<x>365</x>
+		<y>167</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw8.jpg</picture>
+		<caption> Cienega, or marsh, fed by San Solomon Spring at Balmorhea.  These marshlands were oases on the desert, providing water for native peoples and critical habitat for fish, birds, reptiles, and other animals. The original cienega at this site was destroyed during construction of Balmorhea State Parks swimming pool in 1935. Texas Parks and Wildlife has restored this 3-acre cienega to protect several endangered desert fish: Pecos gambusia and Comanche Springs pupfish. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>228</x>
+		<y>65</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw9.jpg</picture>
+		<caption> The Guadalupe Mountains harbor diverse ecosystems that have been important to humans and other creatures over time. Native peoples found spring-fed streams, a variety of plant and animal foods, and resources for tools and shelter within the mountains, canyons and desert lowlands. Dominated by Guadalupe Peak (at 8749 feet amsl, it is the highest point in Texas), the area is protected within Guadalupe Mountains National Park. Photo by Bob Parvin, courtesy THC. </caption>
+	</location>
+	<location>
+		<x>395</x>
+		<y>135</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw10.jpg</picture>
+		<caption>Toyah Lake is a broad playa fed by intermittent rainfall and Toyah Creek. Although typically dry or only shallowly filled with water, the playa may have served as a watering hole for buffalo in the past and as a stop for migratory birds and other creatures in more recent times. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>300</x>
+		<y>68</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw11.jpg</picture>
+		<caption> An arroyo, or gully, filled with water after a spring season of rains, is a rare sight on the desert. Lined with willow and other plants, this draw is a watering spot for many species. Photo by Susan Dial. </caption>
+	</location>
+	<location>
+		<x>288</x>
+		<y>63</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw12.jpg</picture>
+		<caption>The barren Rustler Hills rise above the creosote-studded sand plains in Reeves county.  Pocked with caves and depressions, the hills provided shelter to desert peoples for thousands of years. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>350</x>
+		<y>90</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw13.jpg</picture>
+		<caption>Thorny scrub brush and creosote dominate the desert landscape in northern Reeves County. Although ranchers have reintroduced grass in some areas, the sandy soil generally does not support many types of vegetation other than cacti, yucca, and mesquite, all of which were food sources for prehistoric peoples. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>128</x>
+		<y>68</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw14.jpg</picture>
+		<caption>Yucca and cholla cactus stud the yellow-flowered landscape near the Hueco Mountains in Hudspeth County.  Desert succulents such as these were critical resources to native peoples, providing food as well as fiber material for making cordage, matting, and other items. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>98</x>
+		<y>68</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw15.jpg</picture>
+		<caption>Resembling a huge rockpile, the Hueco Mountains rise from the desert floor east of El Paso. Named for the numerous water-holding cysts, or huecos, which pock the igneous outcropping, the mountains were an oasis for prehistoric peoples including the Jornada-Mogollon farmers of the Late Prehistoric, or Formative, period. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>240</x>
+		<y>190</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw18.jpg</picture>
+		<caption>Eastern edge of the Sierra Vieja Mountains looking across the Marfa Plain in the distant background. This location is connected to one of the more prominent passes that allowed ancient travelers to journey from the Rio Grande to the upland grasslands. Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>486</x>
+		<y>300</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw19.jpg</picture>
+		<caption> Rough limestone canyon country near the Brewster-Terrell County line. The Rio Grande lies about 10 miles south of this location. Chert outcrops are widespread in this area and supplied the prehistoric inhabitants with an abundant source of chipped-stone tool material. The canyons also provide protective shelter to a variety of plants and animals.  Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>400</x>
+		<y>238</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw20.jpg</picture>
+		<caption>View of the 1998 Sul Ross State University Archeological Field School conducted in the Glass Mountains. The dry rocky slopes of these mountains contain a vegetative community rich with sotol, and the students are excavating a buried earth oven that was likely used to process sotol.  Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>360</x>
+		<y>287</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw21.jpg</picture>
+		<caption>A view of the ecotone between the southern extent of the Davis Mountains (Escondido Rim in the background) and the desert basin in the foreground. As desert basins go, this spot is relatively lush with mixed grass and scrub brush. Ecotones attracted prehistoric peoples as the meeting of two ecological zones gives access to different sets of plants and animals.   Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>305</x>
+		<y>195</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw22.jpg</picture>
+		<caption>The pine-forest-draped landscape in the higher reaches of the Davis Mountains is possible because up to a foot more of rain falls each year here than in the desert basins, and cooler temperatures prevail year-round. In the late summer and fall, hunters and gatherers would come to the Davis Mountains to harvest pinon nuts and take advantage of other plants and animals found nowhere else nearby.  Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>235</x>
+		<y>230</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw23.jpg</picture>
+		<caption>A water-bearing arroyo drains toward the Rio Grande in the far western portion of the eastern Trans-Pecos. The Sierra Vieja Mountains rise in the distance. This mountain range was a formidable obstacle for travelers in the region through time; there are only a few passes that can be used to go from the river to the Marfa Plain in this area. Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>326</x>
+		<y>317</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw24.jpg</picture>
+		<caption>View of San Jacinto Mountain (elevation 4,979 ft) from Rawls Rim with creosote-covered desert environs in the mid-ground. The pitaya or strawberry cactus in the foreground produces a large fruit that ripens in mid summer. These tasty fruits have a purplish flesh interspersed with small black seeds, thus the moniker strawberry cactus. They are easily retrieved from the thorny plants with the aid of a small stick. Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>335</x>
+		<y>360</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw25.jpg</picture>
+		<caption>View looking upstream of the Rio Grande between Lajitas and Redford. The higher mountains are on the Chihuahuan side of the river. Note the green ribbons of vegetation lining the rivers edge. These micro-environments along the river contain assorted and varied floral and faunal resources, to which prehistoric peoples were drawn through time. Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>366</x>
+		<y>372</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw26.jpg</picture>
+		<caption>The Rio Grande snakes its way through the extremely rugged western Big Bend. While the Rio Grande was used throughout prehistoric and historic times as a travel corridor, portions of its route, like this section in the photo, are virtually impassible on foot.  Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>385</x>
+		<y>323</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw27.jpg</picture>
+		<caption> View of a grass-covered mountaintop or sky island with the Christmas Mountains in the background. Many of the mountains in the area are grass-covered in wet years and nearly barren in dry ones. According to ethnographic accounts, grass seeds were collected, parched, and ground into flour. Water was added to the mixture and small cakes were molded and then baked, providing a bread-like staple. Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>392</x>
+		<y>383</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw28.jpg</picture>
+		<caption>The western edge of the Chisos Mountains with Cattail Canyon in the background. The inset shows Cattail Falls, usually little more than a trickle. But following summer monsoons, the waterfall can be spectacular. This photo was taken after a particularly heavy rainfall in the high Chisos Mountain. The shaded plunge pool provides a cool, stark contrast to the shade-less desert scrub land a short distance away. Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>410</x>
+		<y>385</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw29.jpg</picture>
+		<caption>View of the Sierra Quemada, about 2,000 ft below from the South Rim of the Chisos Mountains. The pinon pine in the foreground provides nuts and wood.  Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>428</x>
+		<y>385</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw30.jpg</picture>
+		<caption>View of the East Rim of the Chisos Mountains from the South Rim in Big Bend National Park. At an approximate elevation of 7,200 ft, the mountaintops are clad with dense oak and pinon, towering several thousand feet above the desert below. Visible in the background are the Dead Horse and Sierra del Carmen Mountains.  Photo by Andy Cloud.
+</caption>
+	</location>
+	<location>
+		<x>418</x>
+		<y>352</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw31.jpg</picture>
+		<caption>Algae-lined stream in in Big Bend National Park. Water supplied a very basic resource necessary for life in the desert and native peoples knew and frequented all sources of potable water.  Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>440</x>
+		<y>355</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw32.jpg</picture>
+		<caption>Thompsons yuccas at the base of the Dead Horse Mountains retain bloom stalks from the previous year. Yuccas provided leaves and stalks used to make baskets, sandals, twine, and rope. In addition, the fresh flowers are edible and the hearts of the plant can be slowly baked to break down complex sugars and toxins, and render the plant edible. Photo by Andy Cloud.</caption>
+	</location>
+	<location>
+		<x>375</x>
+		<y>347</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw33.jpg</picture>
+		<caption>A boulder shelter on Wildhorse Mountain, Terlingua Ranch. Prehistoric inhabitants probably used such shelters more for shade than for protection from the rain or cold. The Chihuahuan Deserts brutal sunshine can be extremely uncomfortable and natural forms of shade were taken advantage of. This particular shelter is well vented with a breezeway, making even the most uncomfortably hot day pleasant so long as there is a slight wind. Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>395</x>
+		<y>365</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw34.jpg</picture>
+		<caption>View of a spring and tinaja at the base of a dike, with the Chisos Mountains in the background. Dikes are tabular sheets of intrusive igneous rock which cut across the layering of the intruded rock. The complex geology of the region is responsible for the many seeps and springs that occur across this landscape and helps explain how native peoples successfully adapted to the Chihuahuan Desert.  Photo by Andy Cloud. </caption>
+	</location>
+	<location>
+		<x>449</x>
+		<y>370</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw35.jpg</picture>
+		<caption>The Sierra del Carmen mountains rise in the distance above the Rio Grande floodplain, a winding and sometimes treacherous boundary between Texas and Mexico. The stony hillslopes and canyons are a natural habitat for the many desert plants, such as prickly pear cactus and candelilla, the wax-producing plant heavily collected and processed during historic times. Photo by Susan Dial.</caption>
+	</location>
+	<location>
+		<x>535</x>
+		<y>195</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw36.jpg</picture>
+		<caption> From the east, the Trans-Pecos Mountains and Basins region begins on the Stockton Plateau as the landscape becomes drier and drier heading west.  Here archeologists in the mid-1970s look across a limestone basin to Indian Mesa (today lined with wind towers).  TARL Archives. </caption>
+	</location>
+	
+	<location>
+		<x>393</x>
+		<y>368</y>
+		<name>Cairn Burials (Rough Run)</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap11.html</link>
+		<section>Ancient Places</section>
+	</location>
+	
+		<location>
+		<x>372</x>
+		<y>405</y>
+		<name>Cairn Burials (Las Haciendas)</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap11.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>123</x>
+		<y>128</y>
+		<name>Alamo Canyon</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap4.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>360</x>
+		<y>310</y>
+		<name>Paradise</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap7.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>80</x>
+		<y>235</y>
+		<name>Keystone Dam</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap3.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>150</x>
+		<y>220</y>
+		<name>Ojassen & Gobernadora</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap1.html</link>
+		<section>Ancient Places</section>
+	</location>
+	
+		<location>
+		<x>410</x>
+		<y>320</y>
+		<name> Bee Cave Canyon</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap6.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>362</x>
+		<y>252</y>
+		<name>Carved Rock Shelter</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap5.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>205</x>
+		<y>180</y>
+		<name>Wind Canyon</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap2.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>515</x>
+		<y>165</y>
+		<name>Squawteat Peak</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap8.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>110</x>
+		<y>90</y>
+		<name>Padre Canyon</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap9.html</link>
+		<section>Ancient Places</section>
+	</location>
+	
+		<location>
+		<x>515</x>
+		<y>417</y>
+		<name>Cueva Pilote</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../pilote/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>418</x>
+		<y>380</y>
+		<name>J. C. Kelley</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap12.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>423</x>
+		<y>350</y>
+		<name>Rosillo Peak</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap10.html</link>
+		<section>Ancient Places</section>
+	</location>
+	
+	
+	<location>
+		<x>153</x>
+		<y>245</y>
+		<name>Fire Cracker Pueblo</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../firecracker/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>295</x>
+		<y>340</y>
+		<name>La Junta de los Rios</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../junta/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>180</x>
+		<y>240</y>
+		<name>Ceremonial Cave</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../ceremonial/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>300</x>
+		<y>85</y>
+		<name>Granado Cave</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../granado/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>80</x>
+		<y>70</y>
+		<name>Hueco Tanks</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../hueco/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>75</x>
+		<y>200</y>
+		<name>Madera Quemada</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../madera/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>
+		<x>30</x>
+		<y>290</y>
+		<name>Dona Ana</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he1.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>317</x>
+		<y>355</y>
+		<name>Fort Leaton</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he2.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>213</x>
+		<y>70</y>
+		<name>Salt Mining</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he3.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>360</x>
+		<y>395</y>
+		<name> Big Bend Presidios (San Carlos)</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he4.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>453</x>
+		<y>394</y>
+		<name> Big Bend Presidios (San Vicente)</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he4.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	<location>
+		<x>315</x>
+		<y>197</y>
+		<name>Fort Davis</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../forts/davis/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>295</x>
+		<y>340</y>
+		<name>La Junta de los Rios</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../junta/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>425</x>
+		<y>385</y>
+		<name>Wax Camps</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../waxcamps/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>135</x>
+		<y>340</y>
+		<name>El Paso Missions</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../paso/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>80</x>
+		<y>70</y>
+		<name>Hueco Tanks</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../hueco/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+</region>

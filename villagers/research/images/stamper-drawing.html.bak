@@ -1,0 +1,48 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><html>
+<!-- #BeginTemplate "/Templates/image-lg.dwt" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<META NAME="htdig-noindex">
+<!-- #BeginEditable "doctitle" --> 
+<title>Villagers</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../style.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" cellspacing="10" cellpadding="0" width="302">
+  <tr> 
+    <td><!-- #BeginEditable "image" --><img src="stamper-drawing.jpg" width="778" height="600"><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"><!-- #BeginEditable "caption" -->
+      <p><strong>Tale of Two Pictures, Part 1</strong>: This undated and unsigned 
+        drawing comes from the files of the Sam Noble Oklahoma Museum of Natural 
+        History, where the Stamper site collections are housed. Archeological 
+        sleuth Chris Lintz surmises that this drawing depicts the Stamper site 
+        as its 1933-1934 excavator, C. Stuart Johnston, envisioned it during the 
+        period he was working at the site. Note that the buildings have very low 
+        walls and hipped, thatched roofs with low, extended entranceways. Compare 
+        drawing to Johnston's 1935 painting of the same scene (Part 2). </p>
+      <!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"> 
+      <div align="center"><a href="#" onClick="MM_callJS('window.close()')" class="text">Close 
+        Window</a></div>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate -->
+</html>

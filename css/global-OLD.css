@@ -1,0 +1,1298 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    line-height: 1.3;
+    /*vertical-align: baseline;*/
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+
+ol.typical,
+ul.typical {
+	list-style-type: initial;
+	padding-left: 40px;
+}
+
+blockquote, q {
+    quotes: none;
+    width: 100%;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+blockquote i{
+	display: block;
+    font-style: italic;
+	margin: 15px;
+}
+
+sup {
+    font-size: 10px;
+}
+
+/*------------------------------*/
+/*		Typographical Resets	*/
+/*------------------------------*/
+html {
+    font-size: 100%;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 32px;
+}
+h2 {
+    font-size: 24px;
+}
+
+/* This is retained for old content. Future content should use the .gallery-article */
+div#content h3 {
+    font-size: 18px;
+    margin: 20px 0px;
+}
+
+div#content .gallery-article h3, 
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 16px;
+    width: 100%;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 12px;
+}
+p {
+    /* line-height: 1.2; */
+    margin: 0 0 15px;
+}
+ul, ol, li, span {
+    line-height: 1.2;
+}
+
+ul.bulleted {
+    list-style-type: disc;        
+    padding-inline-start: 40px;
+}
+
+ol.numeric {
+    list-style-type: auto;        
+    padding-inline-start: 40px;
+}
+
+body a, body a:visited {
+    color: #bf5700;
+    text-decoration: underline;
+}
+body a:hover {
+    color: #bf5700;
+    text-decoration: none;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+strong,
+b {
+    font-weight: 800;
+}
+
+img {
+    text-align: none;
+}
+/*------------------------------*/
+/* 		Custom Typography		*/
+/*------------------------------*/
+body h1, h2, h3, h4, h5, h6, body p, span, a, ul, ol, li, pre, code, b, em, input, div.capt.right-linkdiv#pt > a, div.right-link > a, div#pt-r > a,div#vil > a, div#tejas > a {
+    color: #303030;
+    font-family:  Arial, sans-serif !important;
+}
+
+
+/*------------------------------*/
+/*	 		Body 				*/
+/*------------------------------*/
+
+body {
+    margin: 0 !important;
+}
+
+body > table {
+    margin: 0 auto;
+}
+
+div#wrapper {
+    position: static;
+    width: 100%;
+    width: 780px;
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+body .abs {
+    position: static;
+    margin: 0 auto;
+}
+
+/*------------------------------*/
+/* 			Color overides		*/
+/*------------------------------*/
+body .red, body .orange, body .blue,
+body .purple, body .green {
+    color: #303030;
+}
+
+/*------------------------------*/
+/* 			Wordpmark			*/
+/*------------------------------*/
+
+div#wordmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #bf5700;
+    display: flex;
+    -ms-align-items: center;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+    height: 36px;
+    padding: 5px 0;
+}
+
+div#wordmark > a > span, 
+div#wordmark > a > img {
+    display: none;
+}
+
+div#wordmark a:first-of-type {
+    width: 780px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+
+/*------------------------------*/
+/* 		Navigation				*/
+/*------------------------------*/
+
+#tbh,
+h6#tbh {
+    display: none;
+    background-position: 16px;
+    height: 48px;
+    margin: 0 24px 0 0;
+    padding: 0;
+}
+
+div#tt, div#tt > h1 {
+    background: none;
+}
+
+div#tt > h1 {
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 33px;
+    line-height: 1;
+    text-align: center;
+}
+
+div#content .links,
+div#nav > .links,
+div#nav > h2  {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+div#content .links a,
+div#nav > .links > a,
+div#nav > h2 > a {
+    background: transparent;
+    border-bottom: 3px #bf5700 solid;
+    color: #000;
+    flex: 0 0 auto;
+    font-weight: 400;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    margin: 0px 8px 7px 8px;
+}
+
+div#content .links a:hover,
+div#nav > .links > a:hover,
+div#nav > h2 > a:hover {
+    /*border-bottom: 3px rgba(191,87,0,.5) solid;*/
+    text-decoration: none !important;
+}
+
+
+div#tbhnav {
+    display: flex;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    -o-flex-direction: row;
+    flex-direction: row;
+    justify-content: left;
+    -ms-align-items: baseline;
+    align-items: baseline;
+    margin-top: 0;
+    min-width: 780px;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+div#tbhnav > a {
+    background: url(/images/texas-map.png) 0px 10px no-repeat;
+    color: transparent;
+    display: flex;
+    font-size: 0;
+    height: 36px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 5px 0;
+    z-index: 2;
+}
+
+div#tbhnav > a:before {
+    content: "TEXAS BEYOND HISTORY";
+    color: #fff;
+    font-family: "Lustria";
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 1.6;
+    margin-left: 45px;
+
+}
+
+/*------------------------------*/
+/* 		Screen Reader			*/
+/*------------------------------*/
+
+.hidden-text,
+.screen-reader-text,
+.screen-reader-with-image span,
+.screen-reader-shortcut {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden; }
+
+.hidden-text:focus,
+.screen-reader-text:focus,
+.screen-reader-shortcut:focus {
+  clip: auto !important;
+  height: auto;
+  width: auto;
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 15px 23px 14px;
+  color: #333;
+  background: #fff;
+  z-index: 100000;
+  /* Above WP toolbar. */
+  text-decoration: none;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); }
+/*------------------------------*/
+/* 		Top Navigation			*/
+/*------------------------------*/
+
+ul.tbh-topnav-menu {
+    /*border-bottom: 1px solid lightgray;*/
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    -o-flex-direction: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    -ms-align-items: center;
+    align-items: center;
+    align-content: center;
+    list-style: none;
+    width:  780px;
+    margin: auto;
+    padding: 0;
+    position: relative;
+    margin-top: 15px;
+    text-align: center;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link {
+    border-bottom: 1px solid lightgray;
+    flex: 1 1 auto;
+    margin: 0;
+}
+
+ul.tbh-topnav-menu {
+    z-index: 7;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link a {
+    color: #575757;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link:hover a {
+    color: #bf5700;
+    text-decoration: none;
+}
+
+.submenu {
+    background: transparent url('/images/close.png') no-repeat top 5px right 5px;
+    display: none;
+    list-style-type: none;
+}
+
+
+.tbh-topnav-link.has-active-submenus .submenu {
+    background-color: #fff;
+    border-top: 1px solid lightgray;
+    box-shadow: 0px 5px 5px 0px rgba(112,112,112,.7);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    padding: 15px 20px 30px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    z-index: 6;
+    width: 740px;
+    height: 60px;
+}
+
+.submenu li {
+    flex: 0 1 auto;
+    margin: 0px 20px 0px 0px;
+    padding: 0;
+}
+
+.submenu li.header {
+    font-size: 14px;
+    flex: 1 1 100%;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link ul.submenu a.sub-menu-link {
+    text-transform: none;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link ul.submenu .header .sub-menu-link {
+    border-bottom: rgba(191, 87, 0, .9) 2px solid;
+    text-transform: uppercase;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link ul.submenu a {
+    color: #bf5700;
+    font-size: 14px;
+}
+
+ul.tbh-topnav-menu .tbh-topnav-link ul.submenu a:hover {
+    border-bottom: rgba(191, 87, 0, .5) 2px solid;
+}
+
+div.tbh-topnav-spacer {
+    /*border-bottom: 1px solid lightgray;*/
+    width:  780px;
+    margin: auto;
+    padding: 0 0 20px 0;
+    margin-bottom: 0;
+}
+
+
+/*------------------------------*/
+/* 	Links to Special Sections	*/
+/*------------------------------*/
+
+div#theme {
+    background: #bf5700;
+    border-radius: 5px;
+    color: #fff;
+    position: static;
+    display: inline-block;
+    float: right;
+    height: auto;
+    padding: 8px;
+    margin: 8px 8px 0 0;
+    width: 12%;
+    text-align: center;
+}
+
+div#right-link > a,
+div#pt > a,
+div.right-link > a,
+div#pt-r > a {
+    color: #fff;
+    padding-left: 0;
+}
+
+
+/*------------------------------*/
+/*	 		Search				*/
+/*------------------------------*/
+
+form#search {
+    display: flex;
+    justify-content: flex-end;
+    -ms-align-items: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 780px;
+    margin: 10px auto 0;
+}
+form#search div {
+    display:block;
+    flex: 0 1 auto;
+}
+
+input#searchbox {
+    border: none;
+    border-bottom: 2px solid rgb(0,0,0,0);
+    background: transparent;
+    color: #fff;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: 100;
+    height: 20px;
+    margin: 0px 9px 0px 0px;
+    padding: 2px;
+    text-transform: uppercase;
+    width: 80px;
+}
+
+input#searchbox:focus {
+    outline: none;
+    text-transform: none;
+    width: 100%;
+}
+
+#search div {
+    display: none;
+}
+
+#searchbox-container:after {
+    content: "|";
+    color: #fff;
+    font-size: 16px;
+}
+
+#searchbox-label {
+    background: url(/images/magnify.png) 0px 5px no-repeat;
+    display: inline-block;
+    font-size: 18px;
+    padding-left: 25px;
+}
+
+#searchbox:focus,
+#searchbox-label:hover #searchbox {
+    border-bottom: 2px solid #fff;
+}
+
+input#searchbut {
+    display: none;
+}
+
+#search .give-button {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 100;
+    margin-right: 0px;
+    margin-left: 10px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+#search .give-button:hover {
+    border-bottom: 2px solid #fff;
+    text-decoration: none;
+}
+
+#content .gsc-adBlock {
+    display: none;
+}
+/*------------------------------*/
+/* 			Page Header			*/
+/*------------------------------*/
+
+div#nav {
+    border-bottom: 0;
+    margin:  0;
+    width: 780px;
+}
+
+/*------------------------------*/
+/*	 		Content	 			*/
+/*------------------------------*/
+
+.canvasserline{
+  border-bottom: 1px red solid;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+div#content {
+
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -o-flex-direction: column;
+  flex-direction: column;
+
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+div#content.has-image-boxes {
+	display: block;
+}
+
+div#content > * {
+    margin-left:  auto;
+	margin-right: auto;
+    max-width: 780px
+}
+
+div h2 {
+    color: #000;
+    font-size: 22px;
+    font-weight: normal;
+    padding: 5px 0;
+}
+div h2 br {
+    display: none;
+}
+
+/*------------------------------*/
+/*	 Body Content	 			*/
+/*------------------------------*/
+
+
+td > h2 {
+    color: #000;
+    margin-bottom: 5px;
+}
+
+td.margintext {
+  background: none;
+  border: 3px solid #bf5700;
+  font-weight: bold;
+  text-align: left;
+  font-size: 14px;
+}
+
+td.margintext > p {
+  margin-bottom: 0;
+}
+
+td.margintext > p > i {
+  color: #bf5700;
+}
+
+.caption {
+    max-width: 780px;
+}
+
+body > .caption {
+    max-width: 100%;
+}
+
+body > img {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+div.caption {
+  text-align: center;
+  color: #606060;
+  font-size: 12px;
+  /* line-height: 16px; */
+  padding: 5px;
+}
+
+div.caption.style3 {
+    color: #FFCC99;
+}
+
+#content > .caption {
+  width: 780px;
+}
+
+a.margintext {
+    font-size: 20px;
+    background: none;
+    padding: 0;
+}
+
+
+.margintext i {
+  font-size: 14px;
+}
+
+#content p,
+p.text {
+    color: #303030;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-right: 15px;
+    width: 100%;
+    line-height: 20px;
+}
+
+#content .image-box {
+	margin: 15px;
+}
+
+#content .image-box-right {
+	float: right;
+	margin-right: 0px;
+}
+
+#content .image-box-left {
+	float: left;
+	margin-left: 0px;
+}
+/******************************************
+            Image Caption Pages
+*******************************************/
+
+.image-caption-container {
+    margin: 0 auto;
+	text-align: center;
+    width: 780px;
+}
+
+.image-caption-container .caption,
+.image-caption-container img,
+.image-caption-container p {
+    max-width: 780px;
+}
+
+.back-top {
+    text-align: right;
+}
+
+.back-bottom {
+    text-align: left;
+}
+
+.timelinetext {
+    margin: 20px;
+    padding: 5px;
+}
+
+img.thumbimg {
+    border: none;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+img.thumbimg:hover {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+div#foot a,
+div#foot p {
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a[href="mailto:tbhstaff@www.texasbeyondhistory.net"] + br,
+a[href="mailto:tbhstaff@www.texasbeyondhistory.net"]{
+    display: none;
+}
+
+div#foot div {
+    line-height: 1.6;
+}
+
+body h3{
+    color: #000;
+}
+
+div#foot span {
+    color: #bf5700;
+}
+
+div#foot > p.links {
+    border-top: 1px solid lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    -ms-align-items: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+div#foot > p.links > a {
+    color: #bf5700;
+    background: none;
+    border-right: 2px solid #bf5700;
+    flex: 1 1 auto;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 18px;
+    padding: 0 4px;
+    text-align: center;
+    width: auto;
+}
+
+div#foot > p {
+    color: #bf5700;
+}
+
+div#foot > p br {
+    display: none;
+}
+
+
+div#foot > p.links > a:last-child {
+    border: none;
+}
+
+div#foot > p.links > a:hover {
+    text-decoration: underline;
+}
+
+div#foot > p.links > a:last-of-type {
+    border-right: 0;
+    font-weight: normal;
+}
+
+div#foot > p:last-of-type {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 32px;
+    text-align: center;
+}
+
+div#foot > p.links {
+    flex-direction: row;
+}
+
+div#foot > p:last-of-type > a {
+    font-weight: normal;
+}
+
+div#foot * {
+    text-align: center;
+}
+
+#wrapper > div#pt{
+    position: absolute;
+    top: 120px;
+    right: 50%;
+    left: auto;
+    width: 390px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    background: transparent;
+}
+
+#wrapper > div#theme,
+#wrapper > div#vil,
+#wrapper > div#tejas,
+#wrapper > div.right-link,
+#wrapper > div#pt-r{
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    right: auto;
+    width: 390px;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    background: transparent;
+}
+
+#wrapper > div.right-link a,
+#wrapper > div#pt-r a,
+#wrapper > div#pt a {
+    color: #575757;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper > div#vil > a,
+#wrapper > div#theme > a,
+#wrapper > div#tejas a {
+    color: #575757;
+    font-size: 12px;
+    font-weight: normal;
+    margin-right: 0px;
+}
+#wrapper > div.right-link a:hover,
+#wrapper > div#vil > a:hover,
+#wrapper > div#theme > a:hover,
+#wrapper > div#tejas a:hover,
+#wrapper > div.right-link a:hover,
+#wrapper > div#pt-r a:hover,
+#wrapper > div#pt a:hover {
+    color: #bf5700;
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#nav.handlebars {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav.handlebars > div > div {
+    flex: 0 0 auto;
+    position: inherit;
+    top: inherit;
+    left: inherit;
+    right: inherit;
+    bottom: inherit;
+}
+
+#nav.handlebars > div > div a {
+    background: none;
+    color: #575757;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+#nav.handlebars > div > div a:hover {
+    color: #bf5700;
+    font-size: 12px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+#nav.handlebars #tt {
+    width: 510px;
+}
+
+#nav.handlebars .links {
+    padding: 5px 0px;
+}
+
+#nav.handlebars .left-bar,
+#nav.handlebars .right-bar {
+    margin-top: 15px;
+}
+
+#nav.handlebars .left-bar {
+    width: 135px;
+}
+
+#nav.handlebars .left-bar div {
+    height: auto;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+#nav.handlebars .right-bar {
+    width: 135px;
+}
+
+#nav.handlebars .right-bar div {
+    height: auto;
+    margin-bottom: 0;
+    text-align: right;
+}
+
+#nav.handlebars #vil,
+#nav.handlebars #theme,
+#nav.handlebars #tejas {
+    background: none;
+}
+
+body.tejas-index #Layer1 {
+    position: static;
+}
+
+body.tejas-index #Layer1 ul {
+    margin-top: 8px;
+}
+
+body.tejas-index #Layer1 li {
+    margin-bottom: 5px;
+}
+
+body #two-l,
+body #two-r {
+    width: 45%;
+}
+
+
+/* Gallery */
+.gallery { 
+    margin-bottom: 10px;
+	display: grid;
+	grid-template-columns: 250px 250px 250px;
+    grid-gap: 15px;
+    align-items: baseline;
+    text-align: center;
+    /* position: relative; */
+    
+}
+
+.gallery-entry img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+/* Individual gallery page */
+.gallery-article {
+    margin-bottom: 10px;
+}
+
+.gallery-article ul, .gallery-article ol {
+    margin: 0 0 15px;
+}
+
+#content .gallery-article h1,
+#content .gallery-article h2,
+#content .gallery-article h3,
+#content .gallery-article h4,
+#content .gallery-article h5,
+#content .gallery-article h6 {
+    font-weight: bold;
+    line-height: 1.3;
+    margin: 0 0 15px;
+}
+
+.gallery-article a, .gallery-article a:visited {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.gallery-article blockquote {
+    background: rgb(255,240,213);
+    border: 3px solid #bf5700;
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    max-width: 754px;
+    padding: 10px;
+    text-align: left;
+    width: fit-content;
+}
+
+.ind-imgs {
+    text-align: center;
+}
+
+.gallery-img {
+    padding: 10px;
+}
+
+.gallery-img figcaption {
+    font-style: italic;
+    text-align: center;
+    color: gray;
+    font-size: 14px;
+}
+
+.gallery-img img {
+    max-width: 760px;
+}
+
+.gallery-article .black-text {
+    color: #303030;
+}
+
+.gallery-article .orange-text {
+    color: #bf5700;
+}
+
+.gallery-article .back-to-top {
+    font-size: 14px;;
+}
+/* 
+    The 'gallery-img-enlarged' can be used to make enlargeable images
+    on single image pages, even outside the official "gallery" here's a canonical example
+    https://www.texasbeyondhistory.net/gallery/entry-011/images/Suhm-Krieger-1954-plate64.html
+*/
+
+figure.gallery-img-enlarged {
+    cursor: pointer;
+    position: relative;
+}
+
+figure.gallery-img-enlarged:after {
+    display: none;
+}
+
+figure.gallery-img-enlarged.active:after {
+    display: block;
+}
+
+figure.gallery-img-enlarged:after {
+    background-color: #bf5700;
+    width: 30px;
+    height: 30px;
+    content: "+";
+    font-size: 22px;
+    color: #fff;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.gallery-img-enlarged figcaption {
+    color: #993300;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    width: 100vw;
+    max-width: 100%;
+}
+
+.enlarge-images #content {
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.enlarge-images #content .gallery-article {
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+.enlarge-images .gallery-img img {
+    max-width: 2000px;
+}
+
+/* change the + to - */
+.enlarge-images .gallery-img-enlarged::after {
+    content: "-";
+}
+
+.enlarge-images #foot {
+    display: none;
+}
+/* These image classes can be used everywhere 
+   despite the fact their name implies 
+   they should only be used in galleries 
+*/
+.gallery-img-half-size, .gallery-img-third-size {
+    float: left;
+}
+
+.gallery-img-half-size.img-right, .gallery-img-third-size.img-right {
+    float: right;
+}
+
+.gallery-img-half-size figcaption {
+    max-width: 440px;
+}
+
+.gallery-img-half-size img {
+    max-width: 440px;
+    /* float: left; */
+}
+
+.gallery-img-third-size img, .gallery-img-third-size figcaption {
+    max-width: 260px;
+}
+
+
+/* Table of Contents */
+#content .table-of-contents {
+    background-color: rgb(255,240,213);
+    border: 2px solid #bf5700;
+    color: #bf5700;
+    float: right;
+    margin-bottom: 5px;
+    max-width: 756px;
+    padding: 10px;
+    width: 378px;
+}
+
+
+div#content .table-of-contents h3 {
+    color: #bf5700;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+#content .table-of-contents a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#content .table-of-contents ul {
+    list-style: disc;
+    padding: 0px;
+    padding-inline-start: 40px;
+}
+
+#content .table-of-contents li {
+    margin-bottom: 10px;
+}
+
+/* Credits/Sources */
+#content .credits li {
+    margin-bottom: 10px;
+ }
+
+#content .credits.print li {
+    padding-left: 16px;
+    text-indent: -16px;
+}
+
+#content .credits .source-link,
+#content .credits .author {
+    display: block;
+    font-weight: bold;
+}
+
+#content .credits cite {
+    font-style: italic;
+}
+
+#content .source-credits cite.plain {
+    font-style: normal;
+}
+
+/* Highlight */
+.highlight {
+    background: rgb(255,240,213);
+    border: 3px solid #bf5700;
+    color: #bf5700;
+    max-width: 756px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* Content Width and Floats */
+
+#content .half-page {
+    width: 378px;
+    float: left;
+}
+
+#content .third-page {
+    width: 250px;
+    float: left;
+}
+
+#content .float-right {
+    float: right;
+}
+
+#content .align-center {
+    text-align: center;
+}
+
+#content .align-right {
+    text-align: right;
+}
+
+#content .align-left {
+    text-align: left;
+}
+
+
+#content .float-left {
+    float: left;
+}
+
+#content .clear {
+    clear: both;
+}
+
+
+#content .full-page {
+    width: 100%;
+    clear: both;
+}
+
+/*  Fixes for when a table is a direct descendant of the wrapper*/
+
+#wrapper > table {
+    margin: 0 auto;
+}
+
+@media (max-width: 550px) {
+
+}
+
+
+@media (max-width: 800px) {
+    body #two-l img,
+    body #two-r img {
+        max-width: 90%;
+    }
+}

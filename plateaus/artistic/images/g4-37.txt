@@ -1,0 +1,14 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 37 (Kirkland Plate 110)</p><br>
+
+<p><strong>Ingram Ranch.  Copied July 10, 1939.  Scale: 5/16 in. to 1 ft.</strong></p><br>
+
+<p><strong>Indian Water Hole.  Copied July 11, 1939.  Scale: 1/8 in. to 1 ft.</strong></p><br>
+
+
+</font>
+
+</BODY></HTML>

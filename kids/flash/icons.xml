@@ -1,0 +1,17 @@
+<icons>
+
+<icon image="../flash/funNgames.png" tooltip="Fun & Games" link="../fun-games.html" />
+
+<icon image="../flash/facts.png" tooltip="Fantastic Facts" link="../facts-new.html" />
+
+<icon image="../flash/adventure.png" tooltip="Adventures" link="../adventures.html" />
+
+<icon image="../flash/learn.png" tooltip=" Be a Scientist!" link="../scientist.html" />
+
+<icon image="../flash/newwords.png" tooltip="New Words!" link="../newwords.html" />
+
+<icon image="../flash/links.png" tooltip="Cool Links" link="../coollinks.html" />
+
+<icon image="../flash/research.png" tooltip="Research" link="../research.html" />
+
+</icons>

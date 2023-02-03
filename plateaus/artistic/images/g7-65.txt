@@ -1,0 +1,20 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plates 65 (Kirkland Plate 103)</p><br>
+
+<p><strong>Castle Canyon. Copied July 20, 1938. Scale: No. 1, 1 in. to 1 ft.; No. 2, 5/8 in. to 1 ft.</strong></p><br>
+
+<p><strong>Forrest Kirkland wrote:</strong></p><br>
+
+</font>
+
+<font size="10">
+
+<p>The pictures in the shelter proper are badly mixed with names, dates, and other recent work, but could readily be distinguished.  The best pictures (No. 1) were found around the cliff form the main shelter, on the wall under a low overhanging part of the cliff.</p><br>
+
+</font>
+
+
+</BODY></HTML>

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Alibates Flint Quarries and Ruins</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css"> 
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18">
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.php" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div>
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+	</div>
+	
+	
+	<div id="nav">
+	<div id="tt">
+	<h1>Alibates Flint Quarries and Ruins</h1></div>
+
+
+    <h2><a href="index.html">Alibates Main</a>
+	  <a href="gallery.html">Photo Gallery</a>
+	  <a href="credits.html">Credits &amp; Sources</a>
+	</h2>
+</div>
+
+<div id="content">
+	<!-- #BeginEditable "body" -->{body}<!-- #EndEditable --> 
+</div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Alibates Main</a>
+	<a href="gallery.html">Photo Gallery</a> 
+    <a href="credits.html">Credits &amp; Sources</a>
+	</p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+     1 October 2001
+	</p>
+</div>
+
+</div>
+</body>
+</html>

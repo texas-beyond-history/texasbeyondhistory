@@ -1,0 +1,306 @@
+a#camri{	
+	background-image: url(../images/0708/camria.jpg);
+	display: block;
+	width:113px;
+	height:124px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+a#camri:hover {
+	background-image: url(../images/0708/camrib.jpg);
+}
+
+a#camri span {display: none;}
+
+a#corinna{	
+	background-image: url(../images/0708/corinnaa.jpg);
+	display: block;
+	width:88px;
+	height:124px;
+	position: absolute;
+	top:0px;
+	left:113px;
+	z-index:1
+}
+
+a#corinna:hover {
+	background-image: url(../images/0708/corinnab.jpg);
+}
+
+a#corinna span {display: none;}
+
+a#maithi{	
+	background-image: url(../images/0708/maithia.jpg);
+	display: block;
+	width:99px;
+	height:124px;
+	position: absolute;
+	top:0px;
+	left:201px;
+	z-index:1
+}
+
+a#maithi:hover {
+	background-image: url(../images/0708/maithib.jpg);
+}
+
+a#maithi span {display: none;}
+
+a#nicole{	
+	background-image: url(../images/0708/nicolea.jpg);
+	display: block;
+	width:91px;
+	height:124px;
+	position: absolute;
+	top:0px;
+	left:300px;
+	z-index:1
+}
+
+a#nicole:hover {
+	background-image: url(../images/0708/nicoleb.jpg);
+}
+
+a#nicole span {display: none;}
+
+a#kathy{	
+	background-image: url(../images/0708/kathya.jpg);
+	display: block;
+	width:79px;
+	height:124px;
+	position: absolute;
+	top:0px;
+	left:391px;
+	z-index:1
+}
+
+a#kathy:hover {
+	background-image: url(../images/0708/kathyb.jpg);
+}
+
+a#kathy span {display: none;}
+
+a#dave{	
+	background-image: url(../images/0708/davea.jpg);
+	display: block;
+	width:127px;
+	height:124px;
+	position: absolute;
+	top:0px;
+	left:470px;
+	z-index:1
+}
+
+a#dave:hover {
+	background-image: url(../images/0708/daveb.jpg);
+}
+
+a#dave span {display: none;}
+
+a#chris{	
+	background-image: url(../images/0708/chrisa.jpg);
+	display: block;
+	width:121px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:0px;
+}
+
+a#chris:hover {
+	background-image: url(../images/0708/chrisb.jpg);
+}
+
+a#chris span {display: none;}
+
+a#matt{	
+	background-image: url(../images/0708/matta.jpg);
+	display: block;
+	width:93px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:121px;
+}
+
+a#matt:hover {
+	background-image: url(../images/0708/mattb.jpg);
+}
+
+a#matt span {display: none;}
+
+a#kim{	
+	background-image: url(../images/0708/kima.jpg);
+	display: block;
+	width:84px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:214px;
+}
+
+a#kim:hover {
+	background-image: url(../images/0708/kimb.jpg);
+}
+
+a#kim span {display: none;}
+
+a#kelli{	
+	background-image: url(../images/0708/kellia.jpg);
+	display: block;
+	width:86px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:298px;
+}
+
+a#kelli:hover {
+	background-image: url(../images/0708/kellib.jpg);
+}
+
+a#kelli span {display: none;}
+
+a#karen{	
+	background-image: url(../images/0708/karena.jpg);
+	display: block;
+	width:86px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:384px;
+}
+
+a#karen:hover {
+	background-image: url(../images/0708/karenb.jpg);
+}
+
+a#karen span {display: none;}
+
+a#rhea{	
+	background-image: url(../images/0708/rheaa.jpg);
+	display: block;
+	width:127px;
+	height:110px;
+	position: absolute;
+	top:124px;
+	left:470px;
+}
+
+a#rhea:hover {
+	background-image: url(../images/0708/rheab.jpg);
+}
+
+a#rhea span {display: none;}
+
+a#kelsey{	
+	background-image: url(../images/0708/kelseya.jpg);
+	display: block;
+	width:94px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:0px;
+}
+
+a#kelsey:hover {
+	background-image: url(../images/0708/kelseyb.jpg);
+}
+
+a#kelsey span {display: none;}
+
+a#julio{	
+	background-image: url(../images/0708/julioa.jpg);
+	display: block;
+	width:103px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:94px;
+}
+
+a#julio:hover {
+	background-image: url(../images/0708/juliob.jpg);
+}
+
+a#julio span {display: none;}
+
+a#marissa{	
+	background-image: url(../images/0708/marissaa.jpg);
+	display: block;
+	width:85px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:197px;
+	z-index:1
+}
+
+a#marissa:hover {
+	background-image: url(../images/0708/marissab.jpg);
+}
+
+a#marissa span {display: none;}
+
+a#christine{	
+	background-image: url(../images/0708/christinea.jpg);
+	display: block;
+	width:108px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:282px;
+}
+
+a#christine:hover {
+	background-image: url(../images/0708/christineb.jpg);
+}
+
+a#christine span {display: none;}
+
+a#krutie{	
+	background-image: url(../images/0708/krutiea.jpg);
+	display: block;
+	width:94px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:390px;
+}
+
+a#krutie:hover {
+	background-image: url(../images/0708/krutieb.jpg);
+}
+
+a#krutie span {display: none;}
+
+a#david{	
+	background-image: url(../images/0708/davida.jpg);
+	display: block;
+	width:112px;
+	height:120px;
+	position: absolute;
+	top:234px;
+	left:484px;
+}
+
+a#david:hover {
+	background-image: url(../images/0708/davidb.jpg);
+}
+
+a#david span {display: none;}
+
+#staimage {
+	position: relative; 
+	top:0px;
+	left:0px;
+	z-index:99
+}
+	
+#bottomstaimage {
+	position:absolute;
+	top:354px;
+	left:0px;
+}

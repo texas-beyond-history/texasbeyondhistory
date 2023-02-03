@@ -1,0 +1,993 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/hinds.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Hinds Cave &gt; Life at Hinds</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/> 
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	<div id="pt">
+	 <a href="../plateaus/index.html">Plateaus and Canyonlands Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Hinds Cave</h1>
+      </div>
+
+
+    <h2>
+				<a href="index.html">Hinds Main</a> 
+				<a href="natural.html">Natural Setting</a> 
+				<a href="climate.html">Paleoclimate</a> 
+              <a href="explore.html">Explore Hinds Archeology</a> 
+			  <a href="artifacts.html">Artifacts </a><br>
+			  <a href="life.html">Life at Hinds </a> 
+			 <a href="kids.html">Kids</a>
+			  <a href="teach.html">Teaching</a>
+			  <a href="credits.html">Credits & Sources</a> 
+	  </h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" -->
+  <table width="780">
+    <tr>
+      <td><h2>Life at Hinds </h2></td>
+    </tr>
+    <tr>
+      <td><img src="images/life-scene.jpg" alt="painting of Hinds daily life" width="780" height="380">
+	  <div class="caption">Daily life in Hinds Cave as envisioned by artist Peggy Maceo.   Most of the details shown are based on archeological finds at Hinds Cave, supplemented by what we have learned from other rockshelters in the Lower Pecos Canyonlands.  See <a href="../plateaus/patterns/rockshelter.html">Life in a Rockshelter</a> for an interactive version of this image. </div></td>
+    </tr>
+    <tr>
+      <td height="8443"><table width="780" border="0">
+        <tr>
+          <td width="206" valign="top"><table width="206" border="0">
+           <tr><br>
+              <td height="195" class="margintext">
+             <em>In this section:</em>
+			  <ul>
+                <li><a href="#hunt">Hunter-Gatherer Life</a></li>
+                <li><a href="#use">Use of Hinds Cave</a></li>
+                <li><a href="#attire">Clothing and Attire</a></li>
+                <li><a href="#season">Seasonality</a></li>
+                <li><a href="#diet">Diet</a></li>
+			  </ul>
+          </td>
+            </tr>
+            <tr>
+              <td height="132">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="378"><a href="images/flickeringflames.html" target="_blank"><img src="images/FlickeringFlames-sm.jpg" alt="painting of Lower Pecos life" width="200" height="132" class="thumbimg"></a>
+			  <div class="caption">Artist's depiction of ritual life in a Lower Pecos rockhelter.  Over the flickering flames of campfire a shaman cast his shadow on the back wall, where rock art murals echo his spiritual journeys.  Although the walls of Hinds Cave were too rough for rock art, ritual life must have played out here too, even if archeologists didn't uncover any obvious evidence of it.  Painting by George Strickland, courtesy Witte Museum of San Antonio.</div></td>
+            </tr>
+            <tr>
+              <td height="554"><a href="images/moon-boys.html" target="_blank"><img src="images/Moon-Boys-sm.jpg" alt="paiinting of canyon scene" width="200" height="188" class="thumbimg"></a>
+                <div class="caption">Artist's depiction of a canyon scene in the Lower Pecos Canyonlands. The women uses a digging stick as a staff as she makes her way along a rocky tray. Around her head is a woven tumpline leading to the carrying basket on her back. In the background two of her children follow along and help mom on her daily round of gathering. Drawing by George Strickland, courtesy Witte Museum of San Antonio.</div></td>
+            </tr>
+            <tr>
+              <td height="642"><a href="images/HC-coprolite-1.html" target="_blank"><img src="images/HC-coprolite-1-sm.jpg" alt="Coprolite" width="200" height="173" border="0" class="thumbimg"></a>
+                <div class="caption">This is what it looks like&#8212;a "patty"&#8212; but this one  was left behind in Hinds Cave by one of its former human inhabitants.  Coprolites&#8212;dried human feces&#8212;represent an extraordinarily direct line of dietary evidence.  This specimen is full of fiber, but it looks like it was less than solid when deposited.  Such is life.   TAMU Anthropology archives. </div></td>
+            </tr>
+            <tr>
+              <td height="145"><div class="caption">
+                <div class="caption"><a href="images/EveningScene.html" target="_blank"><img src="images/EveningScene-sm.jpg" alt="Artist depiction of an evening scene at Hinds Cave" width="200" height="274" border="0" class="thumbimg"></a>
+                  <div class="caption">
+                    <DIV align=left>Artist&rsquo;s rendering of an evening campfire and meal at a Lower Pecos rockshelter. Painting by  George Strickland, courtesy of the Witte Museum.</DIV> 
+                    </div>
+                </div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="103">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="104"><div class="caption"></div></td>
+            </tr>
+            <tr>
+              <td height="451"><div class="caption"><a href="images/springsnare.html" target="_blank"><img src="images/SpringSnare-sm.jpg" alt="painting of spring snare" width="200" height="280" class="thumbimg"></a>
+                  <div class="caption">Spring snares were among the devices used to trap the small animals that lived in the Hinds Cave canyon. An artifact thought to be part of a share&mdash;a once-springy branch and attached thin cord&mdash;was found at Hinds Cave. Drawing by George Strickland, courtesy Witte Museum of San Antonio.</div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="473"><div class="caption">
+                <div class="caption"><a href="images/HC76-snare.html" target="_blank"><img src="images/HC76-snare-sm.jpg" alt="Snare found at Hinds Cave" width="200" height="248" border="0" class="thumbimg"></a>
+                <div class="caption">The remains of a small snare as found  in a fiber lens in Area C.  TAMU Anthropology archives.</div>
+                </div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="510"><a href="images/HC74-p-pad.html" target="_blank"><img src="images/HC74-p-pad-sm.jpg" alt="photo of prickly pear pads" width="200" height="157" border="0" class="thumbimg"></a>
+                <div class="caption">Prickly pear pads were used for food, for packing material in earth ovens, and as floor coverings. The spines have been singed off this specimen and those found in the layer thought to represent an intentional floor covering that may have served mainly to hold down dust. TAMU Anthropology archives. </div></td>
+            </tr>
+            <tr>
+              <td height="327"><div class="caption"><a href="images/Hinds-HJS-76-dust.html" target="_blank"><img src="images/Hinds-HJS-76-dust-sm.jpg" alt="Photo of dust coming out of Hinds Cave" width="200" height="266" border="0" class="thumbimg"></a>
+                <div class="caption">Excavation dust rises from the mouth of Hinds Cave in 1976. TAMU Anthropology archives.</div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="509"><a href="images/hc-map-big2.html" target="_blank"><img src="images/hc-map-big-sm.jpg" alt="map of Hinds Cave" width="200" height="267" border="0" class="thumbimg"></a>
+                <div class="caption"><span class="caption"> Detailed map of Hinds Cave showing topography, physical
+  features and excavation areas. The contour interval is 75 centimeters. The
+  line marked "Approximate Line of Talus Fill" coincides
+  with the drip line of the shelter overhang. Adapted from Shafer and Bryant
+1977.</span></div></td>
+            </tr>
+            <tr>
+              <td><a href="images/matting.html" target="_blank"><img src="images/matting-sm.jpg" alt="Matting" width="200" height="220" border="0" class="thumbimg"></a><div class="caption">Detail of mat woven from sotol leaves.  TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="480">
+                <div class="caption">.  <a href="images/Maceo3.html" target="_blank"><img src="images/Maceo3-sm.jpg" alt="Artist depiction of a sotol pit at Hinds Cave" width="200" height="265" border="0" class="thumbimg"></a><div class="caption">&quot;Sotol&quot; or earth oven pit. Detail of illustration by Peggy Maceo.</div></td>
+            </tr>
+            <tr>
+              <td height="111">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="446"><a href="images/Maceo2.html" target="_blank"><img src="images/Maceo2-sm.jpg" alt="Drawing of Early Archaic people preparing food" width="200" height="320" border="0" class="thumbimg"></a>
+                <div class="caption">A girl watches and learns as her mother uses grinding stones to crush charred nuts. Detail of illustration by  Peggy Maceo.</div></td>
+            </tr>
+            <tr>
+              <td height="642"><div class="caption"><a href="images/HC-comb.html" target="_blank"><img src="images/HC-comb-sm.jpg" alt="Wooden comb" width="200" height="396" border="0" class="thumbimg"></a>
+                <div class="caption">Wooden comb with traces of red ochre from the Speck collection, Hinds Cave. It is not known whether this artifact was used for grooming hair or some other purpose. TAMU Anthropology archives. </div>
+              </div></td>
+            </tr>
+             <tr>
+            <td height="222" class="margintext"><p>
+              <em>Hinds Cave has yielded a wealth of potential evidence of seasonality because people brought plant materials and foods into the cave that were available only during certain seasons.</em></p></td>
+          </tr>
+            <tr>
+              <td height="39">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="504"><a href="images/hc76-persimmon.html" target="_blank"><img src="images/HC76-persimmon-sm.jpg" alt="Persimmon tree" width="200" height="267" border="0" class="thumbimg"></a>
+                <div class="caption">The fruits of the Texas
+          persimmon ripen in late summer. This small tree or shrub would have
+          grown thickly in the canyons. Seasoned persimmon wood is dark and dense, and was used to make digging sticks and other tools. Photo by Phillip Williams. TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="386"><a href="images/hc-Mesquite-flower.html" target="_blank"><img src="images/HC-mesquite-flower-sm.jpg" alt="Mesquite flower" width="200" height="274" border="0" class="thumbimg"></a>
+                <div class="caption">Mesquite flowers normally appear in spring.  The beans (seeds) are ripe in August and September.  TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr> 
+              <td height="417"><a href="images/lech-plant2.html" target="_blank"><img src="images/lech-plant-sm.jpg" alt="Lechugilla plant" width="200" height="269" border="0" class="thumbimg"></a>
+                <div class="caption">Lechuguilla plant  with a few outer leaves removed to show the white inner leaf base, the leaf part that is edible.  The plant is well armed by spines at the tips of the leaves as well as along the sides, earning the nickname "shinbuster." Photo by Phil Dering. </div></td>
+
+            </tr>
+          </table></td>
+          <td width="372" valign="top"><br>
+          <p>Here we summarize what has been learned
+              about daily living  at Hinds Cave. Boiling down the
+              story of 9,000 years of intermittent use of the site leaves us
+              with a  picture of a way of life    very different from that which 
+              we enjoy today. Generation after generation of native peoples&mdash;all
+              told at least 350 generations&mdash;made their living in the region by hunting and gathering.
+              Yet, this way of life was not fixed or identical for each group and each period. Researchers are only now beginning to accumulate
+              enough  data to ferret out the finer changes
+              and trends through time. In the next few decades, archeologists should be able to explore the details and develop
+              more sophisticated understandings of the ebb and flow of human
+              life over thousands of years  at Hinds Cave and
+              so many other localities in the Lower Pecos Canyonlands.</p>
+            <h3><a name="hunt"></a>Hunter-Gatherer Life</h3>
+            <p>All of the peoples who stayed at Hinds Cave in prehistoric
+              times lived off the land and followed a nomadic lifestyle known
+              to anthropologists as hunting and gathering or foraging. Based
+              on what is known about similar peoples elsewhere,
+              the basic social group would have been an extended<strong> family band</strong>              of 10 to 25 people. Band members were closely related to one another by kinship ties,
+              some genetic, some through marriage. Family bands would have consisted of some combination of grandparents,
+              parents, children, aunts, uncles and cousins.</p>
+            <p>Related family bands would have periodically joined together in
+              larger groups of up to 100 people or more on social occasions that
+              coincided with seasons of abundance, such as the late summer/early
+              fall ripening of prickly pear tunas, persimmons, and walnuts. Family
+              bands were related to one another through kinship, shared history,
+              and language. Anthropologists sometimes call these larger groups
+              macrobands. Each group, large and small, would have had its own identity, traditional
+              territory, and unique name, which we&#8212;thousands of years later&#8212;will never know. Only individual family bands would
+              have occupied Hinds Cave, but the cave may have been used by several
+              different family bands who shared partially overlapping territories.</p>
+            <p><strong>Hunter-gatherer life is highly mobile</strong>, especially in environmentally challenging
+              areas such as the Lower Pecos Canyonlands. People
+              could not live in one spot for long without exhausting the local supplies
+              of food and firewood. Instead they must have moved their camps
+              quite regularly&mdash;every few days or weeks&mdash;to take advantage
+              of the resources changing with the seasons and during  short-term climatic events. Part of the mobility was tied to <strong>seasonal rounds</strong>&mdash;moving across the landscape to areas
+              where different food resources could be found in abundance certain
+              times of the year. For instance, native pecan
+              trees grew in the deep sediments of the  terraces along the
+              Devils River  and other rivers and streams farther east that drain the Edwards Plateau. Pecan nuts ripen
+              in the fall and are much more abundant in some years than others.
+              Hunter-gatherers would have monitored the natural crop and planned
+              for particularly good harvests months in advance. When the season
+              came, groups would have moved camp to the prime areas.</p>
+            <p>But the changing seasons only tell part of the mobile lifestyle
+              story. <strong>In the arid Lower Pecos Canyonlands, climatic events can
+              be extremely localized</strong> and must have triggered movements
+              of people just as they do  the movement of certain animals today. As area ranchers
+              know only too well, warm-season thunderstorms often fall in only
+              small areas or narrow swaths in this country. When one spot gets
+              more than its share of rain, plants bloom, shrubs and trees leaf
+              out, and grasses green up and grow thickly. Deer and other mobile
+              animals from miles around can move in quickly to take advantage
+              of localized abundance, especially during droughts and otherwise
+              tough conditions. Hunters and gatherers would been equally opportunistic. </p>
+            <p>The people lived mostly outdoors in open campsites along the river
+              terraces and in the uplands overlooking the canyons. The main shelter
+              needed most of the year was simply shade from the intense sun.
+              This was provided by constructing crude makeshift dwellings and
+              ramadas (shade arbors) with pole frameworks covered with whatever materials
+              were at hand: leafy branches, bundles of grass, woven mats, or
+              hides. We can infer this, paradoxically, from the absence of archeological evidence of
+              substantial structures and also because brush huts and ramadas were
+              seen by the early Spanish explorers in the region. Similar makeshift
+              structures have been documented during more-recent historic encounters
+              with many native groups living comparable lifestyles in northern
+              Mexico and the western United States.</p>
+            <p>When substantive shelter was really needed during wet,
+              cold, and extremely windy weather,  the peoples of the Lower Pecos
+              Canyonlands could always seek temporary refuge in natural shelters
+              such as Hinds Cave. Some archeologists think the main occupations
+              of the dry rockshelters may have occurred during times of inclement
+              weather. The evidence from
+              Hinds Cave, however, suggests this particular shelter was used throughout
+              most of the year, especially during the warm-weather months. Rather than a retreat, Hind Cave  probably  served  more often as  a convenient
+              camping spot  for family bands seeking out the resources of
+              the canyon and nearby landforms.</p>
+            <h3><a name="use"></a>Use of Hinds Cave</h3>
+            <p>We infer that Hind Cave served two principle functions during
+              most of its use life in prehistoric times&mdash;as an <strong>occupational
+              shelter</strong> and  as a <strong>sheltered place</strong> to keep firewood, heavy tools like manos and metates, wooden tools, and small caches of food. It was not, however,
+              occupied permanently or continously throughout the year. Like other caves and
+              rockshelters in the region, it was used periodically and seasonally
+              by the bands whose territories included the shelter.</p>
+            <p>With its large overhang and overall size Hinds Cave did afford
+              ample protection from rain, although only the small alcove area
+              (the actual &ldquo;cave&rdquo; part) was naturally insulated from
+              cold and wind. Large rockshelters were more than mere places where
+              people sometimes lived. Hind Cave and other dry shelters were also
+              used for  dry storage, as  <strong>caching places</strong> for domestic equipment, ritual equipment,
+              and fuel, as well as <strong>final resting places</strong> for the dead. And, of
+              course, the smooth walls of many shelters and overhangs in the
+              Lower Pecos were used as  natural canvases for painted scenes strongly
+              linked to ritual. Hinds Cave probably served as a <strong>ritual setting</strong> from time to time, but it has particularly rough, uneven walls that seem never
+              have to been painted. But it probably served all of the other functions
+              mentioned above.</p>
+            <p>There is no reason to think that
+              Hinds Cave or any other shelter was used for all of these purposes
+              at any point in time. Although the large shelters must have been
+              <strong>permanent, named places on the human landscape</strong>, through the centuries
+              and millennia they were used to meet many different needs. Outstanding
+              shelters such as Hinds must have been well mapped into the folklore
+              and mythology of the people, thereby passing on the cave&rsquo;s
+              legacy to each generation.</p>
+            <p>  Like virtually all of the dry shelters in the
+              Lower Pecos Canyonlands, artifact collectors removed most of the
+              perishable equipment and burials Hinds Cave once held. Most equipment&mdash;mats,
+              basketry, rabbit nets, digging sticks, grinding stones, and the
+              like was presumably stored only temporarily between uses, yet over
+              time things did get left behind. Some things must have been forgotten
+              or abandoned because they were no longer needed or their condition
+              deteriorated beyond usefulness. There is also evidence that unrelated
+              Indian peoples from the Plains moved into the region and displaced
+              its traditional inhabitants during late prehistoric and early historic
+              times. Such catastrophic cultural changes must have also led to
+              abandoned equipment and severed traditions.</p>
+            <p>We know the dry shelters were used to store equipment and house
+              burials because many  items and some burials were found, documented,
+              and removed by early museum expeditions and archeological excavations
+              beginning in the 1930s. Minimal documentation also exists for materials
+              that some private collectors have donated to museums and for some
+               materials that archeologists have studied from private
+              collections.</p>
+            <p>Natural shelters such as Hinds Cave may also have been used to
+              <strong>stockpile  firewood </strong>in anticipation of  periods of wet weather. This suspected habit would have made it possible
+              to carry out cooking during extended wet periods, especially the use of earth
+              ovens to bake the hearts of semi-succulants such as lechuguilla
+              and sotol. Earth oven cooking requires considerable firewood and
+              probably was most important during the late winter and early spring
+              when few other foods were available and stored foods were gone.
+              Cold, wet stretches coinciding with an annual dietary low point
+              would have made efficient earth oven cooking next to impossible
+              except in naturally sheltered locations.</p>
+            <p><strong>Floor coverings</strong>. Because the interior of the cave remained dry even in the worst
+              storm, it was very dusty. No moisture could penetrate the protected
+              floor and wind erosion of the soft limestone strata from which
+              the cave is formed created a fine dust layer on the natural floor.
+              When the natural dust was combined with wood ash from warming and
+              cooking fires, clouds of dust were created simply by walking across
+              the floor. To combat this rather inhospitable condition, groups
+              at different times seem to have covered  parts of the floor of the cave with layers of plant materials.
+              In the Early Archaic, sizable floor sections were covered on two separate occasions with prickly pear pads
+              with spines removed. At other times,
+              grasses, and oak leaves were used to cover the floor, perhaps in
+              hopes of holding down the dust and making the cave more livable.</p>
+            <p><strong>Living space.</strong> The large size of the covered overhang provided living space 
+              and enough work space for the construction of earth ovens.
+              The steep slope in the front portion of the floor, however, limited
+              the actual living space. Based on the available floor area of the
+              relatively flat central rear portion of the shelter and a tiny
+              space in the alcove, there are perhaps 65-70 square meters (700-750
+              square feet) of prime space for basic habitation (sleeping, warming
+              fires, and ordinary cooking fires). It is estimated that <strong>Hinds 
+			  Cave was  occupied by groups of no more than  12 to 15 people</strong> 
+			  at any one time. More could have crowded in during a bad storm or a 
+			  special occasion, but not for long.</p>
+            <p>Clues as to the organization of living space have come from excavation observations and specialized analyses. <strong>Sleeping areas</strong> near
+              the back of the cave were identified by the presence of <strong>beds</strong>. These
+              beds were made by digging shallow pits and lining the bottom with
+              green boughs (small leafy branches). Woven mats or<em><strong> petate </strong></em>fragments,
+              prickly pear pads (with spines removed), and discarded sandals
+              were placed as a padded layer over the bows. Grass was used to
+              fill the pit and this layer was probably covered by a sleeping
+              mat when the beds were in use. These beds varied in size, depending
+              on the size of the person. An adult&rsquo;s bed measured slightly
+              more than three feet in length and perhaps two feet across. Why
+              so small? To conserve body heat, the people who stayed at Hinds
+              Cave slept in a flexed position, just like many of us do today.</p>
+            <p>Extensive deposits and lenses of <strong>white ash</strong> were encountered across
+              the living areas of the site. We assume some of the white ash was
+              the result of warming fires allowed to burn and smolder. Placing
+              warming fires in front of the sleeping area, and  heating rocks
+              to generate heat would certainly help one to survive a wintry night
+              in Hinds Cave.</p>
+            <p><strong>Earth ovens</strong> used to bake lechuguilla, sotol, and prickly pear
+              pads were constructed near the front of the north end of the cave. At least two large burned rock middens and associated
+              pit ovens were present within the overhang. Other burned rock layers
+              were encountered in the living area as well.  Hinds Cave has some of the  earliest  evidence for earth oven cooking yet documented 
+              in the Lower Pecos Canyonlands. </p>
+            <p><strong>Latrine deposits</strong> were recorded on the slope along the west wall
+              west of the main living area. The largest and most permanent latrine
+              was found on the break of the slope at the front of the living
+              area (Area B). While an occasional coprolite was recovered in the
+              living area, there is little doubt that certain areas within the
+              overhang, but on the edges of the main living space, were set aside
+              as latrines. The Area B latrine seems to have been used repeatedly
+              over a several thousand year span during the Early Archaic and
+              perhaps later.</p>
+            <h3><a name="attire"></a>Clothing and Attire
+            </h3>
+            <p>During much of the year hunting and gathering peoples living in
+              arid lands have very little need for clothes. They did not have
+              the same attitude about modesty that most of us do today. Adult
+              men probably wore simple loin cloths of fiber or leather, and women
+              wore small apron-like fringe garments or deer skin skirts 
+              and little else. Deer and bison hide garments have been described
+              historically for hunters and gatherers in central northern Mexico,
+              but no such garments have ever been recovered in the dry shelters
+              of the Lower Pecos. Children must have usually gone naked. During
+              the few cold months of the year (December-February), animal hide
+              coverings would have been used by all, especially rabbit fur robes.
+              Rabbit skins were cut into strips and twisted around a fiber cord,
+              and woven into blankets or robes. Deer and bison hides may have
+              been used as well, but there was no direct evidence of this at
+              Hinds Cave.</p>
+            <p>Few fragments of any kind of clothing were found at Hinds Cave
+              with one exception: fiber sandals. <strong>Worn-out sandals were among
+              the most common fiber  artifacts</strong> recovered from the Hinds Cave
+              excavations. From the dozens and dozens of sandal fragments, we
+              surmise  that everyone big and little wore sandals woven of locally available plants.
+              Leaves and fiber of yucca and Agave lechuguilla were the preferred
+              sandal-making materials. Sandal styles changed through time and
+              one manufacturing technique  replaced another with the ebb and flow of human generations.</p>
+            <p>We do not know the  hair styles of the Hinds Cave occupants,
+              and the styles probably varied through time. Human hair was  a valuable
+              fiber used for nets and  textiles throughout the
+              desert Southwest. Men and women may have used their hair to meet such needs.
+              Women may have worn their hair cropped or braided, while men&rsquo;s
+              style probably varied more widely, depending on the group and time
+              period. Interestingly, one small wooden atifact with a  comb-like working end caked with red ochre
+              was found at Hinds Cave.</p>
+            <p>It is very likely some of the Hinds inhabitants   were tattooed. Tattooing
+              was a way of marking social group affiliation and marital status
+              among desert hunters and gatherers in southern Texas and north-central
+              Mexico. In earliest historic times, face and body painting was not uncommon among native groups
+              in the desert, especially when visitors were anticipated. These patterns probably represent  traditions that stretch back thousands of years. </p>
+            <h3><a name="season"></a>Seasonality 
+            </h3>
+            <p>It is often very difficult or impossible to accurately determine the time(s) of
+              year that a prehistoric archeological site was occupied, especially
+               open campsites with poor preservation conditions. Fortunately,
+              Hinds Cave has yielded a wealth of potential evidence of seasonality because people
+              brought plant materials and foods into the cave that were available
+              only during certain seasons.&nbsp; </p>
+            <p>The big difficulty in determining
+                seasonality at Hinds is that <strong>desert plants do not respond to
+              the time of year as much as they do to  rainfall.&nbsp; </strong>High annual variability in the amount and
+              timing of rainfall means that plant growth is sporadic. Years can
+              go by between the appearance of some species and between periods
+              of abundant growth. For many plants, flowering and fruiting cycles
+              can occur most anytime between early spring and late fall.&nbsp; Therefore,
+              precise seasonality determinations are not always possible even
+              with excellent plant preservation.&nbsp; Analysts
+    must qualify their seasonality assessments with phrases like &ldquo;assuming
+    average conditions.&rdquo; </p>
+            <p>Under &ldquo;normal&rdquo; conditions wild persimmon fruits,
+      for example, become available during the late summer (July and August). When abundant
+      persimmon seeds and fruit parts are recovered from the cave deposits or coprolites,
+      archeologists assume that late summer is the most likely season the remains
+      were deposited. Prickly pear fruits from June to September, but may last to October. Mesquite
+       seed pods  ripen in August and September. Walnut and acorns ripen at the close of the warm season, from early
+      to late fall.</p>
+            <p> Prickly pear pads
+        (technically, stems) are available  year-around and are not good seasonal indicators. The same is often said about sotol and lechuguilla, but we doubt
+              this was the case. While it is true that  the leaf
+              bases and &ldquo;hearts&rdquo; of mature sotol and lechuguilla
+              plants can be rendered edible any time of the year, these plants
+              are marginal food resources even at the best times of the year. That
+              is, the amount of energy that must be expended to harvest and eat
+              these plants is almost equal to the amount of energy the cooked
+              plants yield. Drought stressed plants would have simply not been
+              worth the trouble. Therefore, it is much more likely that these
+              plants were mainly harvested during optimal conditions, just prior
+              to blooming. Normally, these plants bloom in the spring, thus they
+              are at their nutritional peak in late winter and early spring,
+              precisely the period when most other plant and animal foods are
+              scarce or unavailable.&nbsp;</p>
+            <p>There is another indication that Hinds Cave was sometimes used
+              during this same, early spring season: the use of live oak leaves
+              for flooring and possibly for bedding. Live oaks drop their leaves
+              in advance of flowering and pollinating at the onset of spring
+              in March.&nbsp; The large quantities of live oak leaves found in
+              certain Hinds Cave deposits, strongly suggest that this was one
+              season that the site was occupied.&nbsp; <br>
+    <br>
+  Taking these factors together, the overall indications of seasonality represented
+  in the preserved plant materials suggest that <strong>Hinds Cave was occupied intermittently
+  at different times thoughout  the year</strong>. The strongest seasonal evidence points to   
+  warmer monsoon months from April-October.&nbsp; Late winter-early spring
+  (February-March) is the logical  seasonal peak of lechugilla and sotol baking, of
+  which there is ample evidence. Definitive evidence
+  of late fall and winter (November-February) occupation is very hard to recognize. Few  resources have seasonal peaks in those lean months when  stored foods would have been highly valued. </p>
+           </td>
+          <td width="206" valign="top"><table width="206" border="0">
+            <tr>
+              <td height="462"><a href="images/HC-genview.html" target="_blank"><img src="images/HC-genview-sm.jpg" alt="General view of Hinds Cave from across the canyon" width="200" height="223" border="0" class="thumbimg"></a>
+                <div class="caption">Hinds Cave looking northwest from across the canyon.  TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="574"><a href="images/hc75-c-feat.html" target="_blank"><img src="images/HC75-C-feat-sm.jpg" alt="photo of sleeping bed" width="200" height="210" class="thumbimg"></a>
+			  <div class="caption">A glancing ray of early morning sunlight highlights the remains of a grass-filled pit thought to represent a child-size sleeping bed.  The people who stayed in Hinds Cave slept in the fetus position as evidenced by their small oval beds.  TAMU Anthropology archives. </div></td>
+            </tr>
+            <tr>
+              <td height="105">&nbsp;</td>
+            </tr>
+             <tr>
+            <td height="445" class="margintext"><p>
+              <em>Family bands were related to one another through kinship, shared history, and language. Anthropologists sometimes call larger groupings macrobands. Each group, large and small, would have had its own identity, traditional territory, and unique name, which we&#8212;thousands of years later&#8212;will never know.  Only individual family bands would have occupied Hinds Cave, but the cave may have been used by several different family bands who shared partially overlapping territories.</em></p></td>
+          </tr>
+            <tr>
+              <td height="808"><div class="caption"><a href="images/Outdoor.html" target="_blank"><img src="images/Outdoor-sm.jpg" alt="Artist's depiction of an outdoor scene" width="200" height="166" border="0" class="thumbimg"></a>
+                  <div class="caption">Artist's depiction of a camp in the uplands such as the terrain overlooking the Hinds Cave canyon. The brush shelters may look flimsy, but they were mainly needed to create shade from the intense sun. the woman in the foreground is trimming sotol leaves, perhaps to use them for weaving a new sleeping mat. Painting by George Strickland, courtesy Witte Museum of San Antonio.</div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="402"><div class="caption"><a href="images/shafer-floorplan.html" target="_blank"><img src="images/shafer-floorplan-sm.jpg" alt="Floorplan showing how the living space was divided up at Hinds Cave" width="200" height="149" border="0" class="thumbimg"></a>
+                  <div class="caption">Schematic drawing showing an idealized model of how the living space in Hinds Cave was used by Early Archaic peoples. Image courtesy of the Witte Museum.</div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="407"><div class="caption"><a href="images/HC-065.html" target="_blank"><img src="images/HC-065-sm.jpg" alt="Cave wall" width="200" height="268" border="0" class="thumbimg"></a>
+                  <div class="caption">The limestone wall of Hinds Cave is pitted and uneven, totally unsuited for the vivid rock art found on the smooth walls of many dry rockshelters. TAMU Anthropology archives. </div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="655"><div class="caption">
+                <div class="caption">
+                  <div class="caption"><a href="images/moonmourns.html" target="_blank"><img src="images/MoonMourns-sm.jpg" alt="painting of woman mourning" width="200" height="275" class="thumbimg"></a>
+                    <div class="caption">Artist's depiction of a woman morning the loss of her infant, who is wrapped in finely woven mats. An infant burial is said to have been found by a collector at Hinds Cave. Fragments of the mat wrap were radiocarbon dated to about 200 B.C. Drawing by George Strickland, courtesy Witte Museum of San Antonio.</div>
+                  </div>
+                </div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="433"><div class="caption">
+                  <div class="caption"><a href="images/hc-76-d1.html" target="_blank"><img src="images/HC-76-d1-sm.jpg" alt="photo of flat stone" width="200" height="219" class="thumbimg"></a>
+                    <div class="caption">A small flat stone found in association with ash and charcoal may have been used as a griddle, or heated stone used for cooking. TAMU Anthropology archives. </div>
+                  </div>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="75">&nbsp;</td>
+            </tr>
+            <tr>
+            <td height="328" class="margintext"><p><em>Natural shelters such as Hinds Cave may also have been used to stockpile or cache firewood to be used when periods of wet weather would set in. This suspected habit would have made it possible to carry out cooking during extended wet periods, especially earth ovens to bake the hearts of semi-succulants such as lechuguilla and sotol. </em></p></td>
+          </tr>
+            <tr>
+              <td height="527"><a href="images/Maceo1.html" target="_blank"><img src="images/Maceo1-sm.jpg" alt="Drawing showing sleeping areas near back of Hinds Cave" width="200" height="310" border="0" class="thumbimg"></a>
+                <div class="caption">Artist's rendering of a child playing inside Hinds Cave.  The material culture of children is often ignored by archeologists, but children added significantly to, and probably disturbed, the archeological record.  Drawing by Peggy Maceo.</div></td>
+            </tr>
+            <tr>
+              <td height="294"><a href="images/HC-76-AC-C-Swall.html" target="_blank"><img src="images/HC-76-AC-C-Swall-sm.jpg" alt="Profile showing white ash and grass bed" width="200" height="147" border="0" class="thumbimg"></a><div class="caption">
+                <span class="caption">Grass layer representing a sleeping bed exposed in trench wall.   TAMU Anthropology archives.</span></td>
+            </tr>
+            <tr>
+              <td height="436"><a href="images/HC76-b-latrine2.html" target="_blank"><img src="images/HC76-B-latrine-sm.jpg" alt="Profile showing latrine layer" width="200" height="168" border="0" class="thumbimg"></a>
+                <div class="caption">The flat, thin lenses seen most clearly on the left side of this close-up photograph are layer after layer of urine-compacted soil. The dark and light bands represent ash, charcoal and other living debris compacted by the repeated use of this area of the shelter as a latrine.This photo, taken late in the 1976 season, depicts the lower deposits in the south wall of Block B as exposed during the excavation of the north half of the block.  TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="31">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="257"><a href="images/fiber-sandals.html" target="_blank"><img src="images/fiber-sandals-sm.jpg" alt="sandal" width="200" height="315" border="0" class="thumbimg"></a>
+              <div class="caption">Worn-out sandals were often recycled as padding for  sleeping beds. TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="383"><a href="images/FiberSandals.html" target="_blank"><img src="images/FiberSandals-sm.jpg" alt="Drawing of fiber sandals" width="200" height="171" border="0" class="thumbimg"></a>
+                <div class="caption">Sandals were perhaps the most essential item of clothing for native peoples living in the rough terrain of the Lower Pecos Canyonlands. Drawing by George Strickland, courtesy of the Witte Museum.</div></td>
+            </tr>
+            <tr>
+              <td height="94">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="286"><a href="images/HC-1980-winter1.html" target="_blank"><img src="images/HC-1980-winter1-sm.jpg" alt="Photo taken during winter near Hinds Cave" width="200" height="240" border="0" class="thumbimg"></a>
+                <div class="caption">Below freezing temperatures, such as occurred on the winter day this  photo was taken, reminds us that people had to survive  year-round in the seemingly harsh environment of the Lower Pecos with only what nature and their own technology could provide.     TAMU Anthropology archives.</div></td>
+            </tr>
+            <tr>
+              <td height="650"><a href="images/p-pear-tuna.html" target="_blank"><img src="images/p-pear-tuna-sm.jpg" alt="Ripe prickly pear tunas" width="200" height="283" border="0" class="thumbimg"></a>
+                <div class="caption">Ripe tunas.  Prickly pear fruit, known as tunas or pears, begins to ripen in late summer to a deep red color and produces a very sweet, yet otherwise tasteless, purple-red juice.  The tunas are eaten by many animals as well as people. 
+</div></td>
+            </tr>
+            <tr>
+              <td><a href="images/oven6.html" target="_blank"><img src="images/oven6-sm.jpg" alt="Cooked lechuguilla" width="200" height="196" border="0" class="thumbimg"></a>
+                <div class="caption"><span class="caption">Cooked lechuguilla.  Properly prepared, the lower leaves and the central stalk are sugary sweet and no longer contain toxins and soapy compounds. The taste is intensely sweet and a bit smoky.  Photo by Phil Dering. 
+</span></div>                
+                <div class="caption"></div></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+    </tr><tr><td height="6186"><table width="780" border="0">
+      <tr>
+        <td width="206" height="6171" valign="top"><table width="206" border="0">
+          <tr>
+            <td height="578"><a href="images/earth-oven-proc.html" target="_blank"><img src="images/earth-oven-proc-sm.jpg" alt="Chart" width="200" height="224" border="0" class="thumbimg"></a>
+              <div class="caption">An average sized earth oven used to bake lechuguilla yields relatively little energy relative to the cost. The World Bank estimates that an average person needs to consume 2000 kilocalories (KCAL) per day.  But let's assume that the native peoples of the Lower Pecos Canyonlands were somewhat smaller and tougher  and required only 1500 KCAL.  Even so, a single oven would only feed five people for one day, yet hauling the raw materials, building the oven, and processing the food probably required at least two or three person days worth of effort. Based on experimental research by Phil Dering. Graphic by Carolyn Boyd. </div></td>
+          </tr>
+          <tr>
+            <td height="436"><a href="images/HC-cop1.html" target="_blank"><img src="images/HC-cop1-sm.jpg" alt="Coprolite" width="200" height="158" border="0" class="thumbimg"></a>
+              <div class="caption">One of the first coprolites found by archeologists at Hinds Cave during initial testing of the site in 1974. With this find, the Texas A&M researchers knew they had hit &ldquo;pay dirt&rdquo; so to speak. Studies of Hinds Cave coprolites have revealed many details about the diet and life of the cave&rsquo;s inhabitants. Photo by Glenna Williams-Dean. </div></td>
+          </tr>
+          <tr>
+            <td height="687"><a href="images/PricklyPear.html" target="_blank"><img src="images/PricklyPear-sm.jpg" alt="Artist's rendering of a prickly pear cactus" width="200" height="270" border="0" class="thumbimg"></a>
+              <div class="caption">Prickly pear cactus was a critical food resource for those who stayed at Hinds Cave. Some 70% of the coprolites contained prickly pear skin and even more contained prickly pear fiber. The combined evidence of the fiber, seeds, and skin suggests that the pads and fruit of prickly pear cactus were a dietary mainstay and eaten almost every day.    Drawing by George Strickland from Ancient Texans: Rock Art and Lifeways along the Lower Pecos, 1986, courtesy Witte Museum of San Antonio.</div></td>
+          </tr>
+          <tr>
+            <td height="389"><div class="caption"><a href="images/DeerHeadsAntlers.html" target="_blank"><img src="images/DeerHeadsAntlers-sm.jpg" alt="Drawing of deer heads" width="200" height="131" border="0" class="thumbimg"></a>
+              <div class="caption">Artist's rendering of a ritual deposit in which antlered deer heads were used. Image courtesy of the Witte Museum </div></div></td>
+          </tr>
+          <tr>
+            <td height="170"><div class="caption"></div></td>
+          </tr>
+          <tr>
+            <td height="463"><a href="images/GWD-pp-fiber.html" target="_blank"><img src="images/GWD-pp-fiber-sm.jpg" alt="Desicated prickly pear pads" width="200" height="266" border="0" class="thumbimg"></a>
+              <div class="caption">These desiccated prickly pear pads show how full of fibers they are. Masses of prickly pear fiber were found in most of the coprolites studied by Williams-Dean.  Photo by Phil Williams. </div></td>
+          </tr>
+          <tr>
+            <td height="564"><a href="images/sotol-hinds.html" target="_blank"><img src="../plateaus/nature/images/sotol-hinds-sm.jpg" alt="photo of charred sotol" class="thumbimg"></a>
+              <div class="caption">These charred fragments of the leaf base of sotol hearts were found at Hinds Cave, the remains of plant baking.  The edible central stems and lower leaves were removed and eaten. These charred parts were discarded and probably resulted from a poorly constructed oven.  Photo by Phil Dering. </div></td>
+          </tr>
+          <tr>
+            <td height="52"><a href="images/SEM-copros2.html" target="_blank"><img src="images/SEM-copros2-sm.jpg" alt="scanning electron microscope images of plant microfossils from Lower Pecos Canyonlands" width="200" height="333" border="0" class="thumbimg"></a>
+              <div class="caption"><span class="caption">Scanning electron microscope (SEM) images of plant microfossils from the Lower Pecos Canyonlands.  The top image is a mesquite pollen grain.  It is about 60 microns long (1,000 microns = 1 mm).  The lower images is an SEM photo  of one of the pore areas on the surface of a prickly pear cactus pollen grain. The diameter of the pore is probably about 10 microns. TAMU Anthropology archives.</span></div></td>
+          </tr>
+          <tr>
+            <td height="419">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="155"><a href="images/SEM-wildonion.html" target="_blank"><img src="images/SEM-wildonion-sm.jpg" alt="Wild onion allium as seen through a scanning electron microscope" width="200" height="180" border="0" class="thumbimg"></a>
+              <div class="caption">SEM image of wild onion skin, many fragments of which were found in Hinds Cave coproiites.  TAMU Anthropology archives.</div></td>
+          </tr>
+          <tr>
+            <td height="297">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="155"><a href="images/rabbits.html" target="_blank"><img src="images/rabbits-sm.jpg" alt="rabbits" width="200" height="589" border="0" class="thumbimg"></a>
+              <div class="caption">Cottontail rabbit; Texas Parks and Wildlife Department.  Desert cottontail; U.S. Fish and Wildlife.  Jack rabbit; Texas Parks and Wildlife Department.</div></td>
+          </tr>
+          <tr>
+            <td height="302">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="155"><a href="images/ringtail.html" target="_blank"><img src="images/ringtail-sm.jpg" alt="ringtail cat" width="200" height="304" border="0" class="thumbimg"></a><div class="caption">Ringtail cat; Texas Parks and Wildlife.</div></td>
+          </tr>
+        </table></td>
+        <td width="372" valign="top"> <h3><a name="diet"></a>Diet</h3>
+            <p>Much has been learned about the diet of those who stayed in Hinds
+              Cave. In fact, <strong>diet has been the major research focus </strong>of virtually all
+              of the completed studies as well as that of ongoing work.
+              Coprolite research has led the way, but animal bones, pollen, and
+              plant remains have also been analyzed and some of the latest research
+              looks at DNA obtained from Hinds Cave coprolites. A comprehensive
+              synthesis of the dietary studies has not been achieved yet. The
+              sheer volume of amassed information is daunting, various data gaps
+              remain to be filled, and different lines of evidence don&rsquo;t
+              always lead to comparable conclusions. Here we  offer a partial             overview.</p>
+            <p><strong>Coprolites</strong>&mdash;dried human feces&mdash;represent an extraordinarily
+              direct line of dietary evidence. When  found during excavation, they are just dry fibrous lumps that
+              have little discernable smell, but each lump can tell  a day-in-the-life story
+              when properly studied back in the lab.</p>
+            <p><strong>More coprolites were recovered from Hinds Cave than any other
+              archeological site</strong> in Texas and perhaps North America and beyond. Several hundred coprolites from Hinds Cave have
+              now been studied. Each represents a dietary moment in time, the
+              residue left over from meals and snacks eaten in the several days
+              before the stool was passed.
+              Keep in mind that only some types of food exit the digestive system
+              in recognizable form. Gastric juices break down most protein and
+              fat from meat and nuts as well as carbohydrates from plant foods
+              into compounds that the human body readily absorbs during digestion.
+              What passes on through the system is indigestible fiber and other
+              resistant solid matter. </p>
+            <p>The diet of Hinds Cave inhabitants was starkly different from
+              our modern diets. There were no highly processed or artificial ingredients
+              and nothing shipped from halfway around the globe. They ate everything
+              fresh except for certain foods they could easily store as is, like
+              nuts, or things they could dry and then store, such as thin slices
+              of deer meat, pounded fruits, and cooked lechugilla cakes. But
+              no discernable evidence of food storage was found at Hinds Cave and
+              it is unlikely that hunters and gatherers had enough surplus food
+              most of the year to rely on stored foods for long. Logically, stored foods
+              were mainly needed to survive the winter and early spring annual
+              biomass low point&mdash;the period when few plants grow and most
+              animals are lean. Since the Hinds Cave peoples grew no crops and
+              raised no domestic food animals, everything had to be provided
+              by nature and most of it came from within walking distance of the
+              site. <strong>Everything eaten was pure, 100% organic, wild plant and animal
+              foods.</strong></p>
+            <p>So far this sounds quite healthy&mdash;and it was&mdash;but some
+              of what they ate and how they fixed it might not sound as wholesome.
+              They ate essentially everything edible they could get their hands
+              on and they ate many things with little or no preparation. <strong>Grab
+              it and gulp</strong>, so to speak.  Yet,  no matter how healthy their diet appears in theory, in practice they must have known  periods of extreme hunger quite regularly. During prolongued droughts, the native peoples of the Lower Pecos Canyonlands would have been forced to  either move elsewhere or endure near- starvation conditions. </p>
+            <p>The term &ldquo;foraging&rdquo; probably describes most of their
+              food procurement strategy  more accurately than does &ldquo;hunting and gathering.&rdquo; The
+              latter may conjure up an image of an orderly division of labor
+              with women and children gathering plant foods fairly close to camp
+              and men sallying forth on hunting expeditions to bring home game.
+              This is probably fairly accurate, but in reality it  was likely far more complex.</p>
+            <p>Hunters and gatherers living in  arid, ecologically marginal
+              regions are opportunists first and foremost. Most of the time,
+              they would have foraged off the landscape, taking  advantage of whatever food they found&#8212;lizards, rats, insects, and cactus fruits among them.</p>
+            <p>Adult male hunters did target big game&mdash;<strong>deer were  the top-ranked
+              locally available prey&#8212;</strong>as judged by the amount of meat represented
+              by its bones. And when the hunters brought home a fat, warm-season
+              deer, life was good&#8212;bellies were filled with meat, fat was rendered,
+              hides scraped, and praise sung to the mighty hunter. But
+              deer hunting success was likely limited: deer are wary and the
+              land probably supported far fewer deer than it does today (more
+              grasslands would have meant fewer browsers like deer). Killing deer with an atlatl-thrown dart is much more of a challenge than  with a high-powered rifle fitted with a telescope.</p>
+            <p><strong>Plants were the dietary mainstay</strong> and women and children would have
+              harvested most of the plants, especially those requiring labor-intensive
+              gathering and processing such as baking plants (prickly pear, lechugilla,
+              sotol, onions and other bulbs and roots). But this stereotypical
+              division of labor masks much  of the food that was eaten. On daily rounds,
+              anyone able and hungry would have been on the lookout for anything
+              easly acquired.</p>
+            <p>While deer supplied an estimated 40-50% of the total meat, the
+              animal bones came from many different critters. Most of them were relatively small
+              animals that  were probably trapped, snared, netted,   or knocked
+              on  the head with a stick, rather than brought down with an atlatl-thrown
+              dart. Rats and rabbits, for instance, were regularly
+              consumed and both were probably targeted with special techniques
+              (such as snaring and netting). But  just as often they were probably dispatched with a rabbit stick or digging stick or a
+              convenient rock when opportunity arose. Rabbits may have been gutted,
+              skinned and quickly roasted. But rabbit bones and fur were consumed
+              and rats didn&rsquo;t seem to require much preparation at all.
+              This suggests that  they were essentially eaten whole&mdash;fur,
+              bones, and all, maybe even including guts.</p>
+            <p>The evidence for this has come from  coprolites, a storehouse of information not only about the types of food eaten, but how it was prepared and even how well it was chewed. Coprolites are full of all sorts of recognizable chunks of animals
+              and plants. They ate many things with very little preparation and
+              not much chewing. </p>
+            <p>Researchers have found that plant fibers  make up most of the volume of almost every Hinds Cave coprolite that has been studied. This
+              assertion begs the obvious question: <strong>how is the volume of each
+              coprolite constituent calculated?</strong> To answer this and explain how
+              the constituents identified, let&rsquo;s take a quick look at the
+              tedious and time-consuming process of the scientific analysis of
+              coprolites. Then we'll consider some of the evidence and look at the results of the first and largest study of Hinds Cave coprolites done by Glenna Williams-Dean.</p>
+            <p>First the analyst &ldquo;rehydrates&rdquo; a measured portion
+              (say 50%) of each coprolite under study. A solvent bath brings
+              the dried lump back to life, so to speak, restoring some of its
+              natural color and its characteristic aroma. Then the softened mass is
+              gently separated into its constituent parts using ultrasonic vibration,
+              different chemical solutions, careful prying, and then screening
+              the residue through a series of nested sieves that separate the
+              small parts into different size groups. These various &ldquo;fractions&rdquo; are
+              then dried and painstakingly separated under a microscope into
+              little piles of like things until everything is sorted. Each pile
+              is then identified and weighed;  these figures are then used to calculate
+              the volume of each constituent.</p>
+            <p>This simplified discussion  glosses over the <strong>biggest challenge: identifying
+              the piles</strong>. Each constituent group&mdash;fibers, seeds, bones, and
+              so on&mdash;must be studied under a microscope, sorted into ever
+              smaller piles of very similar things (a specific type of seed,
+              for instance), and then compared to samples of known materials for positive
+              identification. Extremely tiny constituents like pollen grains
+              are studied by looking at concentrated pollen solutions through
+              high-powered microscopes, sometimes including scanning electron
+              microscopes (SEM). Williams-Dean was fortunate to be studying at
+              Texas A&amp;M University where there are many kinds of specialists
+              and  comparative collections, such as herbariums, where dried
+              plants are systematically stored by species and collection locale.</p>
+            <p>Out of necessity, coprolite analysts become scientific generalists
+              as they learn to identify each constituent group. Sometimes they
+              get help from others. Ken Lord, a  graduate student who studied the animal bones from Hinds Cave, identified those that Williams-Dean picked out of the coprolites. But some
+              materials had to be sent elsewhere for identification help. For
+              instance, animal hair and fur samples were sent to Alberto Vazquez,
+              a specialist at the Food and Drug Administration in Washington
+              D. C. Vazquez identified hairs found in Hinds Cave coprolites as
+              those of rodents, muskrats, rabbits, and carnivores, including
+              that of a coyote or  possibly a domesticated dog.</p>
+            <p> Plant fibers are often
+              hard to positively identify, but seeds are much easier. <strong>Plant seeds are  present
+              in almost all coprolites (98%)</strong>. Cactus seeds of the genus Opuntia
+              were present in 74% of the 100 coprolites studied by Williams-Dean
+              and most of these were from several species of prickly pear as
+              well as pencil cactus. Other common seeds were walnut, persimmon,
+              hackberry, mesquite, yucca, grape, and sotol. The little walnut
+              thrives locally in the canyons and produces very small nuts, rich
+              in fat and protein. The nutmeat, however, is very difficult to
+              separate from the shell. Hinds Cave inhabitants solved this problem
+              by simply smashing the nuts into pieces and downing the pieces,
+              fragmented nutmeat and nutshell alike.</p>
+            <p>Plant skin fragments were also very numerous in the coprolites.
+              Some 70% contained Opuntia skin (mainly prickly pear). The combined
+              evidence of Opuntia fiber, seeds, and skin suggests that <strong>the pads
+              and fruit of prickly pear cactus were a dietary mainstay</strong> and eaten
+              almost every day. Another common plant in the diet was wild onion,
+              38% of the coprolites contained onion skin&mdash;apparently the
+              small wild onions were swallowed whole, probably after they were
+              baked.</p>
+            <p><strong>Animal bones were present in 97% of the examined coprolites.</strong> Some
+              were very small bones, such as those of tiny fish and lizards,
+              but many were sizable. Williams-Dean found  a squirrel femur
+              (leg bone) that was 3 centimeters (1.2 inches) long. Rodent bones
+              were the most common (66%), followed by rabbit bones (20%) and
+              bird bones (12%). The most common rodents in the diet were wood
+              rats and cotton rats, small by street rat standards, but bigger
+              than mice. As proof that rodents were often eaten essentially whole,
+              consider the fact that 47% of the coprolites contained rodent cranial
+              fragments (skull, jaw, or teeth). </p>
+            <p>The bones in the coprolites are mainly those of relatively small
+              species that could be eaten whole or in big chunks, bones and all.
+              Meat from larger animals appears to have been cooked first and
+              then stripped from the bone before eating. We know this because
+              many animal bones were found within the Hinds Cave deposits. Ken
+              Lord&rsquo;s study of almost 25,000 animal bones from the site
+              provides us a different look at the animals they ate.</p>
+            <p>Lord studied the bones recovered through the normal course excavation.
+              Most came from coarse screening fraction captured on 1/4&rdquo; mesh
+              screen, the standard recovery method used in most excavations at
+              Hinds Cave. In Blocks A and B, however, the soil was also passed
+              through fine screens, the smallest being 1/16th-inch mesh screen.
+              This fine screen fraction yielded small bones and bone fragments.
+              Lord chose samples from layers assigned to each of the occupation
+              periods discernable in the Hinds Cave deposits. </p>
+            <p>As an example, let's 
+                review the bones from Analytical Unit 7 the thickest and most extensive
+                stratigraphic unit sampled at Hinds Cave. From this unit, Lord studied 9,046 bones and used standard techniques
+              to calculate the minimum number of individuals (MNI). In this case
+              there were an estimated 428 individual animals. Of these, over
+              half were rodents (58.2%) followed by rabbits (16%), birds (11.4%),
+              carnivores (6.8%), reptiles (4.4%), deer (1.6%) and fish (1.4%).
+              But it would take hundreds of rodents to equal the meat represented
+              by a single deer. So Lord also calculated the useable meat weight
+              represented by each individual animal. Now the patterns start to
+              make more sense. Deer bones account for only 1.6% of the
+              individual animals, but translated to food value, <strong>deer provided  an estimated 42% of the meat  consumed at Hinds Cave</strong>. Small to medium-sized carnivores (such as coyote/dog, gray fox, and ringtail cat) represent
+              another 29.6 % of the meat followed by rabbit (10.1%), rodents
+              (9.8%), birds (4.4%), fish (2.3%), and reptiles (1.5%).</p>
+            <p>Similar kinds of calculations and details are available for the
+              bones and coprolites from later deposits in Hinds Cave, and other
+              kinds of studies from different lines of evidence add even more
+              dietary inferences. For instance, Phil Dering has studied the site&rsquo;s
+              plant macrofossils, meaning the plant remains that are visible
+              to the unaided human eye as chunks of fiber, seeds, leaves, and
+              so on. Summarizing and synthesizing all of the evidence would probably merit a thick scholarly
+              volume. So we will conclude this section with a quick sketch of
+              the Hinds Cave diet about 7,000 years ago (5,000 B.C.).</p>
+            <p>The Hinds Cave diet 7,000 years ago was based on a broad spectrum
+              of locally available plants and animals that changed from season
+              to season and sometimes even day to day. They ate what was available
+              and what they could find. Among the plants, the prickly pear cactus
+              stands out as one of the mainstay plants but dozens of other plants
+              were consumed. Some such as seeds, nuts, and fruit were eaten raw; others, especially
+              the carbohydrate-rich plants, had to be baked for several days. Although the largest
+              share of the meat and animal fat came from deer and small carnivores,
+              rabbits and rats were easier to come by and eaten much more frequently.</p>
+            <p>In sum, the people who frequented Hinds Cave during the Early
+              Archaic period (and later) exemplify the hunting and gathering
+              way of life. <strong>Their lives may have been physically demanding and their diets
+              rough, but they were healthy, physically fit, never obese, and
+              probably quite content to be living a lifestyle that is unfamiliar
+              to us today. </strong>We consider ourselves &ldquo;modern,&rdquo; &ldquo;civilized,&rdquo; and &ldquo;technologically
+              advanced,&rdquo; but perhaps the &ldquo;primitive&rdquo; life at
+              Hinds Cave 7,000 years ago wasn&rsquo;t so inferior. Just different,
+              very different. </p></td>
+        <td width="206" valign="top"><table width="206" border="0">
+          <tr>
+            <td>&nbsp;			  </td>
+          </tr>
+          <tr>
+            <td height="385" class="margintext"><p>
+              <em>More coprolites were recovered from Hinds Cave than any other archeological site in Texas and perhaps North America and beyond. Several hundred coprolites from Hinds Cave have now been studied. Each represents a dietary moment in time, the residue left over from meals and snacks eaten in the several days before the stool was passed. </em></p></td>
+          </tr>
+          <tr>
+            <td height="153">&nbsp; </td>
+          </tr>
+          <tr>
+            <td height="314"><a href="images/Cop81-pp-fiber.html" target="_blank"><img src="images/Cop81-pp-fiber-sm.jpg" alt="Prickly pear fiber from coprolite" width="200" height="217" border="0" class="thumbimg"></a>
+              <div class="caption">Mass of prickly pear fiber from coprolite No. 8. Prickly pear pads appear to have been a dietary mainstay among those who stayed at Hinds Cave. Presumably the pads were baked first to render some of the complex carbohydrates edible, but these plants likely provided more bulk than sustenance. Photo by Williams-Dean.</div></td>
+          </tr>
+          <tr>
+            <td height="538"><a href="images/hc-quids.html" target="_blank"><img src="../plateaus/nature/images/HC-quids-sm.jpg" alt="photo of quid" class="thumbimg"></a>
+              <div class="caption">Many lechuguilla quids&#8212;chewed wads of cooked leaf bases&#8212;were found in the Hinds Cave deposits, particularly at the north end of the site near the "sotol pit." Photo by Phil Dering.</div></td>
+          </tr>
+          <tr>
+            <td height="278"><a href="images/HC75-lizard.html" target="_blank"><img src="images/HC75-lizard-sm.jpg" alt="Lizard " width="200" height="88" border="0" class="thumbimg"></a>
+              <div class="caption">Lizards, like this one hiding in a crevice at Hinds Cave, were eaten regularly by the ancient inhabitants of the cave.  Grab it and gulp. We know this because lizard scales, tails, and bones have been found in the coprolites.   Photo by Phil Williams, TAMU Anthropology archives.</div></td>
+          </tr>
+          <tr>
+            <td height="123">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="230"><a href="images/Grassy-Flat.html" target="_blank"><img src="images/Grassy-Flat-sm.jpg" alt="Artist depiction of a hunting scene on the grassy flat" width="200" height="231" border="0" class="thumbimg"></a><div class="caption">Artist's reconstruction of a rabbit hunting scene in the uplands. Artwork by George Strickland, image courtesy of the Witte Museum.</div></td>
+          </tr>
+          <tr>
+            <td height="230">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="304"><a href="images/SEM-copros.html" target="_blank"><img src="images/SEM-copros-sm.jpg" alt="Plant microfossils seen through a scanning electron microscope" width="200" height="345" border="0" class="thumbimg"></a>
+              <div class="caption">Scanning electron microscope (SEM) images of plant microfossils from the Lower Pecos Canyonlands.  The top image is prickly pear phytolith made of calcium oxylate.  This is an SEM photo and the object is about 5 microns in diameter (1,000 microns = 1 mm).  The lower image is a sotol phytolith.  These are made of calcium oxylate or silica bodies and are formed in plants for various reasons.  They are often found in coprolites and can help us know which plants were eaten.  TAMU Anthropology archives. </div></td>
+          </tr>
+          <tr>
+            <td height="257">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="230"><a href="images/Cop67-fur.html" target="_blank"><img src="images/Cop67-fur-sm.jpg" alt="Rabbit fur from coprolite" width="200" height="188" border="0" class="thumbimg"></a>
+              <div class="caption"> Chunks of rabbit fur from coprolite No. 67 provide further evidence that the peoples of Hinds Cave were none-too-picky about what they ate. Presumably, the fur was attached to a delicious chunk of meat. Photo by Williams-Dean.</div></td>
+          </tr>
+          <tr>
+            <td height="659"><a href="images/HC-little-walnuts.html" target="_blank"><img src="../plateaus/nature/images/HC-little-walnuts-sm.jpg" alt="Walnuts" width="200" height="307" border="0" class="thumbimg"></a><div class="caption"><span class="caption">Charred little walnuts from Hinds Cave.  These tiny nuts are less than 2 cm in diameter (photo scale in centimeters), but are rich in vegetable oil.  Photo by Vaughn M. Bryant.</span></div></td>
+          </tr>
+          <tr>
+            <td height="230"><a href="images/GWD-bones2.html" target="_blank"><img src="images/GWD-bones-sm.jpg" alt="Bones yielded from coprolites" width="200" height="152" border="0" class="thumbimg"></a>
+              <div class="caption"> Animal bones from three coprolites studied by Williams-Dean (click to see all three groups of bones). In the group from coprolite No. 76, the large leg bone on the left is from a ground squirrel and is over an inch long. As is obvious, Hinds Cave occupants ate small animals (perhaps roasted, perhaps not) in big bites, without bothering to pick out the bones. Photo by Williams-Dean.</div></td>
+          </tr>
+          <tr>
+            <td height="202">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="230"><a href="images/Deer-Kerr-TPWD.html" target="_blank"><img src="images/Deer-Kerr-TPWD-sm.jpg" alt="deer" width="200" height="247" border="0" class="thumbimg"></a><div class="caption">Deer; Texas Parks and Wildlife Department.</div></td>
+          </tr>
+          <tr>
+            <td height="563"><a href="images/scaled-quail.html" target="_blank"><img src="images/scaled-quail-sm.jpg" alt="scaled quail" width="200" height="197" border="0" class="thumbimg"></a>
+              <div class="caption">Scaled quail; Texas Parks and Wildlife.</div></td>
+          </tr>
+          <tr>
+            <td height="421"><a href="images/muskrat.html" target="_blank"><img src="images/muskrat-sm.jpg" alt="muskrat" height="224" border="0" class="thumbimg"></a>
+              <div class="caption">Muskrat; U.S. Fish and Wildlife.</div></td>
+          </tr><tr><td height="216" class="margintext"><p>
+              <em>The Hinds Cave diet 7,000 years ago was based on a broad spectrum
+              of locally available plants and animals that changed from season
+              to season and sometimes even day to day.</em></p></td>
+</tr>
+        </table></td>
+      </tr>
+    </table></td></tr>
+  </table>
+<!-- #EndEditable --> 
+   </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Hinds Main</a> 
+				<a href="natural.html">Natural Setting</a> 
+				<a href="climate.html">Paleoclimate</a> 
+              <a href="explore.html">Explore Hinds Archeology</a> 
+			  <a href="artifacts.html">Artifacts </a><br>
+			  <a href="life.html">Life at Hinds </a> 
+			 <a href="kids.html">Kids</a>
+			  <a href="teach.html">Teaching</a>
+			  <a href="credits.html">Credits & Sources</a> </p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" -->30 July 2005 <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

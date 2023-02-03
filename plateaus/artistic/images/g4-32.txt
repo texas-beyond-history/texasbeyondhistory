@@ -1,0 +1,15 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 32 (Kirkland Plate 98)</p><br>
+
+<p><strong>Upper section: Hanging Cave, Paint Canyon.  Copied July 16, 1938.  Scale: Nos. 1-2, 3/8 in. to 1 ft.</strong></p><br>
+
+<p><strong>Lower section: Pecos River, Site 10.  Copied July 18, 1938.  Scale: No. 3, 1/2 in. to 1 ft.</strong></p><br>
+
+
+
+</font>
+
+</BODY></HTML>

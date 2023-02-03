@@ -1,0 +1,24 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 6 (Kirkland Plate 119) TMM 2261-128 </p><br>
+<p><b>Hueco Tanks, Sites 7 and 8. Copied July 17-25, 1939. Scale: Site 8, 3/4" to 1'; Site 7, Nos. 7a-c, 3/8" to 1'; Nos. 7d, 3/4" to 1' </b></p><br>
+<p>Forrest Kirkland wrote: </p><br>
+</font>
+<font size="10">
+
+<p>Site 8. These dim pictures are in a small shelter on the ground level out in front of the main cliff. </p><br>
+
+<p>Site 7-A. These designs are low down on the wall of a very narrow deep crack in the cliff. They are quite dim. </p><br>
+
+<p>Site 7-B and 7-C. These are in small shelters a few yards to the right of 7-A. </p><br>
+
+<p>Site 7-D. This is under an overhang on the ground level above site 8. It is poorly protected and in very bad condition. </p>
+
+
+</font>
+
+
+
+</BODY></HTML>

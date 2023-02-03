@@ -1,0 +1,23 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 10 (Kirkland Plate 123)  TMM 2261-132 </p><br>
+<p><b>Hueco Tanks, Site 13. Copied July 17-25, 1939. Scale: Nos. 13a-f, 3/8" to 1' </b></p><br>
+<p>Forrest Kirkland wrote: </p><br>
+</font>
+<font size="10">
+
+<p>13-A, B, C. These are on the back wall of a small open shelter on the second level, badly exposed to blowing sand. The designs are dim. </p><br>
+<p>13-D, E, F. These are in a small shelter on the ground level which has been badly smoked. </p><br>
+<p>13-D is very dim and had to be reconstructed to some extent. The bottom part had been smeared badly and the top part smoked black. </p><br>
+<p>13-E, the left figure is very dim but the right figure is perfectly clear. </p><br>
+<p>13-F, all of these designs are in bad condition. </p><br>
+<p>13-E fits between the other section with only a foot or so omitted on each side. </p>
+
+
+</font>
+
+
+
+</BODY></HTML>

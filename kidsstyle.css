@@ -1,0 +1,158 @@
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 34px}
+
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold; text-align: center; color: #FFFFFF; vertical-align: middle}
+
+h2 a:link { text-decoration: none}
+h2 a:active { text-decoration: underline}
+h2 a:visited { text-decoration: none}
+h2 a:hover { text-decoration: underline}
+
+.style4 {font-family: Arial, Helvetica, sans-serif; color: #bf5700; }
+
+.style6 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #458324;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.style7 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #458324;
+	font-weight: bold;
+	font-size: 20px;
+}
+.whatsstyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #3333CC;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+.ask {background-color: #bf5700}
+.fun {background-color: #009900}
+.mystery {background-color: #bf5700; color: #fff;}
+.facts {background-color: #FF6600}
+.words {background-color: #FFCC00}
+.links {background-color: #9900CC}
+
+
+h3 {  font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; margin-right: 5px; margin-left: 5px}
+h3 a:link { color: #bf5700}
+h3 a:active { color: #bf5700}
+h3 a:visited { color: #993300}
+h3 a:hover { color: #bf5700}
+
+h4 { font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold; color: #993300; text-align: center; background-color: #FFCC99 }
+
+.caption {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; color: #993300; text-align: center; }
+
+.kidscaption {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; color: #458324; text-align: center; }
+
+p {  margin-right: 5px; margin-left: 5px}
+
+.text {  font-family: Arial, Helvetica, sans-serif; font-size: 18px}
+
+a.text:link { font-size: 20px; font-weight: bold; color: #bf5700}
+a.text:active {font-size: 20px; font-weight: bold; color: #bf5700}
+a.text:visited {font-size: 20px; font-weight: bold;  color: #993300}
+a.text:hover {font-size: 20px ;font-weight: bold; color: #993300}
+
+.foot { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #993300 }
+
+a.foot:link { color: #bf5700; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: none }
+a.foot2:link { color: #D84B06; font-size: 16px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; white-space: nowrap; text-decoration: none }
+a.foot:active {color: #bf5700; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: underline}
+a.foot:visited {color: #bf5700; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: none}
+a.foot:hover {color: #bf5700; font-size: 16px; font-weight: bold; white-space: nowrap; text-decoration: underline}
+
+.red {  color: #bf5700}
+.q {  font-family: Arial, Helvetica, sans-serif; font-size: 34px; color: #bf5700; text-align: center; font-weight: bold}
+.green {  color: #009900}
+.a {  font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: bold; color: #FFFFFF; background-color: #9900CC; text-align: center}
+.purple {  color: #9900CC}
+.thumbimg {  border: 2px #bf5700 solid; margin:5px }
+.thumbimg2 {  border: 2px #CE792F solid; margin:5px }
+hr {  color: #bf5700; width: 780px}
+.blue {  color: #0066CC}
+.orange {  color: #FF9900}
+.brown {  color: #993300}
+
+.margintext {  font-family: Arial, Helvetica, sans-serif; padding:10px; font-size: 20px; color: #000; background-color: #ffe7cf; border: 4px #bf5700 double}
+
+a.margintext:link {color: #bf5700; border: none; text-decoration: none }
+a.margintext:active { color: #bf5700; border: none; text-decoration: underline }
+a.margintext:visited { color: #993300; border: none; text-decoration: none }
+a.margintext:hover { color: #993300; border: none; text-decoration: underline }
+
+.rel {
+	position:relative;
+	margin:10px;
+	height:auto;
+	}
+
+.fr200 {
+	position:relative;
+	float:right;
+	clear:right;
+	width:220px;
+	height:auto;
+	text-align:center;
+}
+
+.fr250 {
+	position:relative;
+	float:right;
+	clear:right;
+	width:270px;
+	height:auto;
+	text-align:center;
+}
+.fr300 {
+	position:relative;
+	float:right;
+	clear:right;
+	width:320px;
+	height:auto;
+	text-align:center;
+}
+.fl200 {
+	position:relative;
+	float:left;
+	clear:left;
+	width:220px;
+	height:auto;
+	text-align:center;
+}
+
+.fl250 {
+	position:relative;
+	float:left;
+	clear:left;
+	width:270px;
+	height:auto;
+	text-align:center;
+}
+.fl300 {
+	position:relative;
+	float:left;
+	clear:left;
+	width:320px;
+	height:auto;
+	text-align:center;
+}
+.seps a{
+	background: url(images/line.gif) no-repeat 0px 2px;
+	padding-left:20px;
+	font-size:14px;
+	white-space:nowrap;
+	background-color:#ffffff;
+}.style57 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	text-decoration: underline;
+}

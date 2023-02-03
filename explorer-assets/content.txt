@@ -1,0 +1,407 @@
+# each site will have the same number of lines
+# (for example if Aldridge Sawmill needs 5 lines, the the rest also need 5 lines)
+# the first line is the site name
+# the second line is the image
+# the third line is the link for the button
+# the fourth line is the x-coordinate for the pin on the map
+# the fifth line is the y-coordinate
+# use this tool to find coordinates: https://inkplant.com/tools/image-coordinates
+# blank lines or lines starting with # will be ignored
+
+#coastline images: 495x448
+
+Aldridge Sawmill
+aldr.png
+/aldridge/
+480
+241
+
+Alibates
+alib.png
+/alibates/
+191
+57
+
+Arenosa Shelter
+aren.png
+/arenosa/
+194
+272
+
+Bonfire Shelter
+bonf.png
+/bonfire/
+183
+276
+
+Brownsville-Barril
+brow.png
+/brownsville/
+358
+435
+
+Buried City
+buri.png
+/villagers/buriedcity/
+227
+14
+
+Camp Bowie
+cabo.png
+/bowie/
+307
+192
+
+Camp Ford
+camf.png
+/ford/
+449
+172
+
+Ceremonial Cave
+cere.png
+/ceremonial/
+15
+193
+
+Choke Canyon
+chok.png
+/choke/
+318
+327
+
+Cueva Pilote
+pilo.png
+/pilote/
+157
+308
+
+El Paso
+paso.png
+/paso/
+9
+200
+
+Espíritu Santo
+espi.png
+/espiritu/
+361
+318
+
+Falcon
+falc.png
+/falcon/
+297
+410
+
+Firecracker Pueblo
+fire.png
+/firecracker/
+0
+193
+
+Fort Clark
+ftcl.png
+/forts/clark/
+240
+293
+
+Fort Davis
+ftda.png
+/forts/davis/
+96
+239
+
+Fort Griffin
+ftgr.png
+/forts/griffin/
+291
+158
+
+Fort St. Louis
+ftst.png
+/stlouis/
+397
+320
+
+Fort McKavett
+ftmc.png
+/forts/mckavett/
+257
+255
+
+Gateway Missions
+gate.png
+/gateway/
+232
+329
+
+Gault
+gaul.png
+/gault/
+333
+222
+
+Gilbert
+gilb.png
+/gilbert/
+418
+140
+
+Graham-Applegate
+grah.png
+/graham/
+299
+236
+
+Granado Cave
+gran.png
+/granado/
+113
+212
+
+Guadalupe Bay
+guad.png
+/guadbay/
+385
+336
+
+Guy Town
+guyt.png
+/guytown/
+337
+256
+
+Hank's House
+hank.png
+/villagers/hank1/
+227
+27
+
+Harrell
+harr.png
+/harrell/
+306
+142
+
+Haas
+haas.png
+/haas/
+310
+250
+
+Hendrick and Ware
+hend.png
+/rusk/
+470
+177
+
+Hinds Cave
+hind.jpg
+/hinds/
+200
+261
+
+Hinojosa
+hino.png
+/hinojosa/
+331
+359
+
+Honey Creek
+hone.jpg
+/honey/
+284
+229
+
+Horn Shelter
+horn.png
+/horn/
+337
+195
+
+Hueco Tanks
+huec.png
+/hueco/
+23
+195
+
+JB White
+jbwh.png
+/jbwhite/
+371
+229
+
+Kincaid
+kinc.png
+/kincaid/
+270
+285
+
+La Junta
+junta.png
+/junta/
+87
+289
+
+Lake Jackson
+lake.png
+/jackson/
+429
+315
+
+Landis Project
+land.png
+/landis/
+177
+42
+
+Los Adaes
+adae.png
+/adaes/
+510
+202
+
+Lower Pecos
+lowe.png
+/pecos/
+206
+276
+
+Lubbock Lake
+lubb.png
+/lubbock/
+181
+139
+
+Madera Quemada
+made.png
+/madera/
+18
+166
+
+McFaddin Beach
+mcfa.png
+/mcfaddin/
+486
+285
+
+McKinney Roughs
+mckn.png
+/mckinney/
+349
+270
+
+Mission Dolores
+dolo.png
+/dolores/
+486
+207
+
+Mission San Sabá
+sans.png
+/sansaba/
+256
+234
+
+Mitchell Ridge
+mitc.png
+/mitchell/
+455
+297
+
+Morhiss Mound
+morh.png
+/morhiss/
+372
+327
+
+Naconiche
+naco.png
+/naconiche/
+471
+199
+
+Nasoni
+naso.png
+/nasoni/
+470
+124
+
+Osborn Farm
+osbo.png
+/osborn/
+363
+284
+
+Pavo Real
+pavo.png
+/pavoreal/
+311
+278
+
+Pine Tree Mound
+pine.png
+/pine/
+476
+166
+
+Presidio San Sabá
+pres.png
+/presidio/
+244
+223
+
+Red River War
+redr.png
+/redriver/
+219
+86
+
+Richard Beene
+been.png
+/beene/
+299
+288
+
+Rubin-Hancock
+rubi.png
+/rubin/
+337
+246
+
+Sha'chahdínnih
+shac.png
+/timberhill/
+480
+148
+
+The Belle
+bell.png
+/belle/
+400
+331
+
+Varga
+varga.png
+/varga/
+211
+261
+
+Waco Lake
+waco.png
+/waco/
+344
+210
+
+Wax Camps
+waxc.png
+/waxcamps/
+127
+303
+
+Williams Farm
+will.png
+/ransom/
+331
+261

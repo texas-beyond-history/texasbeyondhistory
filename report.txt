@@ -1,0 +1,750 @@
+sending incremental file list
+waco/
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/vborder_gray_shadow.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/vborder_blue_shadow.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/hborder_gray_shadow.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/hborder_blue_shadow.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/corner_dialog_topright.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/corner_dialog_topleft.png
+deleting waco/waco/version2/waco/gwt/standard/images/ie6/
+deleting waco/waco/version2/waco/gwt/standard/images/vborder_ie6.png
+deleting waco/waco/version2/waco/gwt/standard/images/vborder.png
+deleting waco/waco/version2/waco/gwt/standard/images/hborder_ie6.png
+deleting waco/waco/version2/waco/gwt/standard/images/hborder.png
+deleting waco/waco/version2/waco/gwt/standard/images/corner_ie6.png
+deleting waco/waco/version2/waco/gwt/standard/images/corner.png
+deleting waco/waco/version2/waco/gwt/standard/images/
+deleting waco/waco/version2/waco/gwt/standard/standard_rtl.css
+deleting waco/waco/version2/waco/gwt/standard/standard.css
+deleting waco/waco/version2/waco/gwt/standard/
+deleting waco/waco/version2/waco/gwt/
+deleting waco/waco/version2/waco/waco.nocache.js
+deleting waco/waco/version2/waco/hosted.html
+deleting waco/waco/version2/waco/clear.cache.gif
+deleting waco/waco/version2/waco/F82E2285FDD6D3B0728705A40F88654B.cache.html
+deleting waco/waco/version2/waco/BAD66A1CC8C30DBA0607EC0267EE1529.cache.html
+deleting waco/waco/version2/waco/B8517E9C2E38AA39AB7C0051564224D3.cache.png
+deleting waco/waco/version2/waco/A7CD51F9E5A7DED5F85AD1D82BA67A8A.cache.png
+deleting waco/waco/version2/waco/9DA92932034707C17CFF15F95086D53F.cache.png
+deleting waco/waco/version2/waco/81729AAAE880EAFB135F7DCAAF8B7809.cache.html
+deleting waco/waco/version2/waco/548CDF11D6FE9011F3447CA200D7FB7F.cache.png
+deleting waco/waco/version2/waco/52E76D7F7BB9C12019E9DC53DCF3EFDB.cache.html
+deleting waco/waco/version2/waco/14A43CD7E24B0A0136C2B8B20D6DF3C0.cache.png
+deleting waco/waco/version2/waco/0CB1126000BA9D455E86EE5CC1DD08DE.cache.html
+deleting waco/waco/version2/waco/
+deleting waco/waco/version2/WEB-INF/lib/gwt-servlet.jar
+deleting waco/waco/version2/WEB-INF/lib/
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/server/GreetingServiceImpl.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/server/
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/Waco.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/Waco$1MyHandler.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/Waco$1MyHandler$1.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/GreetingServiceAsync.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/GreetingService.class
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/client/
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/Waco.gwt.xml
+deleting waco/waco/version2/WEB-INF/classes/com/waco/interactive/
+deleting waco/waco/version2/WEB-INF/classes/com/waco/
+deleting waco/waco/version2/WEB-INF/classes/com/
+deleting waco/waco/version2/WEB-INF/classes/
+deleting waco/waco/version2/WEB-INF/web.xml
+deleting waco/waco/version2/WEB-INF/
+deleting waco/waco/version2/waco_style.css
+deleting waco/waco/version2/interactive.html
+deleting waco/waco/version2/imageMap.css
+deleting waco/waco/version2/
+deleting waco/waco/revised-investigations-rollover/investigations.html
+deleting waco/waco/revised-investigations-rollover/image-map.css
+deleting waco/waco/revised-investigations-rollover/
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/vborder_gray_shadow.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/vborder_blue_shadow.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/hborder_gray_shadow.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/hborder_blue_shadow.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/corner_dialog_topright.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/corner_dialog_topleft.png
+deleting waco/waco/interactive/waco/gwt/standard/images/ie6/
+deleting waco/waco/interactive/waco/gwt/standard/images/vborder_ie6.png
+deleting waco/waco/interactive/waco/gwt/standard/images/vborder.png
+deleting waco/waco/interactive/waco/gwt/standard/images/hborder_ie6.png
+deleting waco/waco/interactive/waco/gwt/standard/images/hborder.png
+deleting waco/waco/interactive/waco/gwt/standard/images/corner_ie6.png
+deleting waco/waco/interactive/waco/gwt/standard/images/corner.png
+deleting waco/waco/interactive/waco/gwt/standard/images/
+deleting waco/waco/interactive/waco/gwt/standard/standard_rtl.css
+deleting waco/waco/interactive/waco/gwt/standard/standard.css
+deleting waco/waco/interactive/waco/gwt/standard/
+deleting waco/waco/interactive/waco/gwt/
+deleting waco/waco/interactive/waco/waco.nocache.js
+deleting waco/waco/interactive/waco/hosted.html
+deleting waco/waco/interactive/waco/clear.cache.gif
+deleting waco/waco/interactive/waco/F5469F0B7760521117CFBC45795569D4.cache.html
+deleting waco/waco/interactive/waco/D7E5C462D717B3B49C735F2E37E29638.cache.html
+deleting waco/waco/interactive/waco/B8517E9C2E38AA39AB7C0051564224D3.cache.png
+deleting waco/waco/interactive/waco/A7CD51F9E5A7DED5F85AD1D82BA67A8A.cache.png
+deleting waco/waco/interactive/waco/9DA92932034707C17CFF15F95086D53F.cache.png
+deleting waco/waco/interactive/waco/8E13FB509AFE363F9713378144180FF9.cache.html
+deleting waco/waco/interactive/waco/80AB72C7575964FD027E5E1103EB84C0.cache.html
+deleting waco/waco/interactive/waco/5D8AEBEAD6B076591A6E3D3F3AB8AE8D.cache.html
+deleting waco/waco/interactive/waco/548CDF11D6FE9011F3447CA200D7FB7F.cache.png
+deleting waco/waco/interactive/waco/14A43CD7E24B0A0136C2B8B20D6DF3C0.cache.png
+deleting waco/waco/interactive/waco/
+deleting waco/waco/interactive/WEB-INF/lib/jdo2-api-2.3-SNAPSHOT.jar
+deleting waco/waco/interactive/WEB-INF/lib/gwt-servlet.jar
+deleting waco/waco/interactive/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar
+deleting waco/waco/interactive/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar
+deleting waco/waco/interactive/WEB-INF/lib/datanucleus-jpa-1.1.0.jar
+deleting waco/waco/interactive/WEB-INF/lib/datanucleus-core-1.1.0.jar
+deleting waco/waco/interactive/WEB-INF/lib/datanucleus-appengine-1.0.1.final.jar
+deleting waco/waco/interactive/WEB-INF/lib/appengine-api-1.0-sdk-1.2.1.jar
+deleting waco/waco/interactive/WEB-INF/lib/
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/server/GreetingServiceImpl.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/server/
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/Waco.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/Waco$1MyHandler.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/Waco$1MyHandler$1.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/GreetingServiceAsync.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/GreetingService.class
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/client/
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/Waco.gwt.xml
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/interactive/
+deleting waco/waco/interactive/WEB-INF/classes/com/waco/
+deleting waco/waco/interactive/WEB-INF/classes/com/
+deleting waco/waco/interactive/WEB-INF/classes/META-INF/jdoconfig.xml
+deleting waco/waco/interactive/WEB-INF/classes/META-INF/
+deleting waco/waco/interactive/WEB-INF/classes/log4j.properties
+deleting waco/waco/interactive/WEB-INF/classes/
+deleting waco/waco/interactive/WEB-INF/web.xml
+deleting waco/waco/interactive/WEB-INF/logging.properties
+deleting waco/waco/interactive/WEB-INF/appengine-web.xml
+deleting waco/waco/interactive/WEB-INF/
+deleting waco/waco/interactive/waco_style.css
+deleting waco/waco/interactive/print.css
+deleting waco/waco/interactive/interactive.html
+deleting waco/waco/interactive/index.html
+deleting waco/waco/interactive/imageMap.css
+deleting waco/waco/interactive/._print.css
+deleting waco/waco/interactive/._interactive.html
+deleting waco/waco/interactive/._index.html
+deleting waco/waco/interactive/._imageMap.css
+deleting waco/waco/interactive/
+deleting waco/waco/images/js/themes/light/prev.png
+deleting waco/waco/images/js/themes/light/prev.gif
+deleting waco/waco/images/js/themes/light/pointer.png
+deleting waco/waco/images/js/themes/light/pointer-down.png
+deleting waco/waco/images/js/themes/light/panel-nav-prev.png
+deleting waco/waco/images/js/themes/light/panel-nav-prev.gif
+deleting waco/waco/images/js/themes/light/panel-nav-next.png
+deleting waco/waco/images/js/themes/light/panel-nav-next.gif
+deleting waco/waco/images/js/themes/light/next.png
+deleting waco/waco/images/js/themes/light/next.gif
+deleting waco/waco/images/js/themes/light/
+deleting waco/waco/images/js/themes/dark/prev.png
+deleting waco/waco/images/js/themes/dark/prev.gif
+deleting waco/waco/images/js/themes/dark/pointer.png
+deleting waco/waco/images/js/themes/dark/pointer-down.png
+deleting waco/waco/images/js/themes/dark/panel-nav-prev.png
+deleting waco/waco/images/js/themes/dark/panel-nav-prev.gif
+deleting waco/waco/images/js/themes/dark/panel-nav-next.png
+deleting waco/waco/images/js/themes/dark/panel-nav-next.gif
+deleting waco/waco/images/js/themes/dark/next.png
+deleting waco/waco/images/js/themes/dark/next.gif
+deleting waco/waco/images/js/themes/dark/
+deleting waco/waco/images/js/themes/
+deleting waco/waco/images/js/loader.gif
+deleting waco/waco/images/js/js.js
+deleting waco/waco/images/js/jquery.timers-1.1.2.js
+deleting waco/waco/images/js/jquery.galleryview-2.0.js
+deleting waco/waco/images/js/jquery.galleryview-2.0-pack.js
+deleting waco/waco/images/js/jquery.galleryview-1.1.js
+deleting waco/waco/images/js/jquery.easing.1.3.js
+deleting waco/waco/images/js/galleryview.css
+deleting waco/waco/images/js/Thumbs.db
+deleting waco/waco/images/js/
+deleting waco/waco/images/woodcombo.jpg
+deleting waco/waco/images/woodcombo.html
+deleting waco/waco/images/woodcombo-sm.jpg
+deleting waco/waco/images/wood_page.html
+deleting waco/waco/images/wood.jpg
+deleting waco/waco/images/wood-weir.jpg
+deleting waco/waco/images/wood-weir.html
+deleting waco/waco/images/wood-weir-sm.jpg
+deleting waco/waco/images/wood-sm.jpg
+deleting waco/waco/images/wood-icon.jpg
+deleting waco/waco/images/wood-icon.html
+deleting waco/waco/images/women.jpg
+deleting waco/waco/images/women.html
+deleting waco/waco/images/women-sm.jpg
+deleting waco/waco/images/weir-painting.jpg
+deleting waco/waco/images/weir-painting-labeled.jpg
+deleting waco/waco/images/wacotimeline.swf
+deleting waco/waco/images/wacotimeline.html
+deleting waco/waco/images/waco_style.css
+deleting waco/waco/images/waco-timeline2.jpg
+deleting waco/waco/images/waco-timeline1.jpg
+deleting waco/waco/images/waco-lake-kibler.jpg
+deleting waco/waco/images/waco-lake-kibler.html
+deleting waco/waco/images/waco-lake-kibler-sm.jpg
+deleting waco/waco/images/three-ridge.jpg
+deleting waco/waco/images/three-ridge.html
+deleting waco/waco/images/three-ridge-sm.jpg
+deleting waco/waco/images/textbox.html
+deleting waco/waco/images/table-7-rev.jpg
+deleting waco/waco/images/table-7-rev.html
+deleting waco/waco/images/table-7-rev-sm.jpg
+deleting waco/waco/images/structure.jpg
+deleting waco/waco/images/structure.html
+deleting waco/waco/images/structure-sm.jpg
+deleting waco/waco/images/stonetool.jpg
+deleting waco/waco/images/stonetool-sm.jpg
+deleting waco/waco/images/stone_page.html
+deleting waco/waco/images/stone-weir.jpg
+deleting waco/waco/images/stone-weir.html
+deleting waco/waco/images/stone-weir-sm.jpg
+deleting waco/waco/images/stone-icon.jpg
+deleting waco/waco/images/stage5.jpg
+deleting waco/waco/images/stage5.html
+deleting waco/waco/images/stage5-sm.jpg
+deleting waco/waco/images/spiral-fractures.jpg
+deleting waco/waco/images/spiral-fractures.html
+deleting waco/waco/images/spiral-fractures-sm.jpg
+deleting waco/waco/images/scene-locations.jpg
+deleting waco/waco/images/rocks.html
+deleting waco/waco/images/resharpen-stages.jpg
+deleting waco/waco/images/resharpen-stages.html
+deleting waco/waco/images/resharpen-stages-sm.jpg
+deleting waco/waco/images/research.html
+deleting waco/waco/images/research-thumbnail2.jpg
+deleting waco/waco/images/research-thumbnail.jpg
+deleting waco/waco/images/research-new.html
+deleting waco/waco/images/research-icon.jpg
+deleting waco/waco/images/research-icon-new.jpg
+deleting waco/waco/images/report-cover.jpg
+deleting waco/waco/images/report-cover-sm.jpg
+deleting waco/waco/images/project-area.jpg
+deleting waco/waco/images/project-area.html
+deleting waco/waco/images/project-area-sm.jpg
+deleting waco/waco/images/population.html
+deleting waco/waco/images/population-thumbnail2.jpg
+deleting waco/waco/images/population-thumbnail.jpg
+deleting waco/waco/images/population-icon-new1.jpg
+deleting waco/waco/images/points.tif
+deleting waco/waco/images/points-sm.jpg
+deleting waco/waco/images/plants.jpg
+deleting waco/waco/images/plants-weir.jpg
+deleting waco/waco/images/plants-weir.html
+deleting waco/waco/images/plants-weir-sm.jpg
+deleting waco/waco/images/plants-sm.jpg
+deleting waco/waco/images/plants-icon-top.jpg
+deleting waco/waco/images/plants-icon-top.html
+deleting waco/waco/images/plant_page.html
+deleting waco/waco/images/pecan-swd.jpg
+deleting waco/waco/images/pecan-swd.html
+deleting waco/waco/images/pecan-swd-sm.jpg
+deleting waco/waco/images/patterns-whelk.jpg
+deleting waco/waco/images/patterns-whelk-gouge.jpg
+deleting waco/waco/images/patterns-weights.jpg
+deleting waco/waco/images/patterns-weapons.jpg
+deleting waco/waco/images/patterns-tools1.jpg
+deleting waco/waco/images/patterns-tools1-sm.jpg
+deleting waco/waco/images/patterns-shellworking.jpg
+deleting waco/waco/images/patterns-scene.jpg
+deleting waco/waco/images/patterns-scene-sm.jpg
+deleting waco/waco/images/patterns-pottery.jpg
+deleting waco/waco/images/patterns-points.jpg
+deleting waco/waco/images/patterns-points-sm.jpg
+deleting waco/waco/images/patterns-ornaments3.jpg
+deleting waco/waco/images/patterns-ornaments2.jpg
+deleting waco/waco/images/patterns-ornaments1.jpg
+deleting waco/waco/images/patterns-midden.jpg
+deleting waco/waco/images/patterns-gathering.jpg
+deleting waco/waco/images/patterns-fish.jpg
+deleting waco/waco/images/patterns-deer2.jpg
+deleting waco/waco/images/patterns-deer2-sm.jpg
+deleting waco/waco/images/patterns-deer1.jpg
+deleting waco/waco/images/patterns-deer1-sm.jpg
+deleting waco/waco/images/patterns-canoes.jpg
+deleting waco/waco/images/patterns-baskets.jpg
+deleting waco/waco/images/paired-features.jpg
+deleting waco/waco/images/paired-features.html
+deleting waco/waco/images/paired-features-sm.jpg
+deleting waco/waco/images/new-patterns-whelk-gouge-sm.jpg
+deleting waco/waco/images/new-patterns-tools1-sm.jpg
+deleting waco/waco/images/mussel_page.html
+deleting waco/waco/images/mussel.jpg
+deleting waco/waco/images/mussel.html
+deleting waco/waco/images/mussel-weir.jpg
+deleting waco/waco/images/mussel-weir.html
+deleting waco/waco/images/mussel-weir-sm.jpg
+deleting waco/waco/images/mussel-sm.jpg
+deleting waco/waco/images/mussel-shell-lens.jpg
+deleting waco/waco/images/mussel-shell-lens.html
+deleting waco/waco/images/mussel-shell-lens-sm.jpg
+deleting waco/waco/images/mussel-icon-top.jpg
+deleting waco/waco/images/mehalchick.jpg
+deleting waco/waco/images/mcmillan.html
+deleting waco/waco/images/mcmillan-old.html
+deleting waco/waco/images/localities.jpg
+deleting waco/waco/images/lake-modern1.jpg
+deleting waco/waco/images/kibler..jpg
+deleting waco/waco/images/investigations_redmap.jpg
+deleting waco/waco/images/investigations_redmap-new.jpg
+deleting waco/waco/images/investigations-map1.jpg
+deleting waco/waco/images/investigations-explore-map3.jpg
+deleting waco/waco/images/investigations-explore-map.jpg
+deleting waco/waco/images/index-icon_1.jpg
+deleting waco/waco/images/imageMap.css
+deleting waco/waco/images/image-map.css
+deleting waco/waco/images/higginbotham.html
+deleting waco/waco/images/groundnut.jpg
+deleting waco/waco/images/groundnut.html
+deleting waco/waco/images/groundnut-tuber-ML195.jpg
+deleting waco/waco/images/groundnut-tuber-ML195.html
+deleting waco/waco/images/groundnut-tuber-ML195-sm.jpg
+deleting waco/waco/images/groundnut-sm.jpg
+deleting waco/waco/images/followwaco.jpg
+deleting waco/waco/images/fig9-stone.jpg
+deleting waco/waco/images/fig9-stone.html
+deleting waco/waco/images/fig9-stone-sm.jpg
+deleting waco/waco/images/fig9-6.jpg
+deleting waco/waco/images/fig9-6.html
+deleting waco/waco/images/fig9-6-sm.jpg
+deleting waco/waco/images/fig8-8.jpg
+deleting waco/waco/images/fig8-8.html
+deleting waco/waco/images/fig8-8-sm.jpg
+deleting waco/waco/images/fig8-8-rev.jpg
+deleting waco/waco/images/fig8-5.jpg
+deleting waco/waco/images/fig8-5.html
+deleting waco/waco/images/fig8-5-sm.jpg
+deleting waco/waco/images/fig8-4.jpg
+deleting waco/waco/images/fig8-4.html
+deleting waco/waco/images/fig8-4-sm.jpg
+deleting waco/waco/images/fig8-20.jpg
+deleting waco/waco/images/fig8-20.html
+deleting waco/waco/images/fig8-20-sm.jpg
+deleting waco/waco/images/fig8-15.jpg
+deleting waco/waco/images/fig8-15.html
+deleting waco/waco/images/fig8-15-sm.jpg
+deleting waco/waco/images/fig8-11.jpg
+deleting waco/waco/images/fig8-11.html
+deleting waco/waco/images/fig8-11-sm.jpg
+deleting waco/waco/images/fig7-36.jpg
+deleting waco/waco/images/fig7-36.html
+deleting waco/waco/images/fig7-36-sm.jpg
+deleting waco/waco/images/fig7-34.html
+deleting waco/waco/images/fig7-34-sm.jpg
+deleting waco/waco/images/fig7-34-rev.jpg
+deleting waco/waco/images/fig7-27.html
+deleting waco/waco/images/fig7-27-sm.jpg
+deleting waco/waco/images/fig7-27-rev.jpg
+deleting waco/waco/images/fig7-21.jpg
+deleting waco/waco/images/fig7-21.html
+deleting waco/waco/images/fig7-21-sm.jpg
+deleting waco/waco/images/fig7-13.jpg
+deleting waco/waco/images/fig7-13.html
+deleting waco/waco/images/fig7-13-sm.jpg
+deleting waco/waco/images/fig7-11.jpg
+deleting waco/waco/images/fig7-11.html
+deleting waco/waco/images/fig7-11-sm.jpg
+deleting waco/waco/images/fig6-9.jpg
+deleting waco/waco/images/fig6-9.html
+deleting waco/waco/images/fig6-9-sm.jpg
+deleting waco/waco/images/fig6-32.jpg
+deleting waco/waco/images/fig6-32.html
+deleting waco/waco/images/fig6-32-sm.jpg
+deleting waco/waco/images/fig6-18.jpg
+deleting waco/waco/images/fig6-18.html
+deleting waco/waco/images/fig6-18-sm.jpg
+deleting waco/waco/images/fig6-11.jpg
+deleting waco/waco/images/fig6-11.html
+deleting waco/waco/images/fig6-10.jpg
+deleting waco/waco/images/fig6-10.html
+deleting waco/waco/images/fig6-10-sm.jpg
+deleting waco/waco/images/fig4-1-rev2.jpg
+deleting waco/waco/images/fig4-1-rev2.html
+deleting waco/waco/images/fig3-1.jpg
+deleting waco/waco/images/fig3-1.html
+deleting waco/waco/images/fig3-1-sm.jpg
+deleting waco/waco/images/fieldwork.html
+deleting waco/waco/images/fieldwork-thumbnail3.jpg
+deleting waco/waco/images/fieldwork-thumbnail2.jpg
+deleting waco/waco/images/fieldwork-thumbnail1.jpg
+deleting waco/waco/images/fieldwork-thumbnail.jpg
+deleting waco/waco/images/fields.jpg
+deleting waco/waco/images/features1.html
+deleting waco/waco/images/features.html
+deleting waco/waco/images/feature-thumbnail2.jpg
+deleting waco/waco/images/feature-thumbnail.jpg
+deleting waco/waco/images/feature-stain.jpg
+deleting waco/waco/images/feature-stain.html
+deleting waco/waco/images/feature-stain-sm.jpg
+deleting waco/waco/images/feature-shell.jpg
+deleting waco/waco/images/feature-shell.html
+deleting waco/waco/images/feature-shell-sm.jpg
+deleting waco/waco/images/feature-rockless.jpg
+deleting waco/waco/images/feature-rockless.html
+deleting waco/waco/images/feature-rockless-sm.jpg
+deleting waco/waco/images/feature-flat.jpg
+deleting waco/waco/images/feature-flat.html
+deleting waco/waco/images/feature-flat-sm.jpg
+deleting waco/waco/images/feature-discard.jpg
+deleting waco/waco/images/feature-discard.html
+deleting waco/waco/images/feature-discard-sm.jpg
+deleting waco/waco/images/feature-block.jpg
+deleting waco/waco/images/feature-block.html
+deleting waco/waco/images/feature-block-sm.jpg
+deleting waco/waco/images/feature-basin.jpg
+deleting waco/waco/images/feature-basin.html
+deleting waco/waco/images/feature-basin-sm.jpg
+deleting waco/waco/images/fallen-tree-swd.jpg
+deleting waco/waco/images/fallen-tree-swd.html
+deleting waco/waco/images/fallen-tree-swd-sm.jpg
+deleting waco/waco/images/dyson-smith.jpg
+deleting waco/waco/images/dyson-smith.html
+deleting waco/waco/images/diet_breadth.html
+deleting waco/waco/images/deer_page.html
+deleting waco/waco/images/deer1.jpg
+deleting waco/waco/images/deer1.html
+deleting waco/waco/images/deer1-sm.jpg
+deleting waco/waco/images/deer-weir.jpg
+deleting waco/waco/images/deer-weir.html
+deleting waco/waco/images/deer-weir-sm.jpg
+deleting waco/waco/images/deer-sm.jpg
+deleting waco/waco/images/deer-icon.jpg
+deleting waco/waco/images/deer-TPWD.jpg
+deleting waco/waco/images/deer-TPWD.html
+deleting waco/waco/images/deer-TPWD-sm.jpg
+deleting waco/waco/images/close.gif
+deleting waco/waco/images/camera-button-sm.jpg
+deleting waco/waco/images/camera-button-ro-sm.jpg
+deleting waco/waco/images/camera-button-enlarge-sm.jpg
+deleting waco/waco/images/camera-button-enlarge-ro-sm.jpg
+deleting waco/waco/images/camas-flower.jpg
+deleting waco/waco/images/camas-flower.html
+deleting waco/waco/images/camas-depth.html
+deleting waco/waco/images/camas-bulbs.jpg
+deleting waco/waco/images/camas-bulbs.html
+deleting waco/waco/images/camas-bulbs-ML162.jpg
+deleting waco/waco/images/camas-bulbs-ML162.html
+deleting waco/waco/images/camas-bulbs-ML162-sm.jpg
+deleting waco/waco/images/britton.html
+deleting waco/waco/images/bosque.html
+deleting waco/waco/images/bosque-map-rev1.jpg
+deleting waco/waco/images/bosque-map-rev.jpg
+deleting waco/waco/images/bosque-map-rev.html
+deleting waco/waco/images/bosque-kk.jpg
+deleting waco/waco/images/bosque-kk.html
+deleting waco/waco/images/bosque-kk-sm.jpg
+deleting waco/waco/images/bosque-chert.jpg
+deleting waco/waco/images/bosque-chert.html
+deleting waco/waco/images/bosque-chert-sm.jpg
+deleting waco/waco/images/Thumbs.db
+deleting waco/waco/images/ML37-workers.jpg
+deleting waco/waco/images/ML37-workers.html
+deleting waco/waco/images/ML37-workers-sm.jpg
+deleting waco/waco/images/ML37-vertebrae.jpg
+deleting waco/waco/images/ML37-vertebrae.html
+deleting waco/waco/images/ML37-vertebrae-sm.jpg
+deleting waco/waco/images/ML37-shell.jpg
+deleting waco/waco/images/ML37-shell.html
+deleting waco/waco/images/ML37-shell-sm.jpg
+deleting waco/waco/images/ML37-godley.jpg
+deleting waco/waco/images/ML37-godley.html
+deleting waco/waco/images/ML37-feat18.jpg
+deleting waco/waco/images/ML37-feat18.html
+deleting waco/waco/images/ML37-feat18-sm.jpg
+deleting waco/waco/images/ML37-feat-60.jpg
+deleting waco/waco/images/ML37-feat-60.html
+deleting waco/waco/images/ML37-feat-60-sm.jpg
+deleting waco/waco/images/ML37-excavated-block.jpg
+deleting waco/waco/images/ML37-excavated-block.html
+deleting waco/waco/images/ML37-excavated-block-sm.jpg
+deleting waco/waco/images/ML37-block2.jpg
+deleting waco/waco/images/ML37-block2.html
+deleting waco/waco/images/ML37-block2-sm.jpg
+deleting waco/waco/images/ML37-block.jpg
+deleting waco/waco/images/ML37-block.html
+deleting waco/waco/images/ML37-block-sm.jpg
+deleting waco/waco/images/ML37-C39.jpg
+deleting waco/waco/images/ML37-C39.html
+deleting waco/waco/images/ML37-C39-sm.jpg
+deleting waco/waco/images/ML195-shell-f16.jpg
+deleting waco/waco/images/ML195-shell-f16.html
+deleting waco/waco/images/ML195-shell-f16-sm.jpg
+deleting waco/waco/images/ML195-feat16.jpg
+deleting waco/waco/images/ML195-feat16.html
+deleting waco/waco/images/ML195-feat16-sm.jpg
+deleting waco/waco/images/ML195-block.jpg
+deleting waco/waco/images/ML195-block.html
+deleting waco/waco/images/ML195-block-sm.jpg
+deleting waco/waco/images/ML162-feat43.jpg
+deleting waco/waco/images/ML162-feat43.html
+deleting waco/waco/images/ML162-feat43-sm.jpg
+deleting waco/waco/images/ML162-block.jpg
+deleting waco/waco/images/ML162-block.html
+deleting waco/waco/images/ML162-block-sm.jpg
+deleting waco/waco/images/Figure6-2.jpg
+deleting waco/waco/images/Figure6-2.html
+deleting waco/waco/images/Figure6-2-sm.jpg
+deleting waco/waco/images/Deer.jpg
+deleting waco/waco/images/Camas-depth.jpg
+deleting waco/waco/images/
+deleting waco/waco/what.html
+deleting waco/waco/investigations.html
+deleting waco/waco/index.html
+deleting waco/waco/credits.html
+deleting waco/waco/beyond.html
+deleting waco/waco/Picture clipping.pictClipping
+deleting waco/waco/
+deleting waco/test.txt
+deleting waco/investigations-new.html
+waco/beyond.html
+      24.14K 100%    0.00kB/s    0:00:00      24.14K 100%    0.00kB/s    0:00:00 (xfer#1, to-check=492/495)
+waco/credits.html
+      23.89K 100%   22.78MB/s    0:00:00      23.89K 100%   22.78MB/s    0:00:00 (xfer#2, to-check=491/495)
+waco/index.html
+      24.94K 100%   11.89MB/s    0:00:00      24.94K 100%   11.89MB/s    0:00:00 (xfer#3, to-check=490/495)
+waco/investigations.html
+       5.66K 100%    2.70MB/s    0:00:00       5.66K 100%    2.70MB/s    0:00:00 (xfer#4, to-check=489/495)
+waco/what.html
+       5.26K 100%    2.51MB/s    0:00:00       5.26K 100%    2.51MB/s    0:00:00 (xfer#5, to-check=488/495)
+waco/images/
+waco/images/Figure6-2.html
+       1.21K 100%  395.18kB/s    0:00:00       1.21K 100%  395.18kB/s    0:00:00 (xfer#6, to-check=480/495)
+waco/images/ML162-block.html
+       1.07K 100%  347.01kB/s    0:00:00       1.07K 100%  347.01kB/s    0:00:00 (xfer#7, to-check=477/495)
+waco/images/ML162-feat43.html
+       1.33K 100%  431.97kB/s    0:00:00       1.33K 100%  431.97kB/s    0:00:00 (xfer#8, to-check=474/495)
+waco/images/ML195-block.html
+       1.08K 100%  351.24kB/s    0:00:00       1.08K 100%  351.24kB/s    0:00:00 (xfer#9, to-check=471/495)
+waco/images/ML195-feat16.html
+       1.20K 100%  390.95kB/s    0:00:00       1.20K 100%  390.95kB/s    0:00:00 (xfer#10, to-check=468/495)
+waco/images/ML195-shell-f16.html
+       1.29K 100%  419.60kB/s    0:00:00       1.29K 100%  419.60kB/s    0:00:00 (xfer#11, to-check=465/495)
+waco/images/ML37-C39.html
+       1.23K 100%  401.69kB/s    0:00:00       1.23K 100%  401.69kB/s    0:00:00 (xfer#12, to-check=462/495)
+waco/images/ML37-block.html
+       1.30K 100%  422.85kB/s    0:00:00       1.30K 100%  422.85kB/s    0:00:00 (xfer#13, to-check=459/495)
+waco/images/ML37-block2.html
+       1.30K 100%  421.88kB/s    0:00:00       1.30K 100%  421.88kB/s    0:00:00 (xfer#14, to-check=456/495)
+waco/images/ML37-excavated-block.html
+       1.15K 100%  281.74kB/s    0:00:00       1.15K 100%  281.74kB/s    0:00:00 (xfer#15, to-check=453/495)
+waco/images/ML37-feat-60.html
+       1.43K 100%  348.88kB/s    0:00:00       1.43K 100%  348.88kB/s    0:00:00 (xfer#16, to-check=450/495)
+waco/images/ML37-feat18.html
+       1.05K 100%  256.10kB/s    0:00:00       1.05K 100%  256.10kB/s    0:00:00 (xfer#17, to-check=447/495)
+waco/images/ML37-godley.html
+       1.24K 100%  302.98kB/s    0:00:00       1.24K 100%  302.98kB/s    0:00:00 (xfer#18, to-check=445/495)
+waco/images/ML37-shell.html
+       1.14K 100%  277.34kB/s    0:00:00       1.14K 100%  277.34kB/s    0:00:00 (xfer#19, to-check=442/495)
+waco/images/ML37-vertebrae.html
+       1.19K 100%  290.28kB/s    0:00:00       1.19K 100%  290.28kB/s    0:00:00 (xfer#20, to-check=439/495)
+waco/images/ML37-workers.html
+       1.08K 100%  263.92kB/s    0:00:00       1.08K 100%  263.92kB/s    0:00:00 (xfer#21, to-check=436/495)
+waco/images/bosque-chert.html
+       1.10K 100%  269.29kB/s    0:00:00       1.10K 100%  269.29kB/s    0:00:00 (xfer#22, to-check=432/495)
+waco/images/bosque-kk.html
+       1.22K 100%  297.85kB/s    0:00:00       1.22K 100%  297.85kB/s    0:00:00 (xfer#23, to-check=429/495)
+waco/images/bosque-map-rev.html
+       1.05K 100%  205.86kB/s    0:00:00       1.05K 100%  205.86kB/s    0:00:00 (xfer#24, to-check=427/495)
+waco/images/bosque.html
+      18.71K 100%  397.29kB/s    0:00:00      18.71K 100%  388.84kB/s    0:00:00 (xfer#25, to-check=424/495)
+waco/images/britton.html
+      26.48K 100%  538.64kB/s    0:00:00      26.48K 100%  538.64kB/s    0:00:00 (xfer#26, to-check=423/495)
+waco/images/camas-bulbs-ML162.html
+       1.11K 100%   22.68kB/s    0:00:00       1.11K 100%   22.68kB/s    0:00:00 (xfer#27, to-check=421/495)
+waco/images/camas-bulbs.html
+       1.13K 100%   22.95kB/s    0:00:00       1.13K 100%   22.95kB/s    0:00:00 (xfer#28, to-check=419/495)
+waco/images/camas-depth.html
+       1.18K 100%   23.48kB/s    0:00:00       1.18K 100%   23.48kB/s    0:00:00 (xfer#29, to-check=417/495)
+waco/images/camas-flower.html
+       1.09K 100%   21.74kB/s    0:00:00       1.09K 100%   21.74kB/s    0:00:00 (xfer#30, to-check=416/495)
+waco/images/deer-TPWD.html
+       1.17K 100%   23.40kB/s    0:00:00       1.17K 100%   23.40kB/s    0:00:00 (xfer#31, to-check=408/495)
+waco/images/deer-weir.html
+       1.23K 100%   24.59kB/s    0:00:00       1.23K 100%   24.59kB/s    0:00:00 (xfer#32, to-check=403/495)
+waco/images/deer1.html
+       1.24K 100%   24.61kB/s    0:00:00       1.24K 100%   24.61kB/s    0:00:00 (xfer#33, to-check=400/495)
+waco/images/deer_page.html
+      13.25K 100%  258.75kB/s    0:00:00      13.25K 100%  258.75kB/s    0:00:00 (xfer#34, to-check=398/495)
+waco/images/diet_breadth.html
+       2.94K 100%   56.32kB/s    0:00:00       2.94K 100%   56.32kB/s    0:00:00 (xfer#35, to-check=397/495)
+waco/images/dyson-smith.html
+       1.61K 100%   30.77kB/s    0:00:00       1.61K 100%   30.18kB/s    0:00:00 (xfer#36, to-check=396/495)
+waco/images/fallen-tree-swd.html
+       1.22K 100%   22.91kB/s    0:00:00       1.22K 100%   22.91kB/s    0:00:00 (xfer#37, to-check=393/495)
+waco/images/feature-basin.html
+       1.08K 100%   20.21kB/s    0:00:00       1.08K 100%   20.21kB/s    0:00:00 (xfer#38, to-check=390/495)
+waco/images/feature-block.html
+       1.35K 100%   25.28kB/s    0:00:00       1.35K 100%   25.28kB/s    0:00:00 (xfer#39, to-check=387/495)
+waco/images/feature-discard.html
+       1.39K 100%   25.57kB/s    0:00:00       1.39K 100%   25.57kB/s    0:00:00 (xfer#40, to-check=384/495)
+waco/images/feature-flat.html
+       1.32K 100%   24.34kB/s    0:00:00       1.32K 100%   24.34kB/s    0:00:00 (xfer#41, to-check=381/495)
+waco/images/feature-rockless.html
+       1.13K 100%   20.82kB/s    0:00:00       1.13K 100%   20.82kB/s    0:00:00 (xfer#42, to-check=378/495)
+waco/images/feature-shell.html
+       1.15K 100%   21.17kB/s    0:00:00       1.15K 100%   21.17kB/s    0:00:00 (xfer#43, to-check=375/495)
+waco/images/feature-stain.html
+       1.43K 100%   26.37kB/s    0:00:00       1.43K 100%   26.37kB/s    0:00:00 (xfer#44, to-check=372/495)
+waco/images/features.html
+      12.66K 100%  224.73kB/s    0:00:00      12.66K 100%  224.73kB/s    0:00:00 (xfer#45, to-check=368/495)
+waco/images/features1.html
+      12.61K 100%  219.88kB/s    0:00:00      12.61K 100%  219.88kB/s    0:00:00 (xfer#46, to-check=367/495)
+waco/images/fieldwork.html
+      11.43K 100%  199.38kB/s    0:00:00      11.43K 100%  199.38kB/s    0:00:00 (xfer#47, to-check=361/495)
+waco/images/fig3-1.html
+       1.12K 100%   19.62kB/s    0:00:00       1.12K 100%   19.27kB/s    0:00:00 (xfer#48, to-check=359/495)
+waco/images/fig4-1-rev2.html
+       1.23K 100%   21.09kB/s    0:00:00       1.23K 100%   21.09kB/s    0:00:00 (xfer#49, to-check=357/495)
+waco/images/fig6-10.html
+       1.17K 100%   20.10kB/s    0:00:00       1.17K 100%   20.10kB/s    0:00:00 (xfer#50, to-check=354/495)
+waco/images/fig6-11.html
+       1.10K 100%   18.78kB/s    0:00:00       1.10K 100%   18.78kB/s    0:00:00 (xfer#51, to-check=352/495)
+waco/images/fig6-18.html
+       1.23K 100%   21.04kB/s    0:00:00       1.23K 100%   21.04kB/s    0:00:00 (xfer#52, to-check=349/495)
+waco/images/fig6-32.html
+       1.13K 100%   19.31kB/s    0:00:00       1.13K 100%   19.31kB/s    0:00:00 (xfer#53, to-check=346/495)
+waco/images/fig6-9.html
+       1.30K 100%   22.36kB/s    0:00:00       1.30K 100%   22.36kB/s    0:00:00 (xfer#54, to-check=343/495)
+waco/images/fig7-11.html
+       1.05K 100%   17.96kB/s    0:00:00       1.05K 100%   17.96kB/s    0:00:00 (xfer#55, to-check=340/495)
+waco/images/fig7-13.html
+       1.14K 100%   19.26kB/s    0:00:00       1.14K 100%   19.26kB/s    0:00:00 (xfer#56, to-check=337/495)
+waco/images/fig7-21.html
+       1.08K 100%   18.18kB/s    0:00:00       1.08K 100%   18.18kB/s    0:00:00 (xfer#57, to-check=334/495)
+waco/images/fig7-27.html
+       1.37K 100%   23.03kB/s    0:00:00       1.37K 100%   23.03kB/s    0:00:00 (xfer#58, to-check=330/495)
+waco/images/fig7-34.html
+       1.17K 100%   19.62kB/s    0:00:00       1.17K 100%   19.62kB/s    0:00:00 (xfer#59, to-check=327/495)
+waco/images/fig7-36.html
+       1.25K 100%   21.13kB/s    0:00:00       1.25K 100%   21.13kB/s    0:00:00 (xfer#60, to-check=325/495)
+waco/images/fig8-11.html
+       1.38K 100%   23.24kB/s    0:00:00       1.38K 100%   23.24kB/s    0:00:00 (xfer#61, to-check=322/495)
+waco/images/fig8-15.html
+       1.26K 100%   21.21kB/s    0:00:00       1.26K 100%   21.21kB/s    0:00:00 (xfer#62, to-check=319/495)
+waco/images/fig8-20.html
+       1.17K 100%   19.42kB/s    0:00:00       1.17K 100%   19.42kB/s    0:00:00 (xfer#63, to-check=316/495)
+waco/images/fig8-4.html
+       1.35K 100%   22.31kB/s    0:00:00       1.35K 100%   22.31kB/s    0:00:00 (xfer#64, to-check=313/495)
+waco/images/fig8-5.html
+       1.10K 100%   18.21kB/s    0:00:00       1.10K 100%   18.21kB/s    0:00:00 (xfer#65, to-check=310/495)
+waco/images/fig8-8.html
+       1.32K 100%   21.91kB/s    0:00:00       1.32K 100%   21.91kB/s    0:00:00 (xfer#66, to-check=306/495)
+waco/images/fig9-6.html
+       1.28K 100%   21.17kB/s    0:00:00       1.28K 100%   21.17kB/s    0:00:00 (xfer#67, to-check=303/495)
+waco/images/fig9-stone.html
+       1.03K 100%   17.08kB/s    0:00:00       1.03K 100%   17.08kB/s    0:00:00 (xfer#68, to-check=300/495)
+waco/images/groundnut-tuber-ML195.html
+       1.15K 100%   19.02kB/s    0:00:00       1.15K 100%   18.70kB/s    0:00:00 (xfer#69, to-check=295/495)
+waco/images/groundnut.html
+       1.04K 100%   17.01kB/s    0:00:00       1.04K 100%   17.01kB/s    0:00:00 (xfer#70, to-check=293/495)
+waco/images/higginbotham.html
+      24.95K 100%  399.45kB/s    0:00:00      24.95K 100%  399.45kB/s    0:00:00 (xfer#71, to-check=291/495)
+waco/images/mcmillan-old.html
+      23.02K 100%  356.83kB/s    0:00:00      23.02K 100%  356.83kB/s    0:00:00 (xfer#72, to-check=279/495)
+waco/images/mcmillan.html
+      23.08K 100%  352.19kB/s    0:00:00      23.08K 100%  352.19kB/s    0:00:00 (xfer#73, to-check=278/495)
+waco/images/mussel-shell-lens.html
+       1.16K 100%   17.75kB/s    0:00:00       1.16K 100%   17.75kB/s    0:00:00 (xfer#74, to-check=274/495)
+waco/images/mussel-weir.html
+       1.19K 100%   18.13kB/s    0:00:00       1.19K 100%   18.13kB/s    0:00:00 (xfer#75, to-check=270/495)
+waco/images/mussel.html
+       1.36K 100%   20.71kB/s    0:00:00       1.36K 100%   20.71kB/s    0:00:00 (xfer#76, to-check=268/495)
+waco/images/mussel_page.html
+       9.41K 100%  141.33kB/s    0:00:00       9.41K 100%  141.33kB/s    0:00:00 (xfer#77, to-check=266/495)
+waco/images/paired-features.html
+       1.23K 100%   18.52kB/s    0:00:00       1.23K 100%   18.52kB/s    0:00:00 (xfer#78, to-check=262/495)
+waco/images/pecan-swd.html
+       1.31K 100%   19.70kB/s    0:00:00       1.31K 100%   19.70kB/s    0:00:00 (xfer#79, to-check=235/495)
+waco/images/plant_page.html
+      14.63K 100%  216.52kB/s    0:00:00      14.63K 100%  216.52kB/s    0:00:00 (xfer#80, to-check=233/495)
+waco/images/plants-icon-top.html
+       1.04K 100%   15.39kB/s    0:00:00       1.04K 100%   15.39kB/s    0:00:00 (xfer#81, to-check=232/495)
+waco/images/plants-weir.html
+       1.23K 100%   18.23kB/s    0:00:00       1.23K 100%   18.23kB/s    0:00:00 (xfer#82, to-check=228/495)
+waco/images/population.html
+       7.44K 100%  110.14kB/s    0:00:00       7.44K 100%  110.14kB/s    0:00:00 (xfer#83, to-check=220/495)
+waco/images/project-area.html
+       1.27K 100%   18.58kB/s    0:00:00       1.27K 100%   18.58kB/s    0:00:00 (xfer#84, to-check=218/495)
+waco/images/research-new.html
+      32.77K  80%  463.77kB/s    0:00:00      40.68K 100%  567.48kB/s    0:00:00 (xfer#85, to-check=212/495)
+waco/images/research.html
+      32.77K  78%  444.44kB/s    0:00:00      41.76K 100%  558.58kB/s    0:00:00 (xfer#86, to-check=209/495)
+waco/images/resharpen-stages.html
+       1.22K 100%   16.14kB/s    0:00:00       1.22K 100%   16.14kB/s    0:00:00 (xfer#87, to-check=207/495)
+waco/images/rocks.html
+       1.51K 100%   19.90kB/s    0:00:00       1.51K 100%   19.90kB/s    0:00:00 (xfer#88, to-check=205/495)
+waco/images/spiral-fractures.html
+       1.25K 100%   16.55kB/s    0:00:00       1.25K 100%   16.55kB/s    0:00:00 (xfer#89, to-check=202/495)
+waco/images/stage5.html
+       1.25K 100%   16.54kB/s    0:00:00       1.25K 100%   16.54kB/s    0:00:00 (xfer#90, to-check=199/495)
+waco/images/stone-weir.html
+       1.11K 100%   14.71kB/s    0:00:00       1.11K 100%   14.71kB/s    0:00:00 (xfer#91, to-check=195/495)
+waco/images/stone_page.html
+      13.93K 100%  181.43kB/s    0:00:00      13.93K 100%  181.43kB/s    0:00:00 (xfer#92, to-check=193/495)
+waco/images/structure.html
+       1.31K 100%   17.01kB/s    0:00:00       1.31K 100%   17.01kB/s    0:00:00 (xfer#93, to-check=189/495)
+waco/images/table-7-rev.html
+       1.30K 100%   16.89kB/s    0:00:00       1.30K 100%   16.89kB/s    0:00:00 (xfer#94, to-check=186/495)
+waco/images/textbox.html
+       1.03K 100%   13.41kB/s    0:00:00       1.03K 100%   13.41kB/s    0:00:00 (xfer#95, to-check=184/495)
+waco/images/three-ridge.html
+       1.26K 100%   16.37kB/s    0:00:00       1.26K 100%   16.37kB/s    0:00:00 (xfer#96, to-check=182/495)
+waco/images/waco-lake-kibler.html
+       1.14K 100%   14.86kB/s    0:00:00       1.14K 100%   14.86kB/s    0:00:00 (xfer#97, to-check=179/495)
+waco/images/wacotimeline.html
+      10.28K 100%  132.04kB/s    0:00:00      10.28K 100%  132.04kB/s    0:00:00 (xfer#98, to-check=174/495)
+waco/images/women.html
+       1.20K 100%   15.42kB/s    0:00:00       1.20K 100%   15.42kB/s    0:00:00 (xfer#99, to-check=169/495)
+waco/images/wood-icon.html
+       1.03K 100%   13.21kB/s    0:00:00       1.03K 100%   13.21kB/s    0:00:00 (xfer#100, to-check=167/495)
+waco/images/wood-weir.html
+       1.17K 100%   14.98kB/s    0:00:00       1.17K 100%   14.98kB/s    0:00:00 (xfer#101, to-check=163/495)
+waco/images/wood_page.html
+      12.65K 100%  160.47kB/s    0:00:00      12.65K 100%  160.47kB/s    0:00:00 (xfer#102, to-check=160/495)
+waco/images/woodcombo.html
+       1.16K 100%   14.69kB/s    0:00:00       1.16K 100%   14.69kB/s    0:00:00 (xfer#103, to-check=158/495)
+waco/interactive/
+waco/interactive/._index.html
+       4.10K 100%   51.95kB/s    0:00:00       4.10K 100%   51.95kB/s    0:00:00 (xfer#104, to-check=122/495)
+waco/interactive/._interactive.html
+      32.77K  16%  405.06kB/s    0:00:00     195.08K 100%    2.14MB/s    0:00:00 (xfer#105, to-check=121/495)
+waco/interactive/index.html
+       6.62K 100%   73.42kB/s    0:00:00       6.62K 100%   73.42kB/s    0:00:00 (xfer#106, to-check=118/495)
+waco/interactive/interactive.html
+       4.40K 100%   48.85kB/s    0:00:00       4.40K 100%   48.85kB/s    0:00:00 (xfer#107, to-check=117/495)
+waco/interactive/waco/
+waco/interactive/waco/5D8AEBEAD6B076591A6E3D3F3AB8AE8D.cache.html
+      32.77K  56%  355.56kB/s    0:00:00      57.83K 100%  613.81kB/s    0:00:00 (xfer#108, to-check=82/495)
+waco/interactive/waco/80AB72C7575964FD027E5E1103EB84C0.cache.html
+      32.77K  60%  344.09kB/s    0:00:00      54.41K 100%  379.56kB/s    0:00:00 (xfer#109, to-check=81/495)
+waco/interactive/waco/8E13FB509AFE363F9713378144180FF9.cache.html
+      32.77K  57%  225.35kB/s    0:00:00      56.60K 100%  383.84kB/s    0:00:00 (xfer#110, to-check=80/495)
+waco/interactive/waco/D7E5C462D717B3B49C735F2E37E29638.cache.html
+      32.77K  57%  220.69kB/s    0:00:00      57.06K 100%  379.05kB/s    0:00:00 (xfer#111, to-check=76/495)
+waco/interactive/waco/F5469F0B7760521117CFBC45795569D4.cache.html
+      32.77K  56%  214.77kB/s    0:00:00      57.81K 100%  373.90kB/s    0:00:00 (xfer#112, to-check=75/495)
+waco/interactive/waco/hosted.html
+       1.85K 100%   11.94kB/s    0:00:00       1.85K 100%   11.94kB/s    0:00:00 (xfer#113, to-check=73/495)
+waco/revised-investigations-rollover/
+waco/revised-investigations-rollover/investigations.html
+       5.14K 100%   33.24kB/s    0:00:00       5.14K 100%   33.24kB/s    0:00:00 (xfer#114, to-check=52/495)
+waco/version2/
+waco/version2/interactive.html
+       4.34K 100%   27.90kB/s    0:00:00       4.34K 100%   27.90kB/s    0:00:00 (xfer#115, to-check=50/495)
+waco/version2/waco/
+waco/version2/waco/0CB1126000BA9D455E86EE5CC1DD08DE.cache.html
+      32.77K  28%  209.15kB/s    0:00:00     116.06K 100%  717.37kB/s    0:00:00 (xfer#116, to-check=30/495)
+waco/version2/waco/52E76D7F7BB9C12019E9DC53DCF3EFDB.cache.html
+      32.77K  28%  201.26kB/s    0:00:00     114.71K 100%  687.22kB/s    0:00:00 (xfer#117, to-check=28/495)
+waco/version2/waco/81729AAAE880EAFB135F7DCAAF8B7809.cache.html
+      32.77K  30%  193.94kB/s    0:00:00     109.06K 100%  630.21kB/s    0:00:00 (xfer#118, to-check=26/495)
+waco/version2/waco/BAD66A1CC8C30DBA0607EC0267EE1529.cache.html
+      32.77K  28%  184.97kB/s    0:00:00     114.43K 100%  620.81kB/s    0:00:00 (xfer#119, to-check=22/495)
+waco/version2/waco/F82E2285FDD6D3B0728705A40F88654B.cache.html
+      32.77K  28%  175.82kB/s    0:00:00     113.49K 100%  592.66kB/s    0:00:00 (xfer#120, to-check=21/495)
+waco/version2/waco/hosted.html
+       1.85K 100%    9.64kB/s    0:00:00       1.85K 100%    9.64kB/s    0:00:00 (xfer#121, to-check=19/495)
+
+sent 602.76K bytes  received 2.37K bytes  403.42K bytes/sec
+total size is 45.80M  speedup is 75.69

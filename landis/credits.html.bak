@@ -1,0 +1,273 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/landis.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Landis Project</title>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #993300}
+-->
+</style>
+<style type="text/css">
+<!--
+.style2 {font-family: Arial, Helvetica, sans-serif}
+-->
+</style>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('images/camera-button-ro-sm.jpg')">
+<div id="wrapper">
+  <div id="wordmark"> <a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a> </div>
+  <h6 id="tbh">Texas Beyond History</h6>
+  <div id="tbhnav"> <a href="../index.html">TBH Home</a>
+    <form action="/search.html" method="get" name="search" id="search">
+      <div>
+        <label for="searchbox">
+        <input type="text" size="13" name="words" value="Search" id="searchbox">
+        </label>
+      </div>
+      <div>
+        <label for="searchbut">
+        <input type="submit" value="Go" name="submit" id="searchbut">
+        </label>
+      </div>
+      <div>
+        <input type="hidden" name="config" value="tbh">
+      </div>
+      <div>
+        <input type="hidden" name="restrict" value="">
+      </div>
+      <div>
+        <input type="hidden" name="exclude" value="">
+      </div>
+    </form>
+  </div>
+  <div id="nav">
+    <div id="tt">
+      <h1>Landis Project </h1>
+    </div>
+    <h2> <a href="index.html">Landis Project Main</a> <a href="setting.html">Reconstructing the Paleoenvironment</a> <a href="pipeline.html">Pipeline Site: Late Archaic Encampments</a> <br>
+      <a href="corral.html">Corral Site: A Short-Term Protohistoric Camp</a> <a href="future.html">Highlights and Future Research</a> <a href="public.html">Public Archeology</a><br><a href="credits.html">Credits & Sources</a></h2>
+  </div>
+  <div id="content"><!-- #BeginEditable "body" -->
+  
+  <h2>Credits & Sources</h2>
+  <table width="780" border="0">
+  <tr>
+    <td width="480" height="1092" valign="top">
+      <p>&nbsp;</p>
+      <p>The  Landis Project exhibit was written by <strong>Mike  Quigg</strong>, senior archeologist with TRC Environmental Corporation in Austin.&nbsp;TBH Editor  Susan Dial created the exhibit, and Heather Smith developed it for the web. A  number of researchers also provided technical expertise and these individuals  are credited in the sources section below.<strong> </strong>The project  was sponsored and funded by the <strong>Bureau  of Land Management</strong>. &nbsp;Dr.<strong> Signa Larralde</strong>, BLM Regional  Archeologist, oversaw this program and was open to suggestions and new  strategies, and her concern and interest in preserving a piece of the past   in the Texas Panhandle is gratefully acknowledged. <strong>Natalie Stephensen,</strong> Director of the Outdoor Program for the Girl  Scouts, helped in organizing the open house sessions, and provided hospitality  for the crews during the two field seasons. Special thanks go to two local  amateur archeologists, Mr.<strong> Rolla Shaller </strong>and Mr.<strong> Alvin Lynn,</strong> of Amarillo, who spent their  own time collecting rock samples and documenting various lithic outcrops and  sending in samples for use in the INA analysis.&nbsp; </p>
+      <p><strong>Mike Quigg</strong> has a  long-held interest in Plains archeology, participating in his first dig as a  high school senior in southern Colorado.&nbsp;  He pursued his interest first by obtaining a B.A. degree in anthropology from  the University of Northern Colorado in Greeley,  with summers spent conducting field work, then with a Masters in archeology  from the University of Calgary in Calgary,   Alberta, Canada.&nbsp;  He spent five years with the Archaeology Survey of Alberta, and another five  years managing a private cultural resource firm.&nbsp; He has spent his entire  career working in the Plains, from central Alberta  to southern Texas, and now has over 20 years  experience in Texas.  Quigg currently serves as senior staff archeologist for TRC Environmental  Corporation.
+	  
+	  <ul> 
+	    <span class="style2 style1"><strong>Download Landis Report</strong></span><li><a href="images/Volume1.pdf" target="_blank">Volume I pdf</a> (94MB) <img src="images/pdf-button.jpg" width="19" height="20" align="absbottom"></li>
+	    <li><a href="images/Volume2.pdf" target="_blank">Volume II pdf</a> (20MB) <img src="images/pdf-button.jpg" width="19" height="20" align="absbottom"></li>
+	  </ul>
+	  <h3><strong>Links</strong></h3>
+      <p><strong>Bureau of Land  Management</strong>&nbsp; <a href="https://www.blm.gov/" target="_blank">https://www.blm.gov/</a><br>
+        An agency of the U.S. Department of the Interior, the BLM  manages public lands in diverse regions across the nation, working to oversee  natural resources and provide public education and recreational opportunities.</p>
+      <h3><strong>Print Sources</strong></h3>
+      <p><strong>Baugh, T. G. </strong>and<strong> S. M. Perkins,</strong> editors<br>
+	2008&nbsp;&nbsp;	Land of Our Ancestors:  Studies of Protohistoric and Historic Wichita Cultures.  <em> Plains Anthropologist Memoir</em>   40, 53(208). 
+	<br><br><strong>Bell, R. E., E. B. Jelks, </strong>and <strong>W. W. Newcomb,</strong> assemblers<br>
+1967&nbsp;&nbsp;	A Pilot Study of Wichita Indian Archeology and Ethnohistory.  Final Report for Grant GS-964, National Science Foundation.  Reprint by Gustavs Library. 
+
+<br><br>
+
+
+      </td>
+    <td width="300" valign="top">
+	<table width="300" border="0">
+  <tr valign="top">
+    <td height="547">
+	<p>&nbsp;</p>
+	<img src="images/credits-quigg-sm.jpg" class="thumbimg">
+      <div class="caption">Project Investigator Mike Quigg  <a href="images/credits-quigg.html" target="_blank" onMouseOver="MM_swapImage('Image5','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image5" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td><img src="images/credits-cover-sm.jpg" class="thumbimg">
+      <div class="caption">Volume I of the two-volume report of the Landis Project. Download and view pdf copy of this report via the links at left. <a href="images/credits-cover.html" target="_blank" onMouseOver="MM_swapImage('Image6','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image6" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+	</td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><p><strong>Bolton, H. E. </strong><br>
+  1916	&nbsp;&nbsp;<em> Spanish Exploration in the Southwest. </em> Charles Scribner’s Sons, New York. <br>
+  <br>
+  1949&nbsp;&nbsp;	<em> Coronado, Knight of the Pueblos and Plains. </em>    University of New Mexico Press, Albuquerque. 
+	<br>
+	<br>
+	<strong>Boulanger M. T. </strong>and <strong>M. Glascock</strong><br>
+	2010&nbsp;&nbsp;	Chert Sourcing in the Texas Panhandle:  Compositional Analysis of Chert and Jasper Sources and Artifacts, Landis Property.  In<em>  Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas, </em>   by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. 
+    <br>
+    <br>
+    <strong>Boyd, D. K. </strong><br>
+    1997 &nbsp;&nbsp;	<em> Caprock Canyonlands Archeology:  A Synthesis of the Late Prehistory and History of Lake Alan Henry and the Texas Panhandle-Plains. </em>    Reports of Investigations Number 110.  Prewitt and Associates, Inc., Austin. 
+	<br>
+	<br>
+	<strong>Bozarth, S. </strong>and<strong> T. Woodburn</strong><br>
+	2010&nbsp;&nbsp;	Paleoenvironmental Reconstruction at West Amarillo Creek, Potter County, Texas, Based on Biosilicate Analysis and Palynology.  In<em>  Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em>  , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. 
+	<br>
+	<br>
+	<strong>Ferguson, J. R. </strong>and<strong> M. D. Glascock</strong><br>
+	2010&nbsp;&nbsp;	Instrumental Neutron Activation Analysis of Clays and Ceramics from the Texas Panhandle.  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em>  , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. 
+	<br>
+	<br>
+	<strong>Frederick, C. D. </strong><br>
+	2010&nbsp;&nbsp;	Stratigraphic Overview of Upper West Amarillo Creek Valley.  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em>  , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, pp. 153-166.  TRC Technical Report 150832. 
+	<br>
+	<br>
+	<strong>Haecker, C. M. </strong><br>
+	1999&nbsp;&nbsp;	<em> Phase I Archeological Survey:  Amarillo and Exell Helium Plants and Landis Property, Potter and Moore Counties, Texas</em>  .  National Park Service, Intermountain Support Office, Anthropology Program, Santa Fe, New Mexico for the Bureau of Land Management, Helium Operations Unit, Amarillo, Texas. 
+	<br>
+	<br>
+	2000&nbsp;&nbsp; <em> Phase II Archeological Testing: Landis Property, Potter County, Texas</em>  .  National Park Service, Intermountain Support Office, Anthropology Program, Santa Fe, New Mexico for the Bureau of Land Management, Helium Operations Unit, Amarillo, Texas. 
+
+    <br>
+    <br>
+    <strong>Hammond, G. P. </strong>and<strong> A. Rey</strong><br>
+    1940&nbsp;&nbsp;	<em> Narratives of the Coronado Expedition 1540–1542. </em>    University of New Mexico Press, Albuquerque. 
+	<br>
+	<br>
+	1953	&nbsp;&nbsp;<em> Don Juan de O&ntilde;ate Colonizer of New Mexico 1595-1628</em>  .  University of New Mexico Press, Albuquerque. 
+	
+	<br>
+	<br>
+	1966 &nbsp;&nbsp;	<em> The Rediscovery of New Mexico, 1580-1594. </em>    University of New Mexico Press, Albuquerque. 
+	
+	<br>
+	<br>
+	<strong>Hardy, B. L. </strong><br>
+	2010&nbsp;&nbsp;	Functional Analysis of Stone Tools from BLM Project – Landis Property in the Texas Panhandle (Sites 41PT186 and 41PT185/C).  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em>  , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. 
+
+    <br>
+    <br>
+    <strong>Hughes, J. T. </strong><br>
+    1991&nbsp;&nbsp;	Prehistoric Cultural Developments on the Texas High Plains. <em> Bulletin of the Texas Archeological Society</em>   60:1-57. 
+	<br>
+	<br>
+     <strong>Humphrey, J. D.</strong>, and <strong>C. R. Ferring</strong> <br>     
+      1994 Stable Isotopic Evidence for Latest Pleistocene and Holocene Climatic Change in North-Central texas. <em>Quarternary Research</em> 41:200-213.  <br>
+            <br>
+            <strong>Johnson, E. </strong> (editor) <br>
+            1987&nbsp;&nbsp;	<em> Lubbock Lake:  Late Quaternary Studies on the Southern High Plains</em> .  Texas A&M University Press, College Station. <br>
+            <br>
+            1992&nbsp;&nbsp;	<em> Cultural Encounters and Episodic Droughts:  The Protohistoric Period on the Southern Plains</em> .  Guidebook to the Ethnohistory and Selected Protohistoric Sites of the Southern Plains.  Lubbock Lake Landmark Quaternary Research Center Series, Number 3.  Museum of Texas Tech University. <br>
+            <br>
+        
+            <strong>Kraft, K. C. </strong><br>
+            1994 &nbsp;&nbsp;	Corner-Tang Stone Artifacts of the Plains. <em> Bulletin of the Oklahoma Archeological Society</em> 42:63-84. <br>
+            <br>
+            2005 &nbsp;&nbsp;	The Late Archaic Component from the Beaver Dam Site (34RM208). <em> Oklahoma Archeology</em> 53(2):6-23. <br>
+            <br>
+            <strong>Malainey, M. E. </strong><br>
+            2010&nbsp;&nbsp;	Analysis of Lipids Extracted from Archaeological Burned Rock and Pottery Residues from Sites in Potter County, Texas.  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. <br>
+            <br>
+        
+            <strong>Newcomb, Jr., W. W. </strong><br>
+            1993 &nbsp;&nbsp;	Historic Indians of Central Texas. <em> Bulletin of the Texas Archeological Society</em> 64:1-63. <br>
+            <br>
+            <strong>Palacios-Fest, M. R. </strong><br>
+            2010&nbsp;&nbsp;	Late Holocene Paleoenvironmental History of Upper West Amarillo Creek Valley, Texas.  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. <br>
+            <br>
+            <strong>Perry, L. </strong><br>
+            2010	&nbsp;&nbsp;Starch Analyses from the BLM Landis Property.  In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. <br>
+            <br>
+            <strong>Perttula, T. K., </strong> editor<br>
+            1992 &nbsp;&nbsp;	<em> Bulletin of the Texas Archeological Society</em> 63. <br>
+            <br>
+            <strong>Philips, W. </strong><br>
+            2000 &nbsp;&nbsp;	Appendix A, Botanical Inventory.  In <em> Phase II Archeological Testing: Landis Property, Potter County, Texas</em> , by C. M. Haecker.  National Park Service, Intermountain Support Office, Anthropology Program, Santa Fe, New Mexico for the Bureau of Land Management, Helium Operations Unit, Amarillo, Texas. <br>
+            <br>
+        
+            <strong>Quigg, J. M. </strong><br>
+            1997 &nbsp;&nbsp;	<em> The Sanders Site (41HF128):  A Single Event Late Archaic Camp/Bison Processing Site Hansford County, Texas</em> .  TRC Mariah Associates Inc., Technical report No. 19751. <br>
+            <br>
+            <strong>Quigg, J. M., C. D. Frederick, P. M. Matchen, </strong>and<strong> K. G. DuBois </strong><br>
+            2010&nbsp;&nbsp;	<em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , TRC Environmental Corporation, Technical Report No. 150832, Austin. [See links to downloadable  pdf files above.] <br>
+            <br>
+        
+            <strong>Robinson, D. G. </strong><br>
+            2010 &nbsp;&nbsp;	Petrographic Analysis of Aboriginal Ceramics from the BLM Landis Property, Texas Panhandle.  In <em>Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. <br>
+            <br>
+        
+            <strong>Shackley, M. S. </strong><br>
+            2010	Obsidian Source Analysis.   In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em> , by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. <br>
+            <br>
+        
+            <strong>Schroeder, A. H. </strong><br>
+            1962 &nbsp;&nbsp;	A Re-Analysis of the Routes of Coronado and O&ntilde;ate into the Plains in 1541 and 1601. <em>  Plains Anthropologist</em> 7:2-23. <br>
+            <br>
+        
+            <strong>Thurmond, J. P. </strong><br>
+            1991a&nbsp;&nbsp;	Archeology of the Dempsey Divide:  A Late Archaic/Woodland Hotspot on the Southern Plains. <em>  Bulletin of the Oklahoma Anthropological Societ</em> y 39:103-157. <br>
+            <br>
+            1991b&nbsp;&nbsp;	A Late Archaic/Woodland Lunate Stone Burial in Far Western Oklahoma. <em>  Bulletin of the Texas Archeological Society</em> 60:241-255. <br>
+            <br>
+        
+            <strong>Winsborough Consulting</strong><br>
+            2010	&nbsp;&nbsp; Diatom Paleoenvironmental Analysis of Sediments from Archaeological Site 41PT185/C, BLM Project- Landis Property in the Texas Panhandle, Potter County, Texas.   In <em> Landis Property:  Data Recovery at Three Prehistoric Sites (41PT185, 41PT186, and 41PT245) in Potter County, Texas</em>, by J. M. Quigg, C. D. Frederick, P. M. Matchen, and K. G. DuBois, TRC Technical Report 150832. 
+      <p>
+	
+	</td>
+  </tr>
+</table>
+
+  
+   <!-- #EndEditable --></div>
+  <div id="foot">
+    <p class="links"><a href="index.html">Landis Project Main</a> <a href="setting.html">Reconstructing the Paleoenvironment</a> <a href="pipeline.html">Pipeline Site: Late Archaic Encampments</a> <br>
+      <a href="corral.html">Corral Site: A Short-Term Protohistoric Camp</a> <a href="future.html">Highlights and Future Research</a> <a href="public.html">Public Archeology</a><br><a href="credits.html">Credits & Sources</a></p>
+    <p> <a href="http://utopia.utexas.edu" target="_blank"></a> <a href="../index.html">Texas Beyond History</a><br>
+      <a href="../sitemap.html">Site Map</a><br>
+      <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" -->December 2010 <!-- InstanceEndEditable --></p>
+  </div>
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

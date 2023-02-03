@@ -1,0 +1,35 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 1 (Kirkland Plate 43)</p><br>
+
+<p><strong>Rattlesnake Canyon. Copied July 13, 1936. Scale: 9/32 in. to 1</strong></p><br>
+
+<p>Val Verde County, Texas.</p><br>
+
+<p>Forrest Kirkland wrote:</p><br>
+
+</font>
+
+<font size="10">
+
+<p><strong>Procedure:</strong></p>
+
+<p>Recognizing this as an important example of cliff dweller art and fortunately finding it low on the wall, special pains were taken to make careful measurements of every element in the designs and copy them accurately to scale. The design was so complicated that only two breaks seemed possible without dividing some important figure, so a scale was chosen that would fit on three plates (Plates 1,2,3). The pictures are continuous on the wall so no space was taken out. Instead of copying the designs in the dim color that they appear now, which would have been confusing, an attempt was made to use about the original strength of the colors, which makes it possible to follow each design, even where they are badly over-lapping. The designs were treated with water where it was necessary to determine their exact shape. Only the parts of a design that could be positively made out were included in the copy. </p><br>
+
+<p><strong>Location:</strong></p>
+
+<p>The pictures are in a small shelter in the east wall of Rattlesnake Canyon near the Rio Grande. The shelter is high above the flood level of the canyon, is about 40 yards long and 20 feet deep. The floor is level and of dirt and ashes. Rocks in the edge of the shelter contain round shallow mortars. The back wall arises abruptly from the floor for about two feet, then rounds back and up and over into the ceiling without a seam. The rock is limestone and is weathering off in large thick flakes from the overhanging edge. Already some of the designs about two thirds down have been destroyed by this flaking.</p><br>
+
+<p><strong>Pictures:</strong></p>
+
+<p>The pictures begin about four feet from the floor and extend about 8 feet which takes them well up on the ceiling. The color is very dim and only with much pains could the complete group be made out. The culture is exclusively cliff dweller. Although the designs are badly overpainted all of them appear to belong to the same culture. No hand prints or white influence were found. Only three colors, red, black, and yellow ocher were used.</p> 
+
+
+
+</font>
+
+
+
+</BODY></HTML>

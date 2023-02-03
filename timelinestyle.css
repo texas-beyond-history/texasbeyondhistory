@@ -1,0 +1,32 @@
+
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; color: #993300; text-align: center}
+
+h3 {  font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; color: #993300; margin-right: 5px; margin-left: 5px; vertical-align: middle}
+h3 a:link { color: #bf5700}
+h3 a:active { color: #bf5700}
+h3 a:visited { color: #993300}
+h3 a:hover { color: #993300}
+
+h4 { font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold; color: #993300; text-align: center; background-color: #FFCC99 }
+
+.timelinetext {  font-family: Arial, Helvetica, sans-serif; font-size: 30px%; color: #993300; vertical-align: middle; middle; padding-top: 5px; padding-bottom: 5px;  background-color: #FFCC99}
+
+.date {  font-family: Arial, Helvetica, sans-serif; font-size: 30px;  font-weight: bold; color: #FFFFFF; text-align: left; vertical-align: middle; padding: 5px ; border: 2px #993300 solid}
+
+.month {  font-family: Arial, Helvetica, sans-serif; font-size: 26px; color: #FFFFFF; font-weight: bold; text-align: right; background-color: #bf5700; vertical-align: middle; padding: 5px}
+
+.caption {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: italic; color: #993300; text-align: center}
+
+.menu { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #bf5700; font-weight: bold; line-height: 20px; text-decoration: none; vertical-align: middle; padding-left: 5px}
+
+a.menu:link {  text-decoration: none; white-space: nowrap }
+a.menu:active { text-decoration: underline; white-space: nowrap}
+a.menu:visited { text-decoration: none; white-space: nowrap}
+a.menu:hover { text-decoration: underline; white-space: nowrap}
+
+.foot { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #993300 }
+
+a.foot:link { color: #bf5700; font-size: 12px; font-weight: bold; white-space: nowrap; text-decoration: none }
+a.foot:active {color: #bf5700; font-size: 12px; font-weight: bold; white-space: nowrap; text-decoration: underline}
+a.foot:visited {color: #bf5700; font-size: 12px; font-weight: bold; white-space: nowrap; text-decoration: none}
+a.foot:hover {color: #bf5700; font-size: 12px; font-weight: bold; white-space: nowrap; text-decoration: underline}

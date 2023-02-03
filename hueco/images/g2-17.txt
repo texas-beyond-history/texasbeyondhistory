@@ -1,0 +1,23 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 17 (Kirkland Plate 130) TMM 2261-139 </p><br>
+<p><b>Hueco Tanks, Site 19 and 20. Copied July 17-25, 1939. Scale: Nos. 19c, 20d-f, 3/8" to 1' </b></p><br>
+<p>Forrest Kirkland wrote: </p><br>
+
+</font>
+
+<font size="10">
+<p>19-C These designs are under a large rock which forms a small shelter at the entrance to a small draw extending into the rock mass. They are very carefully drawn with thin paint. </p><br>
+
+<p>20-D and E. These designs are on opposite walls of a tunnel-like shelter about 10 feet from the entrance. They are near the floor. 20-D is very dim. </p><br>
+
+<p>20-F is on the same wall as 20-E but nearer the entrance. </p>
+
+
+</font>
+
+
+
+</BODY></HTML>

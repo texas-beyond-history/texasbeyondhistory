@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US">
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script>
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<title>Search Results</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="http://www.texasbeyondhistory.net/style-fl.css" type="text/css"> 
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="http://www.texasbeyondhistory.net/images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="http://www.texasbeyondhistory.net/images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="http://www.texasbeyondhistory.net/index.html">TBH Home</a> </div>
+
+
+<h3>Search results for '$&(LOGICAL_WORDS)'</h3>
+<hr>
+<form method="get" action="$(CGI)">
+  <p class="text"> 
+    <input type="hidden" name="config" value="$&(CONFIG)">
+    <input type="hidden" name="restrict" value="$&(RESTRICT)">
+    <input type="hidden" name="exclude" value="$&(EXCLUDE)">
+    Match: $(METHOD) Format: $(FORMAT) Sort by: $(SORT) </p>
+    <h3>Refine search: 
+    <input type="text" size="30" name="words" value="$&(WORDS)">
+    <input type="submit" value="Search">
+  </h3>
+</form>
+<hr>
+<p><b class="text">Documents $(FIRSTDISPLAYED) - $(LASTDISPLAYED) of $(MATCHES) 
+  matches. More <img src="/images/star.gif" alt="*" width="15" height="13">'s 
+  indicate a better match. </b></p>
+<hr>

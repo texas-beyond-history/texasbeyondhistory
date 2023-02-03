@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html> 
+	<head> 
+		<meta charset="utf-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">  
+		<title> 
+		<!-- InstanceBeginEditable name="doctitle" -->
+		 
+		<!-- InstanceEndEditable -->
+		</title> 
+		<!-- Google Analytics --> 
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-66879714-13', 'auto');
+			ga('send', 'pageview'); 
+			</script>
+		<!-- End Google Analytics -->
+		<!--	Global Assets -->
+		<script type="text/javascript" src="/js/global.js"></script> 
+		<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+		<!--	End Global Assets -->
+	</head>
+	<body>
+		<div class="image-caption-container">
+			<!-- #BeginEditable "title" --><h2>{Title}</h2><!-- #EndEditable -->
+			<div class="caption">
+				<!-- #BeginEditable "caption1" -->{caption 1}<!-- #EndEditable -->
+			</div>
+			<!-- #BeginEditable "image" -->{image}<!-- #EndEditable -->
+			<div class="caption">
+			 	<!-- #BeginEditable "caption" -->{caption 2}<!-- #EndEditable -->
+			</div>
+			<div class="close-window">
+				<a href="#" onClick="window.close()" class="text">Close Window</a>	
+			</div>
+		 </div>
+	</body>
+</html>
+

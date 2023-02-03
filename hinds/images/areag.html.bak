@@ -1,0 +1,38 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+
+<link href="../../popup.css" rel="stylesheet" type="text/css">
+<title>Area G</title>
+</head>
+
+<body>
+<div id="wrapper">
+<div id="two-l">
+<h1>Area G </h1>
+<p> The alcove or small cave-like anteroom at the southeastern of the shelter
+  had been badly disturbed by artifact collectors. It is thought that the collectors
+  completely removed fiber deposits possibly including a bundle burial from the
+  alcove. About 80 centimeters (32 inches) remained of the lower fill, which
+  consisted of a light-colored mixture of ash, cave dust and roof spalls. This
+  extremely dry fill had a powder-like consistency and did not have recognizable
+  layering. Four small excavation units were excavated to sample the lower deposits
+  and were designated G1-G4 (three measuring 1-x-1 m and another 1-x-1.4 m, G1-G4).
+  Lacking clear stratigraphy, arbitrary levels were used. Excellent samples of
+  stone tools and bones were recovered, but it is clear that the deposits were
+  of mixed age as the projectile points included Middle and Early Archaic as
+  well as Late Paleoindian </p>
+  </div>
+	<div id="two-r"><a href="hc-g-84.html"><img src="hc-g-84-sm.jpg" alt="photo of area g" width="200" height="213" border="0"></a>
+  <div class="caption">    <strong> </strong>The Alcove or anteroom as it appeared in 1984.  The Area G excavations in 1975 sampled intact lower deposits here.  Thick fiber deposits were reportedly removed by collectors prior to 1974.  Photo by Glenna Dean. </div>
+	  
+  </div>
+	<a href="/hinds/explore.html"><img src="../../images/close.gif" name="close" width="109" height="35" ></a>
+</div>
+</body>
+</html>

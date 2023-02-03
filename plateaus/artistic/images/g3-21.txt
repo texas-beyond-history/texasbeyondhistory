@@ -1,0 +1,17 @@
+hey=<HTML><BODY>
+
+<font size="12">
+
+<p>Plate 21 (Kirkland Plate 59)</p><br>
+
+<p><strong>Upper section: Painted Cave.  Copied July 7, 1937.  Scale: Nos. 1-4, 1/2 in. to 1 ft.</strong></p><br>
+
+<p><strong>Lower section: Slick Trail Shelter.  Copied July 8, 1937.  Scale: Nos. 1-2, 1/4 in. to 1 ft.</strong></p><br>
+
+
+
+</font>
+
+
+
+</BODY></HTML>

@@ -1,0 +1,263 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/landis.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Landis Project</title>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('images/camera-button-ro-sm.jpg')">
+<div id="wrapper">
+  <div id="wordmark"> <a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a> </div>
+  <h6 id="tbh">Texas Beyond History</h6>
+  <div id="tbhnav"> <a href="../index.html">TBH Home</a>
+    <form action="/search.html" method="get" name="search" id="search">
+      <div>
+        <label for="searchbox">
+        <input type="text" size="13" name="words" value="Search" id="searchbox">
+        </label>
+      </div>
+      <div>
+        <label for="searchbut">
+        <input type="submit" value="Go" name="submit" id="searchbut">
+        </label>
+      </div>
+      <div>
+        <input type="hidden" name="config" value="tbh">
+      </div>
+      <div>
+        <input type="hidden" name="restrict" value="">
+      </div>
+      <div>
+        <input type="hidden" name="exclude" value="">
+      </div>
+    </form>
+  </div>
+  <div id="nav">
+    <div id="tt">
+      <h1>Landis Project </h1>
+    </div>
+    <h2> <a href="index.html">Landis Project Main</a> <a href="setting.html">Reconstructing the Paleoenvironment</a> <a href="pipeline.html">Pipeline Site: Late Archaic Encampments</a> <br>
+      <a href="corral.html">Corral Site: A Short-Term Protohistoric Camp</a> <a href="future.html">Highlights and Future Research</a> <a href="public.html">Public Archeology</a><br><a href="credits.html">Credits & Sources</a></h2>
+  </div>
+  <div id="content"><!-- #BeginEditable "body" -->
+  
+  <h2>Corral Site: A Rare Protohistoric Camp</h2>
+  <table width="780" border="0">
+  <tr>
+    <td><img src="images/proto-icon2.jpg" width="778" height="422">
+      <div class="caption">Overview of Corrall site, so named for the modern wood-fenced corral alongside West Amarillo creek. Dated to roughly 200-300 years B.P., this  campsite represents the Protohistoric period and is very rare in this region. </div></td>
+  </tr>
+</table>
+
+  <table width="780" border="0">
+  <tr>
+    <td width="480" height="2574" valign="top"><p>&nbsp;</p>
+      <p>Excavations  at the Corral site (41PT186) targeted a deeply buried campsite  in a  low, narrow stream terrace along West Amarillo Creek.&nbsp; Resting  about a meter below the surface, the occupational layer  lay atop a  well-formed buried soil (A horizon).&nbsp;  This campsite was radiocarbon dated through two wood charcoal fragments and one  bison bone sample to ca. 200 to 300 B.P., part of the Protohistoric period. During this time  the region was still dominated by Native American peoples, although there was increasing interaction and trade with European explorers. </p>
+      <p> Cultural materials in this section of the Corral site were in a thin, well-defined  zone that represents a single camping event. Multiple flood events over the last 200 years  or so brought in light colored sands and sediment which buried, sealed, and  protected this campsite.&nbsp; Once buried,  however, rodents displaced some objects upward and downward in the  deposits.&nbsp; Fortunately, because only the one  Native American occupation was identified, mixing of  cultural materials had only minimal impact.&nbsp; Subsequent floods brought in  a few animal bones and modern historic artifacts, including small chunks of glass and metal  fragments that were not related to the campsite. </p>
+      <p>Five  cultural features (Features 1, 5, 6, 7, and 8), two concentrations of lithic (stone) materials (#1  and #2), and one cluster of bison bone  were uncovered in this  block. &nbsp;These represented areas where campers cooked, knapped stone tools,  and deposited garbage, including butchered bison bone. They also buried  a small cache of  tools, perhaps in anticipation of a future visit to the campsite. </p>
+      <p><strong>Feature 1</strong> was a large, white ash  lens first detected in the initial backhoe trench placed into this low  terrace.&nbsp; In the trench wall, the white  ash was about 120 cm long, by about 2 to 3 cm thick and tapered to a fine line  on each end.&nbsp; A few chunks of scattered  charcoal were at each end.&nbsp; One charcoal  chunk was radiocarbon dated through the accelerated mass spectrometer (AMS  technique).&nbsp; This tiny sample yielded a  corrected age of 230 &plusmn; 40 before present.&nbsp; Test Unit 2 (TU 2), a 1 by 1 m unit, then  targeted this ash lens and was excavated from the surface down through this  feature.&nbsp; No cultural materials were  recovered from about the ash lens.&nbsp; Only  a few tiny chert flakes were recovered from the margin of the ash lens.&nbsp; Within TU 2, the ash extended 90 cm east west  by 60 cm north south and was 4 to 5 cm thick.&nbsp;  The bottom of the ash was at 99 cm below the surface.&nbsp; </p>
+      <p>To have created such an abundance of ash with  little or no charcoal, a wood fueled fire would have had to burn long and hot  enough for complete combustion of the fuel.&nbsp;  The lack of any observed oxidation (orangish color) of the sandy loam  immediately below the ash indicates the ash did not burn in place.&nbsp; This ash had to have been dumped here on the  surface of the buried A soil horizon from some other fire event.&nbsp;&nbsp; The bottom of the ash was nearly flat with  its top slightly smoothed or truncated during subsequent floods.&nbsp; Thus, this is a secondary discard of unwanted  ash from a separate fire.</p>
+      <p><strong>Feature 5 </strong>was a small, irregular and poorly defined patch of dark-stained   sediment, with charcoal flecks and chunks.&nbsp; A decayed root in the adjacent unit   may partially account for this dark-stain.&nbsp; No burned rocks, ash, or other   cultural materials were found. This dark matrix may have been stain from   decaying natural organic matter.</p>
+      <p><br>
+        <strong>Feature 6</strong> was a  cache of eight stone artifacts that included four complete end and side  scrapers, two edge-modified flakes, and two unmodified flakes.&nbsp; This tight cluster of artifacts was exposed  during the backhoe stripping of the overburden to reach the targeted buried A  horizon.&nbsp; The cache was shallower than  expected, but in the targeted buried A horizon.&nbsp;  The eight artifacts were tightly concentrated in a roughly oval area  that measured 18 by 14 cm, and between 64 and 69 centimeters below surface  (cmbs), along the western edge (front) of the block.&nbsp; The pieces appeared to be in a very shallow,  3 cm deep basin.&nbsp; It was a few  centimeters into the dark brown buried A horizon and definitely within the  targeted cultural zone.&nbsp; Seven of the eight  pieces were lying flat and were nearly touching one another, with five pieces  across the top and three, 1 to 2 cm directly below the overlying five pieces. &nbsp;Some pieces rested with the dorsal side up and  others with the dorsal side down.&nbsp; A soft  rodent hole with tiny hair rootlets was directly under the stacked tools.&nbsp; This may have caused some slight downward  movement of the items.&nbsp; The excavation  units around this cache exhibited similar rodent runs, but very limited  cultural materials.&nbsp; </p>
+      <p><br>
+        High-powered  use-wear analysis was conducted on all eight items from Feature 6 by Bruce Hardy. He observed needle-shaped crystals in a plant cell, typically of calcium  oxalate (called raphides) on 7 of 8 pieces, with hair on 3 scrapers,  possible starch grains on 4 items, and hard, high silica polish on one  scraper.&nbsp; The interpretation is these scrapers were used to  scrape hide, wood, starchy plants, with both edge-modified pieces used to  scrape and cut plants, and the two flakes were used to cut plants and hide.&nbsp; Feature 6 is interpreted as a tool kit used  by the Native inhabitants, and then cached for future retrieval.&nbsp; Such caching behavior represents the  occupants&rsquo; intention to return to this specific locality in the near future to  retrieve those cached items.</p>
+      <p><strong>Features 7 </strong>and <strong>8 </strong>were two small basin-shaped hearths filled with white ash and mottled sediments  with the occasional piece of charcoal and tiny pieces of lithic debitage.&nbsp; Feature 7 was an ash-filled basin/pit with  ash smearing near the top.&nbsp; This feature  was slightly disturbed during backhoe stripping, which may have removed the upper few  centimeters of the northeastern section.&nbsp;  An irregular ashy  matrix extended over an area 65 to 70 cm east to west by some 40 cm north to south.&nbsp; Three lobes of ashy matrix extended southward  beyond the central concentration.&nbsp; The  top of what eventually turned out to be a basin, measured roughly 45 cm across,  and the middle of the basin was 7 cm deep.&nbsp;  The detected ashy matrix revealed a nearly circular basin.&nbsp; The basin was filled with mostly a whitish,  ashy mixture underlined by a very dark grayish brown stained matrix with small  (less than 1 cm in diameter) specks of yellowish red spots and tiny charcoal  flecks and chunks.&nbsp; The ash-filled basin  appeared partially outlined by a dark grayish to a very dark gray to black lens  1 to 3 cm thick.&nbsp; A brown sandy loam that  contained flecks of charcoal was above and below the ash.&nbsp; The three lobes of ashy matrix at the top of  the basin were very thin and difficult to discern.&nbsp; These lobes may have resulted from cleaning  out the ash and charcoal laden matrix from the basin during the  occupation.&nbsp; Feature 7 was about 2 m  southwest of ash dump Feature 1.</p>
+        <p>Nearly 19 liters  of sediment collected from Feature 7 were floated in a water tank in the  laboratory.&nbsp; The resulting heavier items  recovered included three tiny pieces of lithic debitage, 73 tiny pieces of  charcoal, two tiny unburned bone fragments, two burned seeds, and one unburned  hackberry seed.&nbsp; The material that floated  to the surface included many tiny rootlets, and insect parts along with some  tiny charcoal flecks.&nbsp; The charcoal  included more than 25 pieces of mesquite and 16 flecks of indeterminate plant  species.&nbsp;&nbsp;</p>
+        <p>Feature 7 is interpreted as an <em>in situ</em> basin-shaped heating element  that was allowed to burn completely out.&nbsp;  This created the mostly ashy fill with a thin charcoal-laden matrix  lining the basin.&nbsp; If the thin lobes of  ashy matrix to the southwestern side of the basin reflect cleanouts, then this  basin appears to have been cleaned out more than once during the  occupation.&nbsp;Tiny lithic debitage pieces  were found in the very top part of Feature 7.&nbsp;  These flakes may have originated from an identified flint knapping area immediately  adjacent the actual basin on the eastern side.&nbsp;  The presence of the flakes may indicate that an individual was flint  knapping, while sitting next to this heating element.&nbsp; The ash dump Feature 1 also yielded tiny  microdebitage in the ashy matrix.&nbsp; It is  likely that the ash in Feature 1 was cleaned out of this heating element.</p>
+        <p>&nbsp;</p></td>
+    <td width="300" valign="top">
+	<table width="300" border="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+	<table width="300" border="0">
+  <tr>
+    <td height="409" class="margintext"><div align="left">
+      <h3><img src="images/proto-spanish-sm.jpg" width="300" height="245"><br>
+        <em>What Is the Protohistoric? </em></h3>
+      <p><em>The Protohistoric, or contact, period is a relatively short, ca. 200-year, period of considerable change marked by the encroachment of European (Spanish and French) explorers into the region.  </em><a href="images/proto-spanish-textbox.html" target="_blank"><em><u>Read more</u></em></a></p>
+    </div></td>
+  </tr>
+</table>
+
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="323"><a href="images/proto-profile.html" target="_blank"><img src="images/proto-profile-sm.jpg" width="300" height="206" border="0" class="thumbimg"></a>
+      <div class="caption">Profile map from the Corral site, showing Protohistoric occupational surface in relation to other depositional units and radiocarbon-dated samples. Enlarge to view full graphic. <a href="images/proto-profile.html" target="_blank" onMouseOver="MM_swapImage('999','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image9" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr> 
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="383"><a href="images/proto-lens.html" target="_blank"><img src="images/proto-lens-sm.jpg" width="300" height="206" border="0" class="thumbimg"></a>
+      <div class="caption">View of trench 5 wall, showing light-colored ash lens (Feature 1), overlain and slightly truncated by layers of river gravel, sand, and other flood deposits. Flood events effectively sealed and protected  cultural remains in the Protohistoric campsite. Note dark-colored bured A-horizon soil inderneath. Enlarge to view full exposure. <a href="images/proto-lens.html" target="_blank" onMouseOver="MM_swapImage('999','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image9" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr> 
+</table>
+
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="450"><a href="images/proto-feat1.html" target="_blank"><img src="images/proto-feat1-sm.jpg" width="300" height="314" border="0" class="thumbimg"></a>
+      <div class="caption">Looking down on a section of Feature 1  after further excavation. The ash   apparently was dumped from a separate campfire area during camp maintenance about 200 years ago, based on radiocarbon assay.<br>
+        <a href="images/proto-feat1.html" target="_blank" onMouseOver="MM_swapImage('Image10','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image10" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+	<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="379"><a href="images/proto-cache.html" target="_blank"><img src="images/proto-cache-sm.jpg" width="300" height="225" border="0" class="thumbimg"></a>
+      <div class="caption">Cache of chipped-stone tools and flakes (Feature 6) carefully buried by campers at the site. Among the eight items in this probable tool kit were scrapers and unmodified flakes.<a href="images/proto-cache.html" target="_blank" onMouseOver="MM_swapImage('Image27','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image27" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+  
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="390"><a href="images/proto-fea7.html" target="_blank"><img src="images/proto-fea7-sm.jpg" width="300" height="242" border="0" class="thumbimg"></a>
+      <div class="caption">Feature 7, an intact, ash-filled basin within a larger area of ashy soil, likely was a heating element. Meat may have been cooked here as well as in the pit represented by Feature 8, just to the south.  <a href="images/proto-fea7.html" target="_blank" onMouseOver="MM_swapImage('999','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image29" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="370"><a href="images/proto-block.html" target="_blank"><img src="images/proto-block-sm.jpg" width="300" height="271" border="0" class="thumbimg"></a>
+      <div class="caption">Excavators dug  large blocks by hand to  discern the layout of the camp. <a href="images/proto-block.html" target="_blank" onMouseOver="MM_swapImage('999','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image29" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+	</td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td height="269" valign="top"><a href="images/proto-fea8-plan.html" target="_blank"><img src="images/proto-fea8-plan-sm.jpg" width="260" height="234" border="0" class="thumbimg"></a>
+      <div class="caption">Feature 8, an ash and charcoal-filled basin, where a hot fire burned. Small stone chipping flakes found among the ash suggest a knapper sat close by the fire making tools or perhaps dumped debris into the fire. <a href="images/proto-fea8-plan.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image28','','images/camera-button-ro-sm.jpg',1)"><img src="images/camera-button-sm.jpg" name="Image28" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    <td valign="top"><a href="images/proto-fea8.html" target="_blank"><img src="images/proto-fea8-sm.jpg" width="260" height="267" border="0" class="thumbimg"></a>
+      <div class="caption">Feature 8 graphic in plan (top) and profile (bottom, highlighted). <a href="images/proto-fea8.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image30','','images/camera-button-ro-sm.jpg',1)"><img src="images/camera-button-sm.jpg" name="Image30" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    <td valign="top"><a href="images/proto-fea8-profile.html" target="_blank"><img src="images/proto-fea8-profile-sm.jpg" border="0" class="thumbimg"></a>
+      <div class="caption">Feature 8 in profile, after sectioning. Note basin shape and reddish discoloration of sediments due to oxidation. In addition to tiny chipped-stone waste flakes, wood charcoal  and tiny bone fragments were recovered from the fill.  <a href="images/proto-fea8-profile.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image31','','images/camera-button-ro-sm.jpg',1)"><img src="images/camera-button-sm.jpg" name="Image31" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td width="480"><p><strong>Feature 8</strong> was an  ash and charcoal filled basin/pit along the very western edge (front) of the excavation  block.&nbsp; It was about 250 cm northwest of  the ash filled basin/pit Feature 7 and some 450 cm west of ash dump Feature  1.&nbsp; The ashy matrix was observed during  the initial backhoe stripping.&nbsp; The  stripping encountered ash at 63 cmbs along the southern end of this feature  with the northern end stripped to roughly 73 cmbs.&nbsp; The excavated basin appeared to have been  about 50 cm in diameter, some 12 cm deep, with a general bowl-shaped  outline.&nbsp; No burned rocks were  present.&nbsp; Most of the outer basin margins  exhibited a dark yellowish brown oxidized and hardened loam.&nbsp; This basin was filled with a patchy mixture  of gray and pale brown ash with charcoal flecks and chunks, and strong brown  sandy loam below the ashy fill.&nbsp; </p>
+      <p>
+The heavy fraction  from the floated matrix from Feature 8 yielded 126 tiny pieces of lithic  debitage, 107 tiny pieces of charcoal, 26 tiny burned or oxidized clay  particles, and three tiny bone fragments.&nbsp;  The light fraction yielded many tiny rootlets, insect parts, and wood  charcoal.&nbsp; The woods present include 24  pieces of cottonwood/willow, 27 pieces of sand plum/mountain mahogany-type, and  22 roots.&nbsp; No burned seeds,  nuts, or other plant parts were present.</p>
+      <p>
+Feature 8 is  interpreted as an <em>in situ,</em> basin-shaped  heating element that was allowed to burn almost completely out, allowing the fill to  be dominated by ashy, partially oxidized matrix with tiny pieces of  charcoal.&nbsp; The fire was sufficiently  intense to create patches of oxidized soil observed near the margins of the  basin.&nbsp; The high frequency of lithic  debitage in the matrix indicates that flint knapping took place immediately next  to this feature, with the tiny flakes falling into this heating element.&nbsp; Alternatively, the flakes may have been  intentionally discarded into the fire as a means of disposal, though this seems  less likely as there should have been a wider range of flake sizes represented  if disposal of knapping waste is represented.</p>
+      <p>
+Unassigned a feature number, a cluster of complete  and nearly complete bison bones was uncovered in TU 3 on the northern edge of  backhoe trench 5.&nbsp; The   bones  were not articulated and included seven identifiable elements including a complete navicular cuboid, a complete third phalanx, a  butchered left proximal tibia of a female, a right distal metatarsal of a  female, one upper molar, and an immature radius shaft.&nbsp; These identified bison bones represented at  least two animals.&nbsp; No burned rocks,  lithic debitage or other cultural items were recovered immediately around these  bones.&nbsp; Tiny flecks of charcoal were  observed in the soil matrix, but extensive rodent burrows were also observed  throughout this and other excavated levels, making contexts and associations  unclear.&nbsp; &nbsp;</p>
+
+<p>
+This bone cluster  is interpreted to represent a dump of butchered bison bones following  defleshing and marrow extraction.&nbsp; Marrow  extraction is inferred on the basis of the broken condition of the long  bones.&nbsp; Bone grease was not likely  targeted as the bones would have been smashed into much smaller pieces.&nbsp; A fresh proximal tibia would contain a high  percentage of fatty acid, considerable fat content, and the highest marrow  content.&nbsp; Therefore, the tibia present  would have been extensively fragmented and likely crushed beyond recognition if  bone grease extraction was carried out.</p>
+<p><strong>Tool Making </strong></p>
+<p>
+Two areas with quantities of clustered flakes and  a few broken end scrapers were identified as lithic tool  manufacturing areas.    Lithic Concentration<strong> #1</strong> extended over a six-unit area near the  center of the northern end of the excavation block.<strong>&nbsp; </strong>The larger of the two, it contained 130 pieces of debitage  recovered from screening through &frac14;-inch mesh.&nbsp;  Three of the six units were subjected to finer screening through 1/8-in mesh, and this yielded 115 pieces of microdebitage.&nbsp;  More than 98 per cent of the material was Alibates with the other 1.5 percent local  opalite<strong>.&nbsp; </strong>&nbsp; The presence of two different material  types indicates at least  two different tools were modified at Lithic  Concentration #1.&nbsp; One broken end scraper  was also in this concentration.</p>
+<p>
+Lithic  Concentration<strong> #2 </strong>encompassed an area roughly 4 m2 between Features 1  and 7 in the southern part of the block.&nbsp;  Four units contained 44 pieces of debitage.&nbsp; This area was not subjected to fine screening.&nbsp;   Complete and proximal flakes account for nearly 57 percent of the  debitage.&nbsp; Nearly 98 percent of the material used was Alibates.&nbsp; Two pieces of Tecovas  jasper and one silicified limestone probably represent the opportunistic use of locally available  materials to supplement Alibates material use.&nbsp;  Overall, the material types indicate the creation of a minimum of  three tools.&nbsp; One broken end scraper  was found on the northern edge of this concentration.</p>
+<p>
+Overall, the  artifacts recovered from this 144 m2- block excavation were limited  in number and type relative to the area covered.&nbsp; A total of 863 items were recovered.&nbsp; This included; 395 pieces of bone,&nbsp; 212 pieces of lithic debitage, 53 pieces of  charcoal, 12 burned rocks, 6 formal chipped stone scrapers, five  informal edge-modified flakes, a single core and a tested cobble, and a metal tinkler  cone. Trace element analysis of the metal tinkler indicated it was produced from a copper/zinc alloy. Tinkler cones were common trade items brought by Europeans.  Native peoples used them as decorations in hair or on clothing.  A few  recent historic items (clear glass fragments, metal strips and a tobacco tag)  were recovered, but these were interpreted to be intrusive to the Protohistoric  campsite.&nbsp;</p>
+      <p>It  is interesting that no stone projectile points or chipped-stone bifaces were  recovered.&nbsp; Their absence is interpreted  to indicate that metal knives had replaced the chipped bifaces and that guns  had replaced the bow and arrows.&nbsp; The  absence of clay pottery is also explained by the presumed presence of metal  cooking pots.&nbsp; One explanation for the  continued use and manufacture of stone scrapers may be related to the  intensification of the hide trade with the Europeans during this Protohistoric  period.&nbsp; This may also help explain the  unusual caching of scrapers in this campsite setting.&nbsp; Caching is a means of storing items for  future use and most often caches are found outside of campsites.</p>
+      <p>Although  only a few stone tools were recovered, these were all manufactured from local  Alibates silicified dolomite.&nbsp; The  Alibates came from the well known Alibates quarries at Alibates Flint   Quarries National    Monument about 35 miles (57 km) to the north of this  site.&nbsp; The waste flakes include some  recognized flakes from the manufacture or resharpening of end scrapers. &nbsp;These flakes were detached primarily by a soft  hammer percussion technique.&nbsp;</p>
+      <p><strong>Foods</strong></p>
+      <p>Evidence of   food resources here was dominated by bison bones representing at least two  animals.&nbsp; One animal was a mature female  based on the complete fusion of the articular end with the main long bone  shaft.&nbsp; An immature animal is represented  by an unfused radius.&nbsp; However, a few  deer elements were also identified, but only part of one lower leg.&nbsp; This deer leg may or may not represent a food  resource for the occupants.&nbsp; Mussel shell  meat was not a significant part of the food resources here, as only one shell  fragment was recovered.&nbsp; </p>
+      <p>Plants also played in role in Protohistoric diet. Starch grain  analysis on two burned rocks and a scraper from the occupation zone yielded  lenticular starch grains identified  as Canadian wildrye (<em>Elymus</em> <em>canadensis</em>) grass grains.&nbsp; In fact, one burned rock yielded both damaged  and gelatinized starch gains indicating the grass seeds were ground and cooked  with heat and water.&nbsp; This is one of the  few times that plant collecting, processing, and cooking have been documented  in an open, temporary campsite.</p>
+      <p><strong>Camp Layout </strong></p>
+      <p>Another  significant finding was the detection of excellent horizontal patterning of the  features and artifacts within this block.&nbsp;  These artifact patterns reflect very specific human behaviors rarely  recognized in open campsites, especially those lacking structures.&nbsp; The excavation strategy of exposing broad  horizontal areas, combined with the excellent context of this deeply buried,  single occupation, contributed to revealing these patterns.&nbsp; Five specific and well defined task areas  were recognized.&nbsp;&nbsp; These include a   bison bone discard area, two chipped-stone tool  manufacturing and maintenance areas, a heating/possible  cooking area with two basin shaped hearths (Features 7 and 8) roughly 2 to 3 m  apart, the cleaning out and discard of excess ash from the hearths (Feature 1),  and the caching of stone artifacts (Feature 6).&nbsp;  Lithic concentration #2 was on the northern side of hearth Feature  7.&nbsp; During the knapping of stone tools,  some waste debris ended up in the hearth sediments.&nbsp; It is not clear if the flakes were  intentionally discarded into the hearth as a means of cleaning or if they  arrived inadvertently during the knapping process.&nbsp; Tiny flakes also showed up in the discarded  ash in Feature 1, about two meters northeast of Feature 7.&nbsp; The tiny flakes in the hearths and the  discard feature ties these three features together in time.&nbsp; Each lithic concentration yielded a broken  end scraper and concentration #1 also yielded flakes that came from  the manufacture of end scrapers.</p>
+      <p>Protohistoric  camps are rare and not well represented in the current site inventory for the Texas panhandle  region.&nbsp; It is even more rare for a  Protohistoric camp to be excavated.&nbsp; This  was a very interesting time period when interactions between multiple Native groups  and Europeans occurred.&nbsp; Unfortunately in  a short-term camp such as this, the occupants were not there long enough to  have left behind large quantities of garbage.&nbsp;  They left no artifacts that would allow the archeologist to specifically  identify a particular cultural group.&nbsp; The  occupants were definitely Native Americans that possessed metal goods. There  was no indication that this group traded with other native groups.&nbsp; The Alibates stone used to make their scrapers and  other chipped-stone items was local.&nbsp; This may  indicate this was a local group with knowledge and past use of the local lithic  resources.&nbsp; The metal tinkler cone does  indicate this group had some contact, possibly direct, but more likely indirect  with the encroaching Europeans.</p></td>
+    <td width="300" valign="top">
+	<table width="300" border="0">
+  <tr>
+    <td height="570" valign="bottom"><a href="images/proto-lithicmap-arts.html" target="_blank"><img src="images/proto-lithicmap-arts-sm.jpg" width="300" height="362" border="0" class="thumbimg"></a> 
+      <div class="caption">Horizontal patterning of features, artifacts, and lithic concentrations in this short-term campsite reflect multiple task areas, including cooking, chipped-stone tool manufacturing, camp maintenance and trash deposition, and caching of tools. Enlarge to view full map.<a href="images/proto-lithicmap-arts.html" target="_blank" onMouseOver="MM_swapImage('Image16','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image16" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="583"><a href="images/proto-tu3bones.html" target="_blank"><img src="images/proto-tu3bones-sm.jpg" width="300" height="444" border="0" class="thumbimg"></a> 
+      <div class="caption">Examples of bison bones discarded in a dump area after butchering. At least two animals were represented in this cluster.<a href="images/proto-tu3bones.html" target="_blank" onMouseOver="MM_swapImage('Image17','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image17" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+  
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="358"><a href="images/proto-tinkler.html" target="_blank"><img src="images/proto-tinkler-sm.jpg" width="300" height="189" border="0" class="thumbimg"></a> 
+      <div class="caption">This small ornament, known as a tinkler  cone, was the only metal item  related to the   Protohistoric campsite. Typically brought by Europeans for trade with Indians, these   items often were used as   adornments in hair,  on clothing, or tack.&nbsp;&nbsp; <a href="images/proto-tinkler.html" target="_blank" onMouseOver="MM_swapImage('Image18','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image18" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="571"><a href="images/proto-scraper.html" target="_blank"><img src="images/proto-scraper-sm.jpg" width="300" height="346" border="0" class="thumbimg"></a> 
+      <div class="caption">Ovate end scraper likely used for scraping hides, based on hair fragments and other use-wear traces observed microscopically. The tool apparently was hafted at its mid point into a wooden handle. This hafting technique, also employed for   Late Archaic scrapers,  allowed greater pressure to be applied to tasks such as hide scraping. <a href="images/proto-scraper.html" target="_blank" onMouseOver="MM_swapImage('Image19','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image19" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="337"><a href="images/proto-starch.html" target="_blank"><img src="images/proto-starch-sm.jpg" width="302" height="189" border="0" class="thumbimg"></a> 
+      <div class="caption">Evidence of plant use: Damaged starch granules shown under high-powered microscopic magnification. Starch is  found in most plants such as seeds and tubers. The condition of the grains, above, indicate they had been ground, or otherwise processed, as preparation for cooking.</div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr valign="bottom">
+    <td height="562"><a href="images/proto-alibates.html" target="_blank"><img src="images/proto-alibates-sm.jpg" width="300" height="397" border="0" class="thumbimg"></a>
+      <div class="caption"><span class="text">Alibates flakes recovered from the site. All of the stone tools and waste materials were sourced to the Alibates quarry (Alibates Flint Quarries National Monument) roughly 35 miles north of the Corral Site.</span><a href="images/proto-alibates.html" target="_blank" onMouseOver="MM_swapImage('Image21','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image21" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+
+	</td>
+  </tr>
+</table>
+
+  
+  
+   <!-- #EndEditable --></div>
+  <div id="foot">
+    <p class="links"><a href="index.html">Landis Project Main</a> <a href="setting.html">Reconstructing the Paleoenvironment</a> <a href="pipeline.html">Pipeline Site: Late Archaic Encampments</a> <br>
+      <a href="corral.html">Corral Site: A Short-Term Protohistoric Camp</a> <a href="future.html">Highlights and Future Research</a> <a href="public.html">Public Archeology</a><br><a href="credits.html">Credits & Sources</a></p>
+    <p> <a href="http://utopia.utexas.edu" target="_blank"></a> <a href="../index.html">Texas Beyond History</a><br>
+      <a href="../sitemap.html">Site Map</a><br>
+      <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" -->December 2010<!-- InstanceEndEditable --></p>
+  </div>
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

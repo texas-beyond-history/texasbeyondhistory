@@ -1,0 +1,3 @@
+./coast/images/he1.html:54:<a href=""><img src="../../st-plains/images/close.gif" name="close" width="109" height="35" onClick="self.close();"></a>
+./st-plains/images/he9.html:51:        <a href=""><img src="../../st-plains/images/close.gif" name="close" width="109" height="35" onClick="self.close();"></a>
+./st-plains/images/ap2.html:126:      <a href=""><img src="../../st-plains/images/close.gif" name="close" width="109" height="35" onClick="self.close();"></a>

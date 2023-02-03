@@ -1,0 +1,84 @@
+ransom/images/project-sidebar1-qt.html:		<embed src="mariafranklinsidebar1.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-dist-arronnvideo1-qt.html:		<embed src="arch-fieldaaronninterview1.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-field-iconvideo-qt.html:		<embed src="clipc-r42009-07-07tbhran905.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/project-sidebar1-rev.html:        <source src="mariafranklinsidebar1.mov" class="thumbimg">
+ransom/images/index-dougboydinterview1-qt.html:		<embed src="index-dougboydfieldinterview1.mov" Pluginspage="http://www.apple.com/quicktime/" width="780" height="600" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-field-arronnvideo2-qt.html:		<embed src="arch-fieldaaronninterview1.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/settlement-horsebrand-video-qt.html:		<embed src="settlement-clipTerriMyerssinterview1.mov" Pluginspage="http://www.apple.com/quicktime/" width="780" height="600" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/index-mariafranklininterview1-qt.html:		<embed src="mariacr420090707tbhra.mov" Pluginspage="http://www.apple.com/quicktime/" width="780" height="600" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-field-mariafvideo2-qt-TEST.html:<!--		<embed src="arch-fieldmariafinterview2.mov"
+ransom/images/arch-field-mariafvideo2-qt-TEST.html:		name="IBM Video" src="arch-fieldmariafinterview2.mov"</video> 
+ransom/images/TerriMyersinterview3-qt.html:		<embed src="settlement-clipTerriMyersinterview3.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="637" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-field-iconvideo-h5.html:          <source src="clipc-r42009-07-07tbhran905.mov" class="thumbimg">
+ransom/images/settlement-horsebrand-video.html:          <source src="settlement-clipTerriMyerssinterview1.mov" class="thumbimg">
+ransom/images/settlement-horsebrand-video.html:SRC="settlement-clipTerriMyerssinterview1.mov"
+ransom/images/settlement-horsebrand-video.html:<PARAM NAME="src" VALUE="settlement-clipTerriMyerssinterview1.mov" >
+ransom/images/arch-field-mariafvideo2-qt.html:		<embed src="arch-fieldmariafinterview2.mov"
+ransom/images/arch-field-mariafvideo2-qt.html:		name="IBM Video" src="arch-fieldmariafinterview2.mov"</video> 
+ransom/images/arch-field-dougbvideo2-qt.html:		<embed src="arch-field-dougbinterview2.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ransom/images/arch-field-nedralvideo2-qt.html:		<embed src="arch-field-nedralinterview1.mov" Pluginspage="http://www.apple.com/quicktime/" width="1280" height="736" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec6-roll-dart.html:		<embed src="hafted-spec6-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="1020" height="555" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-specimen1-lateral.html:		<embed src="hafted-spec1-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="750" height="275" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec3-roll-point.html:              <param name='src' value="hafted-spec3-rotate-point.mov">
+ceremonial/images/hafted-spec3-roll-point.html:              <EMBED src="http://www.texasbeyondhistory.net/ceremonial/images/hafted-spec3-rotate-point.mov" width="320" height="255" autoplay="true" controller="true" loop="true" pluginspage='http://www.apple.com/quicktime/download/' onload="MM_showHideLayers('Layer1','','hide')">              </EMBED>
+ceremonial/images/hafted-spec6-lateral.html:		<embed src="hafted-spec6-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="1270" height="280" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec1-roll-dart.html:		<embed src="hafted-spec1-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="915" height="275" CONTROLLER="false" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec1-lateral.html:        <param name='src' value="hafted-spec1-lateral.mov">
+ceremonial/images/hafted-spec1-lateral.html:        <EMBED src="http://www.texasbeyondhistory.net/ceremonial/images/hafted-spec1-lateral.mov" width="320" height="255" autoplay="true" controller="true" loop="true" pluginspage='http://www.apple.com/quicktime/download/' onload="MM_showHideLayers('Layer1','','hide')">
+ceremonial/images/hafted-spec5-lateral.html:		<embed src="hafted-spec5-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="1285" height="290" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec3-lateral.html:		<embed src="hafted-spec3-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="1300" height="290" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-specimen1-roll-point.html:		<embed src="hafted-spec1-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="750" height="350" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec7-roll-dart.html:		<embed src="hafted-spec7-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="1000" height="460" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec7-roll-point.html:		<embed src="hafted-spec7-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="900" height="450" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec5-roll-point.html:		<embed src="hafted-spec5-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="600" height="365" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec6-roll-point.html:		<embed src="hafted-spec6-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="900" height="550" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec5-roll-dart.html:		<embed src="hafted-spec5-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="900" height="360" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec4-roll-point.html:		<embed src="hafted-spec4-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="475" height="320" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec3-roll-dart.html:        <param name='src' value="hafted-spec3-rotate-dart.mov">
+ceremonial/images/hafted-spec3-roll-dart.html:        <EMBED src="http://www.texasbeyondhistory.net/ceremonial/images/hafted-spec3-rotate-dart.mov" width="320" height="255" autoplay="true" controller="true" loop="true" pluginspage='http://www.apple.com/quicktime/download/' onload="MM_showHideLayers('Layer1','','hide')">
+ceremonial/images/hafted-spec4-lateral.html:		<embed src="hafted-spec4-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="1080" height="275" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec2-roll-point.html:		<embed src="hafted-spec2-roll-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="700" height="420" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-specimen1-roll-dart.html:		<embed src="hafted-spec1-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="750" height="315" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec2-roll-dart.html:		<embed src="hafted-spec2-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="750" height="370" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec4-roll-dart.html:		<embed src="hafted-spec4-roll-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="970" height="320" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec3-rotate-point.html:		<embed src="hafted-spec3-rotate-point.mov" Pluginspage="http://www.apple.com/quicktime/" width="320" height="350" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec1-roll-point.html:        <param name='src' value="hafted-spec1-roll-point.mov">
+ceremonial/images/hafted-spec1-roll-point.html:        <EMBED src="http://www.texasbeyondhistory.net/ceremonial/images/hafted-spec1-roll-point.mov" width="320" height="255" autoplay="true" controller="true" loop="true" pluginspage='http://www.apple.com/quicktime/download/' onload="MM_showHideLayers('Layer1','','hide')">
+ceremonial/images/hafted-spec7-lateral.html:		<embed src="hafted-spec7-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="1100" height="280" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec2-lateral.html:		<embed src="hafted-spec2-lateral.mov" Pluginspage="http://www.apple.com/quicktime/" width="750" height="285" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+ceremonial/images/hafted-spec3-rotate-dart.html:        <embed src="hafted-spec3-rotate-dart.mov" Pluginspage="http://www.apple.com/quicktime/" width="915" height="280" CONTROLLER="true" LOOP="true" AUTOPLAY="true" name="IBM Video"></embed>
+tejas/images/ancient1.html:          <td><embed src="ancient1.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient9.html:          <td><embed src="ancient9.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient7.html:          <td><embed src="ancient7.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient10.html:          <td><embed src="ancient10.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient8.html:          <td><embed src="ancient8.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient5.html:          <td><embed src="ancient5.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient4.html:          <td><embed src="ancient4.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient13.html:          <td><embed src="ancient13.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient11.html:          <td><embed src="ancient11.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient6.html:          <td><embed src="ancient6.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient3.html:          <td><embed src="ancient3.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient2.html:          <td><embed src="ancient2.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/images/ancient12.html:          <td><embed src="ancient12.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient1.html:          <td><embed src="ancient1.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient9.html:          <td><embed src="ancient9.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient7.html:          <td><embed src="ancient7.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient10.html:          <td><embed src="ancient10.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient8.html:          <td><embed src="ancient8.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient5.html:          <td><embed src="ancient5.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/blkbottle2.html:          <td><embed src="blkbottle2.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/cylindjar.html:          <td><embed src="cylindjar.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient4.html:          <td><embed src="ancient4.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/redbottle.html:          <td><embed src="redbottle.mov" width="300" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient13.html:          <td><embed src="ancient13.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/blackbowl.html:          <td><embed src="blackbowl.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/tailrider.html:          <td><embed src="tailrider.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient11.html:          <td><embed src="ancient11.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/hixonbottle.html:          <td><embed src="hixonbottle.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient6.html:          <td><embed src="ancient6.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient3.html:          <td><embed src="ancient3.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/smallestblkbowl.html:          <td><embed src="smallestblkbowl.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient2.html:          <td><embed src="ancient2.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/redbowl.html:          <td><embed src="redbowl.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/blkbottle1.html:          <td><embed src="blkbottle1.mov" width="400" height="300" pluginspage="http://www.quicktime.com">
+tejas/clay/galleries/images/ancient12.html:          <td><embed src="ancient12.mov" width="400" height="300" pluginspage="http://www.quicktime.com">

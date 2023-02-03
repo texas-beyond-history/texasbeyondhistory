@@ -1,0 +1,22 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+
+<link href="../../popup.css" rel="stylesheet" type="text/css">
+<title>Hinds Cave</title>
+</head>
+
+<body >
+<p><a href="gallery.html">Back</a></p>
+<img src="collecting.jpg" width="757" height="800">
+<div class="caption">John Copp bags  the coarse material from uppermost fiber layer.  After the fine soil passed through the screen, large volumes of plant fibers, leaves, twigs, and such remained.  Virtually all of these items are technically artifacts – natural materials that people had carried into Hinds Cave and modified in many different ways. TAMU Anthropology archives. </div>
+<p><a href="gallery.html">Back</a></p>
+
+
+</body>
+</html>

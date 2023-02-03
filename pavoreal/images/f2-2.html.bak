@@ -1,0 +1,43 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><html>
+<!-- #BeginTemplate "/Templates/image-lg.dwt" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<META NAME="htdig-noindex">
+<!-- #BeginEditable "doctitle" --> 
+<title>Pavo Real</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" cellspacing="10" cellpadding="0" width="302">
+  <tr> 
+    <td><!-- #BeginEditable "image" --><img src="f2-2.jpg" width="800" height="543" border="0"><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"><!-- #BeginEditable "caption" -->Crew member sketches a partially 
+      exposed cluster of burned rocks that may be an irregular hearth. During 
+      the Archaic dig, many of the excavations units were not connected to one 
+      another. As a result, partially exposed features such as this one were difficult 
+      to evaluate.<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"> 
+      <div align="center"><a href="#" onClick="MM_callJS('window.close()')" class="text">Close 
+        Window</a></div>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate -->
+</html>

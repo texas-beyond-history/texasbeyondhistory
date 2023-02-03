@@ -1,0 +1,204 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>Horn: Stratum 7</title>
+<script type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg','camera-button-ro-sm.jpg')">
+<table width="780" border="0">
+  <tr>
+  <td width="200" valign="top">  
+<table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-redder-414.html" target="_blank"><img src="layers-strat7-redder-414-sm.jpg" width="200" height="350" border="0" class="thumbimg"></a>
+      <div class="caption">Profile of 35-foot wall, looking north, Unit 35, showing limestone fragments in Stratum 7. The 5-foot-long measure stick rests at a depth of 198 inches.  Located largely outside the drip line of the shelter, the stratum is made up of talus deposits and possibly flood materials. Based on archeological evidence, it appears to be a continuation of Stratum 5 , although it is different in color and texture.  Photo by Albert Redder. <a href="layers-strat7-redder-414.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-refitted-cobble.html" target="_blank"><img src="layers-strat7-refitted-cobble-sm.jpg" alt="Image of a bone tools from Arenosa." width="200" height="259" border="0" class="thumbimg"></a>
+      <div class="caption">Conjoined pieces of quartzite cobble, the top half of which was found in Stratum 7, the bottom in Stratum 5E. Photo by Susan Dial. <a href="layers-strat7-refitted-cobble.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-redder-407.html" target="_blank"><img src="layers-strat7-redder-407-sm.jpg" width="200" height="253" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Large leaf-shaped biface, or knife, found near the  bone bed at a depth of 188 inches below datum. Photo by Albert Redder. </em> <a href="layers-strat7-redder-407.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+    <td width="380" valign="top"><h3>Stratum 7: Rocky Red</h3>
+      <p>Nearly four feet in thickness, this stratum consists of reddish brown sandy clay,  containing many angular fragments of limestone. Cultural materials are scattered throughout, including three San Patrice and two unclassified, expanding-stemmed dart points; a bison bone bed and a fire hearth with a radiocarbon date of ca. 10,600 years B.P. was uncovered at the lowest levels. </p>
+      <p>Extending upward from the yellowish  clay layer near the bottom of the shelter to the red-white spotted Sub-Stratum 8D, Stratum 7  is positioned toward the front  of the cave deposit, where the interface is uneven and difficult to discern. A portion of this stratum lies outside the overhang. Horizontal fingers of cave deposit  occasionally extend into this stratum, but the deposits outside the drip line are  very different in texture and appearance. </p>
+      <p>For the excavators, this stratum has been somewhat of an  enigma. Redder noted: &quot;At first we wondered if this was the redeposition of another  archeological deposit.&nbsp; Then a broken  quartzite stone was found, half in the cave deposit and half in this stratum.<strong> </strong>&nbsp;San Patrice points (&quot;Brazos Fishtails&quot;) also were  found in this stratum near the 5-foot north-south line.&nbsp; With these findings, we then decided Stratum 7 may be contemporary with  the cave deposit and may represent a slow build up.&quot;</p>
+      <p>Roughly 5 feet west of the baseline, two small, Archaic-looking,  expanding-stem dart points were found in a single excavation unit, at approximately the  same depth at which the San Patrice points were recovered nearby. One of the expanding  stemmed points was found <em>in situ; </em>the other was found in two pieces, one in the screen, the other in the wall.&nbsp; </p>
+      <p>Redder wrote at the time, &ldquo;I could discover  no reason for an Archaic-looking point being at this depth. Clearly a long hard  look must be taken at the remainder of this stratum.&rdquo; </p>
+      <p>To some, these points  resemble certain Late Paleoindian/Early Archaic  points.  Archeologist Michael Collins has suggested (based on  looking at a photo) that one may be related to type Big Sandy, the other a  resharpened Wilson  point. The two points also bear similarities to  San Patrice variants  at sites in the midwest, such as Big Eddy.  </p>
+      <p>Deeply buried at the base of Stratum 7 in Horn Shelter was an extensive concentration of burned and unburned animal bone, including bison, deer-sized animal, small mammals, and fish.   A few chipped-stone  tools, chert flakes, red ocher, and charcoal fragments were scattered among these, along  areas of burned earth.  Based on size and robusticity, the bison was <em>Bison antiquus</em>.   The bones of this animal were not articulated, nor were all elements present. Portions of the bison bone were  jacketed in plaster for removal<em>.</em> &nbsp;</p></td>
+    <td width="200" valign="top">
+	  
+	  
+<table width="200" border="0">
+  <tr valign="bottom">
+    <td valign="middle"><a href="layers-strat7-redder-315-points.html" target="_blank"><img src="layers-strat7-redder-315-points-sm.jpg" width="200" height="202" border="0" class="thumbimg"></a>
+      <div class="caption">San Patrice points recovered from Stratum 7. Expand to see additional specimen. Photo by Albert Redder.<a href="layers-strat7-redder-315-points.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-redder-519.html" target="_blank"><img src="layers-strat7-redder-519-sm.jpg" width="199" height="224" border="0" class="thumbimg"></a>
+      <div class="caption">Shallow, basin-shaped hearth (Feature 30-4) uncovered near the base of Stratum 7 at its juncture with Stratum 3.  A composite charcoal sample from the feature was radiocarbon dated to 10,600+/- 180 years B.P. As was the case with other Paleoindian hearths at Horn Shelter, the fire was built directly on the ground, with no rock. Photo by Albert Redder. <a href="layers-strat7-redder-519.html"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-feature-map.html" target="_blank"><img src="layers-strat7-feature-map-sm.jpg" width="198" height="180" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Plan drawing of hearth (Feature 30-4), shown in photo above. Note the “drag-out” area of ash and debris, where cooked food or other materials may have been pulled away from the hearth. Drawing by Albert Redder. Enlarge to see detail.  </em> <a href="layers-strat7-feature-map.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td valign="middle"><a href="layers-strat7-points.html" target="_blank"><img src="layers-strat7-points-sm.jpg" width="200" height="148" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Unclassified expanding-stem projectile points from Stratum 7, similar to some San Patrice variants from other sites. Note serration and rersharpening of blade in right specimen. </em> <a href="layers-strat7-points.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  </td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td valign="top"><table width="260" border="0">
+    <tr valign="bottom">
+      <td><a href="layers-strat7-redder-654.html" target="_blank"><img src="layers-strat7-redder-654-sm.jpg" width="260" height="271" border="0" class="thumbimg"></a>
+        <div class="caption">A section of the bone bed uncovered near the base of Stratum 7. Photo by Albert Redder.<a href="layers-strat7-redder-654.html" target="_blank" onMouseOver="MM_swapImage('Image13','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="camera-button-sm.jpg" name="Image13" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+</td>
+<td valign="top">
+  <table width="260" border="0">
+    <tr valign="bottom">
+      <td><div align="center"><a href="layers-strat7-bone-map.html" target="_blank"><img src="layers-strat7-bone-map-sm.jpg" width="260" height="273" border="0" class="thumbimg"></a>
+        </div>
+        <div class="caption"><em>Plan drawing of one section of the bone bed  with elements identified and coded by Albert Redder.</em> <a href="layers-strat7-bone-map.html" target="_blank" onMouseOver="MM_swapImage('Image14','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image14" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+</td>
+<td valign="top">
+  <table width="260" border="0">
+    <tr valign="bottom">
+      <td height="258" valign="top"><a href="layers-strat7-redder-688.html" target="_blank"><img src="layers-strat7-redder-688-sm.jpg" width="260" height="276" border="0" class="thumbimg"></a>
+        <div class="caption">Bison mandible and charcoal fragments. Photo by Albert Redder.<a href="layers-strat7-redder-688.html" target="_blank" onMouseOver="MM_swapImage('Image15','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"> <img src="camera-button-sm.jpg" name="Image15" width="19" height="20" border="0" align="absmiddle"></a></div></td></tr>
+  </table></td>
+  </tr>
+</table>
+ <table width="780" border="0">
+  <tr>
+  <td width="200" valign="top">  
+<table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-profile-crop.html" target="_blank"><img src="layers-strat7-profile-crop-sm.jpg" width="200" height="229" border="0" class="thumbimg"></a>
+      <div class="caption">Vertical location of the bone bed found near base of Stratum 7, as sketched in profile by Albert Redder.  <a href="layers-strat7-profile-crop.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-redder-682.html" target="_blank"><img src="layers-strat7-redder-682-sm.jpg" alt="Image of a bone tools from Arenosa." width="200" height="229" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Stone chopper or scraper found near the  bone bed in Stratum 7. Photo by Albert Redder. </em> <a href="layers-strat7-redder-682.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-waterscreen.html" target="_blank"><img src="layers-strat7-waterscreen-sm.jpg" width="200" height="269" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Tiny bones, chipped stone flakes, and snails recovered from water screening of sediment sample in Stratum 7. </em> <a href="layers-strat7-waterscreen.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+    <td width="380" valign="top">
+      <p>Adjacent and west of&nbsp;  the bone bed, but further under the shelter overhang, was a shallow,  basin-shaped hearth (Feature 30-4) with a &ldquo;drag-out&rdquo; area, perhaps representing the removal of  cooked food or other materials from the fire. As was the case with other Paleoindian hearths at Horn Shelter, the  fire apparently had been built directly on the ground, with no rock, resulting in areas of burned earth. Charcoal,  a bison rib bone, and other bone fragments, some of which were burned, were  recovered in or near this feature.&nbsp;A  charcoal sample was AMS dated to 10,600+/- 180 B.P. (CAMS-395 12,438 +/-260 calibrated years B.P.</p>
+      <p>Roughly 50 pounds of soil  was saved from the feature and other areas and brought back to the lab for  washing in a fine screen. This yielded a quantity of tiny animal bones, burned  bone fragments, stone chips, and a variety of snail shells. </p>
+      <p>The scraper, or uniface, assemblage from Stratum 7 is  similar to that of Sub-Stratum 5G, except that they are not as numerous and three  types&mdash;oblique, concave, and transverse&mdash;are not present. One end scraper was  found.&nbsp; Other chipped-stone tools were  scraper-gravers, utilized flakes, biface fragments, a core, and a chopper.&nbsp; Worked and polished bone fragments were found,  as well as charred bone. </p>
+      <p>Stratum 7 is likely a buildup of deposits (talus) that have  been washed over the top of the shelter, and includes regolith and red soil  from the Edwards formation. The talus deposits may have been mixed as well with  some flood silts and sands. &nbsp;Based on the  occurrence of the very early hearth, the San Patrice points, and the refitted  quartzite cobble fragment, this stratum appears to contain several occupation  areas equivalent to, or outside extensions of, the cave deposits (5G). These may be more clearly defined after  further analysis of the materials and records. Like the interior cave deposits,  Stratum 7 is capped in part by Stratum 6, a deposit which contained a Scottsbluff point  and an unclassified expanding stemmed point.&nbsp;</p></td>
+    <td width="200" valign="top">
+	  
+	  
+
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="294" valign="middle"><a href="layers-strat7-redder-315.html" target="_blank"><img src="layers-strat7-redder-315-sm.jpg" border="0"></a>
+      <div class="caption"><em>Examples of unfacial tools, modified animal bone, and other materials from Stratum 7. Photo by Albert Redder. </em> <a href="layers-strat7-redder-315.html"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="210" valign="middle"><a href="layers-strat7-scrapers.html" target="_blank"><img src="layers-strat7-scrapers-sm.jpg" width="200" height="184" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Unifacial tools from Stratum 7.</em> <a href="layers-strat7-scrapers.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="200" border="0">
+  <tr valign="bottom">
+    <td width="204" height="210" valign="middle"><a href="layers-strat7-redder-698.html" target="_blank"><img src="layers-strat7-redder-698-sm.jpg" width="200" height="204" border="0" class="thumbimg"></a>
+      <div class="caption"><em>Two large boulders found at a depth of about 198 inches in Stratum 7, at the edge of the drip line. View looking east. Photo by Albert Redder.</em> <a href="layers-strat7-redder-698.html" target="_blank" onMouseOver="MM_swapImage('999','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image12" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  
+  </td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><a href=""><img src="../../images/close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+ 
+<script language="javascript"> 
+ 
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+ 
+ 
+<script language="javascript" type="text/javascript"> 
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+

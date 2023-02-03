@@ -1,0 +1,106 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>The Belle</title>
+<meta name="keywords" content="The Belle, La Salle, Karankawa, Matagorda Bay, cofferdam, underwater archeology, Texas history, Texas archeology, Texas Historical Commission, Conservation Research Laboratory, Texas A&M">
+<meta name="description" content="The history of a French colonizing vessel and the methods used to excavate this unique shipwreck site off the Texas coast.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- <link rel="stylesheet" href="../../style-fl-coast.css" type="text/css" media="screen"/> --> 
+<!-- <link rel="stylesheet" href="../../print.css" type="text/css" media="print"/> -->
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 36px;
+	color: #990000;
+	font-family: arial, sans-serif;
+}
+.style4 {
+	color: #990000;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+}
+.style5 {color: #990000; font-size: 18px; }
+.style8 {
+	color: #990000;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg')">
+<table width="780" border="0">
+  <tr>
+    
+    <td><div align="center"><span class="style1">Pelvis and Hips (or Pelvic Girdle)
+    </span></div></td>
+	<td><a href="analysis-pelvises.html" target="_blank"><img src="analysis-pelvises-sm.jpg" alt="illustration of male and female pelvises" border="0"></a></td>
+	
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+  <td><img src="analysis-pelvises-dirt.jpg"></td>
+    <td><p align="left" class="style4">The pelvis is made up of several bones arranged in a basin shape and includes the hip bones. The pelvis plays an important role in the body. It supports the spinal column and protects the abdomen.  It also provides a foundation for the leg bones, and acts like a lever to control the body position in relation to the legs (in other words, which way you bend).  Finally, the pelvis helps the body bear its weight. The pubic bones, located in the pelvis, gradually change as a person gets older, and these can help us tell how old the person is. 
+</p>   </td>
+    
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr><td height="35">
+
+    </td>
+  </tr>
+  <tr><td><span class="style8">What can the pelvis of our sailor tell us?</span><br><img src="analysis-pelvis.jpg" width="780" height="561" border="0" usemap="#Map"></td>
+  </tr>
+
+</table>
+
+
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><img src="analysis-pelvis-dirt2.jpg"> </div></td>
+  
+  </tr>
+</table>
+
+
+
+<table width="780" border="0">
+  <tr>
+    <td height="62"><div align="center"><a href=""><img src="close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+
+
+
+
+<script language="javascript">
+
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+
+<map name="Map">
+<area shape="poly" coords="12,289,262,297,273,50,24,41" href="analysis-pelvis-sockets.html" target="_blank" alt="photo of the sailor's hip sockets showing evidence he walked with a limp">
+</map></body>
+</html>

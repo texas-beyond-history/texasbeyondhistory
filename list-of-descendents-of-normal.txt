@@ -1,0 +1,47 @@
+./abouttbh/feedback.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/feedback.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/teach.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/pretx.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/plateaus.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/teach.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/pretx.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./abouttbh/plateaus.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./search.php:3:<html><!-- InstanceBegin template="/Templates/normal.dwt" codeOutsideHTMLIsLocked="false" -->
+./sitemap.html.bak:3:<html><!-- InstanceBegin template="/Templates/normal.dwt" codeOutsideHTMLIsLocked="false" -->
+./rubin/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./rubin/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./forms/response.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./forms/comments.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./forms/comments.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./forms/response.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./faq/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./faq/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./belle/artifacts.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./belle/artifacts.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./glossary/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./glossary/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./can.txt:13140:Templates/normal.dwt:<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+./can.txt:13141:Templates/normal.dwt:<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+./brownsville/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./brownsville/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./copyright.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./Templates/WS_FTP.LOG:2:2001.07.31 14:10 B C:\WINDOWS\desktop\TBH\Recent\Templates\normal.dwt --> tarlserver.tarl.utexas.edu /Website Stuff/TBH Website Temp/Templates normal.dwt
+./Templates/WS_FTP.LOG:4:2001.07.31 16:39 B C:\WINDOWS\desktop\TBH\Recent\Templates\normal.dwt <-- TARL /Website Stuff/TBH Website Temp/Templates normal.dwt
+./Templates/WS_FTP.LOG:19:2001.10.02 03:11 B C:\WINDOWS\Desktop\TBH\Recent\Templates\normal.dwt.LCK --> uts.cc.utexas.edu /export/httpd/vhosts/texasbeyondhistory/data/Templates normal.dwt.LCK
+./Templates/WS_FTP.LOG:52:2005.04.04 13:44 B L:\TBH Website Temp\Templates\normal.dwt --> uts.cc.utexas.edu /export/httpd/vhosts/texasbeyondhistory/data/Templates normal.dwt
+./upcoming.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./guytown/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./guytown/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./site/index.html.bak:1:<html><!-- #BeginTemplate "/Templates/normal.dwt" -->
+./site/index.html:1:<html><!-- #BeginTemplate "/Templates/normal.dwt" -->
+./tips.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./upcoming.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./sitemap.html:3:<html><!-- InstanceBegin template="/Templates/normal.dwt" codeOutsideHTMLIsLocked="false" -->
+./prehistoric/index.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./prehistoric/index copy.html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./prehistoric/index copy.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./prehistoric/index (copy).html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./prehistoric/index.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./prehistoric/index (copy).html.bak:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./copyright.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->
+./tips.html:3:<html><!-- #BeginTemplate "/Templates/normal.dwt" --><!-- DW6 -->

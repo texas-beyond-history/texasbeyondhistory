@@ -1,0 +1,175 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/spotlight.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Snails</title>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../camera-button-ro-sm.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>  
+	<div id="nav">
+		<div id="tt"><h1>Spotlight</h1></div>
+	
+	</div>
+
+<div id="content"><!-- InstanceBeginEditable name="body" -->
+  <h2>Archeomalacology: What We Can Learn from Snails</h2>
+  <table width="780" border="0">
+  <tr>
+    <td width="780">
+    
+    <img name="icon" src="images/snail-analysis.jpg" width="780" height="508" alt="">
+    <div class="caption"> This is science, but it&rsquo;s about as low-tech as you  can get. Preliminary sorting of microsnails can be done without magnification,  but final identification requires a microscope, usually at about 10-30X.  Specimens are manipulated with an artist&rsquo;s paintbrush, or sometimes with a pair  of Italian steel forceps. Photo by Ken Brown. </div></td>
+    </td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td width="480" valign="top"><p><em>Sometimes even the smallest of creatures can provide big  insights.&nbsp; Ken Brown, an archeologist and&nbsp;TARL Research Affiliate, has been on the trail  of snails for decades.&nbsp; From these seemingly  inconsequential mollusks, a wealth of data about past environments at  archeological sites can be gleaned. Simply put, different species of snails  thrive in different environmental conditions. </em>
+        <em> By determining which species were present at a given time, he can   reconstruct what the climatic conditions were like over time.&nbsp; His   observation of snails (species, habitat requirements, species densities   and distributions, etc) allow him to contribute invaluable insight into   site formation and transformation over time, evidence of bioturbation,   possible signs of cultural utilization, and especially   paleo-environmental reconstruction.
+        </em>
+    <p><em>The processes involved in snail analysis are painstaking and often   tedious, involving screening sediment samples through a series of   increasingly fine-grained mesh, picking out the shells, sorting by size,   and finally identifying them.&nbsp; Good eyesight is a must for this job:   some snails in his samples are less than a millimeter across,   and specimen storage is in gel caps, not plastic bags.&nbsp; For   archeologists, however, this sort of information can be invaluable&mdash;and   often the only available indicator of past environments.</em></p>
+      <p><strong>By Ken Brown</strong></p>
+<p><em>Archeomalacology</em> is the study of mollusks in archeological contexts. Strictly speaking, this  might include marine bivalves, marine snails, freshwater mussels, and various  kinds of inland snails. In practice, though, I work only with snails  (terrestrial, amphibious, and aquatic) from continental settings, along with  some other kinds of very small invertebrate organisms that are sometimes  recovered in snail sampling (peaclams, fingernail clams, and freshwater  limpets).</p>
+      <p>There are two reasons why archeologists might want  to commission studies of snails from archeological sites:</p>
+      <p>1) Snails are useful paleoenvironmental indicators.</p>
+      <p>
+        2)  In Central and South Texas, snails of the genus <em>Rabdotus</em> were a conspicuous food item beginning in the Early  Archaic and perhaps peaking in exploitation in the Late Archaic.</p>
+      <p>Furthermore, snails can be used as a source of  organic material for radiocarbon assay or epimerization studies, and have also  been used for carbon and oxygen isotope studies.</p>
+      <p>Although to most archeologists, &ldquo;snail&rdquo; and &ldquo;<em>Rabdotus</em>&rdquo; are synonymous, in reality  there are many native Texas land and amphibious species and perhaps as many as  41 aquatic species (although DNA studies are collapsing this number). Kathryn  Perez estimates that there are as many as 185 contemporary and extirpated  terrestrial species and subspecies, although I am skeptical that all these of  these species reports are valid (many reports probably date from decades ago,  when taxonomic splitting was rampant, and the real number of Texas natives is  probably significantly lower). There are also a few species that have been  extirpated since the Pleistocene, and around a dozen or so invasive Eurasian  land or aquatic species. The native terrestrial species differ widely in  habitat preference and body size, from the tiny <em>Carychium mexicanum</em> (adult shell height, 1.7-2.0 mm) <em>to Rabdotus alternatus</em> (adult shell  height, up to 4.3 cm). In archeological sites where habitats were favorable and  proper sampling is done, generally about two to three dozen taxa can be  expected. In Texas, the <a href="../../lubbock/index.html" target="_blank">Lubbock Lake site</a> holds the record for diversity, with  just under four dozen taxa.</p>
+      <p>Snail shell usually preserves well anywhere in Texas  except in sandy, acidic, calcium-deficient soils in east Texas (or clay-rich  vertisols). Bone is about 30% organic material (collagen), and when bone  decays, bacteria attack the organic component, opening up the matrix to further  degradation by soil acids. Snail shell, on the other hand, has only about 1-5%  organic matter or less, and is essentially immune to bacterial attack. I have  seen a number of Texas archeological sites where the bone was completely  decayed away, or reduced to corroded, unidentifiable fragments, but the snail  shell was well preserved. A good example is furnished by the Paleoindian  deposits at the <a href="../../pavoreal/index.html" target="_blank">Pavo Real site</a>, where almost no bone whatsoever was recovered,  but where snail shell was well preserved, and the assemblage was small only  because the excavators made no effort at systematic collection. Most Texas  archeologists have no interest in snails whatsoever. The standard research  protocol for snails is to throw them away. I have seen many reports from  snail-rich parts of Texas in which the word &ldquo;snail&rdquo; never appears anywhere,  even in stratigraphic descriptions. In CRM studies, snails are one more type of  analysis that must be paid for, and another collection category that must be  curated. Better to pretend they don&rsquo;t exist&#8212; that&rsquo;s the prevailing paradigm.</p>
+      <p>Although basic scientific terminology for mammals  became solidified by the beginning of the 20th century, the situation  for snails is very different. The taxonomy is constantly changing, and  archeologists should be aware of that. In the war between lumpers and  splitters, the splitters carried the day in the 1930s-1960s, and as a result, a  great many species and subspecies were created that are now known to be invalid  (perhaps this is why so many species have been reported for Texas). In the last  couple of decades, biologists have started to apply DNA analysis to snails, and  as a result, many taxa have been collapsed into simpler groupings, often with  revised names. As a result, one needs to understand the taxonomic history to  correlate new species names with the old ones, because many of the snails  reported in the Texas archeomalacological literature are listed under old,  outdated names. The example probably most familiar to archeologists is the  revision in 1974 of the genus <em>Bulimulus</em> to the genus <em>Rabdotus</em>, but there are  many other examples to be found, and every year the species names change.</p>
+      <p>Snails are highly moisture-dependant, which makes  them good paleo-moisture proxies in archeological sites. Unlike cursorial  mammals, they can&rsquo;t travel to a water source, and when they do travel, it&rsquo;s on  a mucus trail that results in major water loss. Everyone has probably seen the  slime trails left by slugs on rainy nights. Slugs are snails that have lost  their external shell through evolutionary processes. Active slugs can lose  30-40% of their body weight within two hours. Snails regulate water loss by  adjusting behavior in both time and space. They are nocturnal, they gravitate  towards areas with high relative humidity or moist substrates, and they are  inactive during the day. In dry periods, snails can <em>estivate</em>, practicing metabolic arrest and tolerating remarkably  high levels of toxins in their kidneys, withdrawing into the shell and sealing  it with an <em>epiphragm</em>. Most snails are  not particularly temperature-sensitive, but they are useful indicators of past  moisture conditions and microhabitats. This can readily be seen on a macro  scale by plotting their geographic ranges on isopleth maps of annual rainfall.</p>
+      <p>When archeologists identify animal bones to try to  diagnose past environments, they are essentially &ldquo;sampling&rdquo; an area that may  have a radius anywhere from meters to kilometers in size. With buried pollen,  the sampling radius may be as much as tens or hundreds of kilometers, depending  on whether the plants were wind-pollinated or insect-pollinated. With snails,  the sampling radius is immediate to the site area, unless they have been  transported downstream long distances and deposited in <a href="../../glossary/index.html#alluvium" target="_blank">alluvium</a>. The smallest  snail species have a home range that may only be a few tens of centimeters in  radius, so snails can often provide information on past habitats that are much  more localized in geographic scope. This can be an advantage if the project  archeologist is more interested in the site paleoenvironment than the regional  paleoenvironment.</p>
+      <p>Sampling of snails for paleoenvironmental studies  has much in common with the procedures used for charcoal and plant  macrofossils, although there are some differences. Because archeologists are  usually concerned with environmental change over time, columns of samples at  5-cm or 10-cm intervals are collected from standing profile walls (preferably  one already recorded by the project geomorphologist). The sampling intervals  are tied into the site grid, usually shot in with a total data station, and  often the levels are the same as those used in the excavation units. While in  theory we could just as easily sample horizontally on a given surface, it&rsquo;s  usually change over time we&rsquo;re looking for. My target sample size is usually  15-20 liters of sediment. These are large samples, much larger than those used  in pollen analysis. The goal is to obtain specimen counts large enough to allow  quantitative treatment of data. Sediment samples are dried, weighed (in  kilograms), measured volumetrically (in liters), then soaked overnight in water  (with sodium carbonate if clay-rich). If snails float to the surface, they are  scooped up with a strainer and dried separately (as &ldquo;floaters&rdquo;). The sediment  is wet-sieved through nested 2 mm, 1 mm, and 0.5 mm brass geologic sieves,  without pushing the sediment through the sieve. These are custom-made,  extra-large sieves, 18 inches in diameter to allow processing of the oversize  samples. Residue retained on the sieves is dried in the lab, then manually  picked with forceps or a paintbrush. Microsnails are identified under low  magnification (usually only about 10X, but up to 40X). I also save shell  fragments and weigh them, because these can indicate changes over time in  taphonomic conditions, and because some taxa can be identified even from  fragments. Many archeologists seem to think that only complete shells can be  identified and need to be saved, but this is not true. It depends on the  species. The specimen counts and weights are then entered in spreadsheets.  Photodocumentation is done, generally with a microscope-mounted videocam for  small specimens. Microsnails are stored in gelcaps placed in plastic vials (not  bags!).</p>
+      <p>I also save any other kinds of material that may be  of interest to other specialists working on a project. Vertebrate bone  (including rodent teeth, fish bone, and snake vertebrae), fish scales, charcoal  fragments, charred seeds, uncharred hackberry seeds, flakes of mussel shell,  microdebitage from stone toolmaking, ostracod valves, and charophyte oogonia  (the calcareous fruiting bodies from green algae) can emerge from the snail  samples. At the Genevieve Lykes Duncan site, even the sediment residue itself  was saved for heavy mineral separation studies.</p>
+      <p>As a very rough estimate, perhaps 30% of the native  Texas land species are large-bodied (adult shell diameter over about 10 mm),  perhaps another 24% or so are medium bodied (about 5-10 mm diameter), and the  remaining 46% are microsnails (these percentages are somewhat problematical).  Aquatic snails also have a wide range of body sizes, although the size  partitioning is unknown. All of these are potentially informative about past  environments (especially the microsnails), so a sampling technique that  recovers the full spectrum of body sizes is important. A reasonable guess would  be that about 60% of the adult terrestrial species in Texas are too small to be  retained on standard quarter-inch field screens. That means that in any  particular site, <em>not a single example</em> of about 60% of the species that are actually present might show up unless fine  sieving is done. The situation is even worse when we consider juveniles. All  juvenile microsnails, perhaps half or more of the medium-bodied species, and  even many of the large-bodied species will fall through standard quarter-inch  mesh. Because column samples, even 20-liter ones, tend not to capture very many  large-bodied snails, I like to combine that information with a sample of large  and medium-bodied snails from field screens. I will usually ask the field crew  to save all snails and shell fragments from one or two excavation units that are  closest to the column sample, and if they complain, I can always bribe them  with the promise of cold beer.</p>
+      <p>Analysis involves identifying each specimen to  species, genus, or family if possible; tabulating adults and juveniles,  complete and partial specimens separately; and measuring selected species (to  the nearest tenth of a millimeter). While it&rsquo;s not always possible to identify  each specimen to the species level, it may not matter. Often, the members of a <em>genus</em> or even of a <em>family</em> share <em>habitat  preferences </em>sufficiently that it&rsquo;s adequate just to pin down the ID to the  genus or family level. The real goal of identification is to see what habitat  preferences are expressed in the assemblage at any one level, and how these  might change over time, because the habitat preferences tell us what the  environment was like. If there&rsquo;s consensus among the different snail species,  we know there was a uniform environment. If there are disparities, we know we  either have a mosaic or patchy environment, or else transport mechanisms (like  flooding) have introduced snails from contrasting habitats. When identification  is finished, we can look for changes in faunal composition over time, plot  stratigraphic changes in adult-juvenile ratios, use the metric data to look for  secular changes in body size, and plot changes in species richness and specimen  abundance, as well as ratios of complete and fragmentary specimens. Experience  with Texas sediments has shown that depositional history is a major driver of  changes in snail faunas. In alluvial deposits, it seems to be common for snail  species richness and abundance to increase over time and with diminishing depth,  because the deepest deposits show evidence of higher depositional rates.  Likewise, the percentage of aquatic species may decline over time, not so much  because the environment is becoming drier, but because the terrace tread is  building up and as time goes on, it is less likely that flooding will deposit  aquatic snails on the surface. Consequently, the aquatic/terrestrial ratio  declines over time. Archeomalacology is both <em>science and art</em>. The art lies in recognizing these intrinsic  geologic drivers of change and parsing out the less parochial changes that  represent the regional environment, or site-specific microhabitats. </p>
+      <p>If sample columns are deep enough to penetrate  Pleistocene sediments, they may document significant extirpation events or  range changes at the end of the last ice age. At the Vara Daniel site (Travis  County), the terrestrials&nbsp; <em>Cochlicopa lubricella</em>, <em>Pupilla muscorum</em>, <em>Vallonia</em> sp., and <em>Pomatiopsis  lapidaria</em>, and at Berger Bluff (Goliad County) the aquatic <em>Valvata tricarinata</em> appeared to be  potential Pleistocene marker species. In the San Antonio area, <em>Anguispira strongylodes</em> appears at Pavo  Real and at the San Antonio River Mammoth site, well beyond its current range.  Since the end of the Pleistocene in Texas, the history of snail faunas has been  one of reduced biodiversity, range retraction to the eastward (or to higher  altitude in mountainous west Texas, or to the more extreme case of retraction:  statewide extirpation), expansion of neotropical taxa, and in historic times,  the invasion of Eurasian species. Among the aquatic snails, <em>pulmonate</em> species (lung-breathing snails  capable of surviving in stagnant, poorly oxygenated waters) probably survived  Holocene drying better than <em>prosobranch</em> (gill-breathing species which prefer clear-running, well-oxygenated water)  snails.</p>
+      <p>In Texas, paleoenvironmental studies of snails have  been done at early sites like <a href="../../lubbock/index.html" target="_blank">Lubbock Lake</a>, Lake Theo, Rex Rodgers,  <a href="http://www.texasbeyondhistory.net/plateaus/images/ap5.html" target="_blank">Wilson-Leonard</a>, Vara Daniel, the Aubrey site, <a href="../../beene/index.html" target="_blank">Richard Beene</a> site, the bench  deposits at<a href="http://www.texasbeyondhistory.net/st-plains/images/ap5.html" target="_blank"> Berger Bluff</a>, La Paloma Mammoth site; and at later Holocene sites  like the <a href="http://www.texasbeyondhistory.net/st-plains/images/ap4.html" target="_blank">Anthon </a>site, Fish Creek Slough, <a href="../../guadbay/index.html" target="_blank">Guadalupe Bay</a>, Kenyon Rockshelter,  <a href="http://www.texasbeyondhistory.net/st-plains/images/ap12.html" target="_blank">Smith Creek Bridge site</a>, and the Hog Creek sites. These low-tech studies are  difficult and labor-intensive, but they can be done most places in the state,  especially where other paleoenvironmental proxies are scarce or lacking, and  require little in the way of expensive equipment. The wide applicability of  these studies would seem to warrant better attention from Texas archeologists  in the future. Project archeologists contemplating such studies should contact  the archeomalacologist well in advance and arrange for a site visit, preferably  after good profiles have been developed, and as the project geomorphologist  finishes fieldwork. Sample collection by the malacologist is preferable to  samples collected by the field crew, except for selected field screen samples.  Close consultation with the geomorphologist is essential.</p>
+      <p>Viewers who want to know more about  archeomalacology can look for <em>Snails:  Archaeology and Landscape Change</em> (Paul Davies, 2008, Oxbow Books) or peruse  online back issues of the <em>ArchaeoMalacology  Newsletter</em>.</p>
+      <p>&nbsp;</p></td>
+    <td width="300" valign="top">
+    
+    <table width="300" border="0">
+  <tr>
+    <td height="328"><a href="images/snail-size.html" target="_blank"><img src="images/snail-size-sm.jpg" alt="" name="image" width="300" height="232" class="thumbimg"></a>      <div class="caption"> Snail faunas include large-bodied, medium-bodied,  and micro-sized species. Juveniles of all classes, as well as micro-sized  adults will generally not be retained on the quarter-inch field screens that  archeologists use. <a href="images/snail-size.html" target="_blank" onMouseOver="MM_swapImage('Image14','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image14" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="446"><a href="images/snail-mesh.html" target="_blank"><img src="images/snail-mesh-sm.jpg" alt="" name="image" width="300" height="274" class="thumbimg"></a>      <div class="caption"> Here are two of the most common micro-sized  terrestrial snail species in Texas (these examples are from Berger Bluff, in  Goliad County). Neither will be captured in quarter-inch mesh.    <a href="images/snail-mesh.html" target="_blank" onMouseOver="MM_swapImage('Image15','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image15" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="820"><a href="images/snail-column.html" target="_blank"><img src="images/snail-column-sm.jpg" alt="" name="image" width="300" height="586" class="thumbimg"></a>
+      <div class="caption"> Sam Cason collecting sediment samples for snail  recovery at the Genevieve Lykes Duncan site, on the 02 Ranch in Brewster  County. This 2.8 meter high column in the arroyo wall runs from the modern  ground surface to a level estimated at about 10,200 radiocarbon years before  present. Excavations in the Paleoindian deposits are ongoing just out of view  to the right, at about the same level where Sam is working. One of the  completed sample bags can be seen at lower right (average weight, 15. 5  kilograms, or 34 pounds). <a href="images/snail-column.html" target="_blank" onMouseOver="MM_swapImage('Image16','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image16" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="649"><a href="images/snail-donnely.html" target="_blank"><img src="images/snail-donnelly-sm.jpg" alt="" name="image" width="300" height="370" class="thumbimg"></a>      <div class="caption">Anastasia Gilmer and  Britt Bousman  sieving contemporary snail samples from a residential yard in San Marcos in  October, 2011. The severe drought in the preceding summer led to a  catastrophic,&nbsp; rapid die-off, which gives  us a snapshot of living snail faunas. We can look at species composition,  biodiversity, adult-juvenile ratios, and profiles of body sizes to compile a  benchmark for evaluating archeological assemblages in Central Texas. We  collected samples from five 1 x 1 meter quadrants in different microhabitats, so we  can evaluate spatial variability and microhabitat response in this relatively  arid, upland habitat as well. <a href="images/snail-donnely.html" target="_blank" onMouseOver="MM_swapImage('Image17','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image17" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="513"><a href="images/snail-donnely-u3.html" target="_blank"><img src="images/snail-donnely-u3-sm.jpg" alt="" name="image" width="300" height="373" class="thumbimg"></a>      <div class="caption"> The San Marcos samples (this one from Unit 3)  produced thousands of adult <em>Gastrocopta</em>.  There is no scale shown, but each shell is probably less than about 3 millimeters  in length. These appear to all be the same species.    <a href="images/snail-donnely-u3.html" target="_blank" onMouseOver="MM_swapImage('Image18','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image18" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+<table width="300" border="0">
+  <tr>
+    <td height="461"><a href="images/snail-sieves.html" target="_blank"><img src="images/snail-sieves-sm.jpg" alt="" name="image" width="300" height="273" class="thumbimg"></a>      <div class="caption"> Samples are wet-sieved through nested oversize (18  inch) custom-made geological sieves. There are three mesh sizes: 2 mm, 1 mm,  and 0.5 mm. I use oversize sieves because I work with large samples (generally  15-20 liters) in order to get specimen counts that are large enough for  quantitative analysis. In Britain, where the climate is wet and snails are  abundant, researchers can routinely work with only 1-2 kilograms of sediment. <a href="images/snail-sieves.html" target="_blank" onMouseOver="MM_swapImage('Image19','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image19" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table><table width="300" border="0">
+  <tr>
+    <td height="634"><a href="images/snail-foolsrab.html" target="_blank"><img src="images/snail-foolsrab-sm.jpg" alt="" name="image" width="300" height="374" class="thumbimg"></a>      <div class="caption"> Measurements of individual shell size can help with  species identification, but more importantly, can allow us to build demographic  profiles of a species that show whether human collecting has produced any kind  of size bias in the sample of discarded shells. This profile of <em>Rabdotus</em> sp. shell height comes from the  entire sample column at the Vara Daniel site in Austin. It shows a bimodal  distribution with significant juvenile mortality, and no marked preference for  adults. This looks like a natural population profile, and it can be compared to  size profiles from the contemporary San Marcos samples. <a href="images/snail-foolsrab.html" target="_blank" onMouseOver="MM_swapImage('Image20','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image20" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table><table width="300" border="0">
+  <tr>
+    <td height="506"><a href="images/snail-mesodonrain.html" target="_blank"><img src="images/snail-mesodonrain-sm.jpg" alt="" name="image" width="300" height="276" class="thumbimg"></a>      <div class="caption"> More than anything else, snails are sensitive to  moisture levels in their immediate environment, since they can&rsquo;t travel to  water sources. The shaded area shows the species range for <em>Mesodon thyroidus</em>, a common large-bodied woodland species (the dots  are individual county records). The isopleth map shows the species is  restricted to areas with at least 32 inches of annual precipitation (the single  outlier in the lower Rio Grande valley a restricted habitat of some sort). This  plot uses geography to demonstrate moisture sensitivity, but we can also use  this knowledge to trace changes over time instead of space.    <a href="images/snail-mesodonrain.html" target="_blank" onMouseOver="MM_swapImage('Image21','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image21" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table><table width="300" border="0">
+  <tr>
+    <td height="554"><a href="images/snail-vard-fig14.html" target="_blank"><img src="images/snail-vard-Fig14-sm.jpg" alt="" name="image" width="300" height="334" class="thumbimg"></a>      <div class="caption"> Terrestrial snails (<em>Cochlicopa</em> and <em>Pupill</em>a  sp.) from the Vara Daniel site (mostly from deep auger tests). These are  probably Pleistocene marker species and were perhaps extirpated in Central Texas  before the Younger Dryas. They illustrate the effect of long-term climate  change on snail faunas. Source: <em>Archaeological  Excavation of a Deeply Buried Paleoindian Component at the Vara Daniel Site (41  TV 1364), Travis County, Texas</em>, Appendix K, Fig. K-11. EComm, 2010. <a href="images/snail-vard-fig14.html" target="_blank" onMouseOver="MM_swapImage('Image22','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image22" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table><table width="300" border="0">
+  <tr>
+    <td height="566"><a href="images/snail-fishcr-Fig6.html" target="_blank"><img src="images/snail-fishcr-Fig6-6-sm.jpg" alt="" name="image" width="300" height="347" class="thumbimg"></a>      <div class="caption"> Sampling for terrestrial and aquatic snails at a  Late Prehistoric-Protohistoric site in Dallas County recovers a variety of  biological material. A-C are terrestrial snails, D-I and L are aquatic snails,  J is freshwater limpets, K are peaclams, and M is a pair of mandibles, possibly  from embryonic or newly hatched snakes. Source: <em>Archeological Data Recovery at Fish Creek Slough Site (41 DL 436)</em>,  Fig. 6-6. AmaTerra, 2014.<strong></strong> <a href="images/snail-fishcr-Fig6.html" target="_blank" onMouseOver="MM_swapImage('Image23','','../camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="../camera-button-sm.jpg" name="Image23" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+<p>&nbsp;</p></td>
+  </tr>
+</table>
+<!-- InstanceEndEditable -->  </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="../../spotlight.html">Return to Spotlight Main</a>    </p>
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../../index.html">Texas Beyond History</a><br>
+     <a href="../../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    <!-- InstanceBeginEditable name="date" --> <!-- InstanceEndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

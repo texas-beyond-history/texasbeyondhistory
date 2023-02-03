@@ -1,0 +1,22 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+
+<link href="../../popup.css" rel="stylesheet" type="text/css">
+<title>Hinds Cave</title>
+</head>
+
+<body >
+<p><a href="gallery.html">Back</a></p>
+<img src="HC75-morningclimb.jpg" width="1000" height="679">
+<div class="caption">The hike to Hinds Cave from the camp was no breeze; it was over two kilometers down the slope toward the Pecos, down into Still Canyon, and up a nearly vertical climb to the cave.  The climb up required the use of a rope and both hands.</div>
+<p><a href="gallery.html">Back</a></p>
+
+
+</body>
+</html>

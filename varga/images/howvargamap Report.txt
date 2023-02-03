@@ -1,0 +1,44 @@
+howvargamap.swf Movie Report
+-----------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         105564         105564    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                   287
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+macrobotanical                         0            96                     0
+fattyacid                              0            87                     0
+phytolith                              0            86                     0
+use-wear                               0            86                     0
+radiocarbon                           37            89                     0
+pollen                                 0            83                     0
+petrographic                           0            90                     0
+neutron                                0           108                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Arial Black                    3212     -AFMNPRUWabcdeghilnoprstuvy
+
+ActionScript Bytes    Location
+------------------    --------
+                41    Scene 1:Layer 2:1:macro(macrobotanical)
+                36    Scene 1:Layer 2:1:fatty(fattyacid)
+                33    Scene 1:Layer 2:1:pollen(pollen)
+                36    Scene 1:Layer 2:1:phytolith(phytolith)
+                39    Scene 1:Layer 2:1:petrographic(petrographic)
+                34    Scene 1:Layer 2:1:neutron(neutron)
+                30    Scene 1:Layer 2:1:use(use-wear)
+                38    Scene 1:Layer 2:1:radiocarbon(radiocarbon)
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+vargahow.jpg                   99955     1280000   Imported JPEG=102
+
+
+
+

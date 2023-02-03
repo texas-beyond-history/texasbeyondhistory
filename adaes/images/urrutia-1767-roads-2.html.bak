@@ -1,0 +1,151 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<SCRIPT 
+LANGUAGE="JavaScript"> <!-- Scrolling alt tag javascript --> 
+<!-- More javascripts at http://www.hypergurl.com --> <!-- Begin function 
+showtip2(current,e,text){ if (document.all&&document.readyState=="complete"){ 
+document.all.tooltip2.innerHTML='<marquee style="border:1px solid black">'+text+'</marquee>' 
+document.all.tooltip2.style.pixelLeft=event.clientX+document.body.scrollLeft+10 
+document.all.tooltip2.style.pixelTop=event.clientY+document.body.scrollTop+10 
+document.all.tooltip2.style.visibility="visible" } else if (document.layers){ 
+document.tooltip2.document.nstip.document.write('<b>'+text+'</b>') 
+document.tooltip2.document.nstip.document.close() document.tooltip2.document.nstip.left=0 
+currentscroll=setInterval("scrolltip()",100) document.tooltip2.left=e.pageX+10 
+document.tooltip2.top=e.pageY+10 document.tooltip2.visibility="show" 
+} } function hidetip2(){ if (document.all) document.all.tooltip2.style.visibility="hidden" 
+else if (document.layers){ clearInterval(currentscroll) document.tooltip2.visibility="hidden" 
+} } // End --> </script>
+<title>Los Adaes</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+
+
+</head>
+<body onLoad="MM_preloadImages('button-profile-ro.jpg','button-detail-ro.jpg','button-legend-ro.jpg','button-roads-ro.jpg','images/CaminodelosAis.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a></div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	
+	
+	<div id="nav">
+	<div id="tt">
+            <h1>Los Adaes</h1>
+      </div>
+
+
+    <h2><a href="../index.html">Main</a>
+	<a href="../setting.html">Setting</a>
+	<a href="../worlds.html">Cultural Worlds</a>
+	<a href="../time.html">Through Time</a>
+	<a href="../maps.html">18th Century Maps</a>
+	<a href="../explore.html">Explore Los Adaes</a><br>
+	<a href="../life.html">Glimpses of Life</a>
+	<a href="../legacy.html">Los Adaes Legacy</a>
+	<a href="../credits.html"> Credits &amp; Sources</a>	</h2>
+</div>
+
+  <table width="780" border="0">
+    <tr>
+      <td><div 
+id="tooltip2" style="position:absolute;visibility:hidden;clip:rect(0 
+150 50 0);width:150px;background-color:63639C;z-index:10"></div> 
+<div align="left" name="divTest" onMouseover="showtip2(this,event,'This 
+is a great alt tag effect to your text links!');" onMouseout="hidetip2();" 
+STYLE="cursor: hand"> <TABLE border="0" cellpadding="0" 
+cellspacing="0"><TR><TD COLSPAN="7"> <a 
+href=http"//www.yorsite.com"><h2>Spanish Roads </h2></a><p> </TABLE> 
+<p></div><h2>Spanish Roads </h2></td>
+    </tr>
+  </table>
+  <table width="780" border="0">
+    <tr>
+      <td width="650"><img src="urrutia-1767-roads.jpg" width="650" height="509" border="0" usemap="#Map2">
+       
+	  <p>Urratia’s map depicts five roads radiating out from Los Adaes.  All are labeled as to destination where they lead. The main Camino Real passes through the site from west-northwest to east-northeast.</p></td>
+    
+      <td width="130" valign="top">
+	   <table width="130" border="0">
+  <tr>
+    <td><a href="urrutia-1767-presidio.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','button-detail-ro.jpg',1)"><img src="button-detail.jpg" name="Image6" width="130" height="45" border="0"></a></td>
+  </tr>
+</table>
+	  <table width="130" border="0">
+  <tr>
+    <td><a href="urrutia-1767-cross.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','button-profile-ro.jpg',1)"><img src="button-profile.jpg" name="Image5" width="130" height="45" border="0"></a></td>
+  </tr>
+</table>
+       <table width="130" border="0">
+  <tr>
+    <td><a href="urrutia-1767-legend.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','button-legend-ro.jpg',1)"><img src="button-legend.jpg" name="Image7" width="130" height="45" border="0"></a></td>
+  </tr>
+</table>
+<table width="130" border="0">
+  <tr>
+    <td><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','button-roads-ro.jpg',1)"><img src="button-roads.jpg" name="Image8" width="130" height="45" border="0"></a></td>
+  </tr>
+</table>
+
+	  
+	  </td>
+    </tr>
+  </table>
+  <table width="780" border="0">
+    <tr>
+      <td><div align="center"><a href="urrutia-1767.html"><img src="back-arrow-map.png" width="251" height="42" border="0"></a></div></td>
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+    <div id="foot">
+
+	<p class="links"><a href="../index.html">Main</a>
+	<a href="../setting.html">Setting</a>
+	<a href="../worlds.html">Cultural Worlds</a>
+	<a href="../time.html">Through Time</a>
+	<a href="../maps.html">18th Century Maps</a>
+	<a href="../explore.html">Explore Los Adaes</a><br>
+	<a href="../life.html">Glimpses of Life</a>
+	<a href="../legacy.html">Los Adaes Legacy</a>
+	<a href="../credits.html"> Credits &amp; Sources</a></p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank"></a>
+     <a href="../../index.html">Texas Beyond History</a><br>
+     <a href="../../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+    </p>
+</div>
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+
+<map name="Map2">
+<area shape="poly" coords="20,288,114,270,211,236,276,192,295,180,315,173,312,164,289,173,234,208,159,247,50,274,15,281" href="#" alt="The main Camino Real passes through the site from west-northwest to east-northeast.  To the west of the presidio, it is labeled Camino de los Ais, because it leads to Mission Dolores de los Ais at today&rsquo;s San Augustine, Texas.  ">
+<area shape="poly" coords="637,43,612,47,548,68,499,86,424,117,386,132,371,138,370,127,421,100,469,81,513,66,555,52,592,38,623,34,641,31,640,44" href="#">
+</map></body>
+</html>

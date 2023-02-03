@@ -1,0 +1,105 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>Horn: Strata Overview</title>
+<script type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../../print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg','camera-button-ro-sm.jpg')">
+<table width="780" border="0">
+  <tr>
+    <td width="480" height="188" valign="top"><h3>Stratigraphic Overview</h3>
+    
+        <p>Horn Shelter 2 holds an interesting and complex stratigraphy reflecting both man-made and natural deposits. Twenty-seven strata and sub-strata representing roughly 12,500 years of human history, from Paleoindian to modern times, were  identified in the south end of the shelter (see<a href="../layers.html"> Reading the Layers </a>for details on cultural evidence from each stratum). These layers can be   characterized generally within a sequence of three main divisions based on mode of  deposition.&nbsp; From the base of the cave  upward (oldest to youngest), these units include River deposits, Cave deposits, and Flood deposits.  Other layers with different depositional histories are described separately as Transitional and Outer deposits. </p>
+        <p><strong>River deposits</strong>:  The period when the river apparently flowed closer to the shelter and deposited sand, clay, and gravel (some of it imbricated, or overlapping, indicating water flow).&nbsp;Resting on bedrock at the base of the  shelter, the deposits (Strata 1-3) contained only sparse, if any, signs of human occupation. Stratum 1 was culturally sterile. Remains of extinct  animals were found in <a href="layer-2.html" target="_blank">Stratum 2</a>, including that of ground sloth and giant turtle. Atop the river gravels was a layer of yellowish clay lightly mixed with red sand (<a href="layer-3.html" target="_blank">Stratum 3</a>) which contained apparent tools of Clovis people, hearths, and  food remains, including bones of giant turtle. </p>
+        <p><a href="layer-4.html" target="_blank">Stratum 4 </a>lay at the back of the shelter and was composed of limestone slabs decayed from the back wall and  coated with red clay. An enigmatic area of charcoal stains (possible hearth) with thousands of tiny animal bones as well as bison and turtle bones was uncovered in this layer, along with a few chipped-stone tools. </p>
+      
+        
+    </td>
+    <td width="400" valign="top">
+	<table width="400" border="0">
+  <tr>
+    <td><a href="layers-overview-stratigraphy.html" target="_blank"><img src="layers-overview-stratigraphy-sm.jpg" alt="photo of Horn Shelter profile" width="400" height="579" border="0" class="thumbimg"></a>
+    <div class="caption">Profile of deposits at Horn Shelter, with approximate positions of the  main depositional divisions noted. The gravel and yellowish-clay layers of the River deposits are barely visible in the shadows at the bottom of the profile wall.  Photo by Albert Redder. <a href="layers-overview-stratigraphy.html" target="_blank" onMouseOver="MM_swapImage('Image3','','camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="camera-button-sm.jpg" name="Image3" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+  </tr>
+</table>
+
+	
+	
+</td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td height="784">
+	<p><strong>Cave deposits</strong>.&nbsp; A period with no apparent floodwaters  entering the shelter, and a thick stratum of cave deposit accumulated. The Cave deposits (Stratum 5) contained more human occupational debris,  increasing in density toward the top.&nbsp;  A possible unfluted Clovis point and two Folsom points were found in <a href="layer-5a.html" target="_blank">Sub-Stratum 5A. </a>Above that layer  was a  thin but heavily occupied stratum in which no diagnostic materials were found (<a href="layer-5b.html" target="_blank">Sub-Stratum 5B</a>).&nbsp; </p>
+      <p><a href="layer-5c.html" target="_blank">Sub-Stratum 5C</a> contained no diagnostics although remains of a fire hearth and animal bones were uncovered. <a href="layer-5d.html" target="_blank">Sub-Stratum 5D</a> also contained a quantity of tiny animal bones as well as bison bone, along with chipped-stone and bone tools. <a href="layer-5e.html" target="_blank">Sub-Stratum 5E</a> was largely cemented and contained only scant cultural remains and no diagnostic materials. <a href="layer-5f.html">Sub-Stratum 5F</a> held more evidence of occupations, including Brazos Fishtail (a likely variant of San Patrice), Wilson, hearths, and animal bone. Above this was a dark gray stratum (<a href="layer-5g.html" target="_blank">Sub-Stratum 5G) </a>reflecting  intense  occupation. Numerous hearths, Brazos Fishtail and Wilson dart points, large quantities of unifacial tools, and animal bone were recovered. From this  stratum, and buried at the time, came a multiple human burial along a variety of grave items. </p>
+      <h3>Transitional and Outer Deposits</h3>
+      <p><a href="layer-6.html" target="_blank">Stratum 6</a> was a mix of cave deposits and river sand. Here were found Scottsbluff, a possible Wilson point, tools, and food remains. </p>
+      <p><a href="layer-7.html" target="_blank">Stratum 7</a>, located to the front and outside of the shelter proper (or dripline), was largely a mix of rock fall and colluvial deposits washing over the top of the shelter and river clays. This deep, complex deposit was likely contemporaneous to the various cave deposits it abutted, but  it has not been  directly correlated. A Clovis-age hearth and extinct bison bones were uncovered at its lowest level, overlying Stratum 3, and Brazos Fishtail, possible Wilson, and other stemmed points were found at slightly higher levels with Stratum 7. </p>
+      <p><strong>Flood deposits</strong>.  These  are distinguished from the earlier River deposits by  less coarse materials. During this time, periodic flooding occurred and at times the shelter was completely filled. Thin layers of red alluvial sands were deposited above the  Cave deposits (see <a href="layer-8.html" target="_blank">Stratum 8 </a>and its multiple sub-strata). During this time, people who made unfluted lanceolate dart  points occupied the shelter.&nbsp; Following  those occupations, more flooding occurred, and the red sands were capped with a  circa 12-inch stratum of culturally sterile yellow clay, <a href="layer-9.html" target="_blank">Stratum 9. </a>&nbsp; At that  point the shelter was almost entirely filled. </p>
+	  <p>Eventually, the yellow clay and part of the red &quot;Plainview&quot; sands were washed out, as evidenced by truncation of these deposits, especially of the yellow clay. After this time, Archaic people began occupying the shelter (see <a href="layer-10.html" target="_blank">Stratum 10 </a>and<a href="layer-11.html" target="_blank"> Stratum 11 </a>). A variety of dart points were recovered from these layers, but none diagnostic of the Early Archaic.   Archaic occupations continued until a flood or floods filled the shelter, depositing some 30-36 inches of sand and effectively sealing the overhang.</p>
+
+      <p>Sometime, likely in the late nineteenth or early twentieth century, a portion of the south end of the shelter was cleared out and occupied by campers who used it as a dwelling. Whether the clearing was accomplished by digging or erosion is not clear; it could have been a combination of both. These  &quot;Historic Period&quot; occupations are described in the section <a href="layer-12-13-14.html" target="_blank">Strata 12-14</a>. After this, relic collectors removed a larger area of the south half of the shelter, destroying up to 7 vertical feet of Archaic and Late Prehistoric archeological deposits. </p></td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><a href=""><img src="../../images/close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+ 
+<script language="javascript"> 
+ 
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+ 
+ 
+<script language="javascript" type="text/javascript"> 
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+

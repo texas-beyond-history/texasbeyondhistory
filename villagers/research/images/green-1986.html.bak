@@ -1,0 +1,46 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><html>
+<!-- #BeginTemplate "/Templates/image-lg.dwt" --> 
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<META NAME="htdig-noindex">
+<!-- #BeginEditable "doctitle" --> 
+<title>Villagers</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../style.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" cellspacing="10" cellpadding="0" width="302">
+  <tr> 
+    <td><!-- #BeginEditable "image" --><img src="green-1986.jpg" width="428" height="600"><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"><!-- #BeginEditable "caption" -->Cover of Earl Green&#8217;s 
+      report on the Footprint site that he excavated over twenty years earlier. 
+      The Footprint site was (and is) remarkable because one of the three isolated 
+      houses there was the scene of a grisly sequence of violence that experts 
+      believe may represent a massacre of a small community followed by a revenge 
+      killing of ten individuals. While the details of what transpired will never 
+      be known, the site is one of a growing number of Plains Village sites in 
+      the Texas Panhandle with clear evidence of conflict. <!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"> 
+      <div align="center"><a href="#" onClick="MM_callJS('window.close()')" class="text">Close 
+        Window</a></div>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate -->
+</html>

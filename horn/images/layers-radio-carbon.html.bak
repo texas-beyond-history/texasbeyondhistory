@@ -1,0 +1,191 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>Horn: Radiocarbon Assays</title>
+<script type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="file:///N|/TBH Website Temp/style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="file:///N|/TBH Website Temp/print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<style type="text/css">
+<!--
+.style9 {font-size: 12px}
+.style10 {color: #0000FF}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('file:///N|/TBH Website Temp/Templates/images/prehistory_f2.jpg','file:///N|/TBH Website Temp/Templates/images/harvest_f2.jpg','file:///N|/TBH Website Temp/Templates/images/people_f2.jpg','file:///N|/TBH Website Temp/Templates/images/kids_f2.jpg','file:///N|/TBH Website Temp/Templates/images/patterns_f2.jpg','file:///N|/TBH Website Temp/Templates/images/artistic_f2.jpg','file:///N|/TBH Website Temp/Templates/images/teaching_f2.jpg','file:///N|/TBH Website Temp/Templates/images/credits_f2.jpg','camera-button-ro-sm.jpg')">
+<table width="780" border="0">
+  <tr>
+    <td height="42"> <h3>Radiocarbon Assays from Horn Shelter: Paleoindian Strata
+      
+    </h3></td>
+  </tr>
+</table>
+
+<table width="1015" border="0" class="margintext">
+  <tr class="timelinetext">
+    <td width="168">C14 Years BP </td>
+    <td width="166">Calendar Age</td>
+    <td width="168">Calendar Age</td>
+    <td width="141">Material </td>
+    <td width="110">Lab#</td>
+    <td width="75">Strat.</td>
+    <td width="153">References</td>
+  </tr>
+  <tr>
+    <td height="41" valign="top"><span class="style9">(Uncalibrated )</span></td>
+    <td valign="top"><span class="style9">(Cal. BP 1-sigma range)</span></td>
+    <td valign="top"><span class="style9">(Cal. BC/AD)</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="28">8,400 ± 110</td>
+    <td>9,250 to 9,490 </td>
+    <td>7,300 to 7,530 BC </td>
+    <td>snail shell</td>
+    <td>(Tx-1996)</td>
+    <td>8B</td>
+    <td>Valastro et al. 1979 </td>
+  </tr>
+  <tr>
+    <td height="30"> 9,500 &plusmn; 200 </td>
+    <td> 10,530 to 11,090</td>
+    <td> 8,580 to 9,140 BC </td>
+    <td> charcoal</td>
+    <td> (Tx-1830)</td>
+    <td> 5G</td>
+    <td>Valastro et al. 1979</td>
+  </tr>
+  <tr>
+    <td height="28">9,690 ± 50</td>
+    <td>***</td>
+    <td>***</td>
+    <td>human bone</td>
+    <td>(CAMS-51794) </td>
+    <td>5G</td>
+    <td>Owsley et al. 2010 </td>
+  </tr>
+  <tr>
+    <td height="28">9,710 ± 40</td>
+    <td>***</td>
+    <td>***</td>
+    <td>human bone</td>
+    <td>(CAMS-60681) </td>
+    <td>5G</td>
+    <td>Owsley et al. 2010 </td>
+  </tr>
+  <tr>
+    <td height="27"> 9,980 ± 370 </td>
+    <td> 10,985 to 12,200 </td>
+    <td><span class="margintext"> 9,035 to 10,250 BC </span></td>
+    <td> wood charcoal</td>
+    <td> (Tx-1722)</td>
+    <td> 5G</td>
+    <td>Valastro et al. 1979</td>
+  </tr>
+  <tr>
+    <td height="27">10,030 ± 130</td>
+    <td>11,080 to 12,270 </td>
+    <td>9,130 to 10,320 BC </td>
+    <td>snail shell</td>
+    <td>(Tx-1998)</td>
+    <td>5G</td>
+    <td>Valastro et al. 1979</td>
+  </tr>
+  <tr>
+    <td height="27">10,150 ± 120</td>
+    <td>11,500 to 12,050 </td>
+    <td>9,550 to 10,100 BC </td>
+    <td>turtle bone (apatite) </td>
+    <td>(Tx-2189)</td>
+    <td>3</td>
+    <td>Valastro et al. 1979</td>
+  </tr>
+  <tr>
+    <td height="28">10,310 ± 150</td>
+    <td>11,790 to 12,450 </td>
+    <td>9,840 to 10,500 BC </td>
+    <td>snail shell </td>
+    <td>(Tx-1997)</td>
+    <td>5G</td>
+    <td>Valastro et al. 1979</td>
+  </tr>
+  <tr>
+    <td height="27"> 10,600 ± 180</td>
+    <td> 12,180 to 12,700 </td>
+    <td> 10,230 to 10,750 BC </td>
+    <td> charcoal</td>
+    <td> (CAMS-395)</td>
+    <td> 7/3*</td>
+    <td> TARL Archives </td>
+  </tr>
+</table>
+<table width="1000" border="0">
+  <tr>
+    <td height="94" valign="top"><p class="style11">* Sample taken from hearth feature at juncture of Stratum 3 and Stratum 7 (Center for Mass Spectrometry, Lawrence Livermore National Laboratory, 1990; TARL Archives).
+ Radiocarbon assays calibrated at one-sigma range (68% probability) using the online Cologne Radiocarbon and Paleoclimate Research Package (<strong><a href="http://www.calpal-online.de/cgi-bin/quickcal.pl" target="_blank">CalPal</a></strong>).  Learn more about <a href="www.texasbeyondhistory.net/trans-p/prehistory/images/time.html" target="_blank">&quot;Radiocarbon Dating</a>,<a href="www.texasbeyondhistory.net/trans-p/prehistory/images/time.html" target="_blank"> Years ago, and Calendar Years&quot;</a> on Texas Beyond History. </p></td>
+  </tr>
+</table>
+
+
+
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><a href=""><img src="file:///N|/TBH Website Temp/images/close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+ 
+ 
+ 
+<script language="javascript"> 
+ 
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+ 
+ 
+<script language="javascript" type="text/javascript"> 
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+

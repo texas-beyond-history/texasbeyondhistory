@@ -1,0 +1,106 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- #BeginTemplate "/Templates/graham.dwt" --><!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>The Graham-Applegate Rancheria &gt; Teach</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	<div id="pt">
+	 <a href="../plateaus/index.html">Plateaus and Canyonlands Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  
+	<div id="nav">
+	<div id="tt">
+            <h1>Graham-Applegate Rancheria</h1>
+        </div>
+
+
+    <h2><a href="index.html">Graham-Applegate Main</a>
+			  <a href="austin.html">Austin Phase</a>
+			  <a href="houses.html">Ancient Houses</a>
+			  <a href="cooking.html">Cooking with Granite</a>
+			  <a href="arrow.html">Dart to Arrow</a>
+			  <a href="glass.html">Exotic Volcanic Glass</a>
+			  <a href="investigations.html">Site Investigations</a>
+			  <a href="artifacts.html">Artifacts</a>
+			  <a href="behind.html">Behind the Scenes</a>
+			  <a href="luas.html">Get Involved</a>
+			  <a href="teach.html">Teaching about the Rancheria</a>
+			  <a href="credits.html">Credits &amp; Sources</a>
+			  </h2>
+</div>
+
+<div id="content"><!-- #BeginEditable "body" -->
+      <h2>Teaching about the Rancheria </h2>
+      <p class="text"><img src="images/teachthumb.jpg" alt="thumbnail of drawing of the rancheria" width="400" height="161" align="right"><span class="text"><B><a href="javascript:void();"
+onclick="window.open('../teach/images/ga.html','Lesson','width=650,height=500,scrollbars=1,resizable=1,menubar=1');"> The Graham-Applegate Rancheria</a> <br>
+            </B>In this lesson, students can learn about the Indian groups who lived
+1,000 years ago on the Llano River.&nbsp; The students will use paintings and photographs of tools and other artifacts to make inferences and conclusions about how the Indians lived.&nbsp; <a href="javascript:void();"
+onclick="window.open('../teach/images/ga.html','Lesson','width=650,height=500,scrollbars=1,resizable=1,menubar=1');"> View
+              TEKS and download page.</a></span></p>
+      <br/>
+    <!-- #EndEditable --> 
+ </div>
+
+<div id="foot">
+
+	<p class="links">
+	<a href="index.html">Graham-Applegate Main</a>
+	<a href="austin.html">Austin Phase</a>
+	<a href="houses.html">Ancient Houses</a>
+	<a href="cooking.html">Cooking with Granite</a>
+	<a href="arrow.html">Dart to Arrow</a>
+	<a href="glass.html">Exotic Volcanic Glass</a>
+	<a href="investigations.html">Site Investigations</a>
+	<a href="artifacts.html">Artifacts</a>
+	<a href="behind.html">Behind the Scenes</a>
+	<a href="luas.html">Get Involved</a>
+	<a href="teach.html">Teaching about the Rancheria</a>
+	<a href="credits.html">Credits &amp; Sources</a></p>
+   
+  	<p>
+	<a href="http://utopia.utexas.edu" target="_blank">
+	<img src="../images/UTOPIA_bug_color_onwhite.gif" alt="UTopia link" width="100" height="64" border="0" align="right"></a>
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+     <!-- #BeginEditable "date" -->1 October 2001 <!-- #EndEditable --></p>
+</div>
+
+</div>
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- #EndTemplate --></html>

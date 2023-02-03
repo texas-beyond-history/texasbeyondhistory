@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<region map="images/coast-base-map.jpg" thumb="" title="Coastal Region">
+		<location>
+		<x>235</x>
+		<y>450</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw1.jpg</picture>
+		<caption> <![CDATA[ An active barchan dune migrates inland from the coast in Willacy County. These arc, shaped sand ridges are formed by coastal winds in a dynamic process involving coalescence, "bumping" by smaller dunes, and forward movement, as sand avalanches cascade downward within the arc interior. TARL Archives.
+		]]></caption>
+	</location>
+	<location>
+		<x>216</x>
+		<y>320</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw2.jpg</picture>
+		<caption> <![CDATA[ Brush and grass line the banks of Tranquitas and San Fernando creeks at their confluence in Kleberg County.  The stream formed by their juncture provides some freshwater inflow into Baffin Bay during rainy periods, but not enough to form a productive estuary. TARL Archives.
+		 ]]></caption>
+	</location>
+	<location>
+		<x>270</x>
+		<y>470</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw3.jpg</picture>
+		<caption> <![CDATA[ Tall yucca and thick grasses on the edge of the Laguna Madre in Cameron County, a scene typical of lowland areas on the southern tip of the Texas coast. TARL Archives.
+		]]></caption>
+	</location>
+	<location>
+		<x>477</x>
+		<y>85</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw4.jpg</picture>
+		<caption> <![CDATA[ Dense stands of live oaks line the banks of Clear Creek in Galveston County. Riverine habitats provided a wide range of resources for coastal peoples. TARL Archives.
+		]]></caption>
+	</location>
+	<location>
+		<x>385</x>
+		<y>175</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw5.jpg</picture>
+		<caption> <![CDATA[ Pink salt cedar blooms among dwarf palmetto and willow in the Matagorda County marshlands. These wetland areas, dividing grassy inland prairies from sandy shores and saltwater along the Texas coast, are rich in animal and plant resources, and were a vital area for hunting and gathering peoples. Marshes also serve a critical role in natural hydrology systems. After periods of flooding, marshes store and filter water and recharge groundwater. Photo by Susan Dial. 
+		]]> </caption>
+	</location>
+	<location>
+		<x>470</x>
+		<y>110</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw6.jpg</picture>
+		<caption> <![CDATA[ Piles of gleaming oyster shells line the shore of namesake Oyster Creek at its mouth near Follet's Island.  The bivalves, Eastern oyster, or Crassotrea virginica, live in huge colonies, or reefs, in bays and estuaries along the Texas coast, providing a source of food and shell material for coastal peoples.  In prehistoric times, the shells were used for tools. Today, dredging operators mine the reefs for roadbed material. TARL Archives.
+		]]></caption>
+	</location>
+	<location>
+		<x>320</x>
+		<y>155</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw7.jpg</picture>
+		<caption> <![CDATA[ In a scene evoking another era, bison cool themselves in the muddy waters of the Lavaca River.  The huge mammals, prized for their meat and hides, periodically migrated as far south as the Texas coastal prairies throughout history, most notably during Late Prehistoric times. European explorers ands settlers also hunted bison well into the 19th century. Photo by Richard Weinstein.
+		]]></caption>
+	</location>
+	<location>
+		<x>280</x>
+		<y>250</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/new-lw8.jpg</picture>
+		<caption> <![CDATA[ Mission Bay (left) emptying into Copano Bay. These shallow bays harbor an abundance of shellfish. Spawning fish such as redfish and black drum are concentrated in the tidal passes during late fall and winter. Photo courtesy NOAA. 
+		]]> </caption>
+	</location>
+	<location>
+		<x>300</x>
+		<y>230</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw9.jpg</picture>
+		<caption> <![CDATA[ Mustang Lake is more accurately termed an estuary, a semi, enclosed body of water at the tidal mouth of a stream.  A classic example of a natural fish hatchery, it covers an area roughly two miles long and two miles wide, opening into San Antonio Bay. At high tide, saltwater from the bay backs into the lake.  Estuaries are "nurseries" for shrimp, crabs, and fishes and habitat for diverse wildlife species. Photo by Steve Black. 
+		]]> </caption>
+	</location>
+	<location>
+		<x>295</x>
+		<y>222</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw10.jpg</picture>
+		<caption> <![CDATA[Ducks circle among aquatic weeds covering Jones Lake in the Aransas National Wildlife Refuge. Surrounded by tall stands of cattail and dense woodlands beyond, this freshwater marsh and its environs are prime habitat for fish, waterfowl, and other wildlife.  For native peoples, the coastal marshlands offered a variety of hunting and gathering opportunities. Photo by Steve Black. 
+		]]> </caption>
+	</location>
+	<location>
+		<x>520</x>
+		<y>84</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw12.jpg</picture>
+		<caption> <![CDATA[ Tiny shells are mixed with other debris in the swash zone along McFadden Beach on upper High Island. Fossilized bones of Late Pleistocene creatures, as well as tools of Paleoindian and later peoples, have been found along these shores, evidence of thousands of years of utilization of this region. Because of rising sea levels, the shoreline has migrated inland considerably since Pleistocene times, as much as 80 miles in some areas. TARL Archives. 
+		]]></caption>
+	</location>
+	<location>
+		<x>414</x>
+		<y>97</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw13.jpg</picture>
+		<caption> <![CDATA[ Willow, walnut, and other hardwood trees are densely clustered around Shy Pond in Brazoria County, one of numerous freshwater lakes in the northeastern coastal region.  Native peoples camped along the shores of these small ponds to obtain fresh water, dig the abundant Rangia clams, and fish. TARL Archives.
+		]]> </caption>
+	</location>
+	<location>
+		<x>470</x>
+		<y>60</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw14.jpg</picture>
+		<caption> <![CDATA[ Hundreds of Rangia clamshells erode from a prehistoric shell midden, or trash heap, mingling with the varied trash left by more recent peoples. Rangia thrive in the brackish waters of estuaries along Galveston Bay, an environment protected by the barriers of Galveston Island and Bolivar Peninsula. TARL Archives. 
+		]]> </caption>
+	</location>
+	<location>
+		<x>240</x>
+		<y>337</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw15.jpg</picture>
+		<caption> <![CDATA[ Clay dunes rise above the shoreline along Baffin Bay. Formed during relatively recent times, after the formation of  barrier islands during the last 4,000 years or so, clay dunes were favored campground areas for coastal peoples because of their stable, elevated surfaces. Photo by Robert Ricklis.
+		]]> </caption>
+	</location>
+	<location>
+		<x>260</x>
+		<y>486</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw16.jpg</picture>
+		<caption> <![CDATA[ Willows, sugar hackberries, and other marsh vegetation grow in dense thickets around shallow ponds, or resacas, in Cameron County.  Formed in relict channels of the Rio Grande river, the ponds hold water for much of the year and offer habitat for diverse wildlife. Photo by Chase Fountain, Texas Parks and Wildlife Department.
+		]]>
+		</caption>
+	</location>
+	<location>
+		<x>212</x>
+		<y>449</y>
+		<icon>landscapebtn</icon>
+		<section>Lay of the Land</section>
+		<picture>images/lw17.jpg</picture>
+		<caption> <![CDATA[ Prairie grasses thrive in the flat expanses inland from the marshlands and gulf shores of southern Texas. In the distance are stands of live oak and hackberry, fringed by mesquite, acacia, and other legumes native to the area. Within these diverse environments, native hunters and gatherers exploited a wide variety of plant and animal resources. Photo by Chase Fountain, Texas Parks and Wildlife Department.
+		]]>
+		</caption>
+	</location>
+	<location>
+		<x>525</x>
+		<y>98</y>
+		<name>Isla de Malhado</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he1.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>515</x>
+		<y>55</y>
+		<name>El Orcoquisac</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he2.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>420</x>
+		<y>130</y>
+		<name>Shanklin</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he3.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>280</x>
+		<y>430</y>
+		<name>1554 - Shipwreck</name>
+		<icon>workSitesbtn</icon>
+		<link>images/he4.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	
+	
+	<location>
+		<x>220</x>
+		<y>460</y>
+		<name>La Salle del Ray</name>
+		<icon>workSitesbtn</icon>
+		<link>../st-plains/images/he5.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>315</x>
+		<y>198</y>
+		<name>Linn Lake</name>
+		<icon>workSitesbtn</icon>
+		<link>../st-plains/images/he9.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>380</x>
+		<y>200</y>
+		<name>The Belle Shipwreck</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../belle/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>350</x>
+		<y>180</y>
+		<name>Fort St. Louis</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../stlouis/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>270</x>
+		<y>195</y>
+		<name>Mission Espiritu Santo</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../espiritu/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>
+		<x>500</x>
+		<y>100</y>
+		<name>Mitchell Ridge</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../mitchell/index.html</link>
+		<section>Historic Encounters</section>
+	</location>
+	<location>	
+		<x>485</x>
+		<y>80</y>
+		<name>Harris Boys School</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap1.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>	
+		<x>265</x>
+		<y>295</y>
+		<name>Cayo del Oso</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap2.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>	
+		<x>260</x>
+		<y>310</y>
+		<name>Kirchmeyer</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap3.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>	
+		<x>520</x>
+		<y>95</y>
+		<name>Caplen Mound</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap4.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>570</x>
+		<y>40</y>
+		<name>Black Hill</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap5.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>250</x>
+		<y>340</y>
+		<name>Baffin Bay</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap6.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>583</x>
+		<y>48</y>
+		<name>Gaulding</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap7.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>425</x>
+		<y>75</y>
+		<name>Oxbow</name>
+		<icon>workSitesbtn</icon>
+		<link>images/ap8.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>305</x>
+		<y>195</y>
+		<name>Buckeye Knoll</name>
+		<icon>workSitesbtn</icon>
+		<link>../st-plains/images/ap9.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>275</x>
+		<y>170</y>
+		<name>Berger Bluff</name>
+		<icon>workSitesbtn</icon>
+		<link>../st-plains/images/ap5.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>275</x>
+		<y>210</y>
+		<name>Buckner Ranch</name>
+		<icon>workSitesbtn</icon>
+		<link>../st-plains/images/ap7.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>500</x>
+		<y>118</y>
+		<name>Mitchell Ridge</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../mitchell/index.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>537</x>
+		<y>89</y>
+		<name>McFaddin Beach</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../mcfaddin/index.html</link>
+		<section>Ancient Places</section>
+	</location><location>	
+		<x>320</x>
+		<y>225</y>
+		<name>Guadalupe Bay</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../guadbay/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>	
+		<x>300</x>
+		<y>170</y>
+		<name>Morhiss Mound</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../morhiss/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+	<location>	
+		<x>275</x>
+		<y>490</y>
+		<name>Brownsville-Baril Complex</name>
+		<icon>featuredSitesbtn</icon>
+		<link>../brownsville/index.html</link>
+		<section>Ancient Places</section>
+	</location>
+</region>

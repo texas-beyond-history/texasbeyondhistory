@@ -1,0 +1,9 @@
+﻿<flash_project name="Stplains" version="1">
+    <project_file path="./DisplayLayers.as" filetype="as" />
+    <project_file path="./MapApp.as" filetype="as" />
+    <project_file path="./MapPoint.as" filetype="as" />
+    <project_file path="./NavApp.as" filetype="as" />
+    <project_file path="./NavRect.as" filetype="as" />
+    <project_file path="./Popup.as" filetype="as" />
+    <project_file path="./stpMap.fla" filetype="fla" profile="" />
+</flash_project>

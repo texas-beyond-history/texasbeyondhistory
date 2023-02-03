@@ -1,0 +1,41 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><html><!-- #BeginTemplate "/Templates/image-lg.dwt" --><!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+<META NAME="htdig-noindex">
+<!-- #BeginEditable "doctitle" --> 
+<title>Ledger Drawings</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../style.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" cellspacing="10" cellpadding="0" width="302">
+  <tr> 
+    <td><!-- #BeginEditable "image" --><img src="map-ind-terr-1866-1890-utley1984.jpg" width="1000" height="692" border="0"><!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td class="text"><!-- #BeginEditable "caption" -->
+      <p><span class="text">Map of Indian Territory in Oklahoma, 1866-1890, showing locations of the Kiowa and Comanche reservation, Fort Sill, and the Cheyenne and Arapaho reservations. Note locations of Fort Supply and Fort Reno, which were supply points for the military and later, for the reservations. Graphic adapted from Utley 1984.</span></p>
+<p>&nbsp;</p>
+    <!-- #EndEditable --></td>
+  </tr>
+  <tr>
+    <td class="text"> 
+      <div align="center"><a href="#" onClick="MM_callJS('window.close()')" class="text">Close 
+        Window</a></div>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>

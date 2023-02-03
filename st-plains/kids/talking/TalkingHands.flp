@@ -1,0 +1,11 @@
+﻿<flash_project name="TalkingHands" version="1">
+    <project_folder name="Arms & Legs" expanded="false">
+        <project_file path="./Preloader.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_file path="./talkinghands_illustrated.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path="./talkinghands_page1.fla" filetype="fla" profile="" />
+    <project_file path="./talkinghands_page2.fla" filetype="fla" profile="" />
+    <project_file path="./talkinghands_page3.fla" filetype="fla" profile="" />
+    <project_file path="./talkinghands_page4.fla" filetype="fla" profile="" />
+    <project_file path="./talkinghands_page5.fla" filetype="fla" profile="" />
+</flash_project>

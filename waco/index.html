@@ -1,0 +1,561 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US"><!-- InstanceBegin template="/Templates/waco.dwt" codeOutsideHTMLIsLocked="false" -->
+<head >
+<script src="https://cdn.la.utexas.edu/canvasser/1.3/canvasser.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GHC8CS1RGZ');
+</script>
+<script type="text/javascript" src="/js/global.js"></script>
+<!-- #BeginEditable "doctitle" -->
+<title>Waco Lake</title>
+<script type="text/javascript">
+<!--
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+  document.write(str);
+}
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblclick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//-->
+
+$(document).ready( function() {
+	$('#image-gallery').galleryView({
+			panel_width: 770,
+			panel_height: 420,
+			frame_width: 670,
+			frame_height: 70,
+			transition_speed: 1500,
+			transition_interval: 4000,
+			nav_theme: 'light',
+			border: '1px solid #930',
+			pause_on_hover: true
+	});
+	
+});
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #bf5700}
+-->
+</style>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <link rel="stylesheet" href="../style-fl-trans.css" type="text/css" media="screen"/>  
+ <link rel="stylesheet" href="../print.css" type="text/css" media="print"/> 
+<link rel="stylesheet" href="file:///projects/tbh/htdocs/print.css" type="text/css" media="print"/>
+
+</head>
+<body onload='initCanvasser("activity","https://laits.utexas.edu/canvasser/canvasser_content/waco-timeline/frame1.json", "file");' onLoad="MM_preloadImages('images/prehistory_f2.jpg','images/harvest_f2.jpg','images/people_f2.jpg','images/kids_f2.jpg','images/patterns_f2.jpg','images/artistic_f2.jpg','images/teaching_f2.jpg','images/credits_f2.jpg')" >
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a class="screen-reader-text" href="https://www.utexas.edu/" target="_blank"><img src="/images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0">University of Texas at Austin</a><a class="screen-reader-text" href="https://liberalarts.utexas.edu/" target="_blank"><img src="/images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0">College of Liberal Arts</a>
+</div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+  </div>
+	
+     
+
+    <div id="nav">
+	
+	<div id="tt">
+	<h1>Waco Lake</h1>
+	</div> 
+	<h2><a href="index.html">Waco Main </a> <a href="investigations.html">Investigations and Findings </a><a href="what.html">What Was It Like? </a><a href="beyond.html">Bosque River and Beyond</a><br /><a href="credits.html">Credits & Sources</a></h2>
+	
+	  
+  </div>
+
+<div id="content" align="center"><!-- InstanceBeginEditable name="body" -->
+
+<h2>Before Waco Lake: Prehistoric Life along the Bosque River</h2>
+<table width="780" height="341" border="0">
+    <tr>
+      <td height="337" valign="top">
+	<div align="center", id='canvasholder'></div>
+      </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td width="480"height="1985" valign="top" align="left"><p>Thousands of years before the waters of the Bosque were impounded to form Waco Lake, Native American
+    	  hunters and gatherers roamed throughout the fertile river valley and
+    	  along its major tributaries. The material remains of their long-ago existence
+    	  are scattered throughout these wooded corridors and grassy upland savannahs.&nbsp; Often
+    	  the traces are little more than a handful of stone flakes left by a prehistoric
+    	  tool maker, or a thick scatter of clam shells and deer bone&mdash;trash
+    	  from a family&rsquo;s meal long ago. From these often ephemeral remains,
+    	  archeologists attempt to draw conclusions about what life was like in
+    	  this place in the past.</p>
+    	<p><em>Prehistoric Life along the Bosque River</em> tells the story of
+        how hunting and gathering peoples during the Late Archaic period  met the daily challenges of life through the use of
+        several key resources found throughout their environment.&nbsp; This
+        story is based on archeological investigations at three archeological
+        sites&mdash;Britton (41ML37), McMillan (41ML162), and
+        Higginbotham (41ML195)&mdash;at Waco Lake in McLennan County, Texas. &nbsp;Although evidence from earlier and later times  also was uncovered, the majority of the evidence pertained to the Late Archaic. In this exhibit, we focus on that period, dating &nbsp;from about&nbsp;  2000 B.C. to A.D. 750, &nbsp;to best exemplify  the subsistence strategies consistently used&nbsp;  by the people of the Bosque   River basin. To reconstruct the past and tell this story, a variety of models and theoretical approaches were used by researchers to help link excavated remains with human behavior. Examples of these research approaches and how they were painstakingly applied to evidence from the Waco Lake sites are included to give viewers an idea of how data are interpreted. </p>
+        <p> Archeologists from <strong>Prewitt and Associates, Inc.</strong>, an
+        Austin-based cultural resource management firm, conducted these investigations.&nbsp; The
+        investigations were warranted by a proposed plan to raise the conservation
+        pool of Waco Lake (or Lake Waco, as it is also known), and were sponsored by the <strong>U.S. Army Corps
+          of Engineers</strong>, <strong>Fort Worth District. </strong>&nbsp;&nbsp;&nbsp;This
+        exhibit is a public education outreach component of that work.</p>
+      <p>The three archeological sites  were campsites where many
+        diverse activities, such as tool manufacturing and food preparation,
+        took place.&nbsp;No doubt because of the availability of  resources,
+        including the dependable waters of the Bosque River, hunter-gatherer families  returned
+        repeatedly to these sites.&nbsp; They moved their campsites  often to follow and hunt animals and to harvest plants. When and where they  moved was largely determined by the local abundance of these resources and by  the changing seasons, which required people to have detailed knowledge about  the resources in their territory.</p>
+      <p>Archeologists found that while each site had its own distinctive mix
+        of remains, all three sites contained evidence that five key
+        resources had been used in a consistent way, representing a successful
+        and virtually unchanged way of life for thousands of years.&nbsp; These
+        key resources were white-tailed deer, plants (specifically roots, bulbs,
+        and tubers, collectively referred to as <em>geophytes</em>); freshwater
+        mussels, or clams; wood; and stone, including chert for tool-making and
+        rocks with which to cook. </p>
+      <h3>Environmental Setting </h3>
+      <p>Formed by the merger of the North and South Bosque Rivers, Waco Lake
+        is a reservoir behind a dam west of the city of Waco. The first dam was built in 1930 but was  replaced by a new dam in the 1960s as the population of the city of Waco grew, and need for a  more-dependable water supply increased. In the decades following, the  conservation pool of the lake has been raised on several occasions,  prompting cultural resource investigations in advance of each change.</p>
+      <p>The Bosque River
+        basin lies at the eastern edge of the Grand Prairie, a large natural
+        region in north-central Texas that extends south from the Red River to
+        the Llano Uplift and northern end of the Balcones Canyonlands in central
+        Texas. This region includes the Lampasas Cut Plain and the Fort Worth
+        Prairie. The Cut Plains exhibit the most diverse vegetation in north-central
+        Texas and contain important habitats.&nbsp; </p>
+      <p>Along the fertile bottomlands of the rivers and streams grow pecan,
+        elm, oak, and pecan.&nbsp; The prairies hold a mixed community of grasses,
+        including little bluestem, big bluestem, Indian grass, and side oats
+        grama. A variety of animals, including white-tailed deer, rabbit, and coyote,
+        thrive along the rivers and prairies today. During the early Historic Period,
+        the mix was more diverse.&nbsp; Historic records document the presence
+        of elk, bison, pronghorn antelope, black bear, wolf, mountain lion, jaguar,
+        and ocelot. </p>
+      <p>Climatic conditions varied considerably in this region in the past.
+        During the Late Archaic period, the time the Bosque River sites predominately
+        were occupied, the climate appears to have become wetter and possibly cooler. These changes
+        likely affected the plant and animal communities&mdash;and the hunting
+        and gathering peoples who depended upon them for sustenance.</p>
+      <h3>In This Exhibit </h3>
+      <p>In the following sections, we first look at the Waco Lake sites and the work that was done during excavations and analysis. The <strong><a href="investigations.html" target="_blank">Investigations  and Findings</a></strong> section includes information on field methods and  research approaches used and also briefly examines what was found at the three  sites, including a section on the various types of cultural features that were  identified. <a href="what.html" target="_blank"><strong>What Was It Like?</strong>&nbsp;</a>is an interactive scene of the past which  viewers
+         may explore to learn more about the subsistence strategies
+        and key resources used so successfully by Late Archaic families. <strong><a href="beyond.html" target="_blank">Bosque
+        River Basin and Beyond </a></strong>considers what has been learned and implications on a broader scale. <strong><a href="credits.html" target="_blank">Credits and Sources</a></strong> provides
+        information about the authors and investigators and includes a list of links
+        and references for further reading.
+      <p style="margin-top: 0">&nbsp;</p></td>
+  <td width="300" valign="top"><table width="300" border="0">
+          <tr valign="bottom">
+            <td height="400"><a href="images/ML195-shell-f16.html" target="_blank">
+            		<img src="images/ML195-shell-f16-sm.jpg" alt="traces" width="300" height="277" class="thumbimg"/>
+                </a>
+            
+                <div class="caption"><em>Traces of prehistoric activities, such
+                    as this dense cluster of mussel shells, were found throughout
+                    the Bosque River basin. The shell deposit represents the
+                    trash from a family meal thousands of years ago. </em><br/>
+	  <a href="images/ML195-shell-f16.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('999','','images/camera-button-enlarge-ro-sm.jpg',1)">
+			<img src="images/camera-button-enlarge-sm.jpg" alt="Enlarge image" name="Image8" width="64" height="20" class="thumbimg">
+		</a></div></td>
+          </tr>
+          </table>
+            <table width="300" border="0">
+              <tr valign="bottom">
+                
+              </tr>
+          </table>
+              <table width="313" border="0">
+            	<tr valign="bottom">
+                	<td width="307" height="168" valign="bottom" class="margintext"><p>Each of the  sites contained
+                        evidence that five key resources&mdash;white-tailed deer,
+                        geophytes, freshwater mussel, wood, and stone&mdash;had
+                        been used in a consistent way, representing a successful
+                        and virtually unchanged way of life for thousands of
+                        years.</em></p>
+                	  </td>
+                </tr>
+          </table>
+          <table width="300" border="0">
+            <tr valign="bottom">
+              <td height="389"><a href="images/deer1.html" target="_blank"><img src="images/deer1-sm.jpg" alt="White-tail deer" width="299" height="277" class="thumbimg"/></a><br/>
+              <div class="caption"><em>White-tail deer were an important resource
+                  for hunters and gatherers of the Bosque River basin, providing
+                  meat, hide, and bone for tools.</em><br/><a href="images/deer1.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('999','','images/camera-button-enlarge-ro-sm.jpg',1)">
+			<img src="images/camera-button-enlarge-sm.jpg" alt="Enlarge image" name="Image8" class="thumbimg">
+		</a></div></td>
+            </tr>
+          </table>
+            <table width="300" border="0">
+            <tr valign="bottom">
+              <td height="380"><a href="images/camas-bulbs.html" target="_blank"><img src="images/camas-bulbs-ML162-sm.jpg" alt="Camas bulbs" width="300" height="255" class="thumbimg"/></a><br/>
+              <div class="caption">Charred remains of camas bulbs were evidence of the Bosque River peoples reliance on plants foods, particularly geophytes which bear carbohydrate-rich roots and tubers. <br/>
+                <a href="images/camas-bulbs" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('999','','images/camera-button-enlarge-ro-sm.jpg',1)">
+			<img src="images/camera-button-enlarge-sm.jpg" alt="Enlarge image" name="Image8" class="thumbimg">
+		</a></div></td>
+              </tr>
+          </table>
+            <table width="300" border="0">
+            	<tr valign="bottom">
+                	<td height="350"><a href="images/waco-lake-kibler.html" target="_blank"><img src="images/waco-lake-kibler-sm.jpg" alt="Waco Lake" width="300" height="252" class="thumbimg"/></a><br/>
+                    <div class="caption">Waco Lake (or Lake Waco), as it appears today. Photo by John Dockall. <br/>
+                      <a href="images/waco-lake-kibler.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('999','','images/camera-button-enlarge-ro-sm.jpg',1)">
+			<img src="images/camera-button-enlarge-sm.jpg" alt="Enlarge image" name="Image8" class="thumbimg">
+		</a>
+                    </div>
+                  </td>
+              </tr>
+          </table>
+        </td>
+  </tr>
+  </table>
+    
+  </td></tr></table>
+
+
+<!-- InstanceEndEditable --></div>
+
+<div id="foot" align="center">
+
+
+<p>&nbsp;</p>
+	<!--  --> 
+    <a href="investigations.html"><img src="images/followwaco.jpg" width="211" height="42" border="0"></a> 
+    <!-- #EndEditable -->
+	
+    <p class="links">
+    <a href="index.html">Waco Main </a> <a href="investigations.html">Investigations and Findings </a><a href="what.html">What Was It Like? </a><a href="beyond.html">Bosque River and Beyond</a><br /><a href="credits.html">Credits & Sources</a>
+
+      </p> 
+  
+  	<p>
+	
+	<div align="left">
+     <a href="../index.html">Texas Beyond History</a><br>
+     <a href="../sitemap.html">Site Map</a><br>
+     <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+     <!-- InstanceBeginEditable name="date" --><span class="style1">September 2009</span> <!-- InstanceEndEditable --></p>
+	</div> 
+</div>
+
+</div>
+
+<!-- #BeginEditable "end" -->
+<script language="javascript">
+
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+<!-- #EndEditable -->
+
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

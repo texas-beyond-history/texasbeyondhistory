@@ -1,0 +1,367 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+
+<title>Cueva Pilote</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../style-fl-trans.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #CC3300;
+}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('../Templates/images/prehistory_f2.jpg','../Templates/images/harvest_f2.jpg','../Templates/images/people_f2.jpg','../Templates/images/kids_f2.jpg','../Templates/images/patterns_f2.jpg','../Templates/images/artistic_f2.jpg','../Templates/images/teaching_f2.jpg','../Templates/images/credits_f2.jpg','../gateway/images/camera-button-ro-sm.jpg')">
+
+<div id="wrapper">
+
+<div id="wordmark">
+	<a href="http://www.utexas.edu/" target="_blank"><img src="../images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0"></a><a href="http://www.utexas.edu/cola/" target="_blank"><img src="../images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0"></a></div>
+
+<h6 id="tbh">Texas Beyond History</h6>
+
+<div id="tbhnav">
+	<a href="../index.html">TBH Home</a>  
+	<form action="/search.html" method="get" name="search" id="search">
+       	<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
+        <div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
+       	<div><input type="hidden" name="config" value="tbh"></div> 
+		<div><input type="hidden" name="restrict" value=""></div>
+        <div><input type="hidden" name="exclude" value=""></div>
+    </form>
+</div>
+	<div id="pt">
+	 <a href="../trans-p/index.html">Trans-Pecos Main</a>
+	</div> 
+	<div id="pt-r">
+	<a href="../prehistoric/index.html">Prehistoric Texas Main</a></div>  	  
+	<div id="nav">
+	
+	<div id="tt">
+	<h1>Cueva Pilote</h1>
+	</div> 
+</div>
+
+    <div id="content" align="center">
+	<table width="780" border="0">
+	  <tr>
+	    <td><img src="images/icon-pilote.jpg"><div class="caption">View of the Sierra Encantada in northern Coahuila, Mexico. Cueva Pilote lies hidden within these rugged mountains. </div></td>
+    </tr>
+    </table>
+	<table width="780" border="0">
+	  <tr>
+	    
+	    <td width="480" valign="top" bordercolor="#FFFFFF">
+	      
+	      <p align="left">Cueva Pilote is a small cave near the head of a steep canyon that cuts the eastern rim of the rugged Sierra Encantada, an outlier of the Sierra Madre Oriental in northern Coahuila, just south of the Big Bend region of Trans-Pecos Texas.  Over 600 years ago, this remote cave was used by hunter-gatherers exclusively for ceremonies that included bloodletting, making Cueva Pilote an incredibly rare and unusual site. </p>
+	      <p align="left">The existence of the cave was first brought to the attention of archeologists Solveig Turpin and Herbert Eling in the 1990s by local ranchers who told them about unusual ritual artifacts, painted deer scapulae, that had been taken from the cave in the 1960s and ended up in private collections in the United States. Later, Turpin and Eling were able to locate several of the cave’s privately held scapulae  and realized the potential importance of the unseen cave.  </p>
+  
+          <p align="left">In 1997 they returned to the Sierra Encantada and, after an arduous search, succeeded in locating the cave.  Their goal was to assess the possibility of excavation in order to pinpoint the scapulae in time and space.  Although the cave's shallow matrix had been disturbed by relic hunters, enough remained intact to warrant excavation. Turpin and Eling proceeded under the authority of an excavation permit issued by the Mexican government's Consejo de Arqueologia (CDA). On return trips in December of 1997 and March of 1998 they and a small team drew plan and profile maps of the cave and excavated the remaining deposits down to bedrock.  The results of their work were published in 1999. </p>
+  
+
+          <p align="left">Four radiocarbon assays showed that the cave was in use from A.D. 1000 to 1400.  Scattered charcoal and burned rocks suggest that fires were maintained near the entrance of the cave, but none of the inferred hearths or fire pits remained intact.  Overall, few utilitarian artifacts were recovered from the site.  Instead, the assemblage is almost entirely related to ritual practice.  Sites like this are incredibly rare in hunter-gatherer research, so their interpretation must be based on extra-regional analogies and inferences.  The ceremonial artifacts recovered from the site were found to share affinities with  the Rio Grande area, the American Southwest, and Mesoamerica. </p>
+  
+
+          <p align="left">Cueva Pilote is a place that lends itself well to ritual practice.  The juxtaposition of mountains and caves is a persistent element in Mesoamerican religion and a theme in many creation or origin myths.  Mesoamerican peoples considered caves to be entrances to the land of the dead, the abode of the rain and earth deities, as well as the place of emergence for the sun, the moon, and many ethnic groups.  </p>
+  
+
+          <p align="left">The entrance to Cueva Pilote is well-hidden in a steep, narrow cleft, visible only from a vantage point on the lowest rim rock ledge on the opposite side of the canyon.  The descent to it is precipitous, negotiable only via hand and toe holds in the rock for the last several meters, and the ledge in front of it is only 1 meter (3 feet) wide above a sheer 20-meter (66-foot) drop to the canyon floor.  The low, narrow opening of the cave is less than 1 meter (3 feet) high, and opens into an oval room 6 meters (20 feet) long, 4 meters (13 feet) wide, and 4 meters (13 feet) tall.  </p>
+  
+
+          <p align="left">The dramatic landscape that surrounds Cueva Pilote, the secret nature of the cave, the dangerous descent to it, and the sharp contrast between the light and openness of the outside world and the darkness and intimacy of the world of rock must have held great significance and symbolic value for the people who conducted ceremonies within it.</p>
+  
+          <p align="left">Cueva Pilote’s most striking artifacts are its painted deer scapulae.  Two complete and three partial painted scapulae were recovered during excavation. Six painted scapulae, two unpainted scapulae, and one large fragment from private collections were traced to the site.  In addition, 58 smaller fragments, some burned and some unburned, were recovered from the site and documented in private collections.  All told, a minimum of 18 scapulae are represented by the complete and fragmentary specimens.  </p>
+  
+
+          <p align="left">The painted designs can be almost completely reconstructed on seven of the scapulae.  All the designs are geometric, composed of cross-hatched or parallel and perpendicular lines on one or both sides of the scapula.  One design was painted in black pigment and the rest were painted in red.  Three consist largely of double lines that enclose triangular or quadrilateral space, two are combinations of parallel and intersecting lines, and two are simple intersecting lines that crisscross the scapula. </p>
+  
+
+  <p align="left">Painted deer scapulae are rare in the archeological record and have only been found in two caves in the Big Bend. One was mentioned by A.T. Jackson in his 1938 work <em>Picture Writing of the Texas Indian</em>s, and now resides in the Museum of the Big Bend at Sul Ross State University. The other is housed in the Smithsonian. Deer were considered sacred by the people of Coahuila and along the Rio Grande, as illustrated by rock art featuring disembodied antlers and hoof prints, as well as deer antler headdresses that have been found in mortuary contexts.  Deer hoof and scapulae rattles provided percussive sound that was one of the ritual pathways to an altered state of consciousness.  Even today, Kachina dancers of the American Southwest use painted scapula rattles to induce a trance state or to accompany chanting or other hypnotic sounds.  They hang them from cords, fasten them to their clothing, or hold them in their hands.</p>
+  
+  </td>
+        <td width="200" valign="top">
+          <table width="300" border="0">
+            <tr>
+              <td><a href="images/Pilote-scapulae.html" target="_blank"><img src="images/Pilote-scapulae-sm.jpg" alt="photo of two of the painted deer scapulae from Cueva Pilote." border="0" class="thumbimg"></a>
+              <div class="caption">View of the front and back of one of the painted deer scapulae from Cueva Pilote. These scapulae were likely hung from cords and used as rattles to induce a trance state or accompany chanting or other hypnotic sounds. <a href="images/Pilote-scapulae.html" target="_blank" onMouseOver="MM_swapImage('Image30','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image30" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+	    <table width="300" border="0">
+	      <tr>
+	        <td height="340"><a href="images/Pilote-area-map.html" target="_blank"><img src="images/Pilote-area-map-sm.jpg" alt="Map of the state of Coahuila showing the approximate location of Cueva Pilote. " border="0" class="thumbimg"></a>
+	          <div class="caption">Map of the state of Coahuila showing the approximate location of Cueva Pilote. <a href="images/Pilote-area-map.html" target="_blank" onMouseOver="MM_swapImage('Image29','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image29" width="19" height="20" border="0" align="absmiddle"></a></div>	  </td>
+    </tr>
+  </table>
+  
+	  <table width="300" border="0">
+	    <tr>
+	      <td height="443" valign="bottom"><a href="images/Pilote-setting.html" target="_blank"><img src="images/Pilote-setting-sm.jpg" alt="photo of of Cerro Pilote de la Encantada, the highest peak in the northern Encantada Valley" width="300" height="342" border="0" class="thumbimg"></a>
+	        <div class="caption">View of Cerro Pilote de la Encantada, the highest peak in the northern Encantada Valley, from the rim of the canyon above Cueva Pilote. Despite its remoteness, the people who visited the site had contact, directly or indirectly, with the people of the Rio Grande, the American Southwest, and Mesoamerica. <a href="images/Pilote-setting.html" target="_blank" onMouseOver="MM_swapImage('Image31','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image31" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+      </tr>
+	    </table>
+    
+
+    <table width="300" border="0">
+      <tr>
+        <td height="287" valign="bottom"><img src="images/Pilote-cover.jpg" alt="map of Guerrero" width="300" height="191" border="0">
+          <div class="caption">Illustration depicting ritual bloodletting with agave spines  from D. Alfredo Chavero's 1962 book Mexico a Traves de los Siglos. Such rituals were an integral part of the Mesoamerican politico-religious system and could substitute for human or animal sacrifice. From Turpin and Eling 1999. </div></td>
+      </tr>
+      </table>
+    
+<table width="300" border="0">
+  <tr>
+    <td height="399" valign="bottom"><a href="images/Pilote-sitemap.html" target="_blank"><img src="images/Pilote-sitemap-sm.jpg" alt="Plan map of the 1997 and 1998 excavations of the cave.&nbsp;" width="300" height="344" border="0" class="thumbimg"></a>
+      <div class="caption">Plan map of the 1997 and 1998 excavations of the cave. Turpin and Eling found that much of the cave’s shallow deposits had been disturbed by relic hunters, but many artifacts remained.  <a href="images/Pilote-sitemap.html" target="_blank" onMouseOver="MM_swapImage('Image374','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image374" width="19" height="20" border="0" align="absmiddle" id="Image374"></a></em> </div></td>
+      </tr>
+  </table>
+    
+   </td>
+      </tr>
+    </table>
+	<table width="780" border="0">
+  <tr>
+    <td valign="top"><table width="260" border="0">
+    <tr>
+      <td><a href="images/Pilote-pincushion-drawings.html" target="_blank"><img src="images/Pilote-pincushion-drawings-sm.jpg" border="0" class="thumbimg"></a>
+        <div class="caption">Two of the agave pads used to hold spines. These pincushions would have once held dozens of spines, based on the large quantities of them observed in the deposits and tiny holes still visible in the pads. Drawing by Pam Headrick. <a href="images/Pilote-pincushion-drawings.html" target="_blank" onMouseOver="MM_swapImage('Image33','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image33" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+    <td> <table width="260" border="0">
+    <tr>
+      <td valign="top"><a href="images/Pilote-pincushions.html" target="_blank"><img src="images/Pilote-pincushions-sm.jpg" alt="photo of two &ldquo;pincushions&rdquo; made from agave and hundreds of agave spines recovered from Cueva Pilote" border="0" class="thumbimg"></a>
+        <div class="caption">Two pincushions made from agave and hundreds of agave spines recovered from Cueva Pilote. These implements were used for bloodletting, a practice common in other parts of Coahuila and in Mesoamerica. Protein residue analysis conducted on the spines revealed traces of human blood. <a href="images/Pilote-pincushions.html" target="_blank" onMouseOver="MM_swapImage('Image34','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image34" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+    <td valign="top"><table width="260" border="0">
+    <tr>
+      <td><a href="images/flores.html" target="_blank"><img src="images/flores-sm.jpg" alt="illustration of Shell bead &ldquo;flores&rdquo; recovered from Cueva Candelaria" border="0" class="thumbimg"></a>
+        <div class="caption">Shell bead rattles recovered from Cueva Candelaria, a well-known mortuary cave in southern Coahuila. The dozens of shell beads recovered from Cueva Pilote may have once been part of rattles such as these. From Aveleyra et al. 1956. <a href="images/flores.html" target="_blank" onMouseOver="MM_swapImage('Image35','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image35" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+  </tr>
+</table>
+
+	<table width="780" border="0">
+  <tr>
+    <td width="480" height="606" valign="top">
+	 <p align="left">Artifacts recovered from Cueva Pilote that are related to bloodletting include a gourd, over 200 agave spines, and three fiber pads. The pads, or <em>pincushions</em>, are made of thick fleshy agave leaves  and have agave spines  inserted into them.  Ethnographic accounts, paintings, and sculpture show the use of these artifacts for self-mutilation and bloodletting - the spines to draw blood, the pincushions to hold the used and unused spines, and the gourd to catch the blood offering. Protein residue analysis revealed traces of human blood on the agave spines from Cueva Pilote, indicating that they were used for these kinds of rituals.
+  <p align="left">Bloodletting was an integral part of the Mesoamerican politico-religious system, and the instrument of choice was often the spine of the maguey, a kind of agave.  Auto-sacrifice was a right and obligation of kings and priests that was extended to others, such as initiates, penitents, and participants in specific rites where bloodletting may have been substituted for human or animal sacrifice.  Pictorial accounts illustrate how spines and pincushions would have been used in such rituals.  </p>
+  
+
+  <p align="left">In a fresco at the ancient center of Teotihuacan that researchers have dubbed “Blood Offering with Maguey Spines,” the central figure is framed by a border of pincushions holding disproportionately large maguey spines upright.  An illustration in the contact period Durán codex shows a priest piercing his shin with a maguey spine while another priest burns incense.  In the upper righthand corner of the illustration there is a pincushion holding two additional spines. An Aztec stone carving unearthed in Mexico City depicts two deities puncturing their ears with bone awls, while spines inserted into maguey leaves lie at their feet. </p>
+  
+
+  
+	</td>
+    <td width="300">
+	 <table width="300" border="0">
+    <tr>
+      <td height="395" valign="bottom"><a href="images/Pilote-cave-entrance.html" target="_blank"><img src="images/Pilote-cave-entrance-sm.jpg" alt="photo of the entrance to Cueva Pilote from a ledge on the opposite side of the narrow canyon, the only place from which it is visible." width="300" height="279" border="0" class="thumbimg"></a>
+        <div class="caption">View of the low entrance to Cueva Pilote from a ledge on the opposite side of the narrow canyon, the only place from which it is visible. The descent to the cave is precipitous, negotiable only via hand and toe holds in the rock for the last several meters. This must have added an element of secrecy and danger for the people who conducted ceremonies within the cave. <a href="images/Pilote-cave-entrance.html" target="_blank" onMouseOver="MM_swapImage('Image378','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image378" width="19" height="20" border="0" align="absmiddle" id="Image378"></a></div></td>
+      </tr>
+    </table>
+   </td>
+  </tr>
+</table>
+<table width="780" border="0">
+  <tr>
+    <td valign="top"><table width="260" border="0">
+    <tr>
+      <td><a href="images/blood-offering.html" target="_blank"><img src="images/blood-offering-sm.jpg" alt="Part of a fresco from Teotihuacan called &ldquo;Blood Offering with Maguey Spines.&rdquo;&nbsp;" border="0" class="thumbimg"></a>
+        <div class="caption">Part of a fresco from Teotihuacan called “Blood Offering with Maguey Spines.” Note the enlarged pincushions holding disproportionately large maguey spines to the left of the central figure. <a href="images/blood-offering.html" target="_blank" onMouseOver="MM_swapImage('Image36','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image36" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+    <td valign="top"><table width="300" border="0">
+    <tr>
+      <td><a href="images/Duran-codex.html" target="_blank"><img src="images/Duran-codex-sm.jpg" alt="Illustration from the Dur&aacute;n codex showing an Aztec priest piercing his skin with a maguey spine while another priest burns incense." border="0" class="thumbimg"></a>
+        <div class="caption">Illustration from the Durán codex showing an Aztec priest piercing his skin with a maguey spine while another priest burns incense. Note the pincushion in the upper righthand corner holding two additional spines. <a href="images/Duran-codex.html" target="_blank" onMouseOver="MM_swapImage('Image37','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image37" width="19" height="20" border="0"></a></div></td>
+    </tr>
+  </table></td>
+    <td valign="top"> <table width="260" border="0">
+    <tr>
+      <td><a href="images/aztec-bloodletting.html" target="_blank"><img src="images/aztec-bloodletting-sm.jpg" alt="Drawing of Aztec stone carving depicting two deities puncturing their ears with bone awls." border="0" class="thumbimg"></a>
+        <div class="caption">Drawing of Aztec stone carving depicting two deities puncturing their ears with bone awls. Note the maguey spines inserted in the leaves at their feet. <a href="images/aztec-bloodletting.html" target="_blank" onMouseOver="MM_swapImage('Image38','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image38" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table></td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td width="480">
+	<p align="left">Archeological materials and ethnographic accounts confirm that the people of the Laguna District, south of the Encantadas, also practiced   scarification and bloodletting.  Scarifiers made of agave leaves, spines, and rodent mandibles appear with some frequency in the Coahuila archeological record.  At Cueva Candelaria, a mortuary cave in the Laguna district, a series of wooden tubes with shell or stone bases and agave spine inserts accompanied burials.  Their positions in some of the burials suggests that they were ear plugs designed to hold the agave spines used in scarification or bloodletting.  </p>
+  
+
+    <p align="left">Three accounts describe a fascinating ritual performed in 1607 in the vicinity of Mapimí, Coahuila to avert the potential dire affects of a comet.   Elders punctured themselves with spines, then gathered the blood in a gourd, dipped the fresh-cut hair of a young woman in the blood, and flailed it in the air in the cardinal directions while &quot;crying out horrifically.&quot;  Another account describes a ceremony in which Coahuiltecans of both sexes danced around a fire, consumed peyote, and &quot;drew large quantities of blood by scratching themselves with the beak of a fish.&quot; </p>
+  
+
+  <p align="left">Shell beads and unmodified land snails recovered from Cueva Pilote are also ceremonial artifacts.  Fifty-six round, flat, perforated freshwater mussel shell beads were found scattered across the cave.  At Cueva Candelaria, similar beads were found tied into clusters and looped into bead flowers, or <em>flores, </em>to create rattles.  Three common Atlantic Marginella shell beads were also recovered from Cueva Pilote.  They may have once been part of elaborate flores made of dozens of shells, or perhaps simply strung on a single cord.  In addition to shell beads, 43 land snail shells were recovered from the cave.  Most are shells from large adults and belong to a species that does not inhabit dry caves, indicating that they were purposefully brought to the site.  Spirals are commonly found in the rock art of Coahuila, and the snails’ accentuated spiral morphology may have imbued them with ritual significance. </p>
+  
+
+  <p align="left">Cueva Pilote’s lithic assemblage consists of a Langtry dart point, a Jora dart point, a Langtry variant, three partial dart points of the Langtry or Jora variety, 14 other bifaces, four unifaces, three utilized flakes, two secondary flakes, 21 tertiary flakes, seven chips, three core fragments, eight pieces of burned shatter, three ocher-stained rocks, and a smoothed pebble.  It is unclear whether any or all of these are ceremonial artifacts. </p>
+  
+
+  
+	</td>
+    <td width="300" valign="top">
+	<table width="300" border="0">
+  <tr>
+    <td height="373" valign="bottom"><a href="images/Pilote-cave-interior.html" target="_blank"><img src="images/Pilote-cave-interior-sm.jpg" alt="photo of the cave interior prior to archeological excavation." width="300" height="269" border="0" class="thumbimg"></a>
+      <div class="caption">View of the cave interior prior to archeological excavation. Once through the small opening of the cave, the people who visited it would have found symbolic value in the contrast between the light and openness of the outside world and the darkness and intimacy of the world of rock. <a href="images/Pilote-cave-interior.html" target="_blank" onMouseOver="MM_swapImage('Image3710','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image3710" width="19" height="20" border="0" align="absmiddle" id="Image3710"></a></div></td>
+      </tr>
+  </table>
+    <table width="300" border="0">
+      <tr>
+        <td height="327" valign="bottom"><a href="images/Pilote-Collectors-Scaps.html" target="_blank"><img src="images/Pilote-Collectors-Scaps-sm.jpg" alt="Drawings of four of the complete painted deer scapulae taken from the cave in the 1960s and sold to collectors in the United States" width="300" height="241" border="0" class="thumbimg"></a>
+          <div class="caption">Drawings of four of the complete painted deer scapulae that were taken from the cave in the 1960s and ended up in private collections in the United States. Except for the specimen in the lower right (which was only painted on one side), all artifacts are shown from several perspectives (e.g., front and back). <a href="images/Pilote-Collectors-Scaps.html" target="_blank" onMouseOver="MM_swapImage('Image3712','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image3712" width="19" height="20" border="0" align="absmiddle" id="Image3712"></a></div></td>
+      </tr>
+      </table>
+    <table width="300" border="0">
+      <tr>
+        <td><a href="images/Pilote-Excavated-Scaps.html" target="_blank"><img src="images/Pilote-Excavated-Scaps-sm.jpg" alt="Drawings of two complete painted deer scapulae, and three fragmentary specimens recovered during excavations in the late 1990s." border="0" class="thumbimg"></a>
+          <div class="caption">Drawings of two complete painted deer scapulae, and three fragmentary specimens recovered during excavations in the late 1990s. Two views are shown for each artifact (e.g., front and back or front and side). <a href="images/Pilote-Excavated-Scaps.html" target="_blank" onMouseOver="MM_swapImage('Image39','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image39" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+ 
+  
+  
+  
+ 
+  
+  
+	</td>
+  </tr>
+</table>
+<table width="780" border="0">
+    <tr>
+      <td height="235" valign="top"><a href="images/Pilote-cache.html" target="_blank"><img src="images/pilote-cache-row.jpg" alt="illustration of nine bifaces that make up the cache recovered from Cueva Pilote" width="780" height="155" border="0" class="thumbimg"></a>
+        <div class="caption">The nine bifaces that make up the cache recovered from Cueva Pilote include one early stage perform (a), five middle stage preforms (b-f), one late stage perform (g), one finished Langtry dart point (h), and one finished Jora dart point (i). <a href="images/Pilote-cache.html" target="_blank" onMouseOver="MM_swapImage('Image40','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image40" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+<table width="780" border="0">
+  <tr>
+    <td width="480">
+	<p align="left">In an unpublished analysis of the  lithic assemblage, researchers Lee Bement and Solveig Turpin argued that nine of the bifaces (including two dart points)  represent a cache of Middle Archaic artifacts. Although the deposits had been disturbed, these artifacts appeared to have been placed in a rough circle.  The cache illustrates the bifacial reduction sequence through which Langtry and Jora dart points were created.  Basically, dart points are created by gradually thinning and shaping pieces of flint.  Bement conceives of the reduction process as following successive stages from early to late stage preforms, to partially shaped dart point, to finished dart point.  The Cueva Pilote cache consists of one early stage preform, five middle stage preforms, one late stage preform, one finished Langtry dart point, and one finished Jora dart point.  </p>
+  
+
+    <p align="left">The dart points show that the cache dates to the Middle Archaic period, between about 2700 to 1500 B.C., well over 2000 years earlier than the site’s radiocarbon dates.  Though the cache could represent a Middle Archaic occupation of Cueva Pilote, the ceremonial nature of the rest of its artifact assemblage makes this scenario unlikely. The cache was probably found elsewhere and deposited in the cave  as a votive offering late in prehistory. Recently, a quite similar cache of Middle Archaic dart points and preforms  was discovered at the Lizard Hill site in southern Brewster County by archeologists from the Center for Big Bend Studies at Sul Ross State University.</p>
+  
+
+    <p align="left">Cueva Pilote’s faunal assemblage is dominated by the remains of an adult and juvenile black bear.  The remains consist mainly of long bones and ribs, but also include skull fragments, a sacrum fragment, a vertebra, a scapula, a phalanx, and a single front claw.  Because of the difficulty bears would have had in entering the cave and the absence of many of the large bones, the teeth, and the other claws, it is likely that the remains were brought to the cave for ceremonial purposes.  Most of the bones were found in the relic hunters' backdirt pile at the mouth of the cave, but two long bones of the adult bear were found intentionally jammed under protruding ledges or rocks on either side of the mouth of the cave.</p>
+  
+  <p align="left">Despite its remoteness in the rugged Sierra Encantada, Cueva Pilote was not isolated from developments taking place all around it.  In addition to engaging in rituals very similar to those practiced along the Rio Grande, the American Southwest, and Mesoamerica, the people who visited the site possessed many artifacts of non-local origin.  Their marine shell beads came from the Gulf of Mexico, some 400 to 500 kilometers (250 to 300 miles) to the east.  Their mussel shell beads came from either the Rio Grande, 100 kilometers (60 miles) to the north, or the Río Sabinas, 160 kilometers (100 miles) to the south.  In addition, their gourd is a domesticated variety that was not grown in the vicinity of the site and may have been imported from the Rio Grande Valley, the Laguna District, or the Huasteca area to the east.  All of this implies that they had  contacts with other groups that extended well beyond the Encantadas. </p>
+  
+ 
+  <h3 align="left">Credits and Sources</h3>
+  <p align="left">This exhibit was contributed by <strong>Solveig Turpin</strong>. TBH Assistant Editor <strong>Carly Whelan </strong>created the exhibit based on the below sources and contributed additional writing. <strong>Heather Smith</strong> did the web development. Turpin also took the photographs. </p>
+  <p align="left">Turpin holds a doctorate in Anthropology from the University of Texas at Austin where she worked as an   archeologist until  retirement in 1998.&nbsp; Her research has focused on rock art   and hunter-gatherer adaptations to the arid lands of the Lower Pecos   region and northern Coahuila and Chihuahua.</p>
+  <br>
+  
+  <h3>Print Sources</h3>
+  <p align="left"><strong>Avelerya, Luis, M. Maldonado-Kordell, and Pablo Martinez del Rio</strong><br>
+    1956&nbsp;&nbsp;&nbsp;	<em>Cueva de la Candelaria</em>. Instituo Nacional de Anthropologica e Historia, Mexico, D.F. </p>
+  
+
+  <p align="left"> <strong>Eling, Herbert H., Jr. and Solveig A. Turpin</strong><br>
+    2007&nbsp;&nbsp;&nbsp; Cueva Pilote: Ritual Bloodletting Among the Prehistoric Hunters and Gatherers of Northern Coahuila, Mexico. Paper presented at the 72nd Annual Meeting of the Society for American Archaeology, Austin. </p>
+  
+
+  <p align="left"><strong>Turpin, Solveig A. and Herbert H. Eling, Jr. </strong><br>
+    1999&nbsp;&nbsp;&nbsp; <em>Cueva Pilote: Ritual Bloodletting Among the Prehistoric Hunters and Gatherers of Northern Coahuila, Mexico. </em> Institute of Latin American Studies, The University of Texas at Austin, and Instituto Nacional de Anthropología e Historia, Saltillo, Coahuila.<br> 
+    [English and Spanish versions of this study can be downloaded as a PDF through Research Gate and Academia] </p>	</td>
+    <td width="300" valign="top">
+	 <table width="300" border="0">
+    <tr valign="bottom">
+      <td><img src="images/Pilote-cache-superimposed.jpg">
+        <div class="caption">When the nine bifaces that make up the cache  are superimposed on top of one another, it becomes easy to see that they illustrate a lithic reduction sequence from early stage preform to finished dart point.  Graphic by Lee Bement. </div></td>
+    </tr>
+  </table>
+	<table width="300" border="0">
+    <tr valign="bottom">
+      <td height="553"><a href="images/Pilote-bear-claw.html" target="_blank"><img src="images/Pilote-bear-claw-sm.jpg" alt="photo of claw from an adult black bear" border="0" class="thumbimg"></a>
+        <div class="caption">This claw from an adult black bear is the only claw recovered from Cueva Pilote. Although other bones from an adult and a juvenile bear were found, the absence of teeth, other claws, and most of the larger bones suggests that the remains were brought to the cave for ceremonial purposes. <a href="images/Pilote-bear-claw.html" target="_blank" onMouseOver="MM_swapImage('Image42','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image42" width="19" height="20" border="0" align="absmiddle"></a></div></td>
+    </tr>
+  </table>
+  <table width="300" border="0">
+    <tr valign="bottom">
+      <td height="300"><a href="images/Pilote-snails.html" target="_blank"><img src="images/Pilote-snails-sm.jpg" alt="photo of land snail shells" width="300" height="172" border="0" class="thumbimg"></a>
+        <div class="caption">These land snail shells were purposefully brought to Cueva Pilote by the people who conducted ceremonies within the cave. Spirals are commonly found in the rock art of Coahuila, and the snails’ accentuated spiral morphology may have given them ritual significance. <a href="images/Pilote-snails.html" target="_blank" onMouseOver="MM_swapImage('Image43','','images/camera-button-ro-sm.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="images/camera-button-sm.jpg" name="Image43" width="19" height="20" border="0"></a></div></td>
+    </tr>
+  </table>	
+  <table width="300" border="0">
+    <tr valign="bottom">
+      <td height="321"><img src="images/Turpin.jpg" alt="photo of Solveig Turpin with Alvin Ivey (left) and Tom Barksdale" width="300" height="256" border="0"></a>
+        <div class="caption">Solveig Turpin with Alvin Ivey (left) and Tom Barksdale, two of the "Hombres de la Frontera" who provided logistical assistance for her fieldwork in Coahuila.</div></td>
+    </tr>
+  </table>
+  </td>
+  </tr>
+</table>
+
+  </div>
+      <div id="foot" align="center">
+        
+        
+
+        <p>
+          <a href="http://utopia.utexas.edu" target="_blank"></a>
+        <div align="left">
+            <a href="../index.html">Texas Beyond History</a><br>
+            <a href="../sitemap.html">Site Map</a><br>
+            <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a><br>
+            <span class="style1">January 2008</span> 
+          </p>
+        </div> 
+    </div>
+</div>
+<script language="javascript">
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>

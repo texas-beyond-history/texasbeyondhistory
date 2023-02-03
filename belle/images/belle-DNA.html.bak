@@ -1,0 +1,85 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-66879714-13"></script>
+  <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());gtag('config', 'UA-66879714-13');</script><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head >
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+<script type="text/javascript" src="/js/global.js"></script>
+ 
+<title>The Belle</title>
+<meta name="keywords" content="The Belle, La Salle, Karankawa, Matagorda Bay, cofferdam, underwater archeology, Texas history, Texas archeology, Texas Historical Commission, Conservation Research Laboratory, Texas A&M">
+<meta name="description" content="The history of a French colonizing vessel and the methods used to excavate this unique shipwreck site off the Texas coast.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- <link rel="stylesheet" href="../../style-fl-coast.css" type="text/css" media="screen"/> --> 
+<!-- <link rel="stylesheet" href="../../print.css" type="text/css" media="print"/> -->
+<link rel="stylesheet" href="file:///Z|/print.css" type="text/css" media="print"/>
+<style type="text/css">
+<!--
+.style9 {
+	color: #993300;
+	font-family: arial, sans-serif;
+	font-size: 36px;
+}
+-->
+</style>
+</head>
+<body onLoad="MM_preloadImages('../../Templates/images/prehistory_f2.jpg','../../Templates/images/harvest_f2.jpg','../../Templates/images/people_f2.jpg','../../Templates/images/kids_f2.jpg','../../Templates/images/patterns_f2.jpg','../../Templates/images/artistic_f2.jpg','../../Templates/images/teaching_f2.jpg','../../Templates/images/credits_f2.jpg')">
+<table width="780" border="0">
+  <tr>
+    <td><div align="center"><span class="style9">DNA</span></div></td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+    <td><img src="belle-DNA1.jpg"></td>
+    <td><p>Most of the people who sailed on La Belle originally came from France, so researchers wondered if our skeletal sailor might be related to families living in France today. Since the skeleton was found lying next to a cup with the name, C. Barange, they hoped to look for members of the Barange family in France and compare their DNA with that of the sailor. </p></td>
+  </tr>
+</table>
+
+<table width="780" border="0">
+  <tr>
+   <td>
+
+<p>First they had to take a look at the sailor’s DNA. We know that DNA (deoxyribonucleic acid) is present in every cell of the human body and can sometimes be used to help identify and match up family members. So scientists took samples of his brain tissue,  his right leg bones,  his teeth, and one of his ribs to look for his DNA. </p>
+<p>All the samples contained DNA, but none of it was human! The sailor’s DNA had been contaminated by bacteria and sea organisms that had been living on his skeleton for over 300 years!  So, unfortunately, scientists have not been able to genetically link our Mr. C. Barange with any modern-day relatives. Maybe new techniques will allow us to get better samples and help solve this puzzle some day in the future! </p></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<table width="780" border="0">
+  <tr>
+    <td height="62"><div align="center"><a href=""><img src="close.gif" name="close" width="109" height="35" onClick=		
+		"self.close();"></a></div></td>
+  </tr>
+</table>
+
+
+
+
+<script language="javascript">
+
+var fo = new FlashObject("images/stpMap.swf", "bboxsite", "764", "450", "8.0.22", "#FFFFFF", true);
+		fo.addParam("allowScriptAccess", "always");
+		fo.write("flashcontent");	
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+
+<map name="Map">
+<area shape="poly" coords="60,348,278,358,290,79,72,69" href="analysis-tarsus2.html" target="_blank" alt="photo of the sailor's ankle bones">
+</map></body>
+</html>

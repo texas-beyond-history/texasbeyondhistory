@@ -1,0 +1,12 @@
+tbhnews=<HTML><BODY>
+
+<FONT COLOR="#993300" FACE="verdana" SIZE="14"><B>New on TBH</B></FONT><BR><BR><br>
+
+<FONT COLOR="#993300" FACE="verdana" SIZE="10">9/06 </FONT><FONT COLOR="#cc3300" FACE="verdana" SIZE="12"><B><U><A HREF="st-plains/index.html">South Texas Plains </A></U></B></FONT>
+
+<br><br><br>
+
+<FONT COLOR="#cc3300" FACE="verdana" SIZE="10"><B><U><A HREF="abouttbh/newarchives.html">New on TBH Archives</A></U></B></FONT>
+
+</body></html>
+

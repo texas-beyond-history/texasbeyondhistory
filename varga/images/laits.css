@@ -1,0 +1,13 @@
+.bodytext { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #404075; font-weight: normal; line-height: 16px }
+.navlink { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: normal; color: #404075; text-decoration: none }
+.pageheader { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #404075; font-weight: bold }
+.pageheader2 { font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #404075; font-weight: bold }
+.footer {  font-size: 10px; color: #404075; font-family: Arial, Helvetica, sans-serif}
+.bodytopic { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #404075; font-weight: bold; line-height: 16px }
+.activenavlink { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: normal; color: #920000; text-decoration: none }
+.bodytext-nolink { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #404075; font-weight: normal; line-height: 16px}
+.bodytext-link { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF3300; font-weight: normal; line-height: 16px ; text-decoration: none}
+.bodytext-highlight { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF3300; font-weight: bold; line-height: 16px }
+.largepageheader { font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #404075; font-weight: bold }
+.bodytopic-link { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #404075; font-weight: bold; line-height: 16px ; text-decoration: none}
+.pageheader-large { font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #404075; font-weight: bold }
