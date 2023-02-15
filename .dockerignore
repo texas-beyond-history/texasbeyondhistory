@@ -1,4 +1,7 @@
 .git
+.gitattributes
+.github
 Dockerfile
+.dockerignore
 Templates
 _boilerplate
