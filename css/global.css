@@ -228,7 +228,7 @@ div#wordmark a:first-of-type {
    text-align: center;
    margin: 20px auto;
 }
-.donate-btn {
+.donate-btn .donate-btn:visited {
    display: inline-block;
    font-size: 1rem;
    font-weight: bold;
