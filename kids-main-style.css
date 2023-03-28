@@ -1,0 +1,255 @@
+/* Includes CSS Reset */
+
+div.containter {
+  height: 100%;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+article, footer {
+  float: left;
+  margin: 1em 3.25%;
+  width: 93.5%;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 0 0 1em 0;
+}
+
+p {
+  margin: 0 0 .5em 0;
+}
+article a {
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid #000;
+}
+
+/*NAVIGATION*/
+
+li.logo a:link, li.logo a:visited {
+  padding: 0;
+}
+
+li.logo a:link, li.logo a:visited {
+  text-align: left;
+}
+
+.logo img{
+  width: 100%;
+  max-width: 120px;
+  position: relative;
+}
+
+.logo {
+  display: none;
+}
+
+.logo div{
+  font-family: Times New Roman, serif;
+}
+
+.nav-small img {
+  height: 50px;
+  width: 50px;
+}
+
+header span{
+  display: block;
+  font-family: "Times New Roman" !important;
+  font-size: 16px;
+}
+
+header {
+  background: #06b2bc;
+  border-bottom: 5px double #00ff16;
+  min-width: 900px;
+}
+header nav {
+  -webkit-transition: all, 0.25s;
+  -moz-transition: all, 0.25s;
+  -ms-transition: all, 0.25s;
+  -o-transition: all, 0.25s;
+  transition: all, 0.25s;
+  min-height: 140px;
+}
+header nav ul {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -moz-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-justify-content: flex-start;
+  -moz-justify-content: flex-start;
+  justify-content: flex-start;
+}
+header nav ul li {
+  -webkit-box-flex: 0 0 50%;
+  -moz-box-flex: 0 0 50%;
+  -webkit-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+}
+header nav ul li a:link, header nav ul li a:visited {
+  text-align: center;
+  text-decoration: none;
+  width: 94%;
+  padding: 1em 3%;
+  -webkit-transition: all, 0.25s;
+  -moz-transition: all, 0.25s;
+  -ms-transition: all, 0.25s;
+  -o-transition: all, 0.25s;
+  transition: all, 0.25s;
+  color: #000 !important;
+}
+
+header nav ul li.icons a{
+  display: inline-block;
+}
+
+header nav ul li.icons a span{
+  padding-bottom: 5px;
+}
+
+nav#kids-nav div.text span{
+  color: #000;
+}
+
+nav#kids-nav div.text span:last-child,
+header nav ul li.icons a{
+  font-family: "blockhead-black-face", sans-serif !important;
+}
+
+nav#kids-nav div.text span:last-child{
+  font-size: 80px;
+  margin-top: -16px;
+}
+
+
+nav#kids-nav li a{
+  font-size: 1em;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div.jagged-edge img#flipped{
+  transform: scaleY(-1);
+}
+
+
+
+@media screen and (min-width: 540px) {
+  li.logo a:link, li.logo a:visited {
+    text-align: center;
+  }
+
+  .smallnavjs {
+    margin-top: 0 !important;
+  }
+
+  li.nav-small {
+    display: none;
+  }
+
+  .logo {
+    display: block;
+    margin: 0;
+    width: 100%;
+  }
+
+  header {
+    padding: 1em 0 0;
+    text-transform: uppercase;
+  }
+  header nav {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  header nav ul li {
+    -webkit-box-flex: 1 1 auto;
+    -moz-box-flex: 1 1 auto;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+  }
+}
+@media screen and (min-width: 800px) {
+  .logo {
+    width: auto;
+    -webkit-box-flex: 0 1 auto;
+    -moz-box-flex: 0 1 auto;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    position: absolute;
+    left: 3.25%;
+  }
+
+  .logo a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000 !important;
+  }
+
+  #kids-nav div.image{
+    flex-basis: 40%;
+  }
+
+  #kids-nav div.text{
+    font-size: 20px;
+    padding-left: 20px;
+  }
+
+  header {
+    padding: 1em 0 .5em;
+  }
+  header nav {
+    position: relative;
+    display: flex;
+  }
+  header nav ul {
+    -webkit-justify-content: flex-end;
+    -moz-justify-content: flex-end;
+    justify-content: flex-end;
+    width: 93.5%;
+    padding: 0 3.25%;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+  }
+  header nav ul li {
+    -webkit-box-flex: 0 1 auto;
+    -moz-box-flex: 0 1 auto;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    white-space: nowrap;
+    margin: .5em .25em;
+  }
+  header nav ul li {
+    padding: 0 .5em;
+  }
+
+  header nav ul li.icons {
+    padding: 0 22px;
+  }
+
+  header nav ul li.icons a span img{
+    width: 50px;
+  }
+
+  header nav ul li.icons{
+    align-self: flex-end;
+  }
+}
+
+
