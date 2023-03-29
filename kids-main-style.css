@@ -123,7 +123,8 @@ nav#kids-nav div.text span{
 }
 
 nav#kids-nav div.text span:last-child,
-header nav ul li.icons a{
+header nav ul li.icons a,
+section .hs__headline{
   font-family: "blockhead-black-face", sans-serif !important;
 }
 
@@ -137,6 +138,12 @@ nav#kids-nav li a{
   font-size: 1em;
   font-weight: 400;
   font-style: normal;
+}
+
+div.jagged-edge{
+  position: relative;
+  z-index: 1;
+  height: 0;
 }
 
 div.jagged-edge img#flipped{
@@ -253,3 +260,435 @@ div.jagged-edge img#flipped{
 }
 
 
+/******* BACKGROUND SLIDESHOW ********/
+
+.cb-slideshow,
+.cb-slideshow:after { 
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 0; 
+}
+.cb-slideshow:after { 
+    content: '';
+    background: background: rgba(0, 0, 0, 0.6) 
+}
+
+.cb-slideshow li span { 
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: none;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 36s linear infinite 0s; 
+}
+
+.cb-slideshow li div { 
+    z-index: 1000;
+    position: absolute;
+    bottom: 30px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    color: #fff;
+    animation: titleAnimation 36s linear infinite 0s; 
+}
+.cb-slideshow li div h3 { 
+    font-size: 240px;
+    padding: 0;
+    line-height: 200px; 
+}
+
+.cb-slideshow li:nth-child(1) span { 
+    background-image: url(../kids/images/kids_main_images/2.jpg) 
+}
+.cb-slideshow li:nth-child(2) span { 
+    background-image: url(../kids/images/kids_main_images/4.jpg);
+    animation-delay: 6s; 
+}
+.cb-slideshow li:nth-child(3) span { 
+    background-image: url(../kids/images/kids_main_images/5.jpg);
+    animation-delay: 12s; 
+}
+.cb-slideshow li:nth-child(4) span { 
+    background-image: url(../kids/images/kids_main_images/7.jpg);
+    animation-delay: 18s; 
+}
+.cb-slideshow li:nth-child(5) span { 
+    background-image: url(../kids/images/kids_main_images/10.jpg);
+    animation-delay: 24s; 
+}
+.cb-slideshow li:nth-child(6) span { 
+    background-image: url(../kids/images/kids_main_images/11.jpg);
+    animation-delay: 30s; 
+}
+
+.cb-slideshow li:nth-child(2) div { 
+    animation-delay: 6s; 
+}
+.cb-slideshow li:nth-child(3) div { 
+    animation-delay: 12s; 
+}
+.cb-slideshow li:nth-child(4) div { 
+    animation-delay: 18s; 
+}
+.cb-slideshow li:nth-child(5) div { 
+    animation-delay: 24s; 
+}
+.cb-slideshow li:nth-child(6) div { 
+    animation-delay: 30s; 
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 1; animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes titleAnimation { 
+    0% { opacity: 0 }
+    8% { opacity: 1 }
+    17% { opacity: 1 }
+    19% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+.no-cssanimations .cb-slideshow li span{
+  opacity: 1;
+}
+
+@media screen and (max-width: 1140px) { 
+    .cb-slideshow li div h3 { font-size: 140px }
+}
+@media screen and (max-width: 600px) { 
+    .cb-slideshow li div h3 { font-size: 80px }
+}
+
+/***** TEXAS CLOCK *******/
+
+.clock {
+  position: relative;
+  height: 600px;
+  width: 600px;
+  box-sizing: border-box;
+  border-radius: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.clock img{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.clock .center {
+  height: 10px;
+  width: 10px;
+  position: absolute;
+  left: 60px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  background: #fff;
+  border-radius: 100%;
+}
+.clock .hour {
+  width: 3px;
+  height: 100%;
+  position: absolute;
+  left: 60px;
+  right: 0;
+  margin: 0 auto;
+  animation: time 60s infinite linear;
+}
+.clock .hour:before {
+  position: absolute;
+  content: "";
+  background: #fff;
+  height: 170px;
+  width: 4px;
+  top: 127px;
+}
+.clock .minute {
+  width: 1px;
+  height: 100%;
+  position: absolute;
+  left: 60px;
+  right: 0;
+  margin: 0 auto;
+  animation: time 30s infinite linear;
+}
+.clock .minute:before {
+  position: absolute;
+  content: "";
+  background: #fff;
+  height: 150px;
+  width: 2px;
+  top: 147px;
+}
+.clock .second {
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  left: 60px;
+  right: 0;
+  margin: 0 auto;
+  animation: time 15s infinite linear;
+}
+.clock .second:before {
+  position: absolute;
+  content: "";
+  background: #fd1111;
+  height: 145px;
+  width: 3px;
+  top: 155px;
+}
+
+@keyframes time {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+@media screen and (min-width: 800px) {
+  section.texas-intro{
+    position: relative;
+    min-height: 800px;
+    background: #fcd135;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hs {
+  display: flex;
+  overflow-x: scroll;
+  justify-content: space-between;
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE 10+ */
+  -webkit-overflow-scrolling: touch;
+  margin: 0 -20px;
+}
+.hs__header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.hs__headline {
+  text-align: center;
+  font-size: 40px;
+  flex: 1;
+}
+
+.hs__headline::after{
+  height: 10px;
+  display: block;
+  width: 100px;
+  border-bottom: 6px solid #000;
+  content: '';
+  margin: 0 auto;
+}
+
+.hs__arrows {
+  align-self: center;
+  cursor: pointer;
+}
+.hs__arrows .arrow:before {
+  border-style: solid;
+  border-width: 0.25em 0.25em 0 0;
+  border-color: #000;
+  content: '';
+  display: inline-block;
+  height: 0.45em;
+  width: 0.45em;
+  transform: rotate(-45deg);
+  vertical-align: middle;
+  position: relative;
+  left: -20px;
+  
+}
+.hs__arrows .arrow.disabled:before {
+  filter: brightness(2);
+}
+.hs__arrows .arrow.arrow-prev:before {
+  transform: rotate(-135deg);
+  margin-right: 10px;
+}
+.hs__arrows .arrow.arrow-next:before {
+  transform: rotate(45deg);
+}
+.hs__item {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: calc(100% / 3 - (10px * 2) - (20px / 3));
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.hs__item__description{
+  position: absolute;
+  bottom: 10px;
+  left: 12px;
+  z-index: 1;
+}
+
+.hs__item__title{
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.hs__item__image__wrapper{
+  background: #000;
+}
+
+.hs__item__image{
+  opacity: 0.8;
+}
+
+section ul.hs {
+    margin: 30px 0;
+  }
+
+@media only screen and (max-width: 990px) {
+  .hs__item {
+    flex-basis: calc(100% / 3 - (10px * 2) - (20px / 3));
+  }
+}
+.hs__item:last-child:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 10px;
+  height: 1px;
+  right: calc(10px * 2 * -1);
+}
+.hs__item:first-child {
+  margin-left: calc(10px * 2);
+}
+.hs__item__description {
+  z-index: 1;
+  align-self: flex-start;
+  margin: 10px 0;
+}
+.hs__item__subtitle {
+  color: #aaa;
+  display: block;
+}
+.hs__item__image__wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+}
+.hs__item__image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+@media only screen and (min-width: 990px) {
+  .hs__wrapper {
+    overflow: hidden;
+  }
+}
+@media (hover: none) and (pointer: coarse) {
+  .hs__wrapper .hs__arrows {
+    display: none;
+  }
+  .hs__wrapper .hs__item {
+    flex: 1 0 calc(23% - 10px * 2);
+  }
+}
+@media only screen and (hover: none) and (pointer: coarse) and (max-width: 990px) {
+  .hs__wrapper .hs__item {
+    flex: 1 0 calc(45% - 10px * 2);
+  }
+}
+
+.container {
+  max-width: 1100px;
+  padding: calc(10px * 2);
+  margin: 0 auto;
+  mix-blend-mode: invert;
+  position: relative;
+}
+.container:after {
+  content: "";
+  width: 100vw;
+  height: 100%;
+  background: #fcd135;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  z-index: -1;
+}
+@media only screen and (min-width: 990px) {
+  .container {
+    padding: calc(10px * 4) calc(10px * 8);
+  }
+}
+
+.description {
+  max-width: 990px;
+  color: #212121;
+  margin: 0 auto;
+  padding: calc(10px * 4);
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
