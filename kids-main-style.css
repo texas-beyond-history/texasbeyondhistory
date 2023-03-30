@@ -114,6 +114,10 @@ header nav ul li.icons a{
   display: inline-block;
 }
 
+header nav u li.icons a:hover{
+  color: #ffcd5f;
+}
+
 header nav ul li.icons a span{
   padding-bottom: 5px;
 }
@@ -149,7 +153,6 @@ div.jagged-edge{
 div.jagged-edge img#flipped{
   transform: scaleY(-1);
 }
-
 
 
 @media screen and (min-width: 540px) {
@@ -250,8 +253,40 @@ div.jagged-edge img#flipped{
     padding: 0 22px;
   }
 
-  header nav ul li.icons a span img{
+  header nav ul li.icons a span img,
+  svg{
     width: 50px;
+  }
+
+  header nav ul li.icons a:hover svg.blink{
+    animation-name: blinking;
+    animation-duration: 1s;
+    animation-iteration-count: 100;
+  }
+
+  @keyframes blinking {
+    50% {
+      fill: #ffcd5f;
+    }
+  }
+
+  header nav ul li.icons a:hover img#hands{
+    animation-name: wave;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes blinking {
+    50% {
+      fill: #ffcd5f;
+    }
+  }
+
+  @keyframes wave {
+    0%   {transform: rotate(0deg)}
+    50%  {transform: rotate(-30deg)}
+    75%  {transform: rotate(30deg)}
+    100%  {transform: rotate(0deg)}
   }
 
   header nav ul li.icons{
