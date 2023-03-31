@@ -245,6 +245,7 @@ div.jagged-edge img#flipped{
     white-space: nowrap;
     margin: .5em .25em;
   }
+
   header nav ul li {
     padding: 0 .5em;
   }
@@ -255,7 +256,8 @@ div.jagged-edge img#flipped{
 
   header nav ul li.icons a span img,
   svg{
-    width: 50px;
+    width: 55px;
+    height: 55px;
   }
 
   header nav ul li.icons a:hover svg.blink{
@@ -285,8 +287,23 @@ div.jagged-edge img#flipped{
   @keyframes wave {
     0%   {transform: rotate(0deg)}
     50%  {transform: rotate(-30deg)}
-    75%  {transform: rotate(30deg)}
     100%  {transform: rotate(0deg)}
+  }
+  header nav ul li.icons a:hover svg g#glass{
+    animation: zoom-in-zoom-out 1s ease infinite;
+    transform: perspective(1px) translateZ(0);
+  }
+
+  @keyframes zoom-in-zoom-out {
+    0% {
+      transform: scale(1, 1);
+    }
+    50% {
+      transform: scale(1.05, 1.05);
+    }
+    100% {
+      transform: scale(1, 1);
+    }
   }
 
   header nav ul li.icons{
