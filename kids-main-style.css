@@ -359,26 +359,26 @@ div.jagged-edge img#flipped{
 }
 
 .cb-slideshow li:nth-child(1) span { 
-    background-image: url(../kids/images/kids_main_images/2.jpg) 
+    background-image: url(../kids/images/kids-front-page-images/2.jpg) 
 }
 .cb-slideshow li:nth-child(2) span { 
-    background-image: url(../kids/images/kids_main_images/4.jpg);
+    background-image: url(../kids/images/kids-front-page-images/4.jpg);
     animation-delay: 6s; 
 }
 .cb-slideshow li:nth-child(3) span { 
-    background-image: url(../kids/images/kids_main_images/5.jpg);
+    background-image: url(../kids/images/kids-front-page-images/5.jpg);
     animation-delay: 12s; 
 }
 .cb-slideshow li:nth-child(4) span { 
-    background-image: url(../kids/images/kids_main_images/7.jpg);
+    background-image: url(../kids/images/kids-front-page-images/7.jpg);
     animation-delay: 18s; 
 }
 .cb-slideshow li:nth-child(5) span { 
-    background-image: url(../kids/images/kids_main_images/10.jpg);
+    background-image: url(../kids/images/kids-front-page-images/10.jpg);
     animation-delay: 24s; 
 }
 .cb-slideshow li:nth-child(6) span { 
-    background-image: url(../kids/images/kids_main_images/11.jpg);
+    background-image: url(../kids/images/kids-front-page-images/11.jpg);
     animation-delay: 30s; 
 }
 
@@ -495,24 +495,6 @@ div.jagged-edge img#flipped{
   width: 2px;
   top: 147px;
 }
-.clock .second {
-  width: 2px;
-  height: 100%;
-  position: absolute;
-  left: 60px;
-  right: 0;
-  margin: 0 auto;
-  animation: time 15s infinite linear;
-}
-.clock .second:before {
-  position: absolute;
-  content: "";
-/*  background: #fd1111;*/
-  background: #000;
-  height: 145px;
-  width: 3px;
-  top: 155px;
-}
 
 @keyframes time {
   to {
@@ -611,9 +593,13 @@ div.jagged-edge img#flipped{
 
 .hs__item__description{
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   left: 12px;
   z-index: 1;
+}
+
+.hs__item__description a{
+  text-decoration: none !important;
 }
 
 .hs__item__title{
@@ -627,7 +613,7 @@ div.jagged-edge img#flipped{
 }
 
 .hs__item__image{
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 section ul.hs {
