@@ -722,11 +722,7 @@ ul {
 
 
 
-
-
-
-
-/******** NAVIGATIONAL PAGE STYLING *********/
+/******** NAVIGATIONAL SUBPAGE STYLING *********/
 
 .container.subsection .hs__headline{
   font-size: 50px;
@@ -735,3 +731,40 @@ ul {
 .container.subsection .hs__headline::after{
   display: none;
 }
+
+
+
+/********* CARDS IN NAVIGATION SUBPAGES STYLING ********/
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  grid-gap: 2rem;
+  margin: 2rem;
+}
+
+/* demo purposes only */
+
+.card {
+  height: 215px;
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.card-container h3 {
+  color: #000;
+  font-size: 20px;
+  margin: 20px 0 0 0px;
+
+}
+
+.card-container img {
+  position: absolute;
+  top: 0;
+  height: 110%;
+  width: 100%;
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
