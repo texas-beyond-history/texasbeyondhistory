@@ -767,10 +767,3 @@ ul {
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-#nav.handlebars{
-  margin: 0 auto;
-}
-
-.gallery-article.ind-imgs{
-  overflow: auto;
-}
