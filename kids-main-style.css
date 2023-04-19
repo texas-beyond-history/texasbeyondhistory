@@ -603,7 +603,7 @@ div.jagged-edge img#flipped{
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  overflow-x: hidden;
+  overflow-x: scroll;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
