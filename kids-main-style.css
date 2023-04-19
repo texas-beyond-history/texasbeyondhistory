@@ -648,12 +648,12 @@ div.jagged-edge img#flipped{
 }
 .hs__arrows .arrow:before {
   border-style: solid;
-  border-width: 0.25em 0.25em 0 0;
+  border-width: 0.65em 0.65em 0 0;
   border-color: #000;
   content: '';
   display: inline-block;
-  height: 0.45em;
-  width: 0.45em;
+  height: 0.95em;
+  width: 0.95em;
   -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
@@ -910,4 +910,11 @@ ul {
 
 #source-links{
   text-align: center;
+}
+
+
+/*CANVASSER CSS CHANGES*/
+
+.h5p-content{
+  width: 80%;
 }
