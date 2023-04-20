@@ -63,7 +63,7 @@ header span{
 
 header {
   background: #06b2bc;
-  min-width: 900px;
+  min-width: 800px;
 }
 header nav {
   -webkit-transition: all, 0.25s;
@@ -180,6 +180,12 @@ div.jagged-edge img#flipped{
     -webkit-box-flex: 1 1 auto;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
+  }
+  .hs {
+    overflow-x: auto;
+  }
+  .hs__item__title{
+    font-size: 25px;
   }
 }
 @media screen and (min-width: 800px) {
@@ -603,7 +609,6 @@ div.jagged-edge img#flipped{
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  overflow-x: hidden;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -720,7 +725,6 @@ div.jagged-edge img#flipped{
 .hs__item__title{
   color: #fff;
   font-weight: bold;
-  font-size: 20px;
 }
 
 .hs__item__image__wrapper{
@@ -780,6 +784,12 @@ section ul.hs {
 @media only screen and (min-width: 990px) {
   .hs__wrapper {
     overflow: hidden;
+  }
+  .hs {
+    overflow-x: hidden;
+  }
+  .hs__item__title{
+    font-size: 20px;
   }
 }
 @media (hover: none) and (pointer: coarse) {
