@@ -138,7 +138,6 @@ div.jagged-edge{
   position: relative;
   z-index: 1;
   height: 0;
-  top: -2px;
 }
 
 div.jagged-edge img#flipped{
@@ -186,6 +185,9 @@ div.jagged-edge img#flipped{
   }
   .hs__item__title{
     font-size: 25px;
+  }
+  div.jagged-edge{
+    top: -4px;
   }
 }
 @media screen and (min-width: 800px) {
@@ -807,6 +809,9 @@ section ul.hs {
     -webkit-box-flex: 1;
         -ms-flex: 1 0 calc(45% - 10px * 2);
             flex: 1 0 calc(45% - 10px * 2);
+  }
+  div.jagged-edge{
+    top: -2px;
   }
 }
 
