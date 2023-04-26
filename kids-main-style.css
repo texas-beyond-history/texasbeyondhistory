@@ -354,6 +354,9 @@ div.jagged-edge img#flipped{
     -ms-flex-item-align: end;
         align-self: flex-end;
   }
+  section{
+    padding: 0;
+  }
 }
 
 
@@ -793,6 +796,9 @@ section ul.hs {
   .hs__item__title{
     font-size: 20px;
   }
+  section{
+    padding: 0 120px;
+  }
 }
 @media (hover: none) and (pointer: coarse) {
   .hs__wrapper .hs__arrows {
@@ -927,9 +933,20 @@ ul {
   text-align: center;
 }
 
+div#foot p.links a{
+  background: #b53905;
+  color: #fc0;
+  padding: 12px;
+}
+
+div#foot span{
+  margin-top: 12px;
+}
+
+.rusttitle{
+  margin: 0 auto;
+  width: fit-content;
+}
 
 /*CANVASSER CSS CHANGES*/
 
-.h5p-content{
-  width: 80%;
-}
