@@ -948,5 +948,7 @@ div#foot span{
   width: fit-content;
 }
 
-/*CANVASSER CSS CHANGES*/
+figure.gallery-img-enlarged{
+  margin: auto;
+}
 
