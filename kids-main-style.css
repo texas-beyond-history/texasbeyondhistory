@@ -1,3 +1,7 @@
+section.container{
+  overflow: hidden;
+}
+
 div.containter {
   height: 100%;
   width: 100%;
@@ -641,6 +645,10 @@ div.jagged-edge img#flipped{
           flex: 1;
 }
 
+h3.hs__headline{
+  font-size: 30px !important;
+}
+
 .hs__headline::after{
   height: 10px;
   display: block;
@@ -952,3 +960,14 @@ figure.gallery-img-enlarged{
   margin: auto;
 }
 
+div.float-left, div.float-right{
+  padding: 12px;
+}
+
+figure{
+  text-align: center;
+}
+
+h3.hs__headline{
+  padding-top: 12px;
+}
