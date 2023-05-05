@@ -971,3 +971,23 @@ figure{
 h3.hs__headline{
   padding-top: 12px;
 }
+
+/* There is nothing I can do to change the width of the table if the table content is too wide, 
+apart from alter the content to make it possible for the browser to narrow it to be
+the same width as all the other items in the page*/
+
+
+.kids-table{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.visit-ransom-williams{
+  padding-right: 10px;
+}
+
+.visit-ransom-williams img{
+  display: block;
+}
