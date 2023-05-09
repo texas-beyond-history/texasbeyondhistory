@@ -808,9 +808,9 @@ section ul.hs {
   .hs__item__title{
     font-size: 20px;
   }
-  section{
+  /*section{
     padding: 0 120px;
-  }
+  }*/
 }
 @media (hover: none) and (pointer: coarse) {
   .hs__wrapper .hs__arrows {
