@@ -1,3 +1,7 @@
+/*section.container{
+  overflow: hidden;
+}
+*/
 div.containter {
   height: 100%;
   width: 100%;
@@ -23,7 +27,7 @@ article a {
   color: #000;
   font-weight: bold;
   text-decoration: none;
-  border-bottom: 2px solid #000;
+/*  border-bottom: 2px solid #000;*/
 }
 
 /*NAVIGATION*/
@@ -57,7 +61,6 @@ li.logo a:link, li.logo a:visited {
 
 header span{
   display: block;
-  font-family: "Times New Roman" !important;
   font-size: 16px;
 }
 
@@ -65,13 +68,13 @@ header {
   background: #06b2bc;
   min-width: 800px;
 }
-header nav {
+header nav#kids-nav {
   -webkit-transition: all, 0.25s;
   -o-transition: all, 0.25s;
   transition: all, 0.25s;
   min-height: 140px;
 }
-header nav ul {
+header nav#kids-nav ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -84,12 +87,12 @@ header nav ul {
       -ms-flex-pack: start;
           justify-content: flex-start;
 }
-header nav ul li {
+header nav#kids-nav ul li {
   -webkit-box-flex: 0 0 50%;
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
 }
-header nav ul li a:link, header nav ul li a:visited {
+header nav#kids-nav ul li a:link, header nav#kids-nav ul li a:visited {
   text-align: center;
   text-decoration: none;
   width: 94%;
@@ -97,18 +100,22 @@ header nav ul li a:link, header nav ul li a:visited {
   -webkit-transition: all, 0.25s;
   -o-transition: all, 0.25s;
   transition: all, 0.25s;
-  color: #000 !important;
+  color: #000;
 }
 
-header nav ul li.icons a{
+header nav#kids-nav ul li.icons a:link, header nav#kids-nav ul li.icons a:visited{
+
+}
+
+header nav#kids-nav ul li.icons a{
   display: inline-block;
 }
 
-header nav u li.icons a:hover{
+header nav#kids-nav u li.icons a:hover{
   color: #ffcd5f;
 }
 
-header nav ul li.icons a span{
+header nav#kids-nav ul li.icons a span{
   padding-bottom: 5px;
 }
 
@@ -117,7 +124,7 @@ nav#kids-nav div.text span{
 }
 
 nav#kids-nav div.text span:last-child,
-header nav ul li.icons a,
+header nav#kids-nav ul li.icons a,
 section .hs__headline{
   font-family: "blockhead-black-face", sans-serif !important;
 }
@@ -132,6 +139,10 @@ nav#kids-nav li a{
   font-size: 1em;
   font-weight: 400;
   font-style: normal;
+}
+
+span#tbh-name{
+  font-family: "Times New Roman" !important;
 }
 
 div.jagged-edge{
@@ -152,10 +163,6 @@ div.jagged-edge img#flipped{
     text-align: center;
   }
 
-  .smallnavjs {
-    margin-top: 0 !important;
-  }
-
   li.nav-small {
     display: none;
   }
@@ -170,12 +177,12 @@ div.jagged-edge img#flipped{
     padding: 1em 0 0;
     text-transform: uppercase;
   }
-  header nav {
+  header nav#kids-nav {
     width: 100%;
     max-width: 1400px;
     margin: 0 auto;
   }
-  header nav ul li {
+  header nav#kids-nav ul li {
     -webkit-box-flex: 1 1 auto;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
@@ -210,7 +217,7 @@ div.jagged-edge img#flipped{
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    color: #000 !important;
+    color: #000;
   }
 
   #kids-nav div.image{
@@ -226,13 +233,13 @@ div.jagged-edge img#flipped{
   header {
     padding: 0em;
   }
-  header nav {
+  header nav#kids-nav {
     position: relative;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
   }
-  header nav ul {
+  header nav#kids-nav ul {
     -moz-justify-content: flex-end;
     -webkit-box-pack: end;
         -ms-flex-pack: end;
@@ -244,7 +251,7 @@ div.jagged-edge img#flipped{
         -ms-flex-align: center;
             align-items: center;
   }
-  header nav ul li {
+  header nav#kids-nav ul li {
     -webkit-box-flex: 0 1 auto;
     -ms-flex: 0 1 auto;
     flex: 0 1 auto;
@@ -252,21 +259,21 @@ div.jagged-edge img#flipped{
     margin: .5em .25em;
   }
 
-  header nav ul li {
+  header nav#kids-nav ul li {
     padding: 0 .5em;
   }
 
-  header nav ul li.icons {
+  header nav#kids-nav ul li.icons {
     padding: 0 22px;
   }
 
-  header nav ul li.icons a span img,
+  header nav#kids-nav ul li.icons a span img,
   svg{
     width: 55px;
     height: 55px;
   }
 
-  header nav ul li.icons a:hover svg.blink{
+  header nav#kids-nav ul li.icons a:hover svg.blink{
     -webkit-animation-name: blinking;
             animation-name: blinking;
     -webkit-animation-duration: 1s;
@@ -287,7 +294,7 @@ div.jagged-edge img#flipped{
     }
   }
 
-  header nav ul li.icons a:hover img#hands{
+  header nav#kids-nav ul li.icons a:hover img#hands{
     -webkit-animation-name: wave;
             animation-name: wave;
     -webkit-animation-duration: 1s;
@@ -313,7 +320,7 @@ div.jagged-edge img#flipped{
     50%  {-webkit-transform: rotate(-30deg);transform: rotate(-30deg)}
     100%  {-webkit-transform: rotate(0deg);transform: rotate(0deg)}
   }
-  header nav ul li.icons a:hover svg g#glass{
+  header nav#kids-nav ul li.icons a:hover svg g#glass{
     -webkit-animation: zoom-in-zoom-out 1s ease infinite;
             animation: zoom-in-zoom-out 1s ease infinite;
     -webkit-transform: perspective(1px) translateZ(0);
@@ -350,9 +357,12 @@ div.jagged-edge img#flipped{
     }
   }
 
-  header nav ul li.icons{
+  header nav#kids-nav ul li.icons{
     -ms-flex-item-align: end;
         align-self: flex-end;
+  }
+  section{
+    padding: 0;
   }
 }
 
@@ -638,6 +648,11 @@ div.jagged-edge img#flipped{
           flex: 1;
 }
 
+div#content h3.hs__headline{
+  font-size: 30px ;
+  padding-top: 12px;
+}
+
 .hs__headline::after{
   height: 10px;
   display: block;
@@ -721,7 +736,7 @@ div.jagged-edge img#flipped{
 }
 
 .hs__item__description a{
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 .hs__item__title{
@@ -730,9 +745,9 @@ div.jagged-edge img#flipped{
 }
 
 .hs__item__image__wrapper{
-  background: -webkit-gradient(linear, left top, left bottom, from(#00000014), to(black));
-  background: -o-linear-gradient(#00000014, black);
-  background: linear-gradient(#00000014, black);
+  background: -webkit-gradient(linear, left top, left bottom, from(#00000061), to(black));
+  background: -o-linear-gradient(#00000061, black);
+  background: linear-gradient(#00000061, black);
 }
 
 .hs__item__image{
@@ -793,6 +808,9 @@ section ul.hs {
   .hs__item__title{
     font-size: 20px;
   }
+  /*section{
+    padding: 0 120px;
+  }*/
 }
 @media (hover: none) and (pointer: coarse) {
   .hs__wrapper .hs__arrows {
@@ -927,9 +945,50 @@ ul {
   text-align: center;
 }
 
+div#foot p.links a{
+  background: #b53905;
+  color: #fc0;
+  padding: 12px;
+}
 
-/*CANVASSER CSS CHANGES*/
+div#foot span{
+  margin-top: 12px;
+}
 
-.h5p-content{
-  width: 80%;
+.rusttitle{
+  margin: 0 auto;
+  width: fit-content;
+}
+
+figure.gallery-img-enlarged{
+  margin: auto;
+}
+
+div.float-left, div.float-right{
+  padding: 12px;
+}
+
+figure{
+  text-align: center;
+}
+
+
+/* There is nothing I can do to change the width of the table if the table content is too wide, 
+apart from alter the content to make it possible for the browser to narrow it to be
+the same width as all the other items in the page*/
+
+
+.kids-table{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.visit-ransom-williams{
+  padding-right: 10px;
+}
+
+.visit-ransom-williams img{
+  display: block;
 }
