@@ -1010,21 +1010,113 @@ the same width as all the other items in the page*/
   position: relative;
 }
 
-.buffalo-body p.lechuguilla-tooltip{
+.info-box div.tail-poop-tooltip,
+.info-box div.hooves-feet-tooltip,
+.info-box div.stomach-tooltip,
+.info-box div.hides-tooltip,
+.info-box div.front-fur-tooltip,
+.info-box div.horns-tooltip,
+.info-box div.beard-tooltip,
+.info-box div.head-tooltip{
   display: none;
 }
 
-.lechuguilla{
+.tail-poop{
   width: 95px;
   height: 95px;
   display: block;
   position: absolute;
-  bottom: 22%;
-  left: 13%;
+  bottom: -26%;
+  left: 37%;
   cursor: pointer;
+  /*  background: red;*/
 }
  
-.lechuguilla:hover + p.lechuguilla-tooltip {
+.hooves-feet{
+  width: 345px;
+  height: 75px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -44%;
+  left: 39%;
+  cursor: pointer;
+}
+
+.stomach{
+  width: 345px;
+  height: 75px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -24%;
+  left: 45%;
+  cursor: pointer;
+}
+
+.hides{
+  width: 153px;
+  height: 105px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -15%;
+  left: 45%;
+  cursor: pointer;
+}
+
+.front-fur{
+  width: 79px;
+  height: 226px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -25%;
+  left: 58%;
+  cursor: pointer;
+}
+
+.horns{
+  width: 79px;
+  height: 76px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -9%;
+  left: 63%;
+  cursor: pointer;
+}
+
+.beard{
+  width: 79px;
+  height: 79px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -32%;
+  left: 66%;
+  cursor: pointer;
+}
+
+.head{
+  width: 119px;
+  height: 159px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: -22%;
+  left: 68%;
+  cursor: pointer;
+}
+
+.tail-poop:hover + div.tail-poop-tooltip,
+.hooves-feet:hover + div.hooves-feet-tooltip,
+.stomach:hover + div.stomach-tooltip,
+.hides:hover + div.hides-tooltip,
+.front-fur:hover + div.front-fur-tooltip,
+.horns:hover + div.horns-tooltip,
+.beard:hover + div.beard-tooltip,
+.head:hover + div.head-tooltip {
   display:block;
   z-index:1000;
 }
