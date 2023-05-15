@@ -750,6 +750,17 @@ div#content h3.hs__headline{
   background: linear-gradient(#00000061, black);
 }
 
+.hs__item__image__wrapper__subpage .hs__item__image{
+  opacity: 1;
+}
+
+.hs__item__image__wrapper__subpage div.overlay{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#fff0, #000000bf);
+}
+
 .hs__item__image{
   opacity: 0.5;
 }
@@ -785,7 +796,7 @@ section ul.hs {
   color: #aaa;
   display: block;
 }
-.hs__item__image__wrapper {
+.hs__item__image__wrapper, .hs__item__image__wrapper__subpage {
   position: relative;
   width: 100%;
   height: 0;
@@ -991,4 +1002,29 @@ the same width as all the other items in the page*/
 
 .visit-ransom-williams img{
   display: block;
+}
+
+/*tool tip for the buffalo page*/
+
+.buffalo-body{
+  position: relative;
+}
+
+.buffalo-body p.lechuguilla-tooltip{
+  display: none;
+}
+
+.lechuguilla{
+  width: 95px;
+  height: 95px;
+  display: block;
+  position: absolute;
+  bottom: 22%;
+  left: 13%;
+  cursor: pointer;
+}
+ 
+.lechuguilla:hover + p.lechuguilla-tooltip {
+  display:block;
+  z-index:1000;
 }
