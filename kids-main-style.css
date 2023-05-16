@@ -1010,21 +1010,139 @@ the same width as all the other items in the page*/
   position: relative;
 }
 
-.buffalo-body p.lechuguilla-tooltip{
+.buffalo-body p{
+  font-style: italic;
+  text-align: center;
+}
+
+.buffalo-body p.title{
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.info-box{
+  position: relative;
+}
+
+.buffalo-body div.tail-poop-tooltip,
+.buffalo-body div.hooves-feet-tooltip,
+.buffalo-body div.stomach-tooltip,
+.buffalo-body div.hides-tooltip,
+.buffalo-body div.front-fur-tooltip,
+.buffalo-body div.horns-tooltip,
+.buffalo-body div.beard-tooltip,
+.buffalo-body div.head-tooltip{
   display: none;
 }
 
-.lechuguilla{
+.tail-poop{
   width: 95px;
-  height: 95px;
+  height: 141px;
   display: block;
   position: absolute;
-  bottom: 22%;
-  left: 13%;
+  bottom: 30%;
+  left: 12%;
   cursor: pointer;
+/*  background: red;*/
 }
  
-.lechuguilla:hover + p.lechuguilla-tooltip {
-  display:block;
+.hooves-feet{
+  width: 345px;
+  height: 75px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 5%;
+  left: 17%;
+  cursor: pointer;
+}
+
+.stomach{
+  width: 252px;
+  height: 75px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 34%;
+  left: 24%;
+  cursor: pointer;
+}
+
+.hides{
+  width: 153px;
+  height: 105px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 53%;
+  left: 31%;
+  cursor: pointer;
+}
+
+.front-fur{
+  width: 93px;
+  height: 226px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 33%;
+  left: 51%;
+  cursor: pointer;
+}
+
+.horns{
+  width: 79px;
+  height: 76px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 61%;
+  left: 61%;
+  cursor: pointer;
+}
+
+.beard{
+  width: 79px;
+  height: 79px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 23%;
+  left: 67%;
+  cursor: pointer;
+}
+
+.head{
+  width: 109px;
+  height: 159px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 41%;
+  left: 68%;
+  cursor: pointer;
+}
+
+.tail-poop:hover + div.tail-poop-tooltip,
+.hooves-feet:hover + div.hooves-feet-tooltip,
+.stomach:hover + div.stomach-tooltip,
+.hides:hover + div.hides-tooltip,
+.front-fur:hover + div.front-fur-tooltip,
+.horns:hover + div.horns-tooltip,
+.beard:hover + div.beard-tooltip,
+.head:hover + div.head-tooltip {
+  display: block;
   z-index:1000;
 }
+
+div.tail-poop-tooltip,
+div.hooves-feet-tooltip,
+div.stomach-tooltip,
+div.hides-tooltip,
+div.front-fur-tooltip,
+div.horns-tooltip,
+div.beard-tooltip,
+div.head-tooltip {
+  margin-bottom: 40px;
+}
+
