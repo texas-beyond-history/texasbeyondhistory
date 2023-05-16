@@ -1010,26 +1010,40 @@ the same width as all the other items in the page*/
   position: relative;
 }
 
-.info-box div.tail-poop-tooltip,
-.info-box div.hooves-feet-tooltip,
-.info-box div.stomach-tooltip,
-.info-box div.hides-tooltip,
-.info-box div.front-fur-tooltip,
-.info-box div.horns-tooltip,
-.info-box div.beard-tooltip,
-.info-box div.head-tooltip{
+.buffalo-body p{
+  font-style: italic;
+  text-align: center;
+}
+
+.buffalo-body p.title{
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.info-box{
+  position: relative;
+}
+
+.buffalo-body div.tail-poop-tooltip,
+.buffalo-body div.hooves-feet-tooltip,
+.buffalo-body div.stomach-tooltip,
+.buffalo-body div.hides-tooltip,
+.buffalo-body div.front-fur-tooltip,
+.buffalo-body div.horns-tooltip,
+.buffalo-body div.beard-tooltip,
+.buffalo-body div.head-tooltip{
   display: none;
 }
 
 .tail-poop{
   width: 95px;
-  height: 95px;
+  height: 141px;
   display: block;
   position: absolute;
-  bottom: -26%;
-  left: 37%;
+  bottom: 30%;
+  left: 12%;
   cursor: pointer;
-  /*  background: red;*/
+/*  background: red;*/
 }
  
 .hooves-feet{
@@ -1038,19 +1052,19 @@ the same width as all the other items in the page*/
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -44%;
-  left: 39%;
+  bottom: 5%;
+  left: 17%;
   cursor: pointer;
 }
 
 .stomach{
-  width: 345px;
+  width: 252px;
   height: 75px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -24%;
-  left: 45%;
+  bottom: 34%;
+  left: 24%;
   cursor: pointer;
 }
 
@@ -1060,19 +1074,19 @@ the same width as all the other items in the page*/
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -15%;
-  left: 45%;
+  bottom: 53%;
+  left: 31%;
   cursor: pointer;
 }
 
 .front-fur{
-  width: 79px;
+  width: 93px;
   height: 226px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -25%;
-  left: 58%;
+  bottom: 33%;
+  left: 51%;
   cursor: pointer;
 }
 
@@ -1082,8 +1096,8 @@ the same width as all the other items in the page*/
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -9%;
-  left: 63%;
+  bottom: 61%;
+  left: 61%;
   cursor: pointer;
 }
 
@@ -1093,18 +1107,18 @@ the same width as all the other items in the page*/
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -32%;
-  left: 66%;
+  bottom: 23%;
+  left: 67%;
   cursor: pointer;
 }
 
 .head{
-  width: 119px;
+  width: 109px;
   height: 159px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: -22%;
+  bottom: 41%;
   left: 68%;
   cursor: pointer;
 }
@@ -1117,6 +1131,18 @@ the same width as all the other items in the page*/
 .horns:hover + div.horns-tooltip,
 .beard:hover + div.beard-tooltip,
 .head:hover + div.head-tooltip {
-  display:block;
+  display: block;
   z-index:1000;
 }
+
+div.tail-poop-tooltip,
+div.hooves-feet-tooltip,
+div.stomach-tooltip,
+div.hides-tooltip,
+div.front-fur-tooltip,
+div.horns-tooltip,
+div.beard-tooltip,
+div.head-tooltip {
+  margin-bottom: 40px;
+}
+
