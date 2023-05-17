@@ -1015,13 +1015,14 @@ the same width as all the other items in the page*/
   text-align: center;
 }
 
-.buffalo-body p.title{
+.buffalo-body span.title{
   font-weight: bold;
   font-size: 21px;
 }
 
-.info-box{
-  position: relative;
+.buffalo-body img.static{
+  position: absolute;
+  background: white;
 }
 
 .buffalo-body div.tail-poop-tooltip,
@@ -1035,15 +1036,20 @@ the same width as all the other items in the page*/
   display: none;
 }
 
-.tail-poop{
-  width: 95px;
-  height: 141px;
+/*.tail-poop{
+  width: 135px;
+  height: 221px;
   display: block;
   position: absolute;
   bottom: 30%;
   left: 12%;
+  background:red;
+
+}*/
+
+img.static:hover{
+  opacity: 0;
   cursor: pointer;
-/*  background: red;*/
 }
  
 .hooves-feet{
@@ -1081,7 +1087,7 @@ the same width as all the other items in the page*/
 
 .front-fur{
   width: 93px;
-  height: 226px;
+  height: 266px;
   display: block;
 /*  background: red;*/
   position: absolute;
@@ -1118,12 +1124,12 @@ the same width as all the other items in the page*/
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 41%;
+  bottom: 44%;
   left: 68%;
   cursor: pointer;
 }
 
-.tail-poop:hover + div.tail-poop-tooltip,
+img.static:hover ~ div.tail-poop-tooltip,
 .hooves-feet:hover + div.hooves-feet-tooltip,
 .stomach:hover + div.stomach-tooltip,
 .hides:hover + div.hides-tooltip,
