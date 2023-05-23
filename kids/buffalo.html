@@ -64,7 +64,7 @@
           <li class="logo">
             <a href="/kids/index.html">
               <div class="image">
-                <img src="../images/navigation/dr-dirt-1.png" alt="" />
+                <img src="images/navigation/dr-dirt-1.png" alt="" />
               </div>
               <div class="text">
                 <span id="tbh-name">Texas Beyond History</span>
@@ -138,95 +138,256 @@
       <article class="gallery-article">
         <h3>Put your mouse on different parts of the buffalo to discover how the Indians used everything from its beard&#151;to its brains! They even found a use for bison doo-doo&#151;it fueled their cooking fire. Aren't you glad your home has an oven?</h3>
         <div class="buffalo-body">
-          <img src="images/buffalo.gif">
+          <img class="static" src="images/buffalo-butt.jpg">
+          <img class="active" src="images/buffalo.gif">
           <!-- tail poop -->
-          <div class="tail-poop"></div>
-          <div class="tail-poop-tooltip">
-            <p class="title">Buffalo chips (poop)</p>
-            <p>- ceremonial smoking, fuel for cooking fires</p>
-            <p class="title">Tail</p>
-            <p>- medicine switches, fly brushes, tepee decorations, whips</p>
-          </div>
-          <!-- feet or hooves -->
-          <div class="hooves-feet"></div>
-          <div class="hooves-feet-tooltip">
-            <p class="title">Hooves and Feet</p>
-            <p>- glue, rattles</p>
-          </div>
-          <!-- stomach -->
-          <div class="stomach"></div>
-          <div class="stomach-tooltip">
-            <p class="title">Stomach</p>
-            <p>- buckets, cups, dishes, other containers</p>
-            <p class="title">Bladder</p>
-            <p>- pouches, medicine bags</p>
-          </div>
-          <!-- hides -->
-          <div class="hides"></div>
-          <div class="hides-tooltip">
-            <p class="title">Hide</p>
-            <p>- (tanned into tough leather) bedding, belts, cradles, dolls, dresses, gun cases, leggings, moccasin tops, paint bags, pipe bags, pouches, shirts, teepee covers, winter robes</p>
-            <p class="title">Hide</p>
-            <p>- (untanned, more like soft skin) armbands, belts, buckets, bullet pouches, ropes, containers, drums, headdresses, knife cases, medicine bags, moccasin soles, rattles, saddles, shields, splints, stirrups, thongs</p>
-          </div>
-          <!-- front fur -->
-          <div class="front-fur"></div>
-          <div class="front-fur-tooltip">
-            <p class="title">Hair</p>
-            <p>- halters, headdresses, medicine balls, ornaments, pillows, ropes</p>
-            <p class="title">Sinew (attachments for muscles)</p>
-            <p>- glue, bows, thread</p>
-            <p class="title">Best meat</p>
-            <p>- tongue, organs (insides), rump (rear-end) and ribs eaten right away</p>
-            <p class="title">Rest of meat</p>
-            <p>- jerky and pemmican (dried meat, fat, berries and nuts or seeds)</p>
-          </div>
-          <!-- horns -->
-          <div class="horns"></div>
-          <div class="horns-tooltip">
-            <p class="title">Horns</p>
-            <p>- cups, headdresses, ladles, powder horns, spoons, toys</p>
-            <p class="title">Bones</p>
-            <p>- spear handles, awls (needles), knives, paintbrushes, scrapers, shovels, clubs, winter sleds, toys</p>
-          </div>
-          <!-- beard -->
-          <div class="beard"></div>
-          <div class="beard-tooltip">
-            <p class="title">Beard</p>
-            <p>- ornament for clothing and weapons</p>
-          </div>
-          <!-- head -->
-          <div class="head"></div>
-          <div class="head-tooltip">
-            <p class="title">Brains</p>
-            <p>- hide tanner (a type of coating that toughened the bison's hide into leather)</p>
-            <p class="title">Skull</p>
-            <p>- ceremonies, prayer objects</p>
+          <div class="tail-poop" id="tail-poop"></div>
+          <div class="tail-poop-tooltip" id="tail-poop-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/hiding-lg.jpg" alt="Son Kia Do-Te chased by a wounded bull.">
+              <figcaption>Son Kia Do-Te chased by a wounded bull. Drawing by Silver Horn Kiowa, 1891. National Anthropological Archives, Smithsonian Institution.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Buffalo chips (poop)</span>: ceremonial smoking, fuel for cooking fires
+              </p>
+              <p>
+                <span class="title">Tail</span>: medicine switches, fly brushes, tepee decorations, whips
+              </p>
+            </div>
           </div>
 
-        </div>
-        <div class="info-box">
+
+          <!-- feet or hooves -->
+          <div class="hooves-feet" id="hooves-feet"></div>
+          
+          <!-- stomach -->
+          <div class="stomach" id="stomach"></div>
+          
+          <!-- hides -->
+          <div class="hides" id="hides"></div>
+          
+          <!-- front fur -->
+          <div class="front-fur" id="front-fur"></div>
+          
+          <!-- horns -->
+          <div class="horns" id="horns"></div>
+          
+          <!-- beard -->
+          <div class="beard" id="beard"></div>
+          
+          <!-- head -->
+          <div class="head" id="head"></div>
           
         </div>
-        <p>Did you know that the bison (or buffalo) is the biggest land animal in North America? They can weigh more than 2,000 pounds&#151;that's as much as a car! So how did Indians hunt and kill them&#151;and without guns? Click here to learn about their <a href="../bonfire/index.html" class="text" target="_blank">powerful strategy</a>. </p>
+        <div class="tool-tips">
+          <div class="hooves-feet-tooltip" id="hooves-feet-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/sb3.jpg" alt="Bison foot bones from Bonfire Shelter. Photo by Steve Black.">
+              <figcaption>Bison foot bones from Bonfire Shelter. Photo by Steve Black.</figcaption>
+            </figure>
+            <div>
+              <p>
+              <span class="title">Hooves and Feet</span>: glue, rattles
+            </p>
+            </div>
+          </div>
+          <div class="stomach-tooltip" id="stomach-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/icon-who.jpg" alt="Artist Feather Radha’s depiction of Jumano Indians hunting bison. The Jumano were known as successful bison hunters whose original homelands included areas of the southern Plains and northwestern Edwards Plateau that were frequented by bison herds. This 1994 painting can be seen in Restaurante Lobby's OK in Ojinaga, Mexico. Courtesy Elsa Socorro Arroyo.">
+              <figcaption>Artist Feather Radha’s depiction of Jumano Indians hunting bison. The Jumano were known as successful bison hunters whose original homelands included areas of the southern Plains and northwestern Edwards Plateau that were frequented by bison herds. This 1994 painting can be seen in Restaurante Lobby's OK in Ojinaga, Mexico. Courtesy Elsa Socorro Arroyo.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Stomach</span>: buckets, cups, dishes, other containers
+              </p>
+              <p>
+                <span class="title">Bladder</span>: pouches, medicine bags
+              </p>
+            </div>
+          </div>
+          <div class="hides-tooltip" id="hides-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/shield.jpg" alt="War shield of Satanta,or Set-T'ainte, a Kiowa head chief in the 1870s-1890s, who raided into northwest Texas. His shield, made of painted buffalo hide and feathers, is shown from the inside (left) and the exterior (right).">
+              <figcaption>War shield of Satanta,or Set-T'ainte, a Kiowa head chief in the 1870s-1890s, who raided into northwest Texas. His shield, made of painted buffalo hide and feathers, is shown from the inside (left) and the exterior (right).</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Hide</span>: (tanned into tough leather) bedding, belts, cradles, dolls, dresses, gun cases, leggings, moccasin tops, paint bags, pipe bags, pouches, shirts, teepee covers, winter robes
+              </p>
+              <p>
+                <span class="title">Hide</span>: (untanned, more like soft skin) armbands, belts, buckets, bullet pouches, ropes, containers, drums, headdresses, knife cases, medicine bags, moccasin soles, rattles, saddles, shields, splints, stirrups, thongs
+              </p>
+            </div>
+          </div>
+          <div class="front-fur-tooltip" id="front-fur-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/lubbock-m20-lg.jpg" alt="Artist’s depiction of a temporary camp on the Llano Estacado near where a bison has been killed. Strips of meat hang to dry on a wooden-pole framework. In the foreground two women carry long bones upslope to the nearby camp to extract the marrow for a delicious meal. Painting by Nola Davis, courtesy Texas Parks and Wildlife Department.">
+              <figcaption>Artist’s depiction of a temporary camp on the Llano Estacado near where a bison has been killed. Strips of meat hang to dry on a wooden-pole framework. In the foreground two women carry long bones upslope to the nearby camp to extract the marrow for a delicious meal. Painting by Nola Davis, courtesy Texas Parks and Wildlife Department.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Hair</span>: halters, headdresses, medicine balls, ornaments, pillows, ropes
+              </p>
+              <p>
+                <span class="title">Sinew (attachments for muscles)</span>: glue, bows, thread
+              </p>
+              <p>
+                <span class="title">Best Meat</span>: tongue, organs (insides), rump (rear-end) and ribs eaten right away
+              </p>
+              <p>
+                <span class="title">Rest of Meat</span>: jerky and pemmican (dried meat, fat, berries and nuts or seeds)
+              </p>
+            </div>
+          </div>
+          <div class="horns-tooltip" id="horns-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/tibia-tool-end.jpg" alt="End-on view of the beveled tip of bison tibia tool. From the Courson Buried City collection, photo by Steve Black.">
+              <figcaption>End-on view of the beveled tip of bison tibia tool. From the Courson Buried City collection, photo by Steve Black.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Horns</span>: cups, headdresses, ladles, powder horns, spoons, toys
+              </p>
+              <p>
+                <span class="title">Bones</span>: spear handles, awls (needles), knives, paintbrushes, scrapers, shovels, clubs, winter sleds, toys
+              </p>
+            </div>
+          </div>
+          <div class="beard-tooltip" id="beard-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/Bison-Buffalo.jpg" alt="A small buffalo grazes near the south Texas town of Tilden. Photo by Bob Stiba.">
+              <figcaption>A small buffalo grazes near the south Texas town of Tilden. Photo by Bob Stiba.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Beard</span>: ornament for clothing and weapons
+              </p>
+            </div>
+          </div>
+          <div class="head-tooltip" id="head-tooltip">
+            <figure class="gallery-img gallery-img-half-size img-right">
+              <img src="images/buffalo_images/HY209-skull.jpg" alt="Bison skull excavated at the Mustang Branch site in Hays County.">
+              <figcaption>Bison skull excavated at the Mustang Branch site in Hays County.</figcaption>
+            </figure>
+            <div>
+              <p>
+                <span class="title">Brains</span>: hide tanner (a type of coating that toughened the bison's hide into leather)
+              </p>
+              <p>
+                <span class="title">Skull</span>: ceremonies, prayer objects
+              </p>
+            </div>
+          </div>
+        </div>
+        <p class="clear">Did you know that the bison (or buffalo) is the biggest land animal in North America? They can weigh more than 2,000 pounds&#151;that's as much as a car! So how did Indians hunt and kill them&#151;and without guns? Click here to learn about their <a href="../bonfire/index.html" style="color:#993300;" target="_blank">powerful strategy</a>. </p>
         <p>In the early 1800s there were more bison than people in North America&#151;at least 50 million versus perhaps 2 million humans. By the end of the century, professional hide hunters (not Indians) had almost wiped out the bison, slaughtering whole herds just for their thick woolly skins.</p>
         <p>For thousands of years Native Americans hunted bison and valued it above all other animals. Prized for their meat, their hides, and their bones, a bison offered one-stop shopping for most Plains Indians&#151;kind of like when we go to Wal-Mart. You can imagine how hard it was for the Plains Indians to see their most valuable resource slaughtered by the thousands. Luckily, today bison are no longer endangered thanks to the concerted efforts of ranchers and zoos, but there are far fewer of them than in early historic times.</p>
+        <p>
+          <em>Illustration by Samuel M. Wilson.</em>
+        </p>
       </article>
     </div>
     <div id="foot">
-      <p class="links"></p>
-      <a href="index.html">Texas Beyond History</a>
-      <br>
-      <a href="../../../sitemap.html">Site Map</a>
-      <br>
-      <a href="mailto:tbhstaff@www.texasbeyondhistory.net">TBH WebTeam</a>
-      <br>
-      <a href="http://edsitement.neh.gov/" target="blank">
-        <img src="../images/edsitelogo.gif" alt="EdSitement logo" width="208" height="72" border="0">
-      </a>
-      <em>November 2014</em>
+      <p>
+        <a href="/index.html">Texas Beyond History</a>
+        <br>
+        <a href="/sitemap.html">Site Map</a>
+        <br> Month 2023
       </p>
     </div>
+    <script type="text/javascript">
+      // hooves
+      const hoovesSourceDiv = document.getElementById('hooves-feet');
+      const hoovesTargetDiv = document.getElementById('hooves-feet-tooltip');
+
+      // Add event listener for hover
+      hoovesSourceDiv.addEventListener('mouseenter', () => {
+        hoovesTargetDiv.classList.add('displayed');
+      });
+
+      hoovesSourceDiv.addEventListener('mouseleave', () => {
+        hoovesTargetDiv.classList.remove('displayed');
+      });
+
+      // stomach
+      const stomachSourceDiv = document.getElementById('stomach');
+      const stomachTargetDiv = document.getElementById('stomach-tooltip');
+
+      // Add event listener for hover
+        stomachSourceDiv.addEventListener('mouseenter', () => {
+        stomachTargetDiv.classList.add('displayed');
+      });
+
+      stomachSourceDiv.addEventListener('mouseleave', () => {
+        stomachTargetDiv.classList.remove('displayed');
+      });
+
+      // hides
+      const hidesSourceDiv = document.getElementById('hides');
+      const hidesTargetDiv = document.getElementById('hides-tooltip');
+
+      // Add event listener for hover
+      hidesSourceDiv.addEventListener('mouseenter', () => {
+        hidesTargetDiv.classList.add('displayed');
+      });
+
+      hidesSourceDiv.addEventListener('mouseleave', () => {
+        hidesTargetDiv.classList.remove('displayed');
+      });
+
+      // hair
+      const frontFurSourceDiv = document.getElementById('front-fur');
+      const frontFurTargetDiv = document.getElementById('front-fur-tooltip');
+
+      // Add event listener for hover
+      frontFurSourceDiv.addEventListener('mouseenter', () => {
+        frontFurTargetDiv.classList.add('displayed');
+      });
+
+      frontFurSourceDiv.addEventListener('mouseleave', () => {
+        frontFurTargetDiv.classList.remove('displayed');
+      });
+
+      // horns
+      const hornsSourceDiv = document.getElementById('horns');
+      const hornsTargetDiv = document.getElementById('horns-tooltip');
+
+      // Add event listener for hover
+      hornsSourceDiv.addEventListener('mouseenter', () => {
+        hornsTargetDiv.classList.add('displayed');
+      });
+
+      hornsSourceDiv.addEventListener('mouseleave', () => {
+        hornsTargetDiv.classList.remove('displayed');
+      });
+
+      // beard
+      const beardSourceDiv = document.getElementById('beard');
+      const beardTargetDiv = document.getElementById('beard-tooltip');
+
+      // Add event listener for hover
+      beardSourceDiv.addEventListener('mouseenter', () => {
+        beardTargetDiv.classList.add('displayed');
+      });
+
+      beardSourceDiv.addEventListener('mouseleave', () => {
+        beardTargetDiv.classList.remove('displayed');
+      });
+
+      // Get the source and target div elements
+      const headSourceDiv = document.getElementById('head');
+      const headTargetDiv = document.getElementById('head-tooltip');
+
+      // Add event listener for hover
+      headSourceDiv.addEventListener('mouseenter', () => {
+        headTargetDiv.classList.add('displayed');
+      });
+
+      headSourceDiv.addEventListener('mouseleave', () => {
+        headTargetDiv.classList.remove('displayed');
+      });
+    </script>
   </body>
   <!-- #EndTemplate -->
 </html>
