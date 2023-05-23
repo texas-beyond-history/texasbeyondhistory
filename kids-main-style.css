@@ -744,25 +744,18 @@ div#content h3.hs__headline{
   font-weight: bold;
 }
 
-.hs__item__image__wrapper{
-  background: -webkit-gradient(linear, left top, left bottom, from(#00000061), to(black));
-  background: -o-linear-gradient(#00000061, black);
-  background: linear-gradient(#00000061, black);
-}
 
-.hs__item__image__wrapper__subpage .hs__item__image{
+
+.hs__item__image__wrapper__subpage .hs__item__image,
+.hs__item__image__wrapper .hs__item__image,{
   opacity: 1;
 }
 
-.hs__item__image__wrapper__subpage div.overlay{
+div.overlay{
   position: absolute;
   height: 100%;
   width: 100%;
   background: linear-gradient(#fff0, #000000bf);
-}
-
-.hs__item__image{
-  opacity: 0.5;
 }
 
 section ul.hs {
@@ -1012,7 +1005,6 @@ the same width as all the other items in the page*/
 
 .buffalo-body p{
   font-style: italic;
-  text-align: center;
 }
 
 .buffalo-body span.title{
@@ -1025,14 +1017,14 @@ the same width as all the other items in the page*/
   background: white;
 }
 
-.buffalo-body div.tail-poop-tooltip,
-.buffalo-body div.hooves-feet-tooltip,
-.buffalo-body div.stomach-tooltip,
-.buffalo-body div.hides-tooltip,
-.buffalo-body div.front-fur-tooltip,
-.buffalo-body div.horns-tooltip,
-.buffalo-body div.beard-tooltip,
-.buffalo-body div.head-tooltip{
+div.tail-poop-tooltip,
+div.hooves-feet-tooltip,
+div.stomach-tooltip,
+div.hides-tooltip,
+div.front-fur-tooltip,
+div.horns-tooltip,
+div.beard-tooltip,
+div.head-tooltip{
   display: none;
 }
 
@@ -1137,7 +1129,14 @@ img.static:hover ~ div.tail-poop-tooltip,
 .horns:hover + div.horns-tooltip,
 .beard:hover + div.beard-tooltip,
 .head:hover + div.head-tooltip {
-  display: block;
+  display: flex;
+  align-items: center;
+  z-index:1000;
+}
+
+div.displayed{
+  display: flex;
+  align-items: center;
   z-index:1000;
 }
 
