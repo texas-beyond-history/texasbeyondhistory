@@ -1003,11 +1003,12 @@ the same width as all the other items in the page*/
   position: relative;
 }
 
-.buffalo-body p{
+.buffalo-body p,
+div.tool-tips p{
   font-style: italic;
 }
 
-.buffalo-body span.title{
+p span.buffalo-title{
   font-weight: bold;
   font-size: 21px;
 }
