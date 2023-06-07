@@ -1152,3 +1152,143 @@ div.head-tooltip {
   margin-bottom: 40px;
 }
 
+/* tool tip for the agave page */
+
+.agave-container{
+  display: flex;
+}
+
+.agave-body{
+  position: relative;
+  width: 50%;
+}
+
+.agave-body p,
+div.tool-tips p{
+  font-style: italic;
+}
+
+p span.agave-title{
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.agave-body img.static{
+  position: absolute;
+  background: white;
+}
+
+div.leaves-tooltip,
+div.heart-tooltip,
+div.bloomstalk-tooltip,
+div.flower-seeds-nectar-tooltip,
+div.root-tooltip,
+div.horns-tooltip{
+  display: none;
+}
+
+img.static:hover{
+  opacity: 0;
+  cursor: pointer;
+}
+
+.tool-tips ul li{
+  list-style: square;
+}
+
+.leaves{
+  width: 183px;
+  height: 122px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 25%;
+  left: 18%;
+  cursor: pointer;
+}
+ 
+.heart{
+  width: 175px;
+  height: 65px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 16%;
+  left: 19%;
+  cursor: pointer;
+}
+
+.bloomstalk{
+  width: 77px;
+  height: 235px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 42%;
+  left: 25%;
+  cursor: pointer;
+}
+
+.flower-seeds-nectar{
+  width: 77px;
+  height: 235px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 71%;
+  left: 25%;
+  cursor: pointer;
+}
+
+.root{
+  width: 143px;
+  height: 112px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 5%;
+  left: 22%;
+  cursor: pointer;
+}
+
+
+
+img.static:hover ~ div.leaves-tooltip,
+.heart:hover + div.heart-tooltip,
+.bloomstalk:hover + div.bloomstalk-tooltip,
+.flower-seeds-nectar:hover + div.flower-seeds-nectar-tooltip,
+.root:hover + div.root-tooltip{
+  display: flex;
+  align-items: center;
+  z-index:1000;
+}
+
+div.displayed{
+  display: flex;
+  align-items: center;
+  z-index:1000;
+}
+
+div.leaves-tooltip,
+div.heart-tooltip,
+div.bloomstalk-tooltip,
+div.flower-seeds-nectar-tooltip,
+div.root-tooltip{
+  margin-bottom: 40px;
+}
+
+.agave-video{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.agave-video video{
+  width: 100%;
+  object-fit: contain;
+}
+
+/* Hide Play button + controls on iOS */
+video::-webkit-media-controls {
+    display:none !important;
+}
+
