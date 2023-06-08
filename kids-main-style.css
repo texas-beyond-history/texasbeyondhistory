@@ -1003,11 +1003,12 @@ the same width as all the other items in the page*/
   position: relative;
 }
 
-.buffalo-body p{
+.buffalo-body p,
+div.tool-tips p{
   font-style: italic;
 }
 
-.buffalo-body span.title{
+p span.buffalo-title{
   font-weight: bold;
   font-size: 21px;
 }
@@ -1149,5 +1150,147 @@ div.horns-tooltip,
 div.beard-tooltip,
 div.head-tooltip {
   margin-bottom: 40px;
+}
+
+/* tool tip for the agave page */
+
+.agave-container{
+  display: flex;
+}
+
+.agave-body,
+.agave-container div.tool-tips{
+  position: relative;
+  width: 50%;
+  padding: 17px;
+}
+
+.agave-body p,
+div.tool-tips p{
+  font-style: italic;
+}
+
+p span.agave-title{
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.agave-body img.static{
+  position: absolute;
+  background: white;
+}
+
+div.leaves-tooltip,
+div.heart-tooltip,
+div.bloomstalk-tooltip,
+div.flower-seeds-nectar-tooltip,
+div.root-tooltip,
+div.horns-tooltip{
+  display: none;
+}
+
+img.static:hover{
+  opacity: 0;
+  cursor: pointer;
+}
+
+.agave-container .tool-tips ul li{
+  list-style: square;
+}
+
+.leaves{
+  width: 152px;
+  height: 84px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 27.4%;
+  left: 23%;
+  cursor: pointer;
+}
+ 
+.heart{
+  width: 132px;
+  height: 56px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 19%;
+  left: 26%;
+  cursor: pointer;
+}
+
+.bloomstalk{
+  width: 63px;
+  height: 195px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 42%;
+  left: 34%;
+  cursor: pointer;
+}
+
+.flower-seeds-nectar{
+  width: 64px;
+  height: 195px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 71%;
+  left: 34%;
+  cursor: pointer;
+}
+
+.root{
+  width: 83px;
+  height: 66px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 9%;
+  left: 33%;
+  cursor: pointer;
+}
+
+
+
+img.static:hover ~ div.leaves-tooltip,
+.heart:hover + div.heart-tooltip,
+.bloomstalk:hover + div.bloomstalk-tooltip,
+.flower-seeds-nectar:hover + div.flower-seeds-nectar-tooltip,
+.root:hover + div.root-tooltip{
+  display: flex;
+  align-items: center;
+  z-index:1000;
+}
+
+div.displayed{
+  display: flex;
+  align-items: center;
+  z-index:1000;
+}
+
+div.leaves-tooltip,
+div.heart-tooltip,
+div.bloomstalk-tooltip,
+div.flower-seeds-nectar-tooltip,
+div.root-tooltip{
+  margin-bottom: 40px;
+}
+
+.agave-video{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.agave-video video{
+  width: 153%;
+  object-fit: none;
+}
+
+/* Hide Play button + controls on iOS */
+video::-webkit-media-controls {
+    display:none !important;
 }
 
