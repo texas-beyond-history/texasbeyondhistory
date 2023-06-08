@@ -1158,9 +1158,11 @@ div.head-tooltip {
   display: flex;
 }
 
-.agave-body{
+.agave-body,
+.agave-container div.tool-tips{
   position: relative;
   width: 50%;
+  padding: 17px;
 }
 
 .agave-body p,
@@ -1192,62 +1194,62 @@ img.static:hover{
   cursor: pointer;
 }
 
-.tool-tips ul li{
+.agave-container .tool-tips ul li{
   list-style: square;
 }
 
 .leaves{
-  width: 183px;
-  height: 122px;
+  width: 152px;
+  height: 84px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 25%;
-  left: 18%;
+  bottom: 27.4%;
+  left: 23%;
   cursor: pointer;
 }
  
 .heart{
-  width: 175px;
-  height: 65px;
+  width: 132px;
+  height: 56px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 16%;
-  left: 19%;
+  bottom: 19%;
+  left: 26%;
   cursor: pointer;
 }
 
 .bloomstalk{
-  width: 77px;
-  height: 235px;
+  width: 63px;
+  height: 195px;
   display: block;
 /*  background: red;*/
   position: absolute;
   bottom: 42%;
-  left: 25%;
+  left: 34%;
   cursor: pointer;
 }
 
 .flower-seeds-nectar{
-  width: 77px;
-  height: 235px;
+  width: 64px;
+  height: 195px;
   display: block;
 /*  background: red;*/
   position: absolute;
   bottom: 71%;
-  left: 25%;
+  left: 34%;
   cursor: pointer;
 }
 
 .root{
-  width: 143px;
-  height: 112px;
+  width: 83px;
+  height: 66px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 5%;
-  left: 22%;
+  bottom: 9%;
+  left: 33%;
   cursor: pointer;
 }
 
@@ -1283,8 +1285,8 @@ div.root-tooltip{
 }
 
 .agave-video video{
-  width: 100%;
-  object-fit: contain;
+  width: 153%;
+  object-fit: none;
 }
 
 /* Hide Play button + controls on iOS */
