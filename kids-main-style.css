@@ -24,7 +24,6 @@ p {
   margin: 0 0 .5em 0;
 }
 article a {
-  color: #000;
   font-weight: bold;
   text-decoration: none;
 /*  border-bottom: 2px solid #000;*/
@@ -1155,14 +1154,45 @@ div.head-tooltip {
 /* tool tip for the agave page */
 
 .agave-container{
-  display: flex;
+  position: relative;
+}
+
+.agave-container a{
+  color: #993300;
 }
 
 .agave-body,
 .agave-container div.tool-tips{
-  position: relative;
-  width: 50%;
   padding: 17px;
+/*  border: 3px solid black;*/
+}
+
+.agave-video{
+  margin: 0 auto;
+}
+
+.agave-video video{
+  object-fit: none;
+  width: 73%;
+  padding-bottom: 21px;
+}
+
+/* Hide Play button + controls on iOS */
+.agave-video video::-webkit-media-controls {
+    display:none !important;
+}
+
+.agave-container button{
+    border-radius: 0;
+    border-style: none;
+    background-color: #bf5700;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.agave-container button:hover{
+  background-color: #863d00;
 }
 
 .agave-body p,
@@ -1178,6 +1208,14 @@ p span.agave-title{
 .agave-body img.static{
   position: absolute;
   background: white;
+}
+
+.agave-container div.tool-tips{
+  position: absolute;
+  z-index: 1;
+  top: 30%;
+  width: 50%;
+  left: 50%;
 }
 
 div.leaves-tooltip,
@@ -1200,12 +1238,12 @@ img.static:hover{
 
 .leaves{
   width: 152px;
-  height: 84px;
+  height: 89px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 27.4%;
-  left: 23%;
+  bottom: 26.7%;
+  left: 11%;
   cursor: pointer;
 }
  
@@ -1215,41 +1253,52 @@ img.static:hover{
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 19%;
-  left: 26%;
+  bottom: 18.8%;
+  left: 13.4%;
+  cursor: pointer;
+}
+
+.trimmed-heart{
+  width: 143px;
+  height: 56px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 23%;
+  left: 43%;
   cursor: pointer;
 }
 
 .bloomstalk{
   width: 63px;
-  height: 195px;
+  height: 226px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 42%;
-  left: 34%;
+  bottom: 39%;
+  left: 17%;
   cursor: pointer;
 }
 
 .flower-seeds-nectar{
   width: 64px;
-  height: 195px;
+  height: 210px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 71%;
-  left: 34%;
+  bottom: 69%;
+  left: 17%;
   cursor: pointer;
 }
 
 .root{
-  width: 83px;
-  height: 66px;
+  width: 110px;
+  height: 64px;
   display: block;
 /*  background: red;*/
   position: absolute;
-  bottom: 9%;
-  left: 33%;
+  bottom: 10%;
+  left: 15%;
   cursor: pointer;
 }
 
@@ -1279,18 +1328,5 @@ div.root-tooltip{
   margin-bottom: 40px;
 }
 
-.agave-video{
-  width: 100%;
-  margin: 0 auto;
-}
 
-.agave-video video{
-  width: 153%;
-  object-fit: none;
-}
-
-/* Hide Play button + controls on iOS */
-video::-webkit-media-controls {
-    display:none !important;
-}
 
