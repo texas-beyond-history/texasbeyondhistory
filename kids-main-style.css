@@ -1240,7 +1240,11 @@ img.static:hover{
   width: 152px;
   height: 89px;
   display: block;
+<<<<<<< HEAD
 /*  background: #ff00006b;*/
+=======
+/*  background: red;*/
+>>>>>>> origin/dev
   position: absolute;
   bottom: 26.7%;
   left: 11%;
@@ -1248,6 +1252,7 @@ img.static:hover{
 }
  
 .heart{
+<<<<<<< HEAD
   width: 83px;
   height: 27px;
   display: block;
@@ -1255,16 +1260,33 @@ img.static:hover{
   position: absolute;
   bottom: 22.8%;
   left: 15.9%;
+=======
+  width: 132px;
+  height: 56px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 18.8%;
+  left: 13.4%;
+>>>>>>> origin/dev
   cursor: pointer;
 }
 
 .trimmed-heart{
   width: 143px;
+<<<<<<< HEAD
   height: 50px;
   display: block;
 /*  background: #ff00006b;*/
   position: absolute;
   bottom: 24.7%;
+=======
+  height: 56px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 23%;
+>>>>>>> origin/dev
   left: 43%;
   cursor: pointer;
 }
@@ -1273,7 +1295,11 @@ img.static:hover{
   width: 63px;
   height: 226px;
   display: block;
+<<<<<<< HEAD
 /*  background: #ff00006b;*/
+=======
+/*  background: red;*/
+>>>>>>> origin/dev
   position: absolute;
   bottom: 39%;
   left: 17%;
@@ -1284,7 +1310,11 @@ img.static:hover{
   width: 64px;
   height: 210px;
   display: block;
+<<<<<<< HEAD
 /*  background: #ff00006b;*/
+=======
+/*  background: red;*/
+>>>>>>> origin/dev
   position: absolute;
   bottom: 69%;
   left: 17%;
@@ -1292,12 +1322,21 @@ img.static:hover{
 }
 
 .root{
+<<<<<<< HEAD
   width: 120px;
   height: 89px;
   display: block;
 /*  background: #ff00006b;*/
   position: absolute;
   bottom: 11%;
+=======
+  width: 110px;
+  height: 64px;
+  display: block;
+/*  background: red;*/
+  position: absolute;
+  bottom: 10%;
+>>>>>>> origin/dev
   left: 15%;
   cursor: pointer;
 }
