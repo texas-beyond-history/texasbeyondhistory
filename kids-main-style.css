@@ -1240,7 +1240,7 @@ img.static:hover{
   width: 152px;
   height: 89px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
   bottom: 26.7%;
   left: 11%;
@@ -1248,23 +1248,23 @@ img.static:hover{
 }
  
 .heart{
-  width: 132px;
-  height: 56px;
+  width: 83px;
+  height: 27px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
-  bottom: 18.8%;
-  left: 13.4%;
+  bottom: 22.8%;
+  left: 15.9%;
   cursor: pointer;
 }
 
 .trimmed-heart{
   width: 143px;
-  height: 56px;
+  height: 50px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
-  bottom: 23%;
+  bottom: 24.7%;
   left: 43%;
   cursor: pointer;
 }
@@ -1273,7 +1273,7 @@ img.static:hover{
   width: 63px;
   height: 226px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
   bottom: 39%;
   left: 17%;
@@ -1284,7 +1284,7 @@ img.static:hover{
   width: 64px;
   height: 210px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
   bottom: 69%;
   left: 17%;
@@ -1292,12 +1292,12 @@ img.static:hover{
 }
 
 .root{
-  width: 110px;
-  height: 64px;
+  width: 120px;
+  height: 89px;
   display: block;
-/*  background: red;*/
+/*  background: #ff00006b;*/
   position: absolute;
-  bottom: 10%;
+  bottom: 11%;
   left: 15%;
   cursor: pointer;
 }
