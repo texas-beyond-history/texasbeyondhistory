@@ -1330,3 +1330,11 @@ div.root-tooltip{
 
 
 
+section.crossword iframe{
+  width: 50% !important; 
+  margin: 0 auto;
+  display: block;
+}
+
+
+
