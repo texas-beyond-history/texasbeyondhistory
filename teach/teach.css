@@ -1,0 +1,227 @@
+.teacher-guide-container {
+  height: auto;
+  width: 780px;
+  font-family: sans-serif;
+}
+
+/*.main .accordion {
+  height: auto;
+  margin: 0 auto;
+}*/
+.main .accordion-item {
+  padding: 0.5rem 0;
+  margin: 0;
+  overflow: hidden;
+  border: none;
+  outline: none;
+}
+.main .accordion-item .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: inherit;
+  cursor: pointer;
+  padding: 1rem;
+  background-color: red;
+}
+
+.main .accordion-item .title span{
+  color: #fff;
+}
+
+.main .accordion-item .title i.fa-caret-down {
+  font-size: 1.5rem;
+  color: #ffffff;
+  transform: translateX(-50%) rotate(0);
+  transition: transform 0.15s ease;
+}
+.main .accordion-item .box-wrap {
+  display: none;
+}
+.main .accordion-item.active .title i.fa-caret-down {
+  color: #ffffff;
+  transform: translateX(-50%) rotate(180deg);
+}
+.main .accordion-item.active .box-wrap {
+  display: block;
+}
+
+tbody tr td:first-child {
+  width: 90px;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 15px;
+  font-size: 16px;
+  word-break: break-word;
+}
+
+.accordion-item:first-child .title {
+  background: #993300;
+}
+
+/* texas indian prehistoric table styling */
+
+table#texas-indian-pre tbody tr:nth-child(odd) {
+  background: #fdcea6;
+}
+
+table#texas-indian-pre thead tr {
+  background: #993300;
+  color: #fff;
+}
+
+.accordion-item:nth-child(2) .title {
+  background: #ff942a;
+}
+
+.accordion-item:nth-child(2) .title  span{
+  color: #000;
+}
+
+/* texas indian historic table styling */
+
+table#texas-indian tbody tr:nth-child(odd) {
+  background: #ffd1a3;
+}
+
+table#texas-indian thead tr {
+  background: #ff942a;
+  color: #000;
+}
+
+.accordion-item:nth-child(3) .title {
+  background: #fed337;
+}
+
+.accordion-item:nth-child(3) .title span{
+  color: #000;
+}
+
+/* early europeans table styling */
+
+table#early-euro tbody tr:nth-child(odd) {
+  background: #fff2cb;
+}
+
+table#early-euro thead tr {
+  background: #fed337;
+  color: #000;
+}
+
+.accordion-item:nth-child(4) .title{
+  background: #a0d259;
+}
+
+.accordion-item:nth-child(4) .title span{
+  color: #000;
+}
+
+/* ethnic groups table styling */
+
+table#ethnic-groups tbody tr:nth-child(odd) {
+  background: #d2eab0;
+}
+
+table#ethnic-groups thead tr {
+  background: #a0d259;
+  color: #000;
+}
+
+.accordion-item:nth-child(5) .title {
+  background: #54a03e;
+}
+
+.accordion-item:nth-child(5) .title span{
+  color: #000;
+}
+
+/* civil war and reconstruction table styling */
+
+table#civil-war tbody tr:nth-child(odd) {
+  background: #9eca91;
+}
+
+table#civil-war thead tr {
+  background: #54a03e;
+  color: #000;
+}
+
+.accordion-item:nth-child(6) .title {
+  background: #06b2bc;
+}
+
+.accordion-item:nth-child(6) .title span{
+  color: #000;
+}
+
+/* texas frontier table styling */
+
+table#texas-frontier tbody tr:nth-child(odd) {
+  background: #a4dcdf;
+}
+
+table#texas-frontier thead tr {
+  background: #06b2bc;
+  color: #000;
+}
+
+.accordion-item:nth-child(7) .title {
+  background: #015b80;
+}
+
+.accordion-item:nth-child(7) .title span{
+  color: #fff;
+}
+
+/* 20th century table styling */
+
+table#twentienth-century tbody tr:nth-child(odd) {
+  background: #cddbe1;
+}
+
+table#twentienth-century thead tr {
+  background: #015b80;
+  color: #fff;
+}
+
+.accordion-item:last-child .title {
+  background: #9cb5be;
+}
+
+.accordion-item:last-child .title span{
+  color: #000;
+}
+
+.accordion-item:last-child p.paragraph {
+  padding: 12px;
+}
+
+/* geography table styling */
+
+#geography table tbody tr:nth-child(odd) {
+  background: #d4dcdf;
+}
+
+#geography table thead tr {
+  background: #9cb5be;
+  color: #000;
+}
+
+@media only screen and (max-width: 768px) {
+  .main .accordion {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
