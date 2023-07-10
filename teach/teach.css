@@ -41,11 +41,11 @@
 .main .accordion-item .box-wrap {
   display: none;
 }
-.main .accordion-item.active .title i.fa-caret-down {
+.main .accordion-item .title.active i.fa-caret-down {
   color: #ffffff;
   transform: translateX(-50%) rotate(180deg);
 }
-.main .accordion-item.active .box-wrap {
+.main .accordion-item .title.active + .box-wrap {
   display: block;
 }
 
@@ -63,7 +63,7 @@ th,
 td {
   padding: 15px;
   font-size: 16px;
-  word-break: break-word;
+/*  word-break: break-word;*/
 }
 
 /* the elementary / secondary column */
@@ -235,6 +235,7 @@ tbody tr td:nth-child(3){
 
 
 
+/* mobile table */
 
 @media only screen and (max-width: 768px) {
   .main .accordion {
@@ -243,3 +244,8 @@ tbody tr td:nth-child(3){
     margin: 0 auto;
   }
 }
+
+
+
+/* lessons plans page cards */
+

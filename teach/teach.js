@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(){
   // Accordion Action
-  const accordionItem = document.querySelectorAll(".accordion-item");
+  const accordionItem = document.querySelectorAll(".title");
 
   accordionItem.forEach((el) =>
     el.addEventListener("click", () => {
