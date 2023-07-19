@@ -1328,13 +1328,24 @@ div.root-tooltip{
   margin-bottom: 40px;
 }
 
-
-
 section.crossword iframe{
   width: 50% !important; 
   margin: 0 auto;
   display: block;
 }
 
+
+/* footer links */
+.kids-footer-links .links > a{
+    background: transparent !important;
+    border-bottom: 3px #bf5700 solid !important;
+    border-right: none !important;
+    color: #000 !important;
+    flex: 0 0 auto !important;
+    font-weight: 400 !important;
+    padding: 0 !important;
+    text-align: center !important;
+    text-decoration: none !important;
+}
 
 
