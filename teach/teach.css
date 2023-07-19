@@ -247,5 +247,164 @@ tbody tr td:nth-child(3){
 
 
 
-/* lessons plans page cards */
+/* lessons plans page */
+
+p.filter-text{
+  text-align: center;
+  font-weight: bold;
+}
+
+.category-boxes {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.box {
+  flex: 1 1 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  background-color: black;
+  position: relative;
+}
+
+
+.box h3{
+  text-align: center;
+}
+
+#language-arts .box h3{
+  background: #ffe9d6;
+}
+
+#social-studies .box h3{
+  background: #fed;
+}
+
+#math-science .box h3{
+  background: #fff2cb;
+}
+
+#art .box h3{
+  background: #e3ecd6;
+}
+
+.box div{
+  width: 100%;
+  z-index: 1;
+}
+
+.box div img{
+  margin-right: 5px;
+}
+
+.categories h3 {
+  padding: 15px 8px;
+}
+
+.box img.cover{
+    position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.filters {
+  text-align: center;
+}
+
+#categories {
+  font-size: 1.2rem;
+}
+
+div.language-arts-header{
+  background: #993300;
+  padding-left: 15px;
+}
+
+div.language-arts-header h3{
+  color: white;
+}
+
+div.social-studies-header{
+  background: #ff942a;
+  color: black;
+  padding-left: 15px;
+}
+
+div.math-science-header{
+  background: #fed337;
+  color: black;
+  padding-left: 15px;
+}
+
+div.art-header{
+  background: #a0d259;
+  color: black;
+  padding-left: 15px;
+}
+
+/* dropdown styling */
+/* Remove default styles */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* Custom dropdown styles */
+.filters {
+  position: relative;
+  width: 100%
+}
+
+.lesson-dropdowns{
+  display: flex;
+  width: 100%;
+}
+
+.filters select {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  color: #993300;
+  font-weight: bold;
+  background-color: #ffefdf;;
+  border-style: none;
+}
+
+.filters:first-child{
+  margin-right: 5px;
+}
+
+.filters:last-child{
+  margin-left: 5px;
+}
+
+.filters::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;  
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-top: 8px solid #993300;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+/*  no matches found message  */
+.no-matches{
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
 
