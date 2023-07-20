@@ -267,29 +267,12 @@ p.filter-text{
   align-items: center;
   justify-content: center;
   height: 200px;
-  background-color: black;
   position: relative;
 }
 
 
 .box h3{
   text-align: center;
-}
-
-#language-arts .box h3{
-  background: #ffe9d6;
-}
-
-#social-studies .box h3{
-  background: #fed;
-}
-
-#math-science .box h3{
-  background: #fff2cb;
-}
-
-#art .box h3{
-  background: #e3ecd6;
 }
 
 .box div{
@@ -321,6 +304,11 @@ p.filter-text{
   font-size: 1.2rem;
 }
 
+
+#language-arts .box h3, #language-arts .box{
+  background: #ffe9d6;
+}
+
 div.language-arts-header{
   background: #993300;
   padding-left: 15px;
@@ -330,16 +318,28 @@ div.language-arts-header h3{
   color: white;
 }
 
+#social-studies .box h3, #social-studies .box{
+  background: #fed;
+}
+
 div.social-studies-header{
   background: #ff942a;
   color: black;
   padding-left: 15px;
 }
 
+#math-science .box h3, #math-science .box{
+  background: #fff2cb;
+}
+
 div.math-science-header{
   background: #fed337;
   color: black;
   padding-left: 15px;
+}
+
+#art .box h3, #art .box{
+  background: #e3ecd6;
 }
 
 div.art-header{
