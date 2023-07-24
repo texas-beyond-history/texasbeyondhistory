@@ -332,7 +332,7 @@ Osborn Farm
 osbo.png
 /osborn/
 363
-284
+291
 
 Pavo Real
 pavo.png
@@ -375,6 +375,12 @@ shac.png
 /timberhill/
 480
 148
+
+Smith House
+smith.png
+/smithhouse/
+347
+283s
 
 The Belle
 bell.png
