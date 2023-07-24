@@ -1,10 +1,11 @@
 # each site will have the same number of lines
-# (for example if Aldridge Sawmill needs 5 lines, the the rest also need 5 lines)
+# (for example if Aldridge Sawmill needs 6 lines, the the rest also need 6 lines)
 # the first line is the site name
 # the second line is the image
 # the third line is the link for the button
 # the fourth line is the x-coordinate for the pin on the map
 # the fifth line is the y-coordinate
+# the sixth line is the title that goes above the map
 # use this tool to find coordinates: https://inkplant.com/tools/image-coordinates
 # blank lines or lines starting with # will be ignored
 
@@ -15,399 +16,466 @@ aldr.png
 /aldridge/
 480
 241
+Aldridge Sawmill
 
 Alibates
 alib.png
 /alibates/
 191
 57
+Alibates
 
 Arenosa Shelter
 aren.png
 /arenosa/
 194
 272
+Arenosa Shelter
 
 Bonfire Shelter
 bonf.png
 /bonfire/
 183
 276
+Bonfire Shelter
 
 Brownsville-Barril
 brow.png
 /brownsville/
 358
 435
+Brownsville-Barril
 
 Buried City
 buri.png
 /villagers/buriedcity/
 227
 14
+Buried City
 
 Camp Bowie
 cabo.png
 /bowie/
 307
 192
+Camp Bowie
 
 Camp Ford
 camf.png
 /ford/
 449
 172
+Camp Ford
 
 Ceremonial Cave
 cere.png
 /ceremonial/
 15
 193
+Ceremonial Cave
 
 Choke Canyon
 chok.png
 /choke/
 318
 327
+Choke Canyon
 
 Cueva Pilote
 pilo.png
 /pilote/
 157
 308
+Cueva Pilote
 
 El Paso
 paso.png
 /paso/
 9
 200
+El Paso
 
 Espíritu Santo
 espi.png
 /espiritu/
 361
 318
+Espíritu Santo
 
 Falcon
 falc.png
 /falcon/
 297
 410
+Falcon
 
 Firecracker Pueblo
 fire.png
 /firecracker/
 0
 193
+Firecracker Pueblo
 
 Fort Clark
 ftcl.png
 /forts/clark/
 240
 293
+Fort Clark
 
 Fort Davis
 ftda.png
 /forts/davis/
 96
 239
+Fort Davis
 
 Fort Griffin
 ftgr.png
 /forts/griffin/
 291
 158
+Fort Griffin
 
 Fort St. Louis
 ftst.png
 /stlouis/
 397
 320
+Fort St. Louis
 
 Fort McKavett
 ftmc.png
 /forts/mckavett/
 257
 255
+Fort McKavett
 
 Gateway Missions
 gate.png
 /gateway/
 232
 329
+Gateway Missions
 
 Gault
 gaul.png
 /gault/
 333
 222
+Gault
 
 Gilbert
 gilb.png
 /gilbert/
 418
 140
+Gilbert
 
 Graham-Applegate
 grah.png
 /graham/
 299
 236
+Graham-Applegate
 
 Granado Cave
 gran.png
 /granado/
 113
 212
+Granado Cave
 
 Guadalupe Bay
 guad.png
 /guadbay/
 385
 336
+Guadalupe Bay
 
 Guy Town
 guyt.png
 /guytown/
 337
 256
+Guy Town
 
 Hank's House
 hank.png
 /villagers/hank1/
 227
 27
+Hank's House
 
 Harrell
 harr.png
 /harrell/
 306
 142
+Harrell
 
 Haas
 haas.png
 /haas/
 310
 250
+Haas
 
 Hendrick and Ware
 hend.png
 /rusk/
 470
 177
+Hendrick and Ware
 
 Hinds Cave
 hind.jpg
 /hinds/
 200
 261
+Hinds Cave
 
 Hinojosa
 hino.png
 /hinojosa/
 331
 359
+Hinojosa
 
 Honey Creek
 hone.jpg
 /honey/
 284
 229
+Honey Creek
 
 Horn Shelter
 horn.png
 /horn/
 337
 195
+Horn Shelter
 
 Hueco Tanks
 huec.png
 /hueco/
 23
 195
+Hueco Tanks
 
 JB White
 jbwh.png
 /jbwhite/
 371
 229
+JB White
 
 Kincaid
 kinc.png
 /kincaid/
 270
 285
+Kincaid
 
 La Junta
 junta.png
 /junta/
 87
 289
+La Junta
 
 Lake Jackson
 lake.png
 /jackson/
 429
 315
+Lake Jackson
 
 Landis Project
 land.png
 /landis/
 177
 42
+Landis Project
 
 Los Adaes
 adae.png
 /adaes/
 510
 202
+Los Adaes
 
 Lower Pecos
 lowe.png
 /pecos/
 206
 276
+Lower Pecos
 
 Lubbock Lake
 lubb.png
 /lubbock/
 181
 139
+Lubbock Lake
 
 Madera Quemada
 made.png
 /madera/
 18
 166
+Madera Quemada
 
 McFaddin Beach
 mcfa.png
 /mcfaddin/
 486
 285
+McFaddin Beach
 
 McKinney Roughs
 mckn.png
 /mckinney/
 349
 270
+McKinney Roughs
 
 Mission Dolores
 dolo.png
 /dolores/
 486
 207
+Mission Dolores
 
 Mission San Sabá
 sans.png
 /sansaba/
 256
 234
+Mission San Sabá
 
 Mitchell Ridge
 mitc.png
 /mitchell/
 455
 297
+Mitchell Ridge
 
 Morhiss Mound
 morh.png
 /morhiss/
 372
 327
+Morhiss Mound
 
 Naconiche
 naco.png
 /naconiche/
 471
 199
+Naconiche
 
 Nasoni
 naso.png
 /nasoni/
 470
 124
+Nasoni
 
 Osborn Farm
 osbo.png
 /osborn/
 363
 291
+Osborn Farm
 
 Pavo Real
 pavo.png
 /pavoreal/
 311
 278
+Pavo Real
 
 Pine Tree Mound
 pine.png
 /pine/
 476
 166
+Pine Tree Mound
 
 Presidio San Sabá
 pres.png
 /presidio/
 244
 223
+Presidio San Sabá
 
 Red River War
 redr.png
 /redriver/
 219
 86
+Red River War
 
 Richard Beene
 been.png
 /beene/
 299
 288
+Richard Beene
 
 Rubin-Hancock
 rubi.png
 /rubin/
 337
 246
+Rubin-Hancock
 
 Sha'chahdínnih
 shac.png
 /timberhill/
 480
 148
+Sha'chahdínnih
 
 Smith House
 smith.png
 /smithhouse/
 347
 283s
+John William and María Jesusa Curbelo-Delgado Smith House
 
 The Belle
 bell.png
 /belle/
 400
 331
+The Belle
 
 Varga
 varga.png
 /varga/
 211
 261
+Varga
 
 Waco Lake
 waco.png
 /waco/
 344
 210
+Waco Lake
 
 Wax Camps
 waxc.png
 /waxcamps/
 127
 303
+Wax Camps
 
 Williams Farm
 will.png
 /ransom/
 331
 261
+Williams Farm
