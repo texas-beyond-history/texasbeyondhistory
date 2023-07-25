@@ -12,12 +12,12 @@ Once you found your selected section, to add a lesson plan go to the very end of
 
 ```
 <div class="box" data-subject="[subject]" data-grade="[grade number]">
-	<img class="cover" src="images/lessonplan-cards-all/[cover-image-name]" alt="[alt text]">
-	<div>
-	  <a target="_blank" href="[link to the lesson plans page]">
-	    <h3>[name of the lesson plan]</h3>
-	  </a>
-	</div>
+  <img class="cover" src="images/lessonplan-cards-all/[cover-image-name]" alt="[alt text]">
+  <div>
+    <a target="_blank" href="[link to the lesson plans page]">
+      <h3>[name of the lesson plan]</h3>
+    </a>
+  </div>
 </div>
 ```
 
@@ -30,7 +30,7 @@ To change or add a grade on a lesson plan change the `data-grade` attribute in t
 
 ```
 <div class="box" data-subject="art" data-grade="9">
-	... code within
+  ... code within
 </div>
 ```
 
@@ -38,7 +38,7 @@ To add more than one grade write all the grades with a space inbetween, like thi
 
 ```
 <div class="box" data-subject="art" data-grade="9 10 11 12">
-	... code within
+  ... code within
 </div>
 ```
 
@@ -48,7 +48,7 @@ To add/change the subject, change the `data-subject` attribute in the code block
 
 ```
 <div class="box" data-subject="art" data-grade="9 10 11 12">
-	... code within
+  ... code within
 </div>
 ```
 
@@ -60,8 +60,8 @@ Then in the code block, edit the image path. Here is an example:
 
 ```
 <div class="box" data-subject="math-science" data-grade="7">
-	<img class="cover" src="images/lessonplan-cards-all/plantstexas.png" alt="plants in central texas cover image">
-	... code within
+  <img class="cover" src="images/lessonplan-cards-all/plantstexas.png" alt="plants in central texas cover image"> 
+  ... code within
 </div>
 ```
 
