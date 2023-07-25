@@ -280,10 +280,6 @@ p.filter-text{
   z-index: 1;
 }
 
-.box div img{
-  margin-right: 5px;
-}
-
 .categories h3 {
   padding: 15px 8px;
 }
@@ -306,16 +302,16 @@ p.filter-text{
 
 
 #language-arts .box h3, #language-arts .box{
-  background: #ffe9d6;
+  background: #d8fcff;
 }
 
 div.language-arts-header{
-  background: #993300;
+  background: #00a9b7;
   padding-left: 15px;
 }
 
 div.language-arts-header h3{
-  color: white;
+  color: #000;
 }
 
 #social-studies .box h3, #social-studies .box{
@@ -374,7 +370,7 @@ select {
   width: 100%;
   padding: 12px;
   font-size: 16px;
-  color: #993300;
+  color: #1a1a1a;
   font-weight: bold;
   background-color: #ffefdf;;
   border-style: none;
@@ -396,7 +392,7 @@ select {
   width: 0;
   height: 0;
   margin-top: -2px;
-  border-top: 8px solid #993300;
+  border-top: 8px solid #1a1a1a;
   border-right: 8px solid transparent;
   border-left: 8px solid transparent;
 }
@@ -407,4 +403,40 @@ select {
   margin-top: 20px;
   font-weight: bold;
 }
+
+/* star styling */
+.star {
+  position: relative;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 0.9em;
+  margin-right: 1.2em;
+  margin-bottom: 1em;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 0.3em solid transparent;
+  /* Controlls the size of the stars. */
+  font-size: 10px;
+}
+.star:before, .star:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0.6em;
+  left: -1em;
+  border-right: 1em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 1em solid transparent;
+  transform: rotate(-35deg);
+}
+.star:after {
+  transform: rotate(35deg);
+}
+
+
+
+
 

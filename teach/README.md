@@ -1,4 +1,4 @@
-# How to edit the lessons plans page
+# How to Edit the Lessons Plans Page
 
 ## How to add/remove a lesson plan to the lesson plans page
 
