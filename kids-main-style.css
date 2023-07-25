@@ -1213,9 +1213,31 @@ p span.agave-title{
 .agave-container div.tool-tips{
   position: absolute;
   z-index: 1;
-  top: 30%;
+  top: 10%;
   width: 50%;
   left: 50%;
+}
+
+div.tool-tips ul li:first-child{
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+div.tool-tips ul li img{
+  width: 400px;
+}
+
+.heart-tooltip ul li:first-child{
+  display: flex;
+  align-items: center;
+}
+
+#heart-tooltip.heart-tooltip ul li img{
+  width: 260px;
+}
+
+#heart-tooltip.heart-tooltip ul li img:first-child{
+  margin-right: 8px;
 }
 
 div.leaves-tooltip,
