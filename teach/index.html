@@ -1,244 +1,288 @@
 <!DOCTYPE html>
-<html lang="en-US"><!-- InstanceBegin template="/Templates/teach.dwt" codeOutsideHTMLIsLocked="false" -->
-	<head>
-<link rel="icon" type="image/x-icon" href="/tbhistory.ico"><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<html lang="en-US">
+  <!-- InstanceBegin template="/Templates/teach.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+    <link rel="icon" type="image/x-icon" href="/tbhistory.ico">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'G-GHC8CS1RGZ');
+    </script>
+    <!--  shibboleth  -->
+    <meta charset="utf-8">
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>Teachers</title>
+    <script type="text/javascript">
+      function MM_jumpMenuGo(objId, targ, restore) { //v9.0
+        var selObj = null;
+        with(document) {
+          if (getElementById) selObj = getElementById(objId);
+          if (selObj) eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+          if (restore) selObj.selectedIndex = 0;
+        }
+      }
+    </script>
+    <!-- InstanceEndEditable -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-GHC8CS1RGZ');
-</script>
-		<!--	shibboleth	-->
-		<meta charset="utf-8">
-		
-		<!-- InstanceBeginEditable name="doctitle" -->
-<title>Teachers</title>
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'G-GHC8CS1RGZ');
+    </script>
+    <!-- End Google Analytics -->
+    <!--  Global Assets -->
+    <script type="text/javascript" src="/js/global.js"></script>
+    <script src="https://cdn.la.utexas.edu/canvasser/1.4/canvasser.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+    <!--  End Global Assets -->
+    <!-- InstanceBeginEditable name="head" -->
+    <link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../print.css" type="text/css" media="print" />
+    <!-- InstanceEndEditable -->
+    <style>
+      .teachers-main-list{
+        display: flex;
+        margin: 20px 0;
+        margin-top: 49px;
+      }
+      select option {
+        padding: 12px;
+        color: black;
+      }
 
-<script type="text/javascript">
-function MM_jumpMenuGo(objId,targ,restore){ //v9.0
-  var selObj = null;  with (document) { 
-  if (getElementById) selObj = getElementById(objId);
-  if (selObj) eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0; }
-}
-</script>
-<!-- InstanceEndEditable -->
+      select {
+        border: 1px solid #dfdfdf;
+        border-radius: 5px;
+      }
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
-		<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+      label {
+        font-weight: bold;
+        font-size: 18px;
+        padding-bottom: 12px;
+        display: block;
+        font-family: Arial, sans-serif;
+      }
 
-  gtag('config', 'G-GHC8CS1RGZ');
-			</script>
-		<!-- End Google Analytics -->
-		<!--	Global Assets -->
-		<script type="text/javascript" src="/js/global.js"></script>
-		<script src="https://cdn.la.utexas.edu/canvasser/1.4/canvasser.js" type="text/javascript"></script>
-		<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
-		<!--	End Global Assets -->
-		<!-- InstanceBeginEditable name="head" -->
-	
-	
-		<link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen"/>
-		<link rel="stylesheet" href="../print.css" type="text/css" media="print"/>
-<!-- InstanceEndEditable -->
-  <style type="text/css">
-  #survey-banner
-    {font-family:"montserrat",sans-serif;
-    padding:20px 30px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    background-color:#005f86;
-    color:#2c3e50;
-    margin-bottom:10px;
-    margin:15px 0px}
-  #survey-banner p
-    {color:#fff;
-    font-size:22px;
-    text-align:right;
-    margin:20px;
-    font-weight:500;
-    width:500px;
-    padding:0 5px;
-    line-height:1.2}
-  #survey-banner a
-    {background-color:#ffd600;
-    color:#282828;
-    font-size:16px;
-    padding:15px 30px;
-    text-align:center;
-    text-transform:uppercase;
-    font-weight:700}
-  </style>
- 
-	</head>
-	<body>
+      form.teacher-form input[type="button"] {
+        background: #bf5700;
+        border: none;
+        color: white;
+        width: 50px;
+        padding: 5px;
+        cursor: pointer;
+        display: block;
+      }
 
-		<div id="wrapper">
+      form.teacher-form:nth-child(2) input[type="button"]{
+        background: #005a82;
+      }
 
-			<div id="wordmark">
-				<a class="screen-reader-text" href="https://www.utexas.edu/" target="_blank"><img src="/images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0">University of Texas at Austin</a><a class="screen-reader-text" href="https://liberalarts.utexas.edu/" target="_blank"><img src="/images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0">College of Liberal Arts</a>
-			</div>
+      form.teacher-form:first-child{
+        margin-right: 5px;
+      }
 
-			<h6 id="tbh">Texas Beyond History</h6>
+      form.teacher-form:nth-child(2){
+        margin-left: 5px;
+      }
 
-			<div id="tbhnav">
-				<a href="../index.html">TBH Home</a>  
-				<form action="/search.html" method="get" name="search" id="search">
-					<div><label for="searchbox"><input type="text" size="13" name="words" value="Search" id="searchbox"></label></div>
-					<div><label for="searchbut"><input type="submit" value="Go" name="submit" id="searchbut"></label></div>
-					<div><input type="hidden" name="config" value="tbh"></div> 
-					<div><input type="hidden" name="restrict" value=""></div>
-					<div><input type="hidden" name="exclude" value=""></div>
-				</form>
-			</div>
-			
-				<div id="nav">
-					<div id="tt">
-						<h1>Teachers</h1>
-					</div>
 
-					<h2>
-						<a href="index.html">Welcome Teachers!</a>
-						<a href="guide.html">Teachers' Guide to TBH</a> 
-						<a href="lessons.html">Lesson Plans</a>
-						<a href="unit.html">Unit Plans</a> 
-						<a href="links.html">Teacher Links</a> 
-					</h2> 
-				</div>
-				 
-				
-			<div id="content"> 
-			<!-- InstanceBeginEditable name="body" -->
-      <div id="survey-banner">
-        <p>Educators, would you help us improve our Teachers' and Kids' sections?</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScBL4Ml32irdcmmdHkdCA-Ck37cQ1A6uybeWnxMvHbTwos9-g/viewform" target="_blank">Take a 5 minute survey</a>
+
+      select option:hover,
+      select option:focus,
+      select option:active,
+      select option:checked {
+        background: linear-gradient(#bf5700, #bf5700);
+        background-color: #bf5700;
+        color: white;
+      }
+
+      select#menu2 option:hover,
+      select#menu2 option:focus,
+      select#menu2 option:active,
+      select#menu2 option:checked {
+        background: linear-gradient(#005a82, #005a82);
+        background-color: #005a82;
+        color: white;
+      }
+
+      .teacher-subjects-container p:first-child{
+        width: 70% !important;
+        margin: 12px auto;
+      }
+
+      div.teacher-subjects {
+        display: flex;
+        width: 400px;
+        text-align: center;
+        margin: 0 auto;
+      }
+
+      div.teacher-subjects-child {
+        width: 50%;
+        margin: 3px;
+      }
+
+      div.box {
+        width: 100%;
+        height: 200px;
+      }
+
+      div.box img{
+        width: 100%;
+        height: 90%;
+        object-fit: contain;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="wordmark">
+        <a class="screen-reader-text" href="https://www.utexas.edu/" target="_blank">
+          <img src="/images/wordmark_ut.gif" alt="University of Texas at Austin wordmark" width="320" height="18" border="0">University of Texas at Austin </a>
+        <a class="screen-reader-text" href="https://liberalarts.utexas.edu/" target="_blank">
+          <img src="/images/wordmark_cola.gif" alt="College of Liberal Arts wordmark" width="255" height="18" border="0">College of Liberal Arts </a>
       </div>
-<table width="780" border="0" cellpadding="0">
-       <tr> 
-         <td width="264" valign="top"> 
-           <h3>Welcome Teachers!</h3>
-        <p class="text"><i>Texas Beyond History</i> is rich in information and resources to 
-              help you teach about the past in Texas, using archeology as a lens 
-              for discovery. In this section are lesson plans for both elementary 
-              and secondary grades based on the objectives of the Texas Essential 
-              Knowledge and Skills (TEKS) and the related Texas Assessment of 
-              Academic Skills (TAAS) and Texas Assessment of Knowledge and Skills 
-              (TAKS).</p>
-        <p class="text"> All of these lesson plans were written by experienced teachers or consultants. 
-          Each lesson can be downloaded and printed for easy use in class. 
-          There's also a <strong><a href="http://www.texasbeyondhistory.net/teach/guide.html" target="_blank">Guide</a></strong> to help you find additional resources on TBH, based on a variety of topics. Welcome to the fun and excitement of teaching focused on Texas' cultural heritage, archeology, and other subjects! </p>
-        <p class="text">Be sure to check out the four new lessons for teaching African American History on our Social Studies Lessons page. These lessons, marked with a star, are correlated with the new TBH exhibit, <a href="http://www.texasbeyondhistory.net/ransom/index.html" target="_blank">Life after Slavery: Investigations of a 19th-Century Farmstead.</a></p>
-          <p align="left" class="text">Don't miss the<a href="http://www.texasbeyondhistory.net/kids/index.html" target="_blank"> <em>Kids Only</em> </a>pages  where you and your students will find a wealth of educational games and interactives, many led by Dr. Dirt, The Armadillo Archeologist. The  <strong><a href="http://www.texasbeyondhistory.net/kids/research.html" target="_blank">Research</a> </strong>section will guide your students through the mysteries of research and report writing, using TBH as a resource.</p>
+      <h6 id="tbh">Texas Beyond History</h6>
+      <div id="tbhnav">
+        <a href="../index.html">TBH Home</a>
+        <form action="/search.html" method="get" name="search" id="search">
           <div>
-            <p><br>
-              </p>
-          </div>
-          <div></div>
-          <div>
-            <p><em><br>
-            </em></p>
-          </div>
-          <div></div>
-          <div>
-            <p>&nbsp;</p>
+            <label for="searchbox">
+              <input type="text" size="13" name="words" value="Search" id="searchbox">
+            </label>
           </div>
           <div>
-            <p><br>
-            </p>
+            <label for="searchbut">
+              <input type="submit" value="Go" name="submit" id="searchbut">
+            </label>
           </div>
-          <p align="left" class="text">&nbsp;</p>
-            <p><br>
+          <div>
+            <input type="hidden" name="config" value="tbh">
+          </div>
+          <div>
+            <input type="hidden" name="restrict" value="">
+          </div>
+          <div>
+            <input type="hidden" name="exclude" value="">
+          </div>
+        </form>
+      </div>
+      <div id="nav">
+        <div id="tt">
+          <h1>Teachers</h1>
+        </div>
+        <h2>
+          <a href="index.html">Welcome Teachers!</a>
+          <a href="guide.html">Teachers' Guide to TBH</a>
+          <a href="lessons.html">Lesson Plans</a>
+          <a href="unit.html">Unit Plans</a>
+          <a href="links.html">Teacher Links</a>
+        </h2>
+      </div>
+      <div id="content">
+        <div class="teacher-content">
+          <h2 class="align-center">Welcome Teachers!</h2>
+          <p class="text">
+            <i>Texas Beyond History</i> is a resource dedicated to helping educators and students learn more about the unique, multi-layered history of Texas. Using archeology as a lens for discovery and learning, this website offers engaging TEKS-based lesson plans for both elementary and secondary grade levels.
           </p>
-         </td>
-          <td width="510" valign="top"> 
-            <div align="center"> 
-           <p class="text"> <b>Click on your subject area to find archeology-related 
-                lesson plans.</b> </p>
+          <div class="teacher-subjects-container float-right">
+            <p class="align-center"><b>Click on your subject area to find archeology-related lesson plans.</b></p>
+          <div class="teacher-subjects">
+            <div class="teacher-subjects-child">
+              <a href="../teach/lessons.html#social">
+                <div class="box"><img src="images/socialstudies.png" alt="social studies"></div> 
+                Social Studies
+              </a>
             </div>
-           
-<table width="438" border="0" align="center" cellpadding="0" cellspacing="0">
-  <!-- fwtable fwsrc="teachpie.png" fwbase="pie.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
-  <tr>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="205" height="1" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="11" height="1" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="1" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="221" height="1" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="1" border="0"></td>
-  </tr>
-  <tr>
-    <td><a href="../teach/lessons.html#art"><img name="pie_r1_c1" src="images/img/pie_r1_c1.gif" width="205" height="145" border="0" alt="Art Social Studies Lesson Plans"></a></td>
-    <td rowspan="3" colspan="2"><img name="pie_r1_c2" src="images/img/pie_r1_c2.gif"  role="presentation" width="12" height="154" border="0" ></td>
-    <td rowspan="2"><a href="../teach/lessons.html#math"><img name="pie_r1_c4" src="images/img/pie_r1_c4.gif" width="221" height="146" border="0" alt="Math / Science Lesson Plans"></a></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="145" border="0"></td>
-  </tr>
-  <tr>
-    <td rowspan="2"><img name="pie_r2_c1" src="images/img/pie_r2_c1.gif"  role="presentation" width="205" height="9" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="1" border="0"></td>
-  </tr>
-  <tr>
-    <td><img name="pie_r3_c4" src="images/img/pie_r3_c4.gif"  role="presentation" width="221" height="8" border="0"></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="8" border="0"></td>
-  </tr>
-  <tr>
-    <td><a href="../teach/lessons.html#social"><img name="pie_r4_c1" src="images/img/pie_r4_c1.gif" width="205" height="147" border="0" alt="Language Arts Lesson Plans"></a></td>
-    <td><img name="pie_r4_c2" src="images/img/pie_r4_c2.gif"  role="presentation" width="11" height="147" border="0"></td>
-    <td colspan="2"><a href="../teach/lessons.html#language"><img name="pie_r4_c3" src="images/img/pie_r4_c3.gif" width="222" height="147" border="0" alt="Language Arts Lesson Plans"></a></td>
-    <td><img src="images/img/spacer.gif" role="presentation"  name="undefined_2" width="1" height="147" border="0"></td>
-  </tr>
-</table>
-<br>            <br>
-            <form>
-              <div align="center">
-                <label for="menu1">New on TBH Teachers!</label>
-                <select id="menu1" name="menu1" size="5">
-                  <option value="/teach/images/ransom-citizenship.html" selected>A New Life in Freedom</option>
-                  <option value="/teach/images/ransom-citizenship.html
+            <div class="teacher-subjects-child">
+              <a href="../teach/lessons.html#math">
+                <div class="box"><img src="images/math.png" alt="math"></div> 
+                Math/Science
+              </a>
+            </div>
+          </div>
+          <div class="teacher-subjects">
+            <div class="teacher-subjects-child">
+              <a href="../teach/lessons.html#language">
+                <div class="box"><img src="images/languagearts.png" alt="language arts"></div> 
+                Language Arts
+              </a>
+            </div>
+            <div class="teacher-subjects-child">
+              <a href="../teach/lessons.html#art">
+                <div class="box"><img src="images/art.png" alt="arts"></div> 
+                Art
+              </a>
+            </div>
+          </div>
+        </div>
+          </p>
+          <p class="text">All lesson plans found on the TBH website were crafted by experienced teachers or consultants, and may be downloaded and printed for easy classroom use. There is also a <strong>
+              <a href="guide.html" target="_blank">Guide</a>
+            </strong> to help you find additional resources on TBH covering a variety of subjects. Welcome to the fun and excitement of teaching about Texas' cultural heritage, archeology, and many other fascinating topics!</p>
+          <p class="text">In addition, don't miss the <a href="http://www.texasbeyondhistory.net/kids/index.html" target="_blank">Kids Only</a>, where you and your students will find a wealth of educational games and engaging activities, many led by Dr. Dirt, The Armadillo Archeologist. Finally, the <strong>
+              <a href="http://www.texasbeyondhistory.net/kids/research.html" target="_blank">Research</a>
+            </strong>section will guide your students through the process of using TBH as a resource to research and write a report.</p>
+        </div>
+        <div class="teachers-main-list">
+          <form class="teacher-form">
+            <div align="center">
+              <label for="menu1">New on TBH Teachers!</label>
+              <select id="menu1" name="menu1" size="5">
+                <option value="/teach/images/ransom-citizenship.html" selected>A New Life in Freedom</option>
+                <option value="/teach/images/ransom-citizenship.html
           ">Exercising the Rights of Citizenship in 19th-Century Texas</option>
-          <option value="/teach/images/ransom-freedomcoloniesesson.html">Life in Texas Freedom Colonies</option>
-                  <option value="/teach/images/ransom-artifacts-teks.html">Bottles, Pins, and Horseshoes: Blooms Taxonomy on the Farm</option>
-                  <option value="/teach/images/belle.html">La Belle Shipwreck: Finding Clues from Old Bones</option>
-                  <option value="guide.html">Teachers' Guide to TBH</option>
-                </select>
-                <input type="button" name="Button1" value="Go" onClick="MM_jumpMenuGo('menu1','parent',0)">
-              </div>
-            </form>
-            <br>
-          </td>
-      </tr>
-
-  </tr>
-</table>
-<!-- InstanceEndEditable -->
-		    </div>
-			
-			<div id="foot">
-			
-				<p class="links"> 
-					<a href="index.html">Welcome Teachers!</a>
-					<a href="guide.html">TBH Guide</a>
-					<a href="lessons.html">Lesson Plans</a>
-					<a href="unit.html">Unit Plans</a>
-					<a href="links.html">Teacher Links</a>
-				</p>
-				 
-				
-   
-  				<p>
-					<a href="/index.html">Texas Beyond History</a><br>
-					<a href="../sitemap.html">Site Map</a><br>
-					<!-- InstanceBeginEditable name="date" -->August 2018<!-- InstanceEndEditable -->
-				</p>
-			</div>
-	   </div>
-		<!-- InstanceBeginEditable name="scripts" --> 
-		
-		<!-- InstanceEndEditable -->
-	</body>
-<!-- InstanceEnd --></html>
+                <option value="/teach/images/ransom-freedomcoloniesesson.html">Life in Texas Freedom Colonies</option>
+                <option value="/teach/images/ransom-artifacts-teks.html">Bottles, Pins, and Horseshoes: Blooms Taxonomy on the Farm</option>
+                <option value="/teach/images/belle.html">La Belle Shipwreck: Finding Clues from Old Bones</option>
+                <option value="guide.html">Teachers' Guide to TBH</option>
+              </select>
+              <input type="button" name="Button1" value="Go" onClick="MM_jumpMenuGo('menu1','parent',0)">
+            </div>
+          </form>
+          <form class="teacher-form">
+            <div align="center">
+              <label for="menu2">Lesson Plan Highlights</label>
+              <select id="menu2" name="menu2" size="5">
+                <option value="/teach/images/ransom-citizenship.html" selected>A New Life in Freedom</option>
+                <option value="/teach/images/ransom-citizenship.html
+          ">Exercising the Rights of Citizenship in 19th-Century Texas</option>
+                <option value="/teach/images/ransom-freedomcoloniesesson.html">Life in Texas Freedom Colonies</option>
+                <option value="/teach/images/ransom-artifacts-teks.html">Bottles, Pins, and Horseshoes: Blooms Taxonomy on the Farm</option>
+                <option value="/teach/images/belle.html">La Belle Shipwreck: Finding Clues from Old Bones</option>
+                <option value="guide.html">Teachers' Guide to TBH</option>
+              </select>
+              <input type="button" name="Button1" value="Go" onClick="MM_jumpMenuGo('menu2','parent',0)">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div id="foot">
+        <p class="links">
+          <a href="index.html">Welcome Teachers!</a>
+          <a href="guide.html">TBH Guide</a>
+          <a href="lessons.html">Lesson Plans</a>
+          <a href="unit.html">Unit Plans</a>
+          <a href="links.html">Teacher Links</a>
+        </p>
+        <p>
+          <a href="/index.html">Texas Beyond History</a>
+          <br>
+          <a href="../sitemap.html">Site Map</a>
+          <br>
+          August 2018
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
