@@ -1,0 +1,410 @@
+.teacher-guide-container {
+  height: auto;
+  width: 780px;
+  font-family: sans-serif;
+}
+
+/*.main .accordion {
+  height: auto;
+  margin: 0 auto;
+}*/
+.main .accordion-item {
+  padding: 0.5rem 0;
+  margin: 0;
+  overflow: hidden;
+  border: none;
+  outline: none;
+}
+.main .accordion-item .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: inherit;
+  cursor: pointer;
+  padding: 1rem;
+  background-color: red;
+}
+
+.main .accordion-item .title span{
+  color: #fff;
+}
+
+.main .accordion-item .title i.fa-caret-down {
+  font-size: 1.5rem;
+  color: #ffffff;
+  transform: translateX(-50%) rotate(0);
+  transition: transform 0.15s ease;
+}
+.main .accordion-item .box-wrap {
+  display: none;
+}
+.main .accordion-item .title.active i.fa-caret-down {
+  color: #ffffff;
+  transform: translateX(-50%) rotate(180deg);
+}
+.main .accordion-item .title.active + .box-wrap {
+  display: block;
+}
+
+tbody tr td:first-child {
+  width: 90px;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 15px;
+  font-size: 16px;
+/*  word-break: break-word;*/
+}
+
+/* the elementary / secondary column */
+tbody tr td:nth-child(3){
+  text-align: center;
+}
+
+
+
+/* geography table styling */
+
+#geography table tbody tr:nth-child(odd) {
+  background: #d4dcdf;
+}
+
+#geography table thead tr {
+  background: #9cb5be;
+  color: #000;
+}
+
+#geography.accordion-item .title {
+  background: #9cb5be;
+}
+
+#geography.accordion-item .title span{
+  color: #000;
+}
+
+#geography.accordion-item p.paragraph {
+  padding: 12px;
+}
+
+/* texas indian prehistoric table styling */
+
+#texas-indian-pre table tbody tr:nth-child(odd) {
+  background: #ffe5cf;
+}
+
+#texas-indian-pre table thead tr {
+  background: #993300;
+  color: #fff;
+}
+
+#texas-indian-pre.accordion-item .title {
+  background: #993300;
+}
+
+/* texas indian historic table styling */
+
+#texas-indian table tbody tr:nth-child(odd) {
+  background: #ffe7cf;
+}
+
+#texas-indian table thead tr {
+  background: #ff942a;
+  color: #000;
+}
+
+#texas-indian.accordion-item .title {
+  background: #ff942a;
+}
+
+#texas-indian.accordion-item .title  span{
+  color: #000;
+}
+
+
+/* early europeans table styling */
+
+#early-euro table tbody tr:nth-child(odd) {
+  background: #fff2cb;
+}
+
+#early-euro table thead tr {
+  background: #fed337;
+  color: #000;
+}
+
+#early-euro.accordion-item .title {
+  background: #fed337;
+}
+
+#early-euro.accordion-item .title span{
+  color: #000;
+}
+
+
+
+
+/* ethnic groups table styling */
+
+#ethnic-groups table tbody tr:nth-child(odd) {
+  background: #dcecc6;
+}
+
+#ethnic-groups table thead tr {
+  background: #a0d259;
+  color: #000;
+}
+
+#ethnic-groups.accordion-item .title{
+  background: #a0d259;
+}
+
+#ethnic-groups.accordion-item .title span{
+  color: #000;
+}
+
+
+/* civil war and reconstruction table styling */
+
+#civil-war table tbody tr:nth-child(odd) {
+  background: #d3e4cf;
+}
+
+#civil-war table thead tr {
+  background: #54a03e;
+  color: #000;
+}
+
+#civil-war.accordion-item .title {
+  background: #54a03e;
+}
+
+#civil-war.accordion-item .title span{
+  color: #000;
+}
+
+
+/* texas frontier table styling */
+
+#texas-frontier table tbody tr:nth-child(odd) {
+  background: #c6eaec;
+}
+
+#texas-frontier table thead tr {
+  background: #06b2bc;
+  color: #000;
+}
+
+#texas-frontier.accordion-item .title {
+  background: #06b2bc;
+}
+
+#texas-frontier.accordion-item .title span{
+  color: #000;
+}
+
+
+
+/* 20th century table styling */
+
+#twentienth-century table tbody tr:nth-child(odd) {
+  background: #deecf2;
+}
+
+#twentienth-century table thead tr {
+  background: #015b80;
+  color: #fff;
+}
+
+#twentienth-century.accordion-item .title {
+  background: #015b80;
+}
+
+#twentienth-century.accordion-item .title span{
+  color: #fff;
+}
+
+
+
+/* mobile table */
+
+@media only screen and (max-width: 768px) {
+  .main .accordion {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+
+
+/* lessons plans page */
+
+p.filter-text{
+  text-align: center;
+  font-weight: bold;
+}
+
+.category-boxes {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.box {
+  flex: 1 1 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  position: relative;
+}
+
+
+.box h3{
+  text-align: center;
+}
+
+.box div{
+  width: 100%;
+  z-index: 1;
+}
+
+.box div img{
+  margin-right: 5px;
+}
+
+.categories h3 {
+  padding: 15px 8px;
+}
+
+.box img.cover{
+    position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.filters {
+  text-align: center;
+}
+
+#categories {
+  font-size: 1.2rem;
+}
+
+
+#language-arts .box h3, #language-arts .box{
+  background: #ffe9d6;
+}
+
+div.language-arts-header{
+  background: #993300;
+  padding-left: 15px;
+}
+
+div.language-arts-header h3{
+  color: white;
+}
+
+#social-studies .box h3, #social-studies .box{
+  background: #fed;
+}
+
+div.social-studies-header{
+  background: #ff942a;
+  color: black;
+  padding-left: 15px;
+}
+
+#math-science .box h3, #math-science .box{
+  background: #fff2cb;
+}
+
+div.math-science-header{
+  background: #fed337;
+  color: black;
+  padding-left: 15px;
+}
+
+#art .box h3, #art .box{
+  background: #e3ecd6;
+}
+
+div.art-header{
+  background: #a0d259;
+  color: black;
+  padding-left: 15px;
+}
+
+/* dropdown styling */
+/* Remove default styles */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* Custom dropdown styles */
+.filters {
+  position: relative;
+  width: 100%
+}
+
+.lesson-dropdowns{
+  display: flex;
+  width: 100%;
+}
+
+.filters select {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  color: #993300;
+  font-weight: bold;
+  background-color: #ffefdf;;
+  border-style: none;
+}
+
+.filters:first-child{
+  margin-right: 5px;
+}
+
+.filters:last-child{
+  margin-left: 5px;
+}
+
+.filters::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;  
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-top: 8px solid #993300;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+/*  no matches found message  */
+.no-matches{
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
