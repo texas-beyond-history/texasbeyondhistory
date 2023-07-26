@@ -1213,7 +1213,7 @@ p span.agave-title{
 .agave-container div.tool-tips{
   position: absolute;
   z-index: 1;
-  top: 10%;
+  top: 0%;
   width: 50%;
   left: 50%;
 }
@@ -1224,7 +1224,7 @@ div.tool-tips ul li:first-child{
 }
 
 div.tool-tips ul li img{
-  width: 400px;
+  width: 350px;
 }
 
 .heart-tooltip ul li:first-child{
@@ -1233,11 +1233,17 @@ div.tool-tips ul li img{
 }
 
 #heart-tooltip.heart-tooltip ul li img{
-  width: 260px;
+  width: 190px;
 }
 
 #heart-tooltip.heart-tooltip ul li img:first-child{
   margin-right: 8px;
+}
+
+#bloomstalk-tooltip.bloomstalk-tooltip ul li img,
+#flower-seeds-nectar-tooltip.flower-seeds-nectar-tooltip ul li img,
+#root-tooltip.root-tooltip ul li img{
+  width: 250px;
 }
 
 div.leaves-tooltip,
