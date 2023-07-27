@@ -53,6 +53,12 @@ tbody tr td:first-child {
   width: 90px;
 }
 
+/* uncomment later */
+
+/*tbody tr td:nth-child(2) {
+  text-align: center;
+}
+*/
 table {
   border-collapse: collapse;
   table-layout: fixed;
