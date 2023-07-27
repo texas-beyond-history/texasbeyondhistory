@@ -1218,32 +1218,41 @@ p span.agave-title{
   left: 50%;
 }
 
-div.tool-tips ul li:first-child{
-  list-style: none;
-  margin-bottom: 5px;
+/*div.tool-tips figcaption {
+    text-align: left;
 }
-
+*/
 div.tool-tips ul li img{
   width: 350px;
 }
 
-.heart-tooltip ul li:first-child{
+#leaves-tooltip .gallery-img-third-size img,
+#leaves-tooltip .gallery-img-third-size figcaption,
+#heart-tooltip .gallery-img-third-size img,
+#heart-tooltip .gallery-img-third-size figcaption{
+  max-width: 350px;
+}
+
+
+#bloomstalk-tooltip .gallery-img-third-size img,
+#bloomstalk-tooltip .gallery-img-third-size figcaption,
+#flower-seeds-nectar-tooltip .gallery-img-third-size img,
+#flower-seeds-nectar-tooltip .gallery-img-third-size figcaption,
+#root-tooltip .gallery-img-third-size img,
+#root-tooltip .gallery-img-third-size figcaption{
+  max-width: 200px;
+}
+
+
+
+
+.tall-image-fix{
   display: flex;
   align-items: center;
 }
 
-#heart-tooltip.heart-tooltip ul li img{
-  width: 190px;
-}
-
-#heart-tooltip.heart-tooltip ul li img:first-child{
-  margin-right: 8px;
-}
-
-#bloomstalk-tooltip.bloomstalk-tooltip ul li img,
-#flower-seeds-nectar-tooltip.flower-seeds-nectar-tooltip ul li img,
-#root-tooltip.root-tooltip ul li img{
-  width: 250px;
+.tall-image-fix ul{
+  padding-left: 15px;
 }
 
 div.leaves-tooltip,
