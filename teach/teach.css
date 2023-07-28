@@ -53,12 +53,11 @@ tbody tr td:first-child {
   width: 90px;
 }
 
-/* uncomment later */
 
-/*tbody tr td:nth-child(2) {
+tbody tr td:nth-child(2) {
   text-align: center;
 }
-*/
+
 table {
   border-collapse: collapse;
   table-layout: fixed;
@@ -137,45 +136,82 @@ tbody tr td:nth-child(3){
 }
 
 
-/* early europeans table styling */
+/* early spanish table styling */
 
-#early-euro table tbody tr:nth-child(odd) {
+#early-spanish table tbody tr:nth-child(odd) {
   background: #fff2cb;
 }
 
-#early-euro table thead tr {
+#early-spanish table thead tr {
   background: #fed337;
   color: #000;
 }
 
-#early-euro.accordion-item .title {
+#early-spanish.accordion-item .title {
   background: #fed337;
 }
 
-#early-euro.accordion-item .title span{
+#early-spanish.accordion-item .title span{
   color: #000;
 }
 
 
+/* early french table styling */
 
-
-/* ethnic groups table styling */
-
-#ethnic-groups table tbody tr:nth-child(odd) {
-  background: #dcecc6;
+#early-french table tbody tr:nth-child(odd) {
+  background: #f0f4e7;
 }
 
-#ethnic-groups table thead tr {
-  background: #a0d259;
+#early-french table thead tr {
+  background: #a6cd57;
   color: #000;
 }
 
-#ethnic-groups.accordion-item .title{
-  background: #a0d259;
+#early-french.accordion-item .title {
+  background: #a6cd57;
 }
 
-#ethnic-groups.accordion-item .title span{
+#early-french.accordion-item .title span{
   color: #000;
+}
+
+/* african americans table styling */
+
+#afr-american table tbody tr:nth-child(odd) {
+  background: #f7f4ec;
+}
+
+#afr-american table thead tr {
+  background: #d6d2c4;
+  color: #000;
+}
+
+#afr-american.accordion-item .title {
+  background: #d6d2c4;
+}
+
+#afr-american.accordion-item .title span{
+  color: #000;
+}
+
+
+/* mexican-americans table styling */
+
+#mex-american table tbody tr:nth-child(odd) {
+  background: #e0e8ee;
+}
+
+#mex-american table thead tr {
+  background: #333f48;
+  color: #fff;
+}
+
+#mex-american.accordion-item .title{
+  background: #333f48;
+}
+
+#mex-american.accordion-item .title span{
+  color: #fff;
 }
 
 
