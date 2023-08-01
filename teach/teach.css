@@ -478,7 +478,9 @@ select {
   transform: rotate(35deg);
 }
 
-
-
+/* LESSON PLAN DOWNLOAD STYLING */
+div.lesson-download table#coll{
+  width: 100%;
+}
 
 
