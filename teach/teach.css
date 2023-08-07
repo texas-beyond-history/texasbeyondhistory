@@ -1,5 +1,10 @@
 /* TEACHERS FRONT PAGE */
 
+.categories a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .teachers-main-list{
   display: flex;
   margin: 20px 0;
@@ -146,9 +151,12 @@ tbody tr td:first-child {
   width: 90px;
 }
 
-
 tbody tr td:nth-child(2) {
   text-align: center;
+}
+
+tbody tr td a{
+  font-weight: bold;
 }
 
 table {
@@ -164,9 +172,8 @@ td {
 /*  word-break: break-word;*/
 }
 
-/* the elementary / secondary column */
 tbody tr td:nth-child(3){
-  text-align: center;
+  text-align: left;
 }
 
 
@@ -417,6 +424,7 @@ p.filter-text{
 
 .categories h3 {
   padding: 15px 8px;
+  font-weight: bold;
 }
 
 .box img.cover{
