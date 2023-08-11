@@ -147,32 +147,32 @@ div.teacher-subjects-child {
   display: block;
 }
 
-tbody tr td:first-child {
+.teacher-guide-container tbody tr td:first-child {
   width: 90px;
 }
 
-tbody tr td:nth-child(2) {
+.teacher-guide-container tbody tr td:nth-child(2) {
   text-align: center;
 }
 
-tbody tr td a{
+.teacher-guide-container tbody tr td a{
   font-weight: bold;
 }
 
-table {
+.teacher-guide-container table {
   border-collapse: collapse;
   table-layout: fixed;
   width: 100%;
 }
 
-th,
-td {
+.teacher-guide-container table th,
+.teacher-guide-container table td {
   padding: 15px;
   font-size: 16px;
 /*  word-break: break-word;*/
 }
 
-tbody tr td:nth-child(3){
+.teacher-guide-container tbody tr td:nth-child(3){
   text-align: left;
 }
 
@@ -580,8 +580,54 @@ select {
 }
 
 /* LESSON PLAN DOWNLOAD STYLING */
+
 div.lesson-download table#coll{
   width: 100%;
 }
 
+div.lesson-download tbody tr td:first-child {
+  width: 90px;
+}
 
+div.lesson-download tbody tr td a{
+  font-weight: bold;
+}
+
+div.lesson-download table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+div.lesson-download table th,
+div.lesson-download table td {
+  padding: 15px;
+  font-size: 16px;
+/*  word-break: break-word;*/
+}
+
+div.lesson-download table tr:first-child td:first-child{
+  padding: 0;
+}
+
+div.lesson-download table p{
+  margin-bottom: 0;
+}
+
+div.lesson-download table p img{
+  margin-top: 0;
+}
+
+div.lesson-download table tr td.pdf{
+  text-align: center;
+}
+
+@media print {
+  div.lesson-download table#coll{
+    width: 100%;
+  }
+
+  img[name="close"]{
+    display: none;
+  }
+}
