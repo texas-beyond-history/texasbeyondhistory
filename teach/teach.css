@@ -1,3 +1,101 @@
+/* TEACHERS FRONT PAGE */
+
+.categories a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.teachers-main-list{
+  display: flex;
+  margin: 20px 0;
+  margin-top: 49px;
+}
+form.teacher-form select option {
+  padding: 12px;
+  color: black;
+}
+
+form.teacher-form select {
+  border: 1px solid #dfdfdf;
+  border-radius: 5px;
+}
+
+form.teacher-form label {
+  font-weight: bold;
+  font-size: 18px;
+  padding-bottom: 12px;
+  display: block;
+  font-family: Arial, sans-serif;
+}
+
+form.teacher-form input[type="button"] {
+  background: #bf5700;
+  border: none;
+  color: white;
+  width: 50px;
+  padding: 5px;
+  cursor: pointer;
+  display: block;
+}
+
+form.teacher-form:nth-child(2) input[type="button"]{
+  background: #005a82;
+}
+
+form.teacher-form:first-child{
+  margin-right: 5px;
+}
+
+form.teacher-form:nth-child(2){
+  margin-left: 5px;
+}
+
+form.teacher-form select option:hover,
+form.teacher-form select option:focus,
+form.teacher-form select option:active,
+form.teacher-form select option:checked {
+  background: linear-gradient(#bf5700, #bf5700);
+  background-color: #bf5700;
+  color: white;
+}
+
+form.teacher-form select#menu2 option:hover,
+form.teacher-form select#menu2 option:focus,
+form.teacher-form select#menu2 option:active,
+form.teacher-form select#menu2 option:checked {
+  background: linear-gradient(#005a82, #005a82);
+  background-color: #005a82;
+  color: white;
+}
+
+.teacher-subjects-container p:first-child{
+  width: 70% !important;
+  margin: 12px auto;
+}
+
+div.teacher-subjects {
+  display: flex;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+div.teacher-subjects-child {
+  width: 50%;
+  margin: 3px;
+}
+
+.teacher-subjects-child div.box {
+  width: 100%;
+  height: 200px;
+}
+
+.teacher-subjects-child div.box img{
+  width: 100%;
+  height: 90%;
+  object-fit: contain;
+}
+
 .teacher-guide-container {
   height: auto;
   width: 780px;
@@ -49,26 +147,33 @@
   display: block;
 }
 
-tbody tr td:first-child {
+.teacher-guide-container tbody tr td:first-child {
   width: 90px;
 }
 
-table {
+.teacher-guide-container tbody tr td:nth-child(2) {
+  text-align: center;
+}
+
+.teacher-guide-container tbody tr td a{
+  font-weight: bold;
+}
+
+.teacher-guide-container table {
   border-collapse: collapse;
   table-layout: fixed;
   width: 100%;
 }
 
-th,
-td {
+.teacher-guide-container table th,
+.teacher-guide-container table td {
   padding: 15px;
   font-size: 16px;
 /*  word-break: break-word;*/
 }
 
-/* the elementary / secondary column */
-tbody tr td:nth-child(3){
-  text-align: center;
+.teacher-guide-container tbody tr td:nth-child(3){
+  text-align: left;
 }
 
 
@@ -131,45 +236,82 @@ tbody tr td:nth-child(3){
 }
 
 
-/* early europeans table styling */
+/* early spanish table styling */
 
-#early-euro table tbody tr:nth-child(odd) {
+#early-spanish table tbody tr:nth-child(odd) {
   background: #fff2cb;
 }
 
-#early-euro table thead tr {
+#early-spanish table thead tr {
   background: #fed337;
   color: #000;
 }
 
-#early-euro.accordion-item .title {
+#early-spanish.accordion-item .title {
   background: #fed337;
 }
 
-#early-euro.accordion-item .title span{
+#early-spanish.accordion-item .title span{
   color: #000;
 }
 
 
+/* early french table styling */
 
-
-/* ethnic groups table styling */
-
-#ethnic-groups table tbody tr:nth-child(odd) {
-  background: #dcecc6;
+#early-french table tbody tr:nth-child(odd) {
+  background: #f0f4e7;
 }
 
-#ethnic-groups table thead tr {
-  background: #a0d259;
+#early-french table thead tr {
+  background: #a6cd57;
   color: #000;
 }
 
-#ethnic-groups.accordion-item .title{
-  background: #a0d259;
+#early-french.accordion-item .title {
+  background: #a6cd57;
 }
 
-#ethnic-groups.accordion-item .title span{
+#early-french.accordion-item .title span{
   color: #000;
+}
+
+/* african americans table styling */
+
+#afr-american table tbody tr:nth-child(odd) {
+  background: #f7f4ec;
+}
+
+#afr-american table thead tr {
+  background: #d6d2c4;
+  color: #000;
+}
+
+#afr-american.accordion-item .title {
+  background: #d6d2c4;
+}
+
+#afr-american.accordion-item .title span{
+  color: #000;
+}
+
+
+/* mexican-americans table styling */
+
+#mex-american table tbody tr:nth-child(odd) {
+  background: #e0e8ee;
+}
+
+#mex-american table thead tr {
+  background: #333f48;
+  color: #fff;
+}
+
+#mex-american.accordion-item .title{
+  background: #333f48;
+}
+
+#mex-american.accordion-item .title span{
+  color: #fff;
 }
 
 
@@ -280,12 +422,9 @@ p.filter-text{
   z-index: 1;
 }
 
-.box div img{
-  margin-right: 5px;
-}
-
 .categories h3 {
   padding: 15px 8px;
+  font-weight: bold;
 }
 
 .box img.cover{
@@ -306,16 +445,16 @@ p.filter-text{
 
 
 #language-arts .box h3, #language-arts .box{
-  background: #ffe9d6;
+  background: #d8fcff;
 }
 
 div.language-arts-header{
-  background: #993300;
+  background: #00a9b7;
   padding-left: 15px;
 }
 
 div.language-arts-header h3{
-  color: white;
+  color: #000;
 }
 
 #social-studies .box h3, #social-studies .box{
@@ -374,7 +513,7 @@ select {
   width: 100%;
   padding: 12px;
   font-size: 16px;
-  color: #993300;
+  color: #1a1a1a;
   font-weight: bold;
   background-color: #ffefdf;;
   border-style: none;
@@ -396,7 +535,7 @@ select {
   width: 0;
   height: 0;
   margin-top: -2px;
-  border-top: 8px solid #993300;
+  border-top: 8px solid #1a1a1a;
   border-right: 8px solid transparent;
   border-left: 8px solid transparent;
 }
@@ -408,3 +547,87 @@ select {
   font-weight: bold;
 }
 
+/* star styling */
+.star {
+  position: relative;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 0.9em;
+  margin-right: 1.2em;
+  margin-bottom: 1em;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 0.3em solid transparent;
+  /* Controlls the size of the stars. */
+  font-size: 10px;
+}
+.star:before, .star:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0.6em;
+  left: -1em;
+  border-right: 1em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 1em solid transparent;
+  transform: rotate(-35deg);
+}
+.star:after {
+  transform: rotate(35deg);
+}
+
+/* LESSON PLAN DOWNLOAD STYLING */
+
+div.lesson-download table#coll{
+  width: 100%;
+}
+
+div.lesson-download tbody tr td:first-child {
+  width: 90px;
+}
+
+div.lesson-download tbody tr td a{
+  font-weight: bold;
+}
+
+div.lesson-download table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+div.lesson-download table th,
+div.lesson-download table td {
+  padding: 15px;
+  font-size: 16px;
+/*  word-break: break-word;*/
+}
+
+div.lesson-download table tr:first-child td:first-child{
+  padding: 0;
+}
+
+div.lesson-download table p{
+  margin-bottom: 0;
+}
+
+div.lesson-download table p img{
+  margin-top: 0;
+}
+
+div.lesson-download table tr td.pdf{
+  text-align: center;
+}
+
+@media print {
+  div.lesson-download table#coll{
+    width: 100%;
+  }
+
+  img[name="close"]{
+    display: none;
+  }
+}

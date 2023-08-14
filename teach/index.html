@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <!-- InstanceBegin template="/Templates/teach.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
     <link rel="icon" type="image/x-icon" href="/tbhistory.ico">
     <!-- Google tag (gtag.js) -->
@@ -13,9 +12,7 @@
       gtag('js', new Date());
       gtag('config', 'G-GHC8CS1RGZ');
     </script>
-    <!--  shibboleth  -->
     <meta charset="utf-8">
-    <!-- InstanceBeginEditable name="doctitle" -->
     <title>Teachers</title>
     <script type="text/javascript">
       function MM_jumpMenuGo(objId, targ, restore) { //v9.0
@@ -27,122 +24,14 @@
         }
       }
     </script>
-    <!-- InstanceEndEditable -->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHC8CS1RGZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', 'G-GHC8CS1RGZ');
-    </script>
-    <!-- End Google Analytics -->
     <!--  Global Assets -->
     <script type="text/javascript" src="/js/global.js"></script>
     <script src="https://cdn.la.utexas.edu/canvasser/1.4/canvasser.js" type="text/javascript"></script>
     <link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
     <!--  End Global Assets -->
-    <!-- InstanceBeginEditable name="head" -->
-    <link rel="stylesheet" href="../style-fl.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="teach.css" type="text/css" media="screen" />
+    
     <link rel="stylesheet" href="../print.css" type="text/css" media="print" />
-    <!-- InstanceEndEditable -->
-    <style>
-      .teachers-main-list{
-        display: flex;
-        margin: 20px 0;
-        margin-top: 49px;
-      }
-      select option {
-        padding: 12px;
-        color: black;
-      }
-
-      select {
-        border: 1px solid #dfdfdf;
-        border-radius: 5px;
-      }
-
-      label {
-        font-weight: bold;
-        font-size: 18px;
-        padding-bottom: 12px;
-        display: block;
-        font-family: Arial, sans-serif;
-      }
-
-      form.teacher-form input[type="button"] {
-        background: #bf5700;
-        border: none;
-        color: white;
-        width: 50px;
-        padding: 5px;
-        cursor: pointer;
-        display: block;
-      }
-
-      form.teacher-form:nth-child(2) input[type="button"]{
-        background: #005a82;
-      }
-
-      form.teacher-form:first-child{
-        margin-right: 5px;
-      }
-
-      form.teacher-form:nth-child(2){
-        margin-left: 5px;
-      }
-
-
-
-      select option:hover,
-      select option:focus,
-      select option:active,
-      select option:checked {
-        background: linear-gradient(#bf5700, #bf5700);
-        background-color: #bf5700;
-        color: white;
-      }
-
-      select#menu2 option:hover,
-      select#menu2 option:focus,
-      select#menu2 option:active,
-      select#menu2 option:checked {
-        background: linear-gradient(#005a82, #005a82);
-        background-color: #005a82;
-        color: white;
-      }
-
-      .teacher-subjects-container p:first-child{
-        width: 70% !important;
-        margin: 12px auto;
-      }
-
-      div.teacher-subjects {
-        display: flex;
-        width: 400px;
-        text-align: center;
-        margin: 0 auto;
-      }
-
-      div.teacher-subjects-child {
-        width: 50%;
-        margin: 3px;
-      }
-
-      div.box {
-        width: 100%;
-        height: 200px;
-      }
-
-      div.box img{
-        width: 100%;
-        height: 90%;
-        object-fit: contain;
-      }
-    </style>
   </head>
   <body>
     <div id="wrapper">
@@ -181,13 +70,13 @@
         <div id="tt">
           <h1>Teachers</h1>
         </div>
-        <h2>
+        <p class="links">
           <a href="index.html">Welcome Teachers!</a>
           <a href="guide.html">Teachers' Guide to TBH</a>
           <a href="lessons.html">Lesson Plans</a>
           <a href="unit.html">Unit Plans</a>
           <a href="links.html">Teacher Links</a>
-        </h2>
+        </p>
       </div>
       <div id="content">
         <div class="teacher-content">
@@ -195,17 +84,17 @@
           <p class="text">
             <i>Texas Beyond History</i> is a resource dedicated to helping educators and students learn more about the unique, multi-layered history of Texas. Using archeology as a lens for discovery and learning, this website offers engaging TEKS-based lesson plans for both elementary and secondary grade levels.
           </p>
-          <div class="teacher-subjects-container float-right">
+          <div class="teacher-subjects-container float-right" style="width: 520px;">
             <p class="align-center"><b>Click on your subject area to find archeology-related lesson plans.</b></p>
           <div class="teacher-subjects">
             <div class="teacher-subjects-child">
-              <a href="../teach/lessons.html#social">
+              <a href="../teach/lessons.html#social-studies">
                 <div class="box"><img src="images/socialstudies.png" alt="social studies"></div> 
                 Social Studies
               </a>
             </div>
             <div class="teacher-subjects-child">
-              <a href="../teach/lessons.html#math">
+              <a href="../teach/lessons.html#math-science">
                 <div class="box"><img src="images/math.png" alt="math"></div> 
                 Math/Science
               </a>
@@ -213,7 +102,7 @@
           </div>
           <div class="teacher-subjects">
             <div class="teacher-subjects-child">
-              <a href="../teach/lessons.html#language">
+              <a href="../teach/lessons.html#language-arts">
                 <div class="box"><img src="images/languagearts.png" alt="language arts"></div> 
                 Language Arts
               </a>
@@ -239,13 +128,12 @@
             <div align="center">
               <label for="menu1">New on TBH Teachers!</label>
               <select id="menu1" name="menu1" size="5">
-                <option value="/teach/images/ransom-citizenship.html" selected>A New Life in Freedom</option>
-                <option value="/teach/images/ransom-citizenship.html
-          ">Exercising the Rights of Citizenship in 19th-Century Texas</option>
+				<option value="/teach/images/smithhouse.html" selected>Immigration to Texas in the 18th Century</option>
+                <option value="/teach/images/ransom-citizenship.html">A New Life in Freedom</option>
+                <option value="/teach/images/ransom-citizenship.html">Exercising the Rights of Citizenship in 19th-Century Texas</option>
                 <option value="/teach/images/ransom-freedomcoloniesesson.html">Life in Texas Freedom Colonies</option>
                 <option value="/teach/images/ransom-artifacts-teks.html">Bottles, Pins, and Horseshoes: Blooms Taxonomy on the Farm</option>
                 <option value="/teach/images/belle.html">La Belle Shipwreck: Finding Clues from Old Bones</option>
-                <option value="guide.html">Teachers' Guide to TBH</option>
               </select>
               <input type="button" name="Button1" value="Go" onClick="MM_jumpMenuGo('menu1','parent',0)">
             </div>
