@@ -29,7 +29,7 @@ function explorer() {
    var site = [];
    var j = 0;
  
-   var siteLineCount = 5;
+   var siteLineCount = 6;
  
    var lines = siteStuff.split(/\r\n|\n/);
    for(var line = 0; line < lines.length; line++){
@@ -75,7 +75,7 @@ function explorer() {
  
    function getContent(idx) {
      $("#site-img").attr("src", "explorer-assets/images/" + eachSite[idx - 1][1]);
-     $("#site-name").text(eachSite[idx - 1][0]);
+     $("#site-name").text(eachSite[idx - 1][5]);
      $("#site-button").text("Visit " + eachSite[idx - 1][0]);
      $("#site-button").addClass("site-button");
      $("#site-button").attr("href",  eachSite[idx - 1][2]);
