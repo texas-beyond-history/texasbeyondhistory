@@ -17,6 +17,7 @@ Redirect 301 /teach/images/drawingourlives-dwld.html /teach/images/drawingourliv
 Redirect 301 /trans-p/teach/images/oldestmissionlesson.html /trans-p/teach/images/oldestmission.html
 Redirect 301 /teach/images/kincaidlesson.html /teach/images/kincaid.html
 Redirect 301 /teach/images/ransom-newlifeinfreedomlesson.html /teach/images/ransom-newlifeinfreedom.html
+Redirect 301 /teach/images/sansabalesson.html /teach/images/sansaba.html
 
 
 # Force HTTPS
