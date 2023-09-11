@@ -1,6 +1,24 @@
 # AddDefaultCharset utf-8
 php_flag engine off
 
+Redirect 301 /teach/images/ransom-citizenshiplesson.html /teach/images/ransom-citizenship.html
+Redirect 301 /teach/images/stlouislesson.html /teach/images/stlouis.html
+Redirect 301 /teach/images/frenchlesson.html /teach/images/french.html
+Redirect 301 /teach/images/smithhouse_teks.html /teach/images/smithhouse.html
+Redirect 301 /teach/images/ransom-freedomcoloniesesson.html /teach/images/ransom-freedomcolonies.html
+Redirect 301 /teach/images/honeylesson.html /teach/images/honey.html
+Redirect 301 /teach/images/redriverlesson.html /teach/images/redriver.html
+Redirect 301 /teach/images/ransom-protest-song-teks.html /teach/images/ransom-protest-song.html
+Redirect 301 /teach/images/ransom-artifacts-teks.html /teach/images/ransom-artifacts-lesson.html
+Redirect 301 /teach/images/devacalesson.html /teach/images/devaca.html
+Redirect 301 /teach/images/hindslesson.html /teach/images/hinds.html
+Redirect 301 /teach/images/bellelesson.html /teach/images/belle.html
+Redirect 301 /teach/images/drawingourlives-dwld.html /teach/images/drawingourlives-lesson.html
+Redirect 301 /trans-p/teach/images/oldestmissionlesson.html /trans-p/teach/images/oldestmission.html
+Redirect 301 /teach/images/kincaidlesson.html /teach/images/kincaid.html
+Redirect 301 /teach/images/ransom-newlifeinfreedomlesson.html /teach/images/ransom-newlifeinfreedom.html
+
+
 # Force HTTPS
 RewriteEngine On
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
