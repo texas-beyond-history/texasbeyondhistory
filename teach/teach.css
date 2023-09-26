@@ -201,6 +201,10 @@ div.teacher-subjects-child {
   padding: 12px;
 }
 
+#geography tbody tr td:nth-child(2) {
+  text-align: left;
+}
+
 /* texas indian prehistoric table styling */
 
 #texas-indian-pre table tbody tr:nth-child(odd) {
