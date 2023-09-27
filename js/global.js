@@ -407,10 +407,6 @@ var tbh_full_links = [
         "url":"/teach/guide.html"
       },
       {
-        "title":"Curriculum Standards (TEKS)",
-        "url":"/teach/teaching.html"
-      },
-      {
         "title":"Lesson Plans",
         "url":"/teach/lessons.html"
       },
@@ -422,10 +418,6 @@ var tbh_full_links = [
         "title": "Teacher Links",
         "url": "/teach/links.html",
       },
-      {
-        "title": "Evaluate Our Site",
-        "url": "/teach/comments.html",
-      }
     ]
   },
   {
