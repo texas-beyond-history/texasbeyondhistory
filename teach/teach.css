@@ -635,3 +635,9 @@ div.lesson-download table tr td.pdf{
     display: none;
   }
 }
+
+a:link {
+  font-weight: bold;
+  color: #bf5700;
+  text-decoration:none;
+}
