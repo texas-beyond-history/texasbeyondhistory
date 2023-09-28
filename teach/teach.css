@@ -3,7 +3,8 @@
 .teachers-main-list{
   display: flex;
   margin: 20px 0;
-  margin-top: 49px;
+  margin-top: 100px;
+  width: 100%;
 }
 form.teacher-form select option {
   padding: 12px;
@@ -61,6 +62,10 @@ form.teacher-form select#menu2 option:checked {
   background: linear-gradient(#005a82, #005a82);
   background-color: #005a82;
   color: white;
+}
+
+.teacher-subjects-container.float-right{
+  width: 520px;
 }
 
 .teacher-subjects-container p:first-child{
