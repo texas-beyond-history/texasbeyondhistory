@@ -1,10 +1,5 @@
 /* TEACHERS FRONT PAGE */
 
-.categories a{
-  text-decoration: none;
-  font-weight: bold;
-}
-
 .teachers-main-list{
   display: flex;
   margin: 20px 0;
@@ -419,6 +414,7 @@ p.filter-text{
 
 .box h3{
   text-align: center;
+  margin-bottom: 0px;
 }
 
 .box div{
@@ -447,9 +443,18 @@ p.filter-text{
   font-size: 1.2rem;
 }
 
+div.language-arts-header,
+div.social-studies-header,
+div.math-science-header,
+div.art-header{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 #language-arts .box h3, #language-arts .box{
   background: #d8fcff;
+  margin-bottom: 0px;
 }
 
 div.language-arts-header{
@@ -463,6 +468,7 @@ div.language-arts-header h3{
 
 #social-studies .box h3, #social-studies .box{
   background: #fed;
+  margin-bottom: 0px;
 }
 
 div.social-studies-header{
@@ -473,6 +479,7 @@ div.social-studies-header{
 
 #math-science .box h3, #math-science .box{
   background: #fff2cb;
+  margin-bottom: 0px;
 }
 
 div.math-science-header{
@@ -483,6 +490,7 @@ div.math-science-header{
 
 #art .box h3, #art .box{
   background: #e3ecd6;
+  margin-bottom: 0px;
 }
 
 div.art-header{
@@ -634,10 +642,4 @@ div.lesson-download table tr td.pdf{
   img[name="close"]{
     display: none;
   }
-}
-
-a:link {
-  font-weight: bold;
-  color: #bf5700;
-  text-decoration:none;
 }
