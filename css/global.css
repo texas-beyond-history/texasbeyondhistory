@@ -269,6 +269,7 @@ div#tt > h1 {
     font-variant: normal;
     font-size: 33px;
     line-height: 1;
+    padding: 2px 0px 5px 0px;
     text-align: center;
 }
 
@@ -619,6 +620,10 @@ div#nav {
     border-bottom: 0;
     margin:  0;
     width: 780px;
+}
+
+#nav a, #nav2 a {
+    font-size: 14px;
 }
 
 /*------------------------------*/
