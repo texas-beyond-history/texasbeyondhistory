@@ -1,14 +1,10 @@
 /* TEACHERS FRONT PAGE */
 
-.categories a{
-  text-decoration: none;
-  font-weight: bold;
-}
-
 .teachers-main-list{
   display: flex;
   margin: 20px 0;
-  margin-top: 49px;
+  margin-top: 100px;
+  width: 100%;
 }
 form.teacher-form select option {
   padding: 12px;
@@ -68,14 +64,20 @@ form.teacher-form select#menu2 option:checked {
   color: white;
 }
 
+.teacher-subjects-container{
+  padding-top: 0;
+  width: 64%;
+}
+
 .teacher-subjects-container p:first-child{
   width: 70% !important;
   margin: 12px auto;
+  margin-top: 0;
 }
 
 div.teacher-subjects {
   display: flex;
-  width: 400px;
+/*  width: 400px;*/
   text-align: center;
   margin: 0 auto;
 }
@@ -87,7 +89,7 @@ div.teacher-subjects-child {
 
 .teacher-subjects-child div.box {
   width: 100%;
-  height: 200px;
+  height: 170px;
 }
 
 .teacher-subjects-child div.box img{
@@ -199,6 +201,10 @@ div.teacher-subjects-child {
 
 #geography.accordion-item p.paragraph {
   padding: 12px;
+}
+
+#geography tbody tr td:nth-child(2) {
+  text-align: left;
 }
 
 /* texas indian prehistoric table styling */
@@ -415,6 +421,7 @@ p.filter-text{
 
 .box h3{
   text-align: center;
+  margin-bottom: 0px;
 }
 
 .box div{
@@ -443,9 +450,18 @@ p.filter-text{
   font-size: 1.2rem;
 }
 
+div.language-arts-header,
+div.social-studies-header,
+div.math-science-header,
+div.art-header{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 #language-arts .box h3, #language-arts .box{
   background: #d8fcff;
+  margin-bottom: 0px;
 }
 
 div.language-arts-header{
@@ -459,6 +475,7 @@ div.language-arts-header h3{
 
 #social-studies .box h3, #social-studies .box{
   background: #fed;
+  margin-bottom: 0px;
 }
 
 div.social-studies-header{
@@ -469,6 +486,7 @@ div.social-studies-header{
 
 #math-science .box h3, #math-science .box{
   background: #fff2cb;
+  margin-bottom: 0px;
 }
 
 div.math-science-header{
@@ -479,6 +497,7 @@ div.math-science-header{
 
 #art .box h3, #art .box{
   background: #e3ecd6;
+  margin-bottom: 0px;
 }
 
 div.art-header{
