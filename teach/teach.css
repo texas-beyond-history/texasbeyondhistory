@@ -1,0 +1,633 @@
+/* TEACHERS FRONT PAGE */
+
+.categories a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.teachers-main-list{
+  display: flex;
+  margin: 20px 0;
+  margin-top: 49px;
+}
+form.teacher-form select option {
+  padding: 12px;
+  color: black;
+}
+
+form.teacher-form select {
+  border: 1px solid #dfdfdf;
+  border-radius: 5px;
+}
+
+form.teacher-form label {
+  font-weight: bold;
+  font-size: 18px;
+  padding-bottom: 12px;
+  display: block;
+  font-family: Arial, sans-serif;
+}
+
+form.teacher-form input[type="button"] {
+  background: #bf5700;
+  border: none;
+  color: white;
+  width: 50px;
+  padding: 5px;
+  cursor: pointer;
+  display: block;
+}
+
+form.teacher-form:nth-child(2) input[type="button"]{
+  background: #005a82;
+}
+
+form.teacher-form:first-child{
+  margin-right: 5px;
+}
+
+form.teacher-form:nth-child(2){
+  margin-left: 5px;
+}
+
+form.teacher-form select option:hover,
+form.teacher-form select option:focus,
+form.teacher-form select option:active,
+form.teacher-form select option:checked {
+  background: linear-gradient(#bf5700, #bf5700);
+  background-color: #bf5700;
+  color: white;
+}
+
+form.teacher-form select#menu2 option:hover,
+form.teacher-form select#menu2 option:focus,
+form.teacher-form select#menu2 option:active,
+form.teacher-form select#menu2 option:checked {
+  background: linear-gradient(#005a82, #005a82);
+  background-color: #005a82;
+  color: white;
+}
+
+.teacher-subjects-container p:first-child{
+  width: 70% !important;
+  margin: 12px auto;
+}
+
+div.teacher-subjects {
+  display: flex;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+div.teacher-subjects-child {
+  width: 50%;
+  margin: 3px;
+}
+
+.teacher-subjects-child div.box {
+  width: 100%;
+  height: 200px;
+}
+
+.teacher-subjects-child div.box img{
+  width: 100%;
+  height: 90%;
+  object-fit: contain;
+}
+
+.teacher-guide-container {
+  height: auto;
+  width: 780px;
+  font-family: sans-serif;
+}
+
+/*.main .accordion {
+  height: auto;
+  margin: 0 auto;
+}*/
+.main .accordion-item {
+  padding: 0.5rem 0;
+  margin: 0;
+  overflow: hidden;
+  border: none;
+  outline: none;
+}
+.main .accordion-item .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: inherit;
+  cursor: pointer;
+  padding: 1rem;
+  background-color: red;
+}
+
+.main .accordion-item .title span{
+  color: #fff;
+}
+
+.main .accordion-item .title i.fa-caret-down {
+  font-size: 1.5rem;
+  color: #ffffff;
+  transform: translateX(-50%) rotate(0);
+  transition: transform 0.15s ease;
+}
+.main .accordion-item .box-wrap {
+  display: none;
+}
+.main .accordion-item .title.active i.fa-caret-down {
+  color: #ffffff;
+  transform: translateX(-50%) rotate(180deg);
+}
+.main .accordion-item .title.active + .box-wrap {
+  display: block;
+}
+
+.teacher-guide-container tbody tr td:first-child {
+  width: 90px;
+}
+
+.teacher-guide-container tbody tr td:nth-child(2) {
+  text-align: center;
+}
+
+.teacher-guide-container tbody tr td a{
+  font-weight: bold;
+}
+
+.teacher-guide-container table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.teacher-guide-container table th,
+.teacher-guide-container table td {
+  padding: 15px;
+  font-size: 16px;
+/*  word-break: break-word;*/
+}
+
+.teacher-guide-container tbody tr td:nth-child(3){
+  text-align: left;
+}
+
+
+
+/* geography table styling */
+
+#geography table tbody tr:nth-child(odd) {
+  background: #d4dcdf;
+}
+
+#geography table thead tr {
+  background: #9cb5be;
+  color: #000;
+}
+
+#geography.accordion-item .title {
+  background: #9cb5be;
+}
+
+#geography.accordion-item .title span{
+  color: #000;
+}
+
+#geography.accordion-item p.paragraph {
+  padding: 12px;
+}
+
+/* texas indian prehistoric table styling */
+
+#texas-indian-pre table tbody tr:nth-child(odd) {
+  background: #ffe5cf;
+}
+
+#texas-indian-pre table thead tr {
+  background: #993300;
+  color: #fff;
+}
+
+#texas-indian-pre.accordion-item .title {
+  background: #993300;
+}
+
+/* texas indian historic table styling */
+
+#texas-indian table tbody tr:nth-child(odd) {
+  background: #ffe7cf;
+}
+
+#texas-indian table thead tr {
+  background: #ff942a;
+  color: #000;
+}
+
+#texas-indian.accordion-item .title {
+  background: #ff942a;
+}
+
+#texas-indian.accordion-item .title  span{
+  color: #000;
+}
+
+
+/* early spanish table styling */
+
+#early-spanish table tbody tr:nth-child(odd) {
+  background: #fff2cb;
+}
+
+#early-spanish table thead tr {
+  background: #fed337;
+  color: #000;
+}
+
+#early-spanish.accordion-item .title {
+  background: #fed337;
+}
+
+#early-spanish.accordion-item .title span{
+  color: #000;
+}
+
+
+/* early french table styling */
+
+#early-french table tbody tr:nth-child(odd) {
+  background: #f0f4e7;
+}
+
+#early-french table thead tr {
+  background: #a6cd57;
+  color: #000;
+}
+
+#early-french.accordion-item .title {
+  background: #a6cd57;
+}
+
+#early-french.accordion-item .title span{
+  color: #000;
+}
+
+/* african americans table styling */
+
+#afr-american table tbody tr:nth-child(odd) {
+  background: #f7f4ec;
+}
+
+#afr-american table thead tr {
+  background: #d6d2c4;
+  color: #000;
+}
+
+#afr-american.accordion-item .title {
+  background: #d6d2c4;
+}
+
+#afr-american.accordion-item .title span{
+  color: #000;
+}
+
+
+/* mexican-americans table styling */
+
+#mex-american table tbody tr:nth-child(odd) {
+  background: #e0e8ee;
+}
+
+#mex-american table thead tr {
+  background: #333f48;
+  color: #fff;
+}
+
+#mex-american.accordion-item .title{
+  background: #333f48;
+}
+
+#mex-american.accordion-item .title span{
+  color: #fff;
+}
+
+
+/* civil war and reconstruction table styling */
+
+#civil-war table tbody tr:nth-child(odd) {
+  background: #d3e4cf;
+}
+
+#civil-war table thead tr {
+  background: #54a03e;
+  color: #000;
+}
+
+#civil-war.accordion-item .title {
+  background: #54a03e;
+}
+
+#civil-war.accordion-item .title span{
+  color: #000;
+}
+
+
+/* texas frontier table styling */
+
+#texas-frontier table tbody tr:nth-child(odd) {
+  background: #c6eaec;
+}
+
+#texas-frontier table thead tr {
+  background: #06b2bc;
+  color: #000;
+}
+
+#texas-frontier.accordion-item .title {
+  background: #06b2bc;
+}
+
+#texas-frontier.accordion-item .title span{
+  color: #000;
+}
+
+
+
+/* 20th century table styling */
+
+#twentienth-century table tbody tr:nth-child(odd) {
+  background: #deecf2;
+}
+
+#twentienth-century table thead tr {
+  background: #015b80;
+  color: #fff;
+}
+
+#twentienth-century.accordion-item .title {
+  background: #015b80;
+}
+
+#twentienth-century.accordion-item .title span{
+  color: #fff;
+}
+
+
+
+/* mobile table */
+
+@media only screen and (max-width: 768px) {
+  .main .accordion {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+
+
+/* lessons plans page */
+
+p.filter-text{
+  text-align: center;
+  font-weight: bold;
+}
+
+.category-boxes {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.box {
+  flex: 1 1 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  position: relative;
+}
+
+
+.box h3{
+  text-align: center;
+}
+
+.box div{
+  width: 100%;
+  z-index: 1;
+}
+
+.categories h3 {
+  padding: 15px 8px;
+  font-weight: bold;
+}
+
+.box img.cover{
+    position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.filters {
+  text-align: center;
+}
+
+#categories {
+  font-size: 1.2rem;
+}
+
+
+#language-arts .box h3, #language-arts .box{
+  background: #d8fcff;
+}
+
+div.language-arts-header{
+  background: #00a9b7;
+  padding-left: 15px;
+}
+
+div.language-arts-header h3{
+  color: #000;
+}
+
+#social-studies .box h3, #social-studies .box{
+  background: #fed;
+}
+
+div.social-studies-header{
+  background: #ff942a;
+  color: black;
+  padding-left: 15px;
+}
+
+#math-science .box h3, #math-science .box{
+  background: #fff2cb;
+}
+
+div.math-science-header{
+  background: #fed337;
+  color: black;
+  padding-left: 15px;
+}
+
+#art .box h3, #art .box{
+  background: #e3ecd6;
+}
+
+div.art-header{
+  background: #a0d259;
+  color: black;
+  padding-left: 15px;
+}
+
+/* dropdown styling */
+/* Remove default styles */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* Custom dropdown styles */
+.filters {
+  position: relative;
+  width: 100%
+}
+
+.lesson-dropdowns{
+  display: flex;
+  width: 100%;
+}
+
+.filters select {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  color: #1a1a1a;
+  font-weight: bold;
+  background-color: #ffefdf;;
+  border-style: none;
+}
+
+.filters:first-child{
+  margin-right: 5px;
+}
+
+.filters:last-child{
+  margin-left: 5px;
+}
+
+.filters::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;  
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-top: 8px solid #1a1a1a;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+/*  no matches found message  */
+.no-matches{
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+/* star styling */
+.star {
+  position: relative;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 0.9em;
+  margin-right: 1.2em;
+  margin-bottom: 1em;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 0.3em solid transparent;
+  /* Controlls the size of the stars. */
+  font-size: 10px;
+}
+.star:before, .star:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0.6em;
+  left: -1em;
+  border-right: 1em solid transparent;
+  border-bottom: 0.7em solid #579d42;
+  border-left: 1em solid transparent;
+  transform: rotate(-35deg);
+}
+.star:after {
+  transform: rotate(35deg);
+}
+
+/* LESSON PLAN DOWNLOAD STYLING */
+
+div.lesson-download table#coll{
+  width: 100%;
+}
+
+div.lesson-download tbody tr td:first-child {
+  width: 90px;
+}
+
+div.lesson-download tbody tr td a{
+  font-weight: bold;
+}
+
+div.lesson-download table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+div.lesson-download table th,
+div.lesson-download table td {
+  padding: 15px;
+  font-size: 16px;
+/*  word-break: break-word;*/
+}
+
+div.lesson-download table tr:first-child td:first-child{
+  padding: 0;
+}
+
+div.lesson-download table p{
+  margin-bottom: 0;
+}
+
+div.lesson-download table p img{
+  margin-top: 0;
+}
+
+div.lesson-download table tr td.pdf{
+  text-align: center;
+}
+
+@media print {
+  div.lesson-download table#coll{
+    width: 100%;
+  }
+
+  img[name="close"]{
+    display: none;
+  }
+}
