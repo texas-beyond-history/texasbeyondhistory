@@ -28,10 +28,11 @@ form.teacher-form input[type="button"] {
   background: #bf5700;
   border: none;
   color: white;
-  width: 50px;
-  padding: 5px;
+  width: 70px;
+  padding: 6px;
   cursor: pointer;
   display: block;
+  margin: 10px auto;
 }
 
 form.teacher-form:nth-child(2) input[type="button"]{
@@ -390,6 +391,15 @@ div.teacher-subjects-child {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
+  }
+  .form.teacher-form select {
+    padding: 12px;
+    font-size: 16px;
+  }
+  form.teacher-form input[type="button"] {
+    padding: 6px 15px;
+    margin: 15px auto;
+    font-size: 20px;
   }
 }
 
