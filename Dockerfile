@@ -1,4 +1,4 @@
-FROM httpd:2.4
+FROM bitnami/apache:latest
 
 RUN apt-get update \
     && apt-get install -y \
