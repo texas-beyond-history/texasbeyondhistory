@@ -5,4 +5,4 @@ RUN apt-get update \
     nano \
     && rm -rf /var/lib/apt/lists/*
 
-COPY . /usr/local/apache2/htdocs
+COPY ./web /var/www/html
