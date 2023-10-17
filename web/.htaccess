@@ -18,13 +18,3 @@ Redirect 301 /trans-p/teach/images/oldestmissionlesson.html /trans-p/teach/image
 Redirect 301 /teach/images/kincaidlesson.html /teach/images/kincaid.html
 Redirect 301 /teach/images/ransom-newlifeinfreedomlesson.html /teach/images/ransom-newlifeinfreedom.html
 Redirect 301 /teach/images/sansabalesson.html /teach/images/sansaba.html
-
-
-# Force HTTPS
-RewriteEngine On
-RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteCond %{HTTPS} !on
-RewriteCond %{HTTP_HOST} !^localhost [NC]
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
-
-Header always set Access-Control-Allow-Origin "*"
