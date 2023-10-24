@@ -1512,3 +1512,24 @@ section.crossword iframe{
     margin: 0 auto;
   }
 }
+
+
+/* HUECO KIDS PAGE */
+
+table#hueco, table#hueco-who{
+  background: black;
+  width: 100%;
+}
+
+table#hueco tbody tr td table{
+  margin: 0 auto;
+}
+
+
+section.black-bg{
+  background: black;
+}
+
+section.black-bg h2{
+  color: #e55d0c;
+}
