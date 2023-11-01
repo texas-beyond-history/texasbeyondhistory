@@ -1528,6 +1528,7 @@ table#hueco tbody tr td table{
 
 section.black-bg{
   background: black;
+  max-width: 100%;
 }
 
 section.black-bg h2{
