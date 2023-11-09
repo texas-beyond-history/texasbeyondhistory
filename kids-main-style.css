@@ -1534,3 +1534,16 @@ section.black-bg{
 section.black-bg h2{
   color: #e55d0c;
 }
+
+/* MYSTERY PAGE */
+
+#mystery div.bottom-row{
+  clear: both;
+  text-align: center;
+  width: 100%;
+}
+
+#mystery div.bottom-row figure{
+  float: none;
+  display: inline-block;
+}
