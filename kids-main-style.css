@@ -1547,3 +1547,21 @@ section.black-bg h2{
   float: none;
   display: inline-block;
 }
+
+
+
+
+/* CADDO MAIN */
+
+div#foot p.links#tejas-main{
+  padding-top: 32px;
+}
+
+div#foot p.links#tejas-main a{
+  background: none;
+  color: #bf5700;
+}
+
+div#foot p.links#tejas-main a img{
+  vertical-align: middle;
+}
