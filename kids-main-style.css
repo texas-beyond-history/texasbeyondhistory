@@ -1512,3 +1512,56 @@ section.crossword iframe{
     margin: 0 auto;
   }
 }
+
+
+/* HUECO KIDS PAGE */
+
+table#hueco, table#hueco-who{
+  background: black;
+  width: 100%;
+}
+
+table#hueco tbody tr td table{
+  margin: 0 auto;
+}
+
+
+section.black-bg{
+  background: black;
+  max-width: 100%;
+}
+
+section.black-bg h2{
+  color: #e55d0c;
+}
+
+/* MYSTERY PAGE */
+
+#mystery div.bottom-row{
+  clear: both;
+  text-align: center;
+  width: 100%;
+}
+
+#mystery div.bottom-row figure{
+  float: none;
+  display: inline-block;
+}
+
+
+
+
+/* CADDO MAIN */
+
+div#foot p.links#tejas-main{
+  padding-top: 32px;
+}
+
+div#foot p.links#tejas-main a{
+  background: none;
+  color: #bf5700;
+}
+
+div#foot p.links#tejas-main a img{
+  vertical-align: middle;
+}
