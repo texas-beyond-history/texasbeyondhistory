@@ -364,32 +364,16 @@ var tbh_full_links = [
         "url": "/kids/index.html",
       },
       {
-        "title": "Fun and Games",
-        "url": "/kids/fun-games.html",
+        "title": "Games",
+        "url": "/kids/games/index.html",
       },
       {
-        "title": "Fantastic Facts",
-        "url": "/kids/facts-new.html",
-      },
-      {
-        "title": "Adventures",
-        "url": "/kids/adventures.html",
-      },
-      {
-        "title": "Be a Scientist",
-        "url": "/kids/scientist.html",
-      },
-      {
-        "title": "New Words",
-        "url": "/kids/newwords.html",
-      },
-      {
-        "title": "Cool Links",
-        "url": "/kids/coollinks.html",
+        "title": "Hands On",
+        "url": "/kids/hands-on/index.html",
       },
       {
         "title": "Research",
-        "url": "/kids/research.html",
+        "url": "/kids/research/index.html",
       },
     ]
   },
