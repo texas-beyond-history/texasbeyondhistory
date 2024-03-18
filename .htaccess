@@ -23,3 +23,6 @@ Redirect 301 /teach/images/aldridgelesson.html /teach/images/aldridge.html
 Redirect 301 /teach/images/richardbeenelesson.html /teach/images/richardbeene.html
 Redirect 301 /teach/images/nacogdocheslesson.html /teach/images/nacogdoches.html
 Redirect 301 /trans-p/teach/images/slowrotlesson.html /trans-p/teach/images/slowrot.html
+Redirect 301 /teach/images/human-burials-lesson.html /teach/images/human-burials.html
+Redirect 301 /trans-p/teach/images/rockartcaveslesson.html /trans-p/teach/images/rockartcaves.html
+Redirect 301 /trans-p/teach/images/aroundtheworldlesson.html /trans-p/teach/images/aroundtheworld.html
