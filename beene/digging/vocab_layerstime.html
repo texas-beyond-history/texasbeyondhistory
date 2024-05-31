@@ -18,10 +18,51 @@
 
 		<script type="text/javascript" src="/js/global.js"></script>
 		<link rel="stylesheet" href="/css/global.css" type="text/css" media="all">
+    <link rel="stylesheet" href="voc.css" type="text/css" media="all">
 		<link rel="stylesheet" href="/print.css" type="text/css" media="print"/>
 		<link rel="stylesheet" href="/kids-main-style.css" type="text/css" media="screen" />
 		<link rel="stylesheet" href="https://use.typekit.net/col1csh.css">
-		<link href="vocab.css" rel="stylesheet" type="text/css" />
+    <style>
+          /*Images*/
+
+      .hover-to-reveal{
+        position: relative;
+        text-decoration: underline;
+        z-index: 0;
+      }
+
+      .hover-to-reveal:hover{
+        background-color: transparent;
+        z-index: 50;
+      }
+
+      .hover-to-reveal span{ /*CSS for enlarged image*/
+        position: absolute;
+        background-color: lightyellow;
+        padding: 5px;
+        left: -1000px;
+        border: 4px solid gray;
+        visibility: hidden;
+        color: black;
+        font-size: 12px;
+        text-decoration: none;
+        text-align: center;
+        word-wrap: break-word;
+      }
+
+      .hover-to-reveal span img{ /*CSS for enlarged image*/
+        border-width: 0;
+        padding: 2px;
+      }
+
+      .hover-to-reveal:hover span{ /*CSS for enlarged image on hover*/
+        visibility: visible;
+        bottom: 20px;
+        left: 0px; /*position where enlarged image should offset horizontally */
+      }
+
+    </style>
+		
 	</head>
 	<body>
 		<div id="wrapper">
@@ -113,20 +154,29 @@
       <img src="/kids/images/navigation/jagged-nav.svg" alt="" />
     </div>
     <section class="container subsection">
-			<div id="nav">
-				<div id="tt">
-					<h2 class="hs__headline">Digging Through Layers of Time</h2>
-					<h3 align="center">Geology Vocabulary</h3>
-				</div>
-                <!-- delete #pt unless this section has nested structure -->
-                <p class="links">
-          <a href="index.html">Digging Through Layers of Time Main</a>
+			
+		<div class="hs__header">
+
+        <h2 class="hs__headline">Digging: Geology Vocabulary</h2>
+
+    </div>
+
+ 
+
+    <div id="nav" class="handlebars">
+        <div class="left-bar"></div>
+            <div id="tt"></div>
+        <div class="right-bar">
+</div>
+        <p class="links">
+            <a href="/beene/digging/index.html">Digging Main</a>
+            <a href="/beene/digging/intro_layerstime.html">Introduction</a>
+            <a href="/beene/digging/strat_layerstime.html">See Stratification in Action</a>
+            <a href="/beene/digging/doorways_layerstime.html">Explore Doorways to the Past</a>
+            <a href="/beene/digging/vocab_layerstime.html">Geology Vocabulary</a>
+            <a href="/beene/digging/credits_layerstime.html">Credits &amp; Sources</a>
         </p>
-                <!-- delete #pt-r unless this section has nested structure -->
-				<div id="pt-r">
-					<a href=""></a>
-				</div>
-			</div> 
+    </div>
 
 			<div id="content"> 
 				
@@ -146,31 +196,31 @@
   
 				<p><strong>Archeology: </strong>scientific study of the human past through the things left behind by humans. </p>
       
-				<p><strong><a class="thumbnail" href="#thumb">Artifact:<span><img src="images/artifact.jpg" /></strong></span></a> something made or used by a person in the past.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Artifact:<span><img src="images/artifact.jpg" /></strong></span></a> something made or used by a person in the past.</p>
     
-				<p><strong><a class="thumbnail" href="#thumb">Bedrock:<span><img src="images/bedrock.jpg" /> </strong></span></a> solid rock below soil layers, rivers, and plants. In some locations bedrock is exposed at the Earth's surface.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Bedrock:<span><img src="images/bedrock.jpg" /> </strong></span></a> solid rock below soil layers, rivers, and plants. In some locations bedrock is exposed at the Earth's surface.</p>
       
 				<p><strong>Colluvium:</strong> loose sediment that has been moved downward from the top or sides of a hill by rain or erosion. </p>
      	
-				<p><a class="thumbnail" href="#thumb">Epoch:<span><img src="images/epoch.jpg" /> </strong></span></a>unit of geological time that is a division of a geological period.</p>
+				<p><a class="hover-to-reveal" href="#thumb">Epoch:<span><img src="images/epoch.jpg" /> </strong></span></a>unit of geological time that is a division of a geological period.</p>
 
-				<p><strong><a class="thumbnail" href="#thumb">Fauna:<span><img src="images/fauna.jpg" /></strong></span></a> all the animals of a particular region or time period, considered as  a group. For example, the fauna of south Texas  in prehistoric times included pronghorn antelope and bison as well as  white-tailed deer, rabbits, and many other animals, from frogs to fish.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Fauna:<span><img src="images/fauna.jpg" /></strong></span></a> all the animals of a particular region or time period, considered as  a group. For example, the fauna of south Texas  in prehistoric times included pronghorn antelope and bison as well as  white-tailed deer, rabbits, and many other animals, from frogs to fish.</p>
 		
-				<p><strong><a class="thumbnail" href="#thumb">Floodplain:<span><img src="images/floodplain.jpg" /><br /> </span></a></strong> the low, flat plain or valley floor bordering  a river. Floodplains are subject to flooding.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Floodplain:<span><img src="images/floodplain.jpg" /><br /> </span></a></strong> the low, flat plain or valley floor bordering  a river. Floodplains are subject to flooding.</p>
       			
 				<p><strong>Flora:</strong> all  the plants of a particular region or  time period. </p>
       			
-				<p><strong><a class="thumbnail" href="#thumb">Geology:<span><img src="images/geologist.jpg" /><br /></strong></span></a> the scientific study of the history and structure of the earth and its rocks  and minerals.&nbsp; Archeologists use methods and techniques from geology to learn about the sites and environments in which ancient people lived.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Geology:<span><img src="images/geologist.jpg" /><br /></strong></span></a> the scientific study of the history and structure of the earth and its rocks  and minerals.&nbsp; Archeologists use methods and techniques from geology to learn about the sites and environments in which ancient people lived.</p>
       
-				<p><strong><a class="thumbnail" href="#thumb">Historic Period:<span><img src="images/historic.jpg" /><br /></span></a></strong> the period of history covered by written records. In Texas, the historic period began in the mid-1500s with the coming of the first Spanish explorers.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Historic Period:<span><img src="images/historic.jpg" /><br /></span></a></strong> the period of history covered by written records. In Texas, the historic period began in the mid-1500s with the coming of the first Spanish explorers.</p>
      
 				<p><strong>Holocene:&nbsp;</strong> the geologic time period beginning about 11,000 years ago at the  end of the last Ice Age and characterized by the development of human  civilizations.</p>
 		
-      			<p><strong><a class="thumbnail" href="#thumb">Hunters & Gatherers:<span><img src="images/hg.jpg" /></strong></span></a> groups that support themselves by hunting and fishing and by  gathering wild fruits and vegetables.  Hunters and gatherers are usually nomadic. For most of human history, people hunted animals and gathered plants in the wild, instead of  growing crops or raising animals such as cattle. They did not have grocery  stores for food or hardware stores for tools as we do today. In some countries, people such as some Australian Aborigines  still practice a hunting and  gathering lifestyle.</p>
+      			<p><strong><a class="hover-to-reveal" href="#thumb">Hunters & Gatherers:<span><img src="images/hg.jpg" /></strong></span></a> groups that support themselves by hunting and fishing and by  gathering wild fruits and vegetables.  Hunters and gatherers are usually nomadic. For most of human history, people hunted animals and gathered plants in the wild, instead of  growing crops or raising animals such as cattle. They did not have grocery  stores for food or hardware stores for tools as we do today. In some countries, people such as some Australian Aborigines  still practice a hunting and  gathering lifestyle.</p>
 		
      			<p><strong>Millennium:</strong>&nbsp; a time span of 1,000 years.</p>
      
-				<p><strong><a class="thumbnail" href="#thumb">Pleistocene<span><img src="images/pleistocene.jpg" /></strong></span>:</a> from 1.8 million to eleven thousand  (11,000) years ago, when glaciers covered much of the northern hemisphere (last  major ice age). During this time, many animals lived that are now  extinct. These include  wooly mammoths, saber tooth cats, and giant sloths.</p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Pleistocene<span><img src="images/pleistocene.jpg" /></strong></span>:</a> from 1.8 million to eleven thousand  (11,000) years ago, when glaciers covered much of the northern hemisphere (last  major ice age). During this time, many animals lived that are now  extinct. These include  wooly mammoths, saber tooth cats, and giant sloths.</p>
       			
 				<p><strong>Reservoir:</strong> natural or   artificial (human made) pond or lake used for the storage and  regulation of water.</p>
       
@@ -181,7 +231,7 @@
       			<p><strong>Silt:&nbsp;</strong> very  fine particles of earth usually deposited by running or standing water. </p>
       
 
-				<p><strong><a class="thumbnail2" href="#thumb">Stratum:<span><img src="images/strata.jpg" /></strong></span></a> a natural or human-made layer, or deposit. Archeologists study layers of soil and  sediments. Geologists study layers of rock. (Each layer is called a stratum. Two or more layers are called <em>strata.)</em></p>
+				<p><strong><a class="hover-to-reveal" href="#thumb">Stratum:<span><img src="images/strata.jpg" /></strong></span></a> a natural or human-made layer, or deposit. Archeologists study layers of soil and  sediments. Geologists study layers of rock. (Each layer is called a stratum. Two or more layers are called <em>strata.)</em></p>
      
 				<p><strong>Stratigraphy: </strong>study of the  natural and cultural layers that make up an archeological site. &nbsp;Archeologists study these layers to understand how the site was formed,  including  flood deposits, ancient camp litter, and  wind-blown sand. Generally, younger layers are deposited on top of older  layers. In geology, stratigraphy is the study of layers of rock, including  their geographic extent, age, classification, characteristics and formation. </p>
      
@@ -207,7 +257,7 @@
   				<p>
 					<a href="/index.html">Texas Beyond History</a><br>
 					<a href="/sitemap.html">Site Map</a><br>
-					[[YOUR DATE: 5 March 2021]]
+					June 2024
 				</p>
 			</div>
 	   </section>
