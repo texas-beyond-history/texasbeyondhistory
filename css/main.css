@@ -15,7 +15,7 @@ body {
 }
 
 #main-title h1 {
-    background: url('/images/tbh_graphics/tbh-header.png') no-repeat;
+    background: url('/images/tbh_graphics/TBH-logo-2024.png') no-repeat;
     background-size: contain;
     margin: 0 auto;
     text-indent: -99999px;
@@ -42,7 +42,7 @@ body h5 {
 }
 
 .box.alternate {
-    background-color: #784f39;
+    background-color: #bf5700;
 }
 
 .box.teachers-box,
@@ -150,7 +150,7 @@ body h5 {
 }
 
 .about-box {
-    background-color: #bf5700;
+    background-color: #005f86;
     height: 175px;
     margin: 0 0px 13px 15px;
     width: 514px;
