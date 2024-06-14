@@ -10,7 +10,6 @@ body {
 }
 
 #content #main-title {
-    margin: -20px 0px 0px;
     width: 100%;
 }
 
@@ -244,8 +243,8 @@ body h5 {
     /*margin-top:50px;*/
     width: 100%;
     grid-template-columns: 49% 49%;
-    grid-row: auto auto;
     grid-column-gap: 2%;
+    grid-row-gap: 30px;
     margin-top: 4em;
 }
 
