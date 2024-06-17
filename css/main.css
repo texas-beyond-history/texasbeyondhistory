@@ -46,6 +46,7 @@ body h5 {
 
 .box.teachers-box,
 .box.spotlight-box {
+    position: relative;
     margin-right: 0px;
 }
 
@@ -118,7 +119,11 @@ body h5 {
 }
 
 #content .teachers-box img {
+    position: absolute;
+    left: 70px;
+    bottom: 0;
     height: auto;
+    width: 110px;
 }
 
 .teachers-box #image-titles li {
