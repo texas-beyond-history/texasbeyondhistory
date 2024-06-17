@@ -107,6 +107,10 @@ body h5 {
     height: 200px;
 }
 
+#content .teachers-box {
+    height: 192px;
+}
+
 #content .teachers-box h3 {
     margin-top: 25px;
 }
