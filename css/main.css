@@ -10,12 +10,11 @@ body {
 }
 
 #content #main-title {
-    margin: -20px 0px 0px;
     width: 100%;
 }
 
 #main-title h1 {
-    background: url('/images/tbh_graphics/tbh-header.png') no-repeat;
+    background: url('/images/tbh_graphics/TBH-logo-2024.png') no-repeat;
     background-size: contain;
     margin: 0 auto;
     text-indent: -99999px;
@@ -42,11 +41,12 @@ body h5 {
 }
 
 .box.alternate {
-    background-color: #784f39;
+    background-color: #bf5700;
 }
 
 .box.teachers-box,
 .box.spotlight-box {
+    position: relative;
     margin-right: 0px;
 }
 
@@ -107,6 +107,10 @@ body h5 {
     height: 200px;
 }
 
+#content .teachers-box {
+    height: 192px;
+}
+
 #content .teachers-box h3 {
     margin-top: 25px;
 }
@@ -119,19 +123,27 @@ body h5 {
 }
 
 #content .teachers-box img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
     height: auto;
+    width: 125px;
+}
+
+.teachers-box #image-titles {
+    position: relative;
+    right: -60px;
+    width: 100px;
 }
 
 .teachers-box #image-titles li {
     color: #fff;
-    display: inline-block;
     font-size: 10px;
     text-align: center;
-    vertical-align: top;
-    width: 40px;
+    line-height: 1.7;
 }
 
-.teachers-box .art {
+/* .teachers-box .art {
     margin-left: 14px;
 }
 .teachers-box .math {
@@ -142,7 +154,7 @@ body h5 {
 }
 .teachers-box .language {
     margin-left: 5px;
-}
+} */
 
 #content .about-box p {
     font-size: 14px;
@@ -150,7 +162,7 @@ body h5 {
 }
 
 .about-box {
-    background-color: #bf5700;
+    background-color: #005f86;
     height: 175px;
     margin: 0 0px 13px 15px;
     width: 514px;
@@ -244,8 +256,9 @@ body h5 {
     /*margin-top:50px;*/
     width: 100%;
     grid-template-columns: 49% 49%;
-    grid-row: auto auto;
     grid-column-gap: 2%;
+    grid-row-gap: 30px;
+    margin-top: 4em;
 }
 
 #logos img {
@@ -258,8 +271,9 @@ body h5 {
   margin-right: auto;
 }
 
-iframe#instagram-embed-0 {
+iframe#instagram-embed-0, blockquote.instagram-media {
     height: 415px !important;
+    margin-top: 4em !important;
 }
 
 @media (max-width: 800px) {
