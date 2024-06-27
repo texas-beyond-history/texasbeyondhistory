@@ -188,7 +188,7 @@ body .purple, body .green {
 @media (pointer: coarse), (hover: none) {
     [title] {
       position: relative;
-      display: flex;
+      display: inline-flex;
       justify-content: center;
     }
     [title]:focus::after {
