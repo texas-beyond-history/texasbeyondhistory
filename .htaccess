@@ -26,3 +26,7 @@ Redirect 301 /trans-p/teach/images/slowrotlesson.html /trans-p/teach/images/slow
 Redirect 301 /teach/images/human-burials-lesson.html /teach/images/human-burials.html
 Redirect 301 /trans-p/teach/images/rockartcaveslesson.html /trans-p/teach/images/rockartcaves.html
 Redirect 301 /trans-p/teach/images/aroundtheworldlesson.html /trans-p/teach/images/aroundtheworld.html
+Redirect 301 /kids/adventures.html /kids/index.html
+Redirect 301 /kids/fun-games.html /kids/index.html
+Redirect 301 /kids/scientist.html /kids/index.html
+Redirect 301 /kids/bingo.html /kids/index.html
