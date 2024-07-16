@@ -31,8 +31,8 @@ Redirect 301 /kids/fun-games.html /kids/index.html
 Redirect 301 /kids/scientist.html /kids/index.html
 Redirect 301 /kids/bingo.html /kids/index.html
 Redirect 301 /kids/adventures_NEW.html /kids/index.html
-Redirect 301 /kids/buffalo copy.html /kids/buffalo.html
-Redirect 301 /kids/imagine copy.html /kids/imagine.html
+Redirect 301 /kids/buffalo%20copy.html /kids/buffalo.html
+Redirect 301 /kids/imagine%20copy.html /kids/imagine.html
 Redirect 301 /kids/margaret.html /kids/mystery.html
 Redirect 301 /kids/pat.html /kids/mystery.html
 Redirect 301 /kids/tiffany.html /kids/mystery.html
