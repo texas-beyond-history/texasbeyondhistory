@@ -6,3 +6,7 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY . /var/www/html
+
+RUN chmod +x /var/www/html/entrypoint.sh
+
+ENTRYPOINT ["/var/www/html/entrypoint.sh"]
